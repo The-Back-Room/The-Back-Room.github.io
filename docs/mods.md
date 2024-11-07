@@ -5,19 +5,4 @@ style: Page
 permalink: /docs/mods
 ---
 
-## Nexus Mods
-
-![][ATSP]
-
-Action Taimanin Support | [Download][ATSD]
-
-## FFXIV Mods
-
-![][DTLEP]
-
-[DT] Lustful Eyes | [Download][DTLED]
-
-[ATSP]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7PfteR4cFnxXoARF391bHli0IoHcighiK3g&s
-[ATSD]: https://www.nexusmods.com/site/mods/546
-[DTLEP]: https://data.heliosphere.app/images/aDLyGyD0JKihwFWxnQY6ep31jbrH3nFw-8G8apkAbXY
-[DTLED]: https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g
+https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dic0llt-bfa3911c-f865-4f3e-affd-f02d7f174f79.png/v1/fit/w_828,h_464,q_70,strp/studio_ghibli_theme_by_og_nimbi_dic0llt-414w-2x.jpg
