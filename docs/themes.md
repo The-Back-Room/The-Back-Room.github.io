@@ -1,8 +1,6 @@
 ---
-title: Themes
-description: Information on my themes
 layout: Page
-nav_enabled: true
+title: Themes
 permalink: /docs/themes
 ---
 
