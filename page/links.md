@@ -1,7 +1,7 @@
 ---
 Title: Links
 Description: A list of my project pages.
-Style: page
+layout: page
 Permalink: /links
 ---
 
