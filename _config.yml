@@ -6,6 +6,8 @@ nav_enabled: true
 has_tok: true
 search_enabled: true
 
+color_scheme: dark
+
 search:
   # Split pages into sections that can be searched individually
   # Supports 1 - 6, default: 2
