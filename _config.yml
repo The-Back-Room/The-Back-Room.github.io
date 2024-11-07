@@ -2,11 +2,15 @@ title: OG Nimbi
 description: Open-Source Development and Graphic Design
 
 remote-theme: just-the-docs/just-the-docs
+color_scheme: dark
+callouts:
+  warning:
+    title: Warning
+    color: red
+
 nav_enabled: true
 has_tok: true
 search_enabled: true
-
-color_scheme: dark
 
 search:
   # Split pages into sections that can be searched individually
@@ -33,11 +37,6 @@ search:
   button: false
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: 'k'
-
-callouts:
-  warning:
-    title: Warning
-    color: red
 
 pages:
 - index.md
