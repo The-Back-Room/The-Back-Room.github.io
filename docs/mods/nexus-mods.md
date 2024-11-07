@@ -1,8 +1,6 @@
 ---
-title: Nexus Mods
-description: ...
 layout: Page
-nav_enabled: true
+title: Nexus Mods
 permalink: /docs/mods/nexus-mods
 ---
 
