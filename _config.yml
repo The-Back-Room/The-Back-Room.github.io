@@ -1,1 +1,17 @@
+title: OG Nimbi
+description: Open-Source Development and Customization
+theme: just-the-docs
 
+url: https://darkwater409.github.io/Website
+
+pages:
+- index.md
+- docs.md
+- links.md
+- docs/themes.md
+- docs/rainmeter.md
+- docs/mods/ffxiv.md
+- themes/studio-ghibli.md
+- themes/hentai-senpai.md
+- rainmeter/hentai-senpai.md
+- mods/ffxiv/dt-lustful-eyes.md
