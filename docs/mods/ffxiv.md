@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: default
 title: FFXIV Mods
 permalink: /docs/mods/ffxiv
 ---
