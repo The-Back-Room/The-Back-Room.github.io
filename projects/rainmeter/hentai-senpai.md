@@ -1,7 +1,7 @@
 ---
-title: @HentaiSenpai
+title: Hentai Senpai
 description: Rainmeter suite
-style: Page
+layout: Page
 nav_enabled: true
 permalink: projects/rainmeter/hentai-senpai.md
 ---
