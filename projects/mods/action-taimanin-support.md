@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Action Taimanin Support
+parent: Mods
 permalink: /projects/mods/action-taimanin-support
 ---
 
