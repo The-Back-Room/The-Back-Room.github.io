@@ -1,5 +1,4 @@
 ---
-layout: Page
 title: Action Taimanin Support
 permalink: /projects/mods/action-taimanin-support
 ---
