@@ -1,6 +1,6 @@
 ---
 title: Mods
-description: Game Mods
+description: Mods for games
 style: Page
 permalink: /docs/mods
 ---
