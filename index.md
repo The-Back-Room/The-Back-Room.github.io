@@ -1,8 +1,9 @@
 ---
-Title: OG Nimbi | Home
-Description: Open-Source Development and Customization
-Style: Home
-Permalink: /home
+title: OG Nimbi | Home
+description: Open-Source Development and Customization
+style: Home
+nav_enabled: true
+permalink: /home
 ---
 
 Welcome to my website. Here you can find links to all of my available projects. As well as a detailed docs section with helpful information for those who need it.
