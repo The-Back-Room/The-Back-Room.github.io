@@ -2,3 +2,22 @@ title: OG Nimbi
 description: Open-Source Development and Graphic Design
 
 url: https://Darkwater409.github.io/Website
+
+remote-theme: just-the-docs/just-the-docs
+
+pages:
+- index.md
+- 404.md
+- page/links.md
+- page/projects.md
+- page/docs.md
+- docs/themes/windows.md
+- docs/mods/ffxiv.md
+- projects/themes.md
+- projects/mods.md
+- projects/rainmeter.md
+- projects/themes/studio-ghibli.md
+- projects/themes/hentai-senpai.md
+- projects/rainmeter/hentai-senpai.md
+- projects/mods/ffxiv/dt-lustful-eyes.md
+
