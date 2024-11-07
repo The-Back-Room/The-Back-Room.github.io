@@ -19,6 +19,11 @@ mermaid:
 # Supports true (default) or false
 heading_anchors: true
 
+# Enable or disable the side/mobile menu globally
+# Nav menu can also be selectively enabled or disabled using page variables or the minimal layout
+nav_enabled: true
+
+
 search_enabled: true
 
 search:
