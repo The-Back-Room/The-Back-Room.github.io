@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Hentai Senpai
 permalink: /projects/themes/hentai-senpai
 ---
