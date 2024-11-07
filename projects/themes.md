@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Themes
+parent: Projects
 permalink: /projects
 ---
 
