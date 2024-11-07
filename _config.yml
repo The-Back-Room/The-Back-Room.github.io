@@ -6,10 +6,10 @@ url: https://darkwater409.github.io/Website
 
 pages:
 - index.md
-- docs.md
-- projects.md
-- links.md
 - 404.md
+- page/docs.md
+- page/themes.md
+- page/links.md
 - docs/themes.md
 - docs/rainmeter.md
 - docs/mods.md
