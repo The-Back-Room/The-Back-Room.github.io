@@ -5,7 +5,8 @@ style: Page
 permalink: /docs/mods/ffxiv
 ---
 
----
 
-## Important
-Please keep in mind that this website is a work in progress. I am actively updating it as I am able. If there is any missing information, please be patient and it will be added as soon as possible.
+
+## Work In Progress
+
+This page is currently being built. Please be patient as I get all of the required resources added in.
