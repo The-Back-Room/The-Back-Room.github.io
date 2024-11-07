@@ -2,6 +2,8 @@ title: OG Nimbi
 description: Open-Source Development and Graphic Design
 
 remote-theme: just-the-docs
+nav_enabled: true
+has_tok: true
 
 pages:
 - index.md
