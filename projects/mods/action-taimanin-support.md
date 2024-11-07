@@ -1,8 +1,6 @@
 ---
-title: Action Taimanin Support
-description: Action Taimanin Support for Nexus Mod Manager
 layout: Page
-nav_enabled: true
+title: Action Taimanin Support
 permalink: /projects/mods/action-taimanin-support
 ---
 
