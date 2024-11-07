@@ -1,23 +1,8 @@
-title: OG Nimbi
-description: Open-Source Development and Customization
-
+title: Just the Docs Template
+description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://darkwater409.github.io/Website
-
-pages:
-- index.md
-- 404.md
-- page/docs.md
-- page/themes.md
-- page/links.md
-- docs/themes.md
-- docs/rainmeter.md
-- docs/mods.md
-- projects/themes/studio-ghibli.md
-- projects/themes/hentai-senpai.md
-- projects/rainmeter/hentai-senpai.md
-- projects/mods/ffxiv/dt-lustful-eyes.md
+url: https://just-the-docs.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
