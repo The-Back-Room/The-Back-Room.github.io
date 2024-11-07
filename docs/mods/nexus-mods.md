@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: default
 title: Nexus Mods
 permalink: /docs/mods/nexus-mods
 ---
