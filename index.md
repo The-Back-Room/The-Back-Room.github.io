@@ -1,7 +1,7 @@
 ---
 title: OG Nimbi
 description: Open-Source Development and Customization
-style: Home
+layout: Home
 nav_enabled: true
 permalink: /index
 ---
