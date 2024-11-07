@@ -1,6 +1,7 @@
 ---
 layout: default
 title: DT Lustful Eyes
+parent: Mods
 permalink: /mods/dt-lustful-eyes
 ---
 
