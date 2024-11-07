@@ -10,12 +10,8 @@ permalink: /mods/dt-lustful-eyes
 
 **Download**: [Heliosphere][Download]
 
-## Important
-Use of mods in [FFXIV][FFXIV] is done at your own risk and is not condoned by [Square Enix][SE].
-
-I am not responsible for anything that happens if you use any of my mods.
-
-Make sure to read the [docs page][docs] to learn how to apply this mod in [FFXIV][FFXIV].
+{: .warning }
+Use of mods in [FFXIV][FFXIV] is done at your own risk and is not condoned by [Square Enix][SE]. I am not responsible for anything that happens if you use any of my mods. Make sure to read the [docs page][docs] to learn how to apply this mod in [FFXIV][FFXIV].
 
 
 [Preview]: https://data.heliosphere.app/images/aDLyGyD0JKihwFWxnQY6ep31jbrH3nFw-8G8apkAbXY
