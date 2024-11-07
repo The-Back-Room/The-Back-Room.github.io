@@ -1,8 +1,6 @@
 ---
-title: FFXIV Mods
-description: ...
 layout: Page
-nav_enabled: true
+title: FFXIV Mods
 permalink: /docs/mods/ffxiv
 ---
 
