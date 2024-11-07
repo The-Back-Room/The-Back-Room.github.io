@@ -31,7 +31,12 @@ search:
   button: false
   # Focus the search input by pressing `ctrl + focus_shortcut_key` (or `cmd + focus_shortcut_key` on macOS)
   focus_shortcut_key: 'k'
-  
+
+  callouts:
+  warning:
+    title: Warning
+    color: red
+
 pages:
 - index.md
 - 404.md
