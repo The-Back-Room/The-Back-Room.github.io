@@ -1,6 +1,8 @@
 ---
 layout: default
 title: FFXIV Mods
+parent: Mods Docs
+grand_parent: Docs
 permalink: /docs/mods/ffxiv
 ---
 
