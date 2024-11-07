@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Studio Ghibli
+parent: Themes
 permalink: /projects/themes/studio-ghibli
 ---
 ![Preview][Preview]
