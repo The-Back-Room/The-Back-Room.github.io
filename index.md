@@ -1,5 +1,5 @@
 ---
-title: OG Nimbi | Home
+title: OG Nimbi
 description: Open-Source Development and Customization
 style: Home
 nav_enabled: true
