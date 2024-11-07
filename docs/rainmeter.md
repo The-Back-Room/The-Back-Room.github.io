@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Rainmeter Docs
-parent Docs
+parent: Docs
 permalink: /docs/rainmeter
 ---
 
