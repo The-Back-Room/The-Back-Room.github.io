@@ -1,7 +1,6 @@
 ---
-title: DT Lustful Eyes
-description: Lustful Eyes for all races. Let your inner OwO or Yandare take over!
 layout: Page
+title: DT Lustful Eyes
 permalink: /mods/dt-lustful-eyes
 ---
 
