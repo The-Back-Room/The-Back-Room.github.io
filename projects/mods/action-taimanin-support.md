@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Action Taimanin Support
 permalink: /projects/mods/action-taimanin-support
 ---
