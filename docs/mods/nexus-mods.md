@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Nexus Mods
+parent: Mods Docs
+grand_parent: Docs
 permalink: /docs/mods/nexus-mods
 ---
 
