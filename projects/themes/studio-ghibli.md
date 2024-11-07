@@ -1,7 +1,7 @@
 ---
 title: Studio Ghibli
 description: Theme for Windows 10 and 11
-style: Page
+layout: Page
 nav_enabled: true
 permalink: /projects/themes/studio-ghibli
 ---
