@@ -1,8 +1,5 @@
 ---
 title: Hentai Senpai
-description: Rainmeter suite
-layout: Page
-nav_enabled: true
 permalink: projects/rainmeter/hentai-senpai.md
 ---
 
