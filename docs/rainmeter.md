@@ -1,5 +1,5 @@
 ---
-layout: Page
+layout: default
 title: Rainmeter
 permalink: /docs/rainmeter
 ---
