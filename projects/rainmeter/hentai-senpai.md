@@ -1,7 +1,7 @@
 ---
 layout: default
-title: HentaiSenpai
-parent: Rainmeter Suites
+title: Hentai Senpai
+parent: Rainmeter
 grand_parent: Projects
 permalink: projects/rainmeter/hentai-senpai.md
 ---
