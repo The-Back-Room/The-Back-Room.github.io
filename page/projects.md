@@ -1,7 +1,7 @@
 ---
 title: Projects
 description: A list of my active projects
-style: Page
+layout: Page
 permalink: /page/projects
 ---
 
