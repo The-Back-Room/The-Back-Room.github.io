@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Themes
+title: Theme Docs
+parent: Docs
 permalink: /docs/themes
 ---
 
