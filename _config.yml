@@ -7,11 +7,12 @@ url: https://darkwater409.github.io/Website
 pages:
 - index.md
 - docs.md
+- projects.md
 - links.md
 - docs/themes.md
 - docs/rainmeter.md
-- docs/mods/ffxiv.md
-- themes/studio-ghibli.md
-- themes/hentai-senpai.md
-- rainmeter/hentai-senpai.md
-- mods/ffxiv/dt-lustful-eyes.md
+- docs/mods.md
+- projects/themes/studio-ghibli.md
+- projects/themes/hentai-senpai.md
+- projects/rainmeter/hentai-senpai.md
+- projects/mods/ffxiv/dt-lustful-eyes.md
