@@ -1,8 +1,12 @@
 ---
 title: Mods
-description: Mods for games
+description: Information on my mods
 style: Page
 permalink: /docs/mods
 ---
 
-https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dic0llt-bfa3911c-f865-4f3e-affd-f02d7f174f79.png/v1/fit/w_828,h_464,q_70,strp/studio_ghibli_theme_by_og_nimbi_dic0llt-414w-2x.jpg
+
+
+## Work In Progress
+
+This page is currently being built. Please be patient as I get all of the required resources added in.
