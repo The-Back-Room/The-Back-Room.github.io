@@ -1,7 +1,7 @@
 ---
 title: Mods
 description: Information on my mods
-style: Page
+layout: Page
 permalink: /docs/mods
 ---
 
