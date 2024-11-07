@@ -1,8 +1,6 @@
 ---
-Title: Documentation
-Description: Detailed information about my projects
-page: Page
-Permalink: /docs
+title: Documentation
+permalink: /docs
 ---
 
 
