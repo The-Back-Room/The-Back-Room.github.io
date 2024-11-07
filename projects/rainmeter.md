@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Rainmeter Suites
+parent: Projects
 permalink: /rainmeter
 ---
 
