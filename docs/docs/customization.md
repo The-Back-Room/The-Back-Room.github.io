@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Theme Docs
+title: Customization
 parent: Docs
-permalink: /docs/themes
+permalink: /docs/customization
 ---
 
 
