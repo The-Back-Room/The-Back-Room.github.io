@@ -1,7 +1,7 @@
 ---
 title: Rainmeter
 description: Information on my rainmeter suites
-style: Page
+layout: Page
 nav_enabled: true
 permalink: /docs/rainmeter
 ---
