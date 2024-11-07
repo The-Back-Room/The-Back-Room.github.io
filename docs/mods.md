@@ -1,7 +1,6 @@
 ---
 layout: Page
 title: Mods
-description: Information on my mods
 permalink: /docs/mods
 ---
 
