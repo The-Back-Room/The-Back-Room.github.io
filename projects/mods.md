@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Mods
+parent: Projects
 permalink: /mods
 ---
 
