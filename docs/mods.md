@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mods
+title: Mod Docs
 parent: Docs
 permalink: /docs/mods
 ---
