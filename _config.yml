@@ -63,8 +63,11 @@ pages:
 - page/links.md
 - page/projects.md
 - page/docs.md
-- docs/themes/windows.md
+- docs/mods.md
+- docs/themes.md
+- docs/rainmeter.md
 - docs/mods/ffxiv.md
+- docs/mods/nexus-mods.md
 - projects/themes.md
 - projects/mods.md
 - projects/rainmeter.md
