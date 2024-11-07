@@ -1,6 +1,6 @@
 ---
-title: FFXIV Modding
-description: Instructions for modding FFXIV
+title: FFXIV Mods
+description: ...
 style: Page
 permalink: /docs/mods/ffxiv
 ---
