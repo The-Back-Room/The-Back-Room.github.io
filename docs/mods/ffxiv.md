@@ -7,10 +7,12 @@ permalink: /docs/mods/ffxiv
 ---
 
 {: .warning }
-The use of mods in Final Fantasy XIV is not condoned by Square Enix. If you use mods, you do so at your own risk. I am not responsible in any way for what happens if you use mods in Final Fantasy XIV.
+Use of mods in [FFXIV][FFXIV] is done at your own risk and is not condoned by [Square Enix][SE]. I am not responsible for anything that happens if you use any of my mods.
 
 
+[FFXIV]: https://www.finalfantasyxiv.com/
+[SE]: https://www.square-enix.com/
 
-## Work In Progress
+## Notice
 
 This page is currently being built. Please be patient as I get all of the required resources added in.
