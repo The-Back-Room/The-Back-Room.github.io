@@ -1,8 +1,6 @@
 ---
-Title: Links
-Description: A list of my project pages.
-layout: page
-Permalink: /links
+title: Links
+permalink: /links
 ---
 
 - **Twitter | X**: [OG Nimbi][Twitter]
