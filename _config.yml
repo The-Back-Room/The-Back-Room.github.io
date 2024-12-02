@@ -60,8 +60,29 @@ search:
 pages:
 - index.md
 - 404.md
-- https://github.com/The-Back-Room/FFXIV-Macros/blob/main/FFXIV-Macros.md
-- https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Tank/Gunbreaker.md
-- https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Tank/Gunbreaker/Sort-hotbars.md
-- https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Healer/Sage.md
-- https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Healer/Sage/Sort-Hotbars.md
+
+nav_external_links:
+- title: FFXIV Macros
+- url: https://github.com/The-Back-Room/FFXIV-Macros/blob/main/FFXIV-Macros.md
+- hide_json: false
+- open_in_new_tab: false
+
+- title: Gunbreaker
+- url: https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Tank/Gunbreaker.md
+- hide_json: false
+- open_in_new_tab: false
+
+- title: Sort Hotbars [GNB]
+- url: https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Tank/Gunbreaker/Sort-hotbars.md
+- hide_json: false
+- open_in_new_tab: false
+
+- title: Sage
+- url: https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Healer/Sage.md
+- hide_json: false
+- open_in_new_tab: false
+
+- title: Sort Hotbars [SGE]
+- url: https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Healer/Sage/Sort-Hotbars.md
+- hide_json: false
+- open_in_new_tab: false
