@@ -63,22 +63,6 @@ pages:
 
 nav_external_links:
 - title: FFXIV Macros
-  url: https://github.com/The-Back-Room/FFXIV-Macros/blob/main/FFXIV-Macros.md
-  hide_json: false
-  open_in_new_tab: false
-- title: Gunbreaker
-  url: https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Tank/Gunbreaker.md
-  hide_json: false
-  open_in_new_tab: false
-- title: Sort Hotbars [GNB]
-  url: https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Tank/Gunbreaker/Sort-hotbars.md
-  hide_json: false
-  open_in_new_tab: false
-- title: Sage
-  url: https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Healer/Sage.md
-  hide_json: false
-  open_in_new_tab: false
-- title: Sort Hotbars [SGE]
-  url: https://github.com/The-Back-Room/FFXIV-Macros/blob/main/Healer/Sage/Sort-Hotbars.md
+  url: https://the-back-room.github.io/FFXIV-Macros
   hide_json: false
   open_in_new_tab: false
