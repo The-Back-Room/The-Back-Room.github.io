@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-permalink: /index
+permalink: /
 ---
 
 Welcome to my website. Here you can find links to all of my available projects. As well as a detailed docs section with helpful information for those who need it.
