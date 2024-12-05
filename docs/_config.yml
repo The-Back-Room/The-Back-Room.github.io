@@ -70,3 +70,7 @@ nav_external_links:
   url: https://the-back-room.github.io/Windows-7-Themes-Revived/
   hide_json: false
   open_in_new_tab: false
+- title: macOS Themes for Windows
+  url: https://the-back-room.github.io/macOS-themes-for-Windows-10-and-11/
+  hide_json: false
+  open_in_new_tab: false
