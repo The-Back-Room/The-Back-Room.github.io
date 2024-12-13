@@ -9,9 +9,119 @@
   "display": "standalone",
   "icons": [
       {
-        "src": "/assets/icon.png",
+      "src": "/assets/AppImages/iOS/16.png",
+        "type": "image/png",
+        "sizes": "16x16"
+      },
+      {
+        "src": "/assets/AppImages/iOS/29.png",
+        "type": "image/png",
+        "sizes": "29x29"
+      },
+      {
+        "src": "/assets/AppImages/iOS/32.png",
         "type": "image/png",
         "sizes": "32x32"
+      },
+      {
+        "src": "/assets/AppImages/iOS/40.png",
+        "type": "image/png",
+        "sizes": "40x40"
+      },
+      {
+        "src": "/assets/AppImages/iOS/50.png",
+        "type": "image/png",
+        "sizes": "50x50"
+      },
+      {
+        "src": "/assets/AppImages/iOS/57.png",
+        "type": "image/png",
+        "sizes": "57x57"
+      },
+      {
+        "src": "/assets/AppImages/iOS/58.png",
+        "type": "image/png",
+        "sizes": "58x58"
+      },
+      {
+        "src": "/assets/AppImages/iOS/60.png",
+        "type": "image/png",
+        "sizes": "60x60"
+      },
+      {
+        "src": "/assets/AppImages/iOS/64.png",
+        "type": "image/png",
+        "sizes": "64x64"
+      },
+      {
+        "src": "/assets/AppImages/iOS/72.png",
+        "type": "image/png",
+        "sizes": "72x72"
+      },
+      {
+        "src": "/assets/AppImages/iOS/76.png",
+        "type": "image/png",
+        "sizes": "76x76"
+      },
+      {
+        "src": "/assets/AppImages/iOS/80.png",
+        "type": "image/png",
+        "sizes": "80x80"
+      },
+      {
+        "src": "/assets/AppImages/iOS/87.png",
+        "type": "image/png",
+        "sizes": "87x87"
+      },
+      {
+        "src": "/assets/AppImages/iOS/100.png",
+        "type": "image/png",
+        "sizes": "100x100"
+      },
+      {
+        "src": "/assets/AppImages/iOS/114.png",
+        "type": "image/png",
+        "sizes": "114x114"
+      },
+      {
+        "src": "/assets/AppImages/iOS/120.png",
+        "type": "image/png",
+        "sizes": "120x120"
+      },
+      {
+        "src": "/assets/AppImages/iOS/128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+      },
+      {
+        "src": "/assets/AppImages/iOS/144.png",
+        "type": "image/png",
+        "sizes": "144x144"
+      },
+      {
+        "src": "/assets/AppImages/iOS/152.png",
+        "type": "image/png",
+        "sizes": "152x152"
+      },
+      {
+        "src": "/assets/AppImages/iOS/167.png",
+        "type": "image/png",
+        "sizes": "167x167"
+      },
+      {
+        "src": "/assets/AppImages/iOS/180.png",
+        "type": "image/png",
+        "sizes": "180x180"
+      },
+      {
+        "src": "/assets/AppImages/iOS/192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "/assets/AppImages/iOS/1024.png",
+        "type": "image/png",
+        "sizes": "1024x1024"
       }
   ]
 }
