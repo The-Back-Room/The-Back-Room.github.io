@@ -44,3 +44,20 @@ nav_external_links:
   url: https://the-back-room.github.io/macOS-themes-for-Windows-10-and-11/
   hide_json: false
   open_in_new_tab: false
+
+plugins:
+- jekyll-pwa-plugin
+
+pwa:
+  enabled: true # Optional
+  # sw_src_filepath: service-worker.js # Optional
+  # sw_dest_filename: service-worker.js # Optional
+  # dest_js_directory: assets/js # Required
+  # precache_recent_posts_num: 5 # Optional
+  # precache_glob_directory: / # Optional
+  # precache_glob_patterns: # Optional
+  #  - "{js,css,fonts}/**/*.{js,css,eot,svg,ttf,woff}"
+  #  - index.html
+  # precache_glob_ignores: # Optional
+  #  - sw-register.js
+  #  - "fonts/**/*"
