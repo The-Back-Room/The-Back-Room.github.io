@@ -3,8 +3,14 @@
   "short_name": "TBR",
   "description": "Open-Source Development and Customization",
   "id": "/the-back-room.github.io/",
-  "start_url": "docs/index.md",
+  "start_url": "_site/index.md",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "display": "standalone"
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "assets/AppIcon.ico",
+      "sizes": "any"
+    }
+  ]
 }
