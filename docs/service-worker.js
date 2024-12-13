@@ -1,8 +1,0 @@
-var GHPATH='/the-back-room.github.io';
-var APP_PREFIX = 'tbr_';
-var VERSION = 'version_02';
-var URLS = [  
-  `${GHPATH}/docs`,
-  `${GHPATH}/docs/index.md`,
-  `${GHPATH}/docs/404.md`
-]
