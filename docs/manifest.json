@@ -1,0 +1,22 @@
+{
+  "name": "The Back Room",
+  "icons": [
+    {
+      "src": "assets/icon.ico",
+      "sizes": [
+        "36x36",
+        "48x48",
+        "72x72",
+        "96x96",
+        "144x144",
+        "192x192"
+      ],
+      "type": "image/ico"
+    }
+  ],
+  "theme_color": "#9E9E9E",
+  "background_color": "#9E9E9E",
+  "start_url": "index.html",
+  "display": "standalone",
+  "orientation": "landscape"
+}
