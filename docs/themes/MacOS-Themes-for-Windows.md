@@ -22,21 +22,16 @@ permalink: /themes/MacOS-Themes-for-Windows
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Dark.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sonoma Light.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sonoma Dark.png" />
-  </div>
-  <div class="column">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Ventura Light.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Ventura Dark.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Day.png">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Night.png">
-</div>
-  <div class="column">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Colorful Day.png">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Colorful Night.png">
+  </div>
+  <div class="column">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Catalina Day.png">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Catalina Night.png">
-</div>
-  <div class="row">
-  <div class="column">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mojave Day.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mojave Night.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Monterey Light.png" />
@@ -47,20 +42,14 @@ permalink: /themes/MacOS-Themes-for-Windows
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sierra.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/El Capitan.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Yosemite.png" />
-</div>
-  <div class="column">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mavericks.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mountain Lion.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Lion.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Snow Leopard.png" />
-  </div>
-  <div class="column">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Snow Leopard Alt.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Leopard.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Tiger.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Panther.png" />
-  </div>
-  <div class="column">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Jaguar.png" />
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Puma.png" />
   </div>
