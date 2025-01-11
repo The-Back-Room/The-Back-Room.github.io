@@ -5,5 +5,5 @@ nav_order: 1
 permalink: /
 ---
 
-<img src="assets/AppBanner.png" />
+<h1>The Back Room</h1>
 <p>Open-Source Development and Customization</p>
