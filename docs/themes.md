@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Available Themes
-nav_order: 1
+nav_order: 2
 parent: Windows 7 Themes Revived
 permalink: /themes
 ---
