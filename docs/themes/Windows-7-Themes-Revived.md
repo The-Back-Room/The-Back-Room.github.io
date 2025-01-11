@@ -11,7 +11,7 @@ permalink: /themes/Windows-7-Themes-Revived
 <h3>Available Themes</h3>
 
 <h4>Windows 7 Home Premium</h4>
-<img src="../assets/PreviewImages/Windows-7-Themes-Revived/Premium.png" />
+<img src="../assets/PreviewImages/Windows-7-Themes-Revived/Home Premium.png" />
 
 <h4>Windows 7 Professional</h4>
 <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Professional.png" />
