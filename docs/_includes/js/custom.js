@@ -1,33 +1,34 @@
-window.addEventListener("DOMContentLoaded", function() {
-  const toggleDarkMode = document.getElementById("theme-toggle");
+const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');
+const toggleDarkMode = document.getElementById("theme-toggle");
 
-  if (localStorage.getItem('theme') === 'dark') {
-    setTheme('dark');
-  } else {
-    setTheme('light');
-  }
+if (theme === "dark") {
+    setToggleTheme('dark');
+} else if (theme === "light") {
+    setToggleTheme('light');
+} else if (userPrefers === "dark") {
+    document.documentElement.setAttribute('data-theme', 'dark');
+    window.localStorage.setItem('theme', 'dark');
+    setToggleTheme('dark');
+} else {
+    document.documentElement.setAttribute('data-theme', 'light');
+    window.localStorage.setItem('theme', 'light');
+    setToggleTheme('light');
+}
 
-  jtd.addEvent(toggleDarkMode, 'click', function(){
-    const currentTheme = getTheme();
+jtd.addEvent(toggleDarkMode, 'click', function() {
+    const currentTheme = jtd.getTheme();
     const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
 
+    jtd.setTheme(newTheme);
     localStorage.setItem('theme', newTheme);
-    setTheme(newTheme);
-  });
-
-  function getTheme() {
-    return document.documentElement.classList.contains('dark-mode') ? 'dark' : 'light';
-  }
-
-  function setTheme(theme) {
-    if (theme === 'dark') {
-      toggleDarkMode.innerHTML = `<svg width='18px' height='18px'><use href="#svg-moon"></use></svg>`;
-      document.documentElement.classList.add('dark-mode');
-      document.documentElement.classList.remove('light-mode');
-    } else {
-      toggleDarkMode.innerHTML = `<svg width='18px' height='18px'><use href="#svg-sun"></use></svg>`;
-      document.documentElement.classList.add('light-mode');
-      document.documentElement.classList.remove('dark-mode');
-    }
-  }
+    setToggleTheme(newTheme);
 });
+
+function setToggleTheme(theme) {
+    jtd.setTheme(theme);
+    if (theme === 'dark') {
+        toggleDarkMode.innerHTML = `<svg width='18px'><use href="#svg-moon"></use></svg>`;
+    } else {
+        toggleDarkMode.innerHTML = `<svg width='18px'><use href="#svg-sun"></use></svg>`;
+    }
+}
