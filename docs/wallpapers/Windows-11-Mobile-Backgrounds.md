@@ -6,9 +6,9 @@ parent: Wallpapers
 permalink: /wallpapers/Windows-11-Mobile-Backgrounds
 ---
 
-<button style="text-align:center" type="button" name="button" class="btn" onclick="one()">1</button>
-<button style="text-align:center" type="button" name="button" class="btn" onclick="two()">2</button>
-<button style="text-align:center" type="button" name="button" class="btn" onclick="four()">4</button>
+<button style="text-align:center" class="flex-btn" onclick="one()">1</button>
+<button style="text-align:center" class="flex-btn" onclick="two()">2</button>
+<button style="text-align:center" class="flex-btn" onclick="four()">4</button>
 
 <div class="row"> 
   <div class="column">
