@@ -26,8 +26,8 @@ function four() {
 }
 
 var header = document.getElementById("myHeader");
-var btns = header.getElementsByClassName("btn");
-for (var i = 0; i < btns.length; i++) {
+var flex-btns = header.getElementsByClassName("flex-btn");
+for (var i = 0; i < flex-btns.length; i++) {
   btns[i].addEventListener("click", function() {
     var current = document.getElementsByClassName("active");
     current[0].className = current[0].className.replace(" active", "");
