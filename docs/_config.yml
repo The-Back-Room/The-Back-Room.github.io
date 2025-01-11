@@ -33,6 +33,9 @@ search:
 pages:
 - index.md
 - 404.md
+- themes.md
+- mods.md
+- themes/Windows-7-Themes-Revived.md
 
 nav_external_links:
 - title: Windows 7 Themes Revived
