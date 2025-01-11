@@ -5,5 +5,5 @@ nav_order: 1
 permalink: /
 ---
 
-<h1 class="text-delta">The Back Room</h1>
-<p>Open-Source Development and Customization</p>
+<h4>The Back Room</h4>
+<p class="text-delta">Open-Source Development and Customization</p>
