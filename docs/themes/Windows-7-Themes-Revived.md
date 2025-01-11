@@ -26,6 +26,7 @@ permalink: /themes/Windows-7-Themes-Revived
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Architecture.png" />
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Windows 7 Classic.png" />
   </div>
+</div><div class="row">
   <div class="column">
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Australia.png" />
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Brazil.png" />
@@ -60,6 +61,7 @@ permalink: /themes/Windows-7-Themes-Revived
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Twilight.png" />
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Violet.png" />
   </div>
+</div><div class="row">
   <div class="column">
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Bullet Asylum.png" />
   </div>
