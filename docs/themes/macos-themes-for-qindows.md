@@ -3,16 +3,17 @@ layout: default
 title: MacOS Themes for Windows
 nav_order: 2
 parent: Themes
-permalink: /themes/MacOS-Themes-for-Windows
+permalink: /themes/macos-themes-for-windows
 ---
 
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio9l97-b7c5f79d-4f66-4e2c-9408-e03e44194375.png/v1/fill/w_1363,h_586,q_70,strp/macos_themes_for_windows_by_og_nimbi_dio9l97-fullview.jpg" /><br /><br />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio9l97-b7c5f79d-4f66-4e2c-9408-e03e44194375.png/v1/fill/w_1363,h_586,q_70,strp/macos_themes_for_windows_by_og_nimbi_dio9l97-fullview.jpg" />
+<hr />
 <a href="https://github.com/The-Back-Room/MacOS-Themes-for-Windows/archive/refs/heads/main.zip">
-<button type="button" name="button" class="btn">Download</button></a>
+  <button type="button" name="button" class="btn">Download</button></a>
+<hr />
 
 <h4>Previews</h4>
-
 <div class="row"> 
   <div class="column">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Light.png" />
