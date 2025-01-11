@@ -20,11 +20,9 @@ published: false
 <p class="text-delta">iOS</p>
 <hr />
 <img src="/assets/PreviewImages/Mobile-App/iOS/Screenshot_20250111_164119_The%20Back%20Room-landscape.png" />
-
 <hr />
 
 <p class="text-delta">Android</p>
 <hr />
 <img src="/assets/PreviewImages/Mobile-App/Android/Screenshot_20250111_164119_The%20Back%20Room-landscape.png" />
-
 <hr />
