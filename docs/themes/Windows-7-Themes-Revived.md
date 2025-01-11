@@ -19,6 +19,14 @@ permalink: /themes/Windows-7-Themes-Revived
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate.png" />
   </div>
   <div class="column">
+    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Nature.png" />
+    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Landscapes.png" />
+    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Scenes.png" />
+    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Characters.png" />
+    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Architecture.png" />
+    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Windows 7 Classic.png" />
+  </div>
+  <div class="column">
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Australia.png" />
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Brazil.png" />
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Canada.png" />
@@ -37,14 +45,6 @@ permalink: /themes/Windows-7-Themes-Revived
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Taiwan.png">
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/United Kingdoms.png" />
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/United States.png" />
-  </div>
-  <div class="column">
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Nature.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Landscapes.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Scenes.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Characters.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Architecture.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Windows 7 Classic.png" />
   </div>
   <div class="column">
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Black.png" />
