@@ -1,10 +1,12 @@
 ---
 layout: default
-title: Windows 11 Mobile Background
+title: Windows 11 Mobile Backgrounds
 nav_order: 1
 parent: Wallpapers
 permalink: /wallpapers/Windows-11-Mobile-Backgrounds
 ---
+
+<h2>Windows 11 Mobile Backgrounds</h2>
 
 <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(1).png">
 
