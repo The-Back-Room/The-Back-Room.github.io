@@ -4,7 +4,8 @@ description: Open-Source Development and Graphic Design
 favicon_ico: "/assets/AppIcon.ico"
 
 remote_theme: just-the-docs/just-the-docs
-color_scheme: auto
+
+color_scheme: "auto"
 
 callouts:
   warning:
