@@ -6,6 +6,10 @@ parent: Wallpapers
 permalink: /wallpapers/Windows-11-Mobile-Backgrounds
 ---
 
+<button style="text-align:center" type="button" name="button" class="btn" onclick="one()">1</button>
+<button style="text-align:center" type="button" name="button" class="btn" onclick="two()">2</button>
+<button style="text-align:center" type="button" name="button" class="btn" onclick="four()">4</button>
+
 <div class="row"> 
   <div class="column">
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(1).png">
