@@ -6,12 +6,13 @@ parent: Themes
 permalink: /themes/windows-7-themes-revived
 ---
 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dino2ml-ee84d62e-9ad3-4dbe-a5f3-62c414afec6e.png/v1/fill/w_1200,h_557,q_80,strp/windows_7_themes_revived_by_og_nimbi_dino2ml-fullview.jpg" /><br />
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dino2ml-ee84d62e-9ad3-4dbe-a5f3-62c414afec6e.png/v1/fill/w_1200,h_557,q_80,strp/windows_7_themes_revived_by_og_nimbi_dino2ml-fullview.jpg" />
+<hr />
 <a href="https://github.com/The-Back-Room/Windows-7-Themes-Revived/archive/refs/heads/main.zip">
-<button type="button" name="button" class="btn">Download</button></a>
+  <button type="button" name="button" class="btn">Download</button></a>
+<hr />
 
 <h4>Previews</h4>
-
 <div class="row"> 
   <div class="column">
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Home Premium.png" />
