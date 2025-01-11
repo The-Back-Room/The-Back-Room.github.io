@@ -22,3 +22,22 @@ h4, h3, h2, h1, p {
   margin-top: 8px;
   vertical-align: middle;
 }
+
+/* Style the buttons */
+.flex-btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+.flex-btn:hover {
+  background-color: #ddd;
+}
+
+.flex-btn.active {
+  background-color: #666;
+  color: white;
+}
