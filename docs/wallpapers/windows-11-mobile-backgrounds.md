@@ -3,14 +3,8 @@ layout: default
 title: Windows 11 Mobile Backgrounds
 nav_order: 1
 parent: Wallpapers
-permalink: /wallpapers/Windows-11-Mobile-Backgrounds
+permalink: /wallpapers/windows-11-mobile-backgrounds
 ---
-
-<div class="header" id="myHeader">
-<button style="text-align:center" class="flex-btn" onclick="one()">1</button>
-<button style="text-align:center" class="flex-btn" onclick="two()">2</button>
-<button style="text-align:center" class="flex-btn" onclick="four()">4</button>
-</div>
 
 <div class="row"> 
   <div class="column">
