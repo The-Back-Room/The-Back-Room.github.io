@@ -2,6 +2,7 @@
 layout: default
 nav_order: 3
 title: Studio Ghibli Themes
+parent: Themes
 permalink: /themes/Studio-Ghibli-Themes
 ---
 
