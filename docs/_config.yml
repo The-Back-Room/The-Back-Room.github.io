@@ -5,8 +5,6 @@ favicon_ico: "/assets/AppIcon.ico"
 
 remote_theme: just-the-docs/just-the-docs
 
-color_scheme: "auto"
-
 callouts:
   warning:
     title: Warning
