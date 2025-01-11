@@ -12,10 +12,6 @@ permalink: /themes/MacOS-Themes-for-Windows
 
 <h4>Previews</h4>
 
-<button style="text-align:center" class="flex-btn" onclick="one()">1</button>
-<button style="text-align:center" class="flex-btn" onclick="two()">2</button>
-<button style="text-align:center" class="flex-btn" onclick="four()">4</button>
-
 <div class="row"> 
   <div class="column">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Light.png" />
