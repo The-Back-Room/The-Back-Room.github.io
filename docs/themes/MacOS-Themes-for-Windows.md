@@ -14,7 +14,7 @@ permalink: /MacOS-Themes-for-Windows
 <h4>Sequoia Light</h4>
 <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Light.png" />
 
-<h4>Sequoia Dar</h4>
+<h4>Sequoia Dark</h4>
 <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Dark.png" />
 
 <h4>Sonoma Light</h4>
