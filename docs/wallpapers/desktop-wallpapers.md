@@ -21,4 +21,4 @@ permalink: /wallpapers/desktop-wallpapers
   </div>
 </div>
 
-<a href="https://deviantart.com/og-nimbi"><button style="text-align:center" type="button" name="button" class="btn">Buy on DeviantArt</button></a>
+<a href="https://www.deviantart.com/og-nimbi/gallery/93918935/wallpapers"><button style="text-align:center" type="button" name="button" class="btn">Buy on DeviantArt</button></a>
