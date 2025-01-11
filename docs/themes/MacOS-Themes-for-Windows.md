@@ -5,8 +5,16 @@ nav_order: 2
 parent: Themes
 permalink: /themes/MacOS-Themes-for-Windows
 ---
+
+
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio9l97-b7c5f79d-4f66-4e2c-9408-e03e44194375.png/v1/fill/w_1363,h_586,q_70,strp/macos_themes_for_windows_by_og_nimbi_dio9l97-fullview.jpg" /><br /><br />
 <a href="https://github.com/The-Back-Room/MacOS-Themes-for-Windows/archive/refs/heads/main.zip"><button style="text-align:center" type="button" name="button" class="btn">Download</button></a>
+
+<h4>Previews</h4>
+
+<button style="text-align:center" type="button" name="button" class="btn" onclick="one()">1</button>
+<button style="text-align:center" type="button" name="button" class="btn" onclick="two()">2</button>
+<button style="text-align:center" type="button" name="button" class="btn" onclick="four()">4</button>
 
 <div class="row"> 
   <div class="column">
