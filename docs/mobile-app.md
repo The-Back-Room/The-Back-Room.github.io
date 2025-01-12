@@ -15,13 +15,12 @@ permalink: /mobile-app
 <hr />
 
 <h4>Previews</h4>
-
+<hr />
 <p class="text-delta">iOS</p>
 <hr />
 <img src="/assets/PreviewImages/Mobile-App/iOS/Screenshot_20250111_164119_The%20Back%20Room-landscape.png" />
-<hr />
 
+<hr />
 <p class="text-delta">Android</p>
 <hr />
 <img src="/assets/PreviewImages/Mobile-App/Android/Screenshot_20250111_164119_The%20Back%20Room-landscape.png" />
-<hr />
