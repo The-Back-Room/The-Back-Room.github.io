@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Windows 11 Mobile Backgrounds
+title: Mobile Backgrounds
 nav_order: 1
 parent: Wallpapers
-permalink: /wallpapers/windows-11-mobile-backgrounds
+permalink: /wallpapers/mobile-backgrounds
 ---
 
 <div class="row"> 
