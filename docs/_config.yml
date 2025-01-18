@@ -68,13 +68,12 @@ pages:
 - index.md
 - 404.md
 - themes.md
-# - mods.md
 - wallpapers.md
 - mobile-app.md
-- themes/Windows-7-Themes-Revived.md
-- themes/MacOS-Themes-for-Windows.md
-- themes/Studio-Ghibli-Themes.md
-- wallpapers/Windows-11-Mobile-Backgrounds.md
+- themes/windows-7-themes-revived.md
+- themes/macos-themes-for-windows.md
+- themes/studio-ghibli-themes.md
+- wallpapers/mibile-backgrounds.md
 - wallpapers/desktop-wallpapers.md
 
 aux_links:
