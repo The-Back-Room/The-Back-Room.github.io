@@ -31,11 +31,12 @@ h4 {
 
 .gallery {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(3, 1vw);
+  grid-template-columns: repeat(6, 3px);
+  grid-template-rows: repeat(3, 3px);
   grid-gap: 3px; 
 }
 
 .gallery__img {
+  width: 60%;
   object-fit: cover;
 }
