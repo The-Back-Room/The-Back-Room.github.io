@@ -32,12 +32,10 @@ h4 {
 .gallery {
   display: grid;
   grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: repeat(3, 5vw);
-  grid-gap: 5px; 
+  grid-template-rows: repeat(3, 1vw);
+  grid-gap: 3px; 
 }
 
 .gallery__img {
-  border: 1px solid #87b5ff;
-  border-radius: 1px;
   object-fit: cover;
 }
