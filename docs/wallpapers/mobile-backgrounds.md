@@ -6,7 +6,7 @@ parent: Wallpapers
 permalink: /wallpapers/mobile-backgrounds
 ---
 
-<div class="img__gallery">
+<div class="gallery">
   <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(1).png" target="_blank">
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(1).png" class="border"></a>
   <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(2).png" target="_blank">
