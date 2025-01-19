@@ -1,10 +1,5 @@
-span {
-  float: auto;
-}
-
 button {
   text-align: center;
-  margin: 2rem auto;
 }
 
 p,
@@ -15,24 +10,24 @@ h4 {
   text-align: center;
 }
 
-*,
-*::after,
-*::before {
-  margin: 0;
-  padding: 0;
-  box-sizing: inherit; 
-}
+// *,
+// *::after,
+// *::before {
+//   margin: 0;
+//   padding: 0;
+//   box-sizing: inherit; 
+// }
 
 .gallery {
-  width: 100%;
   column-count: 4;
   margin: 2rem auto;
 }
 
-.gallery > img:hover {
+.gallery img:hover {
   width: 500px;
   border: 1px solid #4c79c2;
   border-radius: 2px;
+  object-fit: cover;
 }
 
 .border {
