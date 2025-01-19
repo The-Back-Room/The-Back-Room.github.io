@@ -14,41 +14,35 @@ permalink: /themes/macos-themes-for-windows
 <hr />
 
 <h4>Previews</h4>
-<div class="row"> 
-  <div class="column">
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Light.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Dark.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sonoma Light.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sonoma Dark.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Ventura Light.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Ventura Dark.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Day.png">
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Night.png">
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Colorful Day.png">
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Colorful Night.png">
-  </div>
-  <div class="column">
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Catalina Day.png">
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Catalina Night.png">
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mojave Day.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mojave Night.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Monterey Light.png" />
-    <img  src="../assets/PreviewImages/MacOS-Themes-for-Windows/Monterey Dark.png" />
-  </div>
-  <div class="column">
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/High Sierra.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sierra.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/El Capitan.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Yosemite.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mavericks.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mountain Lion.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Lion.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Snow Leopard.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Snow Leopard Alt.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Leopard.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Tiger.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Panther.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Jaguar.png" />
-    <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Puma.png" />
-  </div>
+<div class="container"> 
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Light.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Dark.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sonoma Light.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sonoma Dark.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Ventura Light.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Ventura Dark.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Day.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Night.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Colorful Day.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Colorful Night.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Catalina Day.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Catalina Night.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mojave Day.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mojave Night.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Monterey Light.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Monterey Dark.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/High Sierra.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sierra.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/El Capitan.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Yosemite.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mavericks.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Mountain Lion.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Lion.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Snow Leopard.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Snow Leopard Alt.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Leopard.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Tiger.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Panther.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Jaguar.png" class="border">
+  <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Puma.png" class="border">
 </div>
