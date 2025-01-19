@@ -20,8 +20,6 @@ permalink: /wallpapers/mobile-backgrounds
       <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(5).png" class="gallery__img"></a>
     <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(6).png" target="_blank">
       <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(6).png" class="gallery__img"></a>
-  </div>
-  <div class="gallery"> 
     <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(7).png" target="_blank">
       <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(7).png" class="gallery__img"></a>
     <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(8).png" target="_blank">
@@ -34,8 +32,6 @@ permalink: /wallpapers/mobile-backgrounds
       <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(11).png" class="gallery__img"></a>
     <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(12).png" target="_blank">
       <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(12).png" class="gallery__img"></a>
-  </div>
-  <div class="gallery">
     <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(13).png" target="_blank">
       <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(13).png" class="gallery__img"></a>
     <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(14).png" target="_blank">
