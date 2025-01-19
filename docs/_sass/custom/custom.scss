@@ -24,6 +24,18 @@ h4 {
   box-sizing: inherit; 
 }
 
+.mobile__backgrounds {
+  width: 80%;
+  column-count: 4;
+  margin: 2rem auto;
+}
+
+.desktop__wallpapers {
+  width: 80%;
+  column-count: 2;
+  margin: 2rem auto;
+}
+
 .container {
   width: 80%;
   column-count: 4;
