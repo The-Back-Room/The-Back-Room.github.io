@@ -37,11 +37,12 @@ h4 {
 }
 
 .gallery__img {
+  border: 1px solid #87b5ff;
+  border-radius: 1px;
   object-fit: cover;
   display: block; 
 }
 
 .gallery__item {
-  border: 5px solid #87b5ff;
-  border-radius: 3px;
+  width: 60%
 }
