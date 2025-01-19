@@ -13,55 +13,45 @@ permalink: /themes/windows-7-themes-revived
 <hr />
 
 <h4>Previews</h4>
-<div class="row"> 
-  <div class="column">
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Home Premium.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Professional.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate.png" />
-  </div>
-  <div class="column">
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Nature.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Landscapes.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Scenes.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Characters.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Architecture.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Windows 7 Classic.png" />
-  </div>
-  <div class="column">
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Australia.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Brazil.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Canada.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/China.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/France.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Germany.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/India.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Italy.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Japan.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Korea.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Mexico.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Poland.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Russia.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/South Africa.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Spain.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Taiwan.png">
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/United Kingdoms.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/United States.png" />
-  </div>
-  <div class="column">
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Black.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Bliss.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Blush.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Fire.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Light.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Lime.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Orange.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Ruby.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Sea.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Sky.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Twilight.png" />
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Violet.png" />
-  </div>
-  <div class="column">
-    <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Bullet Asylum.png" />
-  </div>
+<div class="container">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Home Premium.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Professional.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Nature.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Landscapes.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Scenes.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Characters.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Architecture.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Windows 7 Classic.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Australia.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Brazil.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Canada.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/China.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/France.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Germany.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/India.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Italy.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Japan.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Korea.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Mexico.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Poland.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Russia.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/South Africa.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Spain.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Taiwan.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/United Kingdoms.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/United States.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Black.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Bliss.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Blush.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Fire.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Light.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Lime.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Orange.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Ruby.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Sea.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Sky.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Twilight.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate Violet.png" class="border">
+  <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Bullet Asylum.png" class="border">
 </div>
