@@ -30,13 +30,12 @@ h4 {
 }
 
 .gallery {
-  display: grid;
-  grid-template-columns: repeat(6, 3px);
-  grid-template-rows: repeat(3, 3px);
-  grid-gap: 3px; 
+  padding: 3px;
 }
 
 .gallery__img {
-  width: 60%;
+  width: 30%;
+  border: 1px solid #4c79c2;
+  border-radius: 2px;
   object-fit: cover;
 }
