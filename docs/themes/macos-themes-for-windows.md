@@ -14,7 +14,7 @@ permalink: /themes/macos-themes-for-windows
 <hr />
 
 <h4>Previews</h4>
-<div class="container"> 
+<div class="img__gallery"> 
   <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Light.png" class="border">
   <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Dark.png" class="border">
   <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sonoma Light.png" class="border">
