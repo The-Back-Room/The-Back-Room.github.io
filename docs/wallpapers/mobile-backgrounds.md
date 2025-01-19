@@ -11,7 +11,7 @@ permalink: /wallpapers/mobile-backgrounds
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(1).png" class="border"></a>
   <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(2).png" target="_blank">
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(2).png" class="border"></a>
-  <a href="https://raw.githubusercontet.com/the-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(3).png" target="_blank">
+  <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(3).png" target="_blank">
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(3).png" class="border"></a>
   <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(4).png" target="_blank">
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(4).png" class="border"></a>
