@@ -13,7 +13,7 @@ permalink: /themes/windows-7-themes-revived
 <hr />
 
 <h4>Previews</h4>
-<div class="img__gallery">
+<div class="gallery">
   <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Home Premium.png" class="border">
   <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Professional.png" class="border">
   <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Ultimate.png" class="border">
