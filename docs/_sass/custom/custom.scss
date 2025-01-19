@@ -29,7 +29,12 @@ h4 {
   margin: 2rem auto;
 }
 
+.gallery > img:hover {
+  width: 500px;
+}
+
 .border {
   border: 1px solid #4c79c2;
   border-radius: 2px;
+  object-fit: cover;
 }
