@@ -27,8 +27,3 @@ permalink: /wallpapers/desktop-wallpapers
 <div class="gallery">  
   <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/desktop/Motoko%20Kusanagi%20-%20Ghost%20in%20the%20Shell%20(1).png">
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/desktop/Motoko%20Kusanagi%20-%20Ghost%20in%20the%20Shell%20(1).png" class="border"></a>
-<!---  <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/desktop/Motoko%20Kusanagi%20-%20Ghost%20in%20the%20Shell%20(2).png">
-    <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/desktop/Motoko%20Kusanagi%20-%20Ghost%20in%20the%20Shell%20(2).png" class="border"></a> --->
-  <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/desktop/Motoko%20Kusanagi%20-%20Ghost%20in%20the%20Shell%20(3).png">
-    <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/desktop/Motoko%20Kusanagi%20-%20Ghost%20in%20the%20Shell%20(3).png" class="border"></a>
-</div>
