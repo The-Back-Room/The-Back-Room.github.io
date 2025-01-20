@@ -43,4 +43,6 @@ permalink: /wallpapers/mobile-backgrounds
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(17).png" class="border"></a>
   <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(18).png" target="_blank">
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(18).png" class="border"></a>
+  <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" target="_blank">
+    <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" class="border"></a>
 </div>
