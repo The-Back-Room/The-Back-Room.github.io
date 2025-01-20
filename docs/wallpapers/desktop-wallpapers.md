@@ -27,3 +27,6 @@ permalink: /wallpapers/desktop-wallpapers
 <div class="gallery">  
   <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/desktop/Ghost%20in%20the%20Shell/Wallpaper%20(1).png" target="_blank">
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/desktop/Ghost%20in%20the%20Shell/Wallpaper%20(1).png" class="border"></a>
+  <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/desktop/Ghost%20in%20the%20Shell/Wallpaper%20(2).png" target="_blank">
+    <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/desktop/Ghost%20in%20the%20Shell/Wallpaper%20(2).png" class="border"></a>
+</div>
