@@ -52,5 +52,5 @@ permalink: /wallpapers/mobile-backgrounds
 <p>The following Wallpapers require <a href="https://play.google.com/store/apps/details?id=org.kustom.wallpaper&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dklwp+play+store&pcampaignid=APPU_1_sC2cZ_j-Cs_NkPIP3_OS8Ao" target="_blank">KWLP</a> and <a href="https://play.google.com/store/search?q=nova+launcher&c=apps&hl=en_US" target="_blank">Nova Launcher</a> in order to use.</p>
 <div class="gallery">
   <a href="https://github.com/The-Back-Room/Wallpapers/raw/refs/heads/main/mobile/KLWP/Minima.klwp" target="_blank">
-    <img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/PreviewImages/Wallpapers/KLWP/Minima.klwp.png" class="border"></a>
+    <img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/PreviewImages/KLWP/Minima.klwp.png" class="border"></a>
 </div>
