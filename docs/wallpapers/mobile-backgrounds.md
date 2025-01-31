@@ -6,7 +6,7 @@ parent: Wallpapers
 permalink: /wallpapers/mobile-backgrounds
 ---
 
-<p>Click the image(s) to download.</p><br />
+<p>Click the image(s) to download.</p>
 <div class="gallery">
   <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(1).png" target="_blank">
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(1).png" class="border"></a>
@@ -49,8 +49,8 @@ permalink: /wallpapers/mobile-backgrounds
   <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" target="_blank">
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" class="border"></a>
 </div>
-<p>The following Wallpapers require <a href="https://play.google.com/store/apps/details?id=org.kustom.wallpaper&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dklwp+play+store&pcampaignid=APPU_1_sC2cZ_j-Cs_NkPIP3_OS8Ao" target="_blank">KWLP</a> and <a href="https://play.google.com/store/search?q=nova+launcher&c=apps&hl=en_US" target="_blank">Nova Launcher</a> in order to use.</p><br />
+<p>The following Wallpapers require <a href="https://play.google.com/store/apps/details?id=org.kustom.wallpaper&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dklwp+play+store&pcampaignid=APPU_1_sC2cZ_j-Cs_NkPIP3_OS8Ao" target="_blank">KWLP</a> and <a href="https://play.google.com/store/search?q=nova+launcher&c=apps&hl=en_US" target="_blank">Nova Launcher</a> in order to use.</p>
 <div class="gallery">
-  <a href="https://github.com/The-Back-Room/Kustom/raw/refs/heads/main/Kustom/wallpapers/Minima.klwp" target="_blank">
-    <img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/PreviewImages/KLWP/Minima.png" class="border"></a>
+  <a href="https://github.com/The-Back-Room/Wallpapers/raw/refs/heads/main/mobile/KWLP/Minima.klwp" target="_blank">
+    <img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/PreviewImages/Wallpapers/KWLP/Minima-KWLP.png" class="border"></a>
 </div>
