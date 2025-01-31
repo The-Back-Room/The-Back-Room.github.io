@@ -48,3 +48,7 @@ permalink: /wallpapers/mobile-backgrounds
   <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" target="_blank">
     <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" class="border"></a>
 </div>
+<div class="gallery">
+  <a href="https://github.com/The-Back-Room/Kustom/raw/refs/heads/main/Kustom/wallpapers/Minima.klwp" target="_blank">
+    <img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/PreviewImages/KLWP/Minima-KLWP.png" class="border"></a>
+</div>
