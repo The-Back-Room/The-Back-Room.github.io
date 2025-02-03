@@ -13,17 +13,15 @@ permalink: /mods/final-fantasy-xiv
   <div class="card">
     <a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank">
     <img src="https://data.heliosphere.app/images/I5P4XbLvN8hv_xSEVHdeDW2GRZ-unYIrisCQxipygm4"></a>
-  </div>
   <div class="container">
     <h2>Lustful Eyes</h2>
     <p>Lustful eyes for all races. Let your inner UwU or Yandare take over.</p>
-  </div>
+  </div></div>
   <div class="card">
     <a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank">
     <img src="https://data.heliosphere.app/images/JHuFldPkpX5_OlhVuoxLvV6oWkCrNbYiixK35mrcRTY"></a>
-  </div>
   <div class="container">
     <h2>NS3D VM UI</h2>
     <p>A simple and minimalistic UI mod that cleans up the UI without making a whole lot of unnecessary changes.</p> 
-  </div>
+  </div></div>
 </div>
