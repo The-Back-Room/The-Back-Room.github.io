@@ -4,6 +4,7 @@ nav_order: 3
 title: Studio Ghibli Themes
 parent: Themes
 permalink: /themes/studio-ghibli-themes
+published: false
 ---
 
 <div class="card">
