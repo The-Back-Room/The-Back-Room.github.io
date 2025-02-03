@@ -11,7 +11,7 @@ permalink: /themes/windows-themes
   <div class="container">
     <h4>MacOS Themes for Windows</h4>
   </div>
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio9l97-b7c5f79d-4f66-4e2c-9408-e03e44194375.png/v1/fill/w_1363,h_586,q_70,strp/macos_themes_for_windows_by_og_nimbi_dio9l97-fullview.jpg" />
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio9l97-b7c5f79d-4f66-4e2c-9408-e03e44194375.png/v1/fill/w_1363,h_586,q_70,strp/macos_themes_for_windows_by_og_nimbi_dio9l97-fullview.jpg" class="border">
   <div class="gallery"> 
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Light.png" class="border">
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Dark.png" class="border">
