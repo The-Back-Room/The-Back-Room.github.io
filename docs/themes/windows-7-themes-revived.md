@@ -16,7 +16,7 @@ permalink: /themes/windows-7-themes-revived
 <br />
 <div class="card">
   <div class="container">
-    <h2>Previews</h2>
+    <h4>Previews</h4>
   </div>
   <div class="gallery">
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Home Premium.png" class="border">
