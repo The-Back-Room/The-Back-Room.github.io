@@ -3,6 +3,7 @@ layout: default
 nav_order: 10
 title: Mobile App
 permalink: /mobile-app
+published: false
 ---
 
 <hr />
