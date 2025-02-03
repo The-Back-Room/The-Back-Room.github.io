@@ -72,9 +72,10 @@ pages:
 - mobile-app.md
 - mods.md
 - mods/final-fantasy-xiv.md
-- themes/windows-7-themes-revived.md
-- themes/macos-themes-for-windows.md
-- themes/studio-ghibli-themes.md
+- themes/windows-themes.md
+# - themes/windows-7-themes-revived.md
+# - themes/macos-themes-for-windows.md
+# - themes/studio-ghibli-themes.md
 - wallpapers/mobile-backgrounds.md
 - wallpapers/desktop-wallpapers.md
 
