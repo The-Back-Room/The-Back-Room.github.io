@@ -15,8 +15,7 @@ permalink: /mods/final-fantasy-xiv
   </div>
   <img src="https://data.heliosphere.app/images/I5P4XbLvN8hv_xSEVHdeDW2GRZ-unYIrisCQxipygm4" class="border">
   <div class="container">
-    <a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank">
-      <button type="button" name="button" class="btn">Download</button></a>
+    <p><a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank"><button type="button" name="button" class="btn">Download</button></a></p>
   </div>
 </div>
 <br />
@@ -26,7 +25,6 @@ permalink: /mods/final-fantasy-xiv
   </div>
   <img src="https://data.heliosphere.app/images/JHuFldPkpX5_OlhVuoxLvV6oWkCrNbYiixK35mrcRTY" class="border">
   <div class="container">
-    <a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank">
-      <button type="button" name="button" class="btn">Download</button></a>
+    <p><a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank"><button type="button" name="button" class="btn">Download</button></a></p>
   </div>
 </div>
