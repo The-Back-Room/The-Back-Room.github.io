@@ -45,8 +45,7 @@ permalink: /themes/windows-themes
     <img src="../assets/PreviewImages/MacOS-Themes-for-Windows/Puma.png" class="border">
   </div>
   <div class="container">
-    <a href="https://www.deviantart.com/og-nimbi/art/MacOS-Themes-for-Windows-1129149403">
-    <button type="button" name="button" class="btn">Download</button></a>
+    <p><a href="https://www.deviantart.com/og-nimbi/art/MacOS-Themes-for-Windows-1129149403"><button type="button" name="button" class="btn">Download</button></a></p>
   </div>
 </div>
 <br />
@@ -98,8 +97,7 @@ permalink: /themes/windows-themes
     <img src="../assets/PreviewImages/Windows-7-Themes-Revived/Bullet Asylum.png" class="border">
   </div>
   <div class="container">
-    <a href="https://www.deviantart.com/og-nimbi/art/Windows-7-Themes-Revived-1128145485" target="_blank">
-      <button type="button" name="button" class="btn">Download</button></a>
+    <p><a href="https://www.deviantart.com/og-nimbi/art/Windows-7-Themes-Revived-1128145485" target="_blank"><button type="button" name="button" class="btn">Download</button></a></p>
   </div>
 </div>
 <br />
