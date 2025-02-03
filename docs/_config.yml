@@ -5,7 +5,7 @@ description: Open-Source Development and Customization
 favicon_ico: "/assets/AppIcon.ico"
 
 # Set a path/url to a logo that will be displayed instead of the title
-# logo: "/assets/AppIcon.png"
+logo: "/assets/AppIcon.png"
 
 remote_theme: just-the-docs/just-the-docs
 
