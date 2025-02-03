@@ -18,52 +18,25 @@ h4 {
 //   box-sizing: inherit; 
 // }
 
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+
 .gallery {
   column-count: 4;
   margin: 2rem auto;
-}
-
-.gallery img:hover {
-  width: 500px;
-  border: 1px solid #4c79c2;
-  border-radius: 2px;
-  object-fit: cover;
-}
-
-.wallpaper-gallery {
-  column-count: 4;
-  margin: 2rem auto;
-}
-
-.wallpaper-gallery img:hover {
-  width: 500px;
-  border: 1px solid #4c79c2;
-  border-radius: 2px;
-  object-fit: cover;
-}
-
-.theme-gallery  {
-  column-count: 4;
-  margin: 2rem auto;
-}
-
-.theme-gallery img:hover {
-  width: 500px;
-  border: 1px solid #4c79c2;
-  border-radius: 2px;
-  object-fit: cover;
-}
-
-.mod-gallery {
-  column-count: 2;
-  margin: 2rem auto;
-}
-
-.mod-gallery img:hover {
-  width: 500px;
-  border: 1px solid #4c79c2;
-  border-radius: 2px;
-  object-fit: cover; 
 }
 
 .border {
