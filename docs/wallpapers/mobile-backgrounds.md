@@ -47,7 +47,7 @@ permalink: /wallpapers/mobile-backgrounds
       <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(18).png" target="_blank">
         <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(18).png" class="squared-corners"></a>
     </div>
-    <p>Click the image(s) to download.</p>
+    <p style="text-delta">Click the image(s) to download.</p>
   </div>
 </div>
 <br />
@@ -58,7 +58,7 @@ permalink: /wallpapers/mobile-backgrounds
       <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" target="_blank">
         <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" class="squared-corners"></a>
     </div>
-    <p>Click the image(s) to download.</p>
+    <p style="text-delta">Click the image(s) to download.</p>
   </div>
 </div>
 <br />
@@ -69,6 +69,6 @@ permalink: /wallpapers/mobile-backgrounds
     <a href="https://github.com/The-Back-Room/Wallpapers/raw/refs/heads/main/mobile/KLWP/Minima.klwp" target="_blank">
       <img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/PreviewImages/KLWP/Minima.klwp.png" class="squared-corners"></a>
     </div>
-    <p>Click the image(s) to download.</p>
+    <p style="text-delta">Click the image(s) to download.</p>
     </div>
 </div>
