@@ -8,7 +8,7 @@ permalink: /wallpapers/mobile-backgrounds
 
 <div class="card">
   <div class="container">
-    <h4>Windows 11 Wallpapers</h4>
+    <h2 class="text-delta">Windows 11 Wallpapers</h2>
     <div class="gallery">
       <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(1).png" target="_blank">
         <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(1).png" class="squared-corners"></a>
@@ -47,28 +47,28 @@ permalink: /wallpapers/mobile-backgrounds
       <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(18).png" target="_blank">
         <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(18).png" class="squared-corners"></a>
     </div>
-    <p style="text-delta">Click the image(s) to download.</p>
+    <p class="text-delta">Click the image(s) to download.</p>
   </div>
 </div>
 <br />
 <div class="card">
   <div class="container">
-    <h4>AI Generated</h4>
+    <h2 class="text-delta">AI Generated</h2>
     <div class="gallery">
       <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" target="_blank">
         <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" class="squared-corners"></a>
     </div>
-    <p style="text-delta">Click the image(s) to download.</p>
+    <p class="text-delta">Click the image(s) to download.</p>
   </div>
 </div>
 <br />
 <div class="card">
   <div class="container">
-    <h4>KLWP Wallpapers</h4>
+    <h2 class="text-delta">KLWP Wallpapers</h2>
     <div class="gallery">
     <a href="https://github.com/The-Back-Room/Wallpapers/raw/refs/heads/main/mobile/KLWP/Minima.klwp" target="_blank">
       <img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/PreviewImages/KLWP/Minima.klwp.png" class="squared-corners"></a>
     </div>
-    <p style="text-delta">Click the image(s) to download.</p>
+    <p class="text-delta">Click the image(s) to download.</p>
     </div>
 </div>
