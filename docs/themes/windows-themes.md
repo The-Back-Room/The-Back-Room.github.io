@@ -9,7 +9,7 @@ permalink: /themes/windows-themes
 
 <div class="card">
   <div class="container">
-    <h4>MacOS Themes for Windows</h4>
+    <h2 class="text-delta">MacOS Themes for Windows</h2>
   </div>
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio9l97-b7c5f79d-4f66-4e2c-9408-e03e44194375.png/v1/fill/w_1363,h_586,q_70,strp/macos_themes_for_windows_by_og_nimbi_dio9l97-fullview.jpg" class="squared-corners">
   <div class="gallery"> 
@@ -51,7 +51,7 @@ permalink: /themes/windows-themes
 <br />
 <div class="card">
   <div class="container">
-    <h4>Windows 7 Themes Revived</h4>
+    <h2 class="text-delta">Windows 7 Themes Revived</h2>
   </div>
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dino2ml-ee84d62e-9ad3-4dbe-a5f3-62c414afec6e.png/v1/fill/w_1200,h_557,q_80,strp/windows_7_themes_revived_by_og_nimbi_dino2ml-fullview.jpg" class="squared-corners">
   <div class="gallery">
@@ -103,7 +103,7 @@ permalink: /themes/windows-themes
 <br />
 <div class="card">
   <div class="container">
-    <h4>Studio Ghibli</h4>
+    <h2 class="text-delta">Studio Ghibli</h2>
   </div>
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio7nnc-6098ba2b-d3be-416f-ad85-7edbbb248d87.png/v1/fill/w_1174,h_522,q_80,strp/studio_ghibli_theme_by_og_nimbi_dio7nnc-fullview.jpg" class="squared-corners">
   <div class="container">
@@ -113,7 +113,7 @@ permalink: /themes/windows-themes
 <br />
 <div class="card">
   <div class="container">
-    <h4>Howl's Moving Castle</h4>
+    <h2 class="text-delta">Howl's Moving Castle</h2>
   </div>
   <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio7w97-541f9b72-62e9-42f4-b6e9-9ad2b012ee58.png/v1/fill/w_1200,h_509,q_80,strp/howl_s_moving_castle_theme_by_og_nimbi_dio7w97-fullview.jpg" class="squared-corners">
   <div class="container">
