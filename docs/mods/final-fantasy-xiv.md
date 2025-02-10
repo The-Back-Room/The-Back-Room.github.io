@@ -11,7 +11,7 @@ permalink: /mods/final-fantasy-xiv
 
 <div class="card">
   <div class="container">
-    <h4>Lustful Eyes</h4>
+    <h2 class="text-delta">Lustful Eyes</h2>
   </div>
   <img src="https://data.heliosphere.app/images/aDLyGyD0JKihwFWxnQY6ep31jbrH3nFw-8G8apkAbXY" class="squared-corners">
   <div class="container">
@@ -22,7 +22,7 @@ permalink: /mods/final-fantasy-xiv
 <br />
 <div class="card">
   <div class="container">
-    <h4>NS3D VM UI</h4>
+    <h2 class="text-delta">NS3D VM UI</h2>
   </div>
   <img src="https://data.heliosphere.app/images/JHuFldPkpX5_OlhVuoxLvV6oWkCrNbYiixK35mrcRTY" class="squared-corners">
   <div class="container">
