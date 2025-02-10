@@ -8,7 +8,7 @@ permalink: /wallpapers/mobile-backgrounds
 
 <div class="card">
   <div class="container">
-    <h2>Windows 11 Wallpapers</h2>
+    <h4>Windows 11 Wallpapers</h4>
     <div class="gallery">
       <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(1).png" target="_blank">
         <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Windows%2011/Windows%2011%20(1).png" class="squared-corners"></a>
@@ -53,17 +53,18 @@ permalink: /wallpapers/mobile-backgrounds
 <br />
 <div class="card">
   <div class="container">
-    <p>Click the image(s) to download.</p>
+    <h4>AI Generated</h4>
     <div class="gallery">
       <a href="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" target="_blank">
         <img src="https://raw.githubusercontent.com/The-Back-Room/Wallpapers/refs/heads/main/mobile/Scenery/Wallpaper%20(1).png" class="squared-corners"></a>
     </div>
+    <p>Click the image(s) to download.</p>
   </div>
 </div>
 <br />
 <div class="card">
   <div class="container">
-    <h2>KLWP Wallpapers</h2>
+    <h4>KLWP Wallpapers</h4>
     <p>These Wallpapers require <a href="https://play.google.com/store/apps/details?id=org.kustom.wallpaper&hl=en_US&referrer=utm_source%3Dgoogle%26utm_medium%3Dorganic%26utm_term%3Dklwp+play+store&pcampaignid=APPU_1_sC2cZ_j-Cs_NkPIP3_OS8Ao" target="_blank">KLWP</a> and <a href="https://play.google.com/store/search?q=nova+launcher&c=apps&hl=en_US" target="_blank">Nova Launcher</a> in order to use.</p>
     <div class="gallery">
     <a href="https://github.com/The-Back-Room/Wallpapers/raw/refs/heads/main/mobile/KLWP/Minima.klwp" target="_blank">
