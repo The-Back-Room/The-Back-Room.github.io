@@ -13,7 +13,7 @@ permalink: /mods/final-fantasy-xiv
   <div class="container">
     <h4>Lustful Eyes</h4>
   </div>
-  <img src="https://data.heliosphere.app/images/aDLyGyD0JKihwFWxnQY6ep31jbrH3nFw-8G8apkAbXY" class="border">
+  <img src="https://data.heliosphere.app/images/aDLyGyD0JKihwFWxnQY6ep31jbrH3nFw-8G8apkAbXY" class="squared-corners">
   <div class="container">
     <p><a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank">
       <button type="button" name="button" class="btn">Download</button></a></p>
@@ -24,7 +24,7 @@ permalink: /mods/final-fantasy-xiv
   <div class="container">
     <h4>NS3D VM UI</h4>
   </div>
-  <img src="https://data.heliosphere.app/images/JHuFldPkpX5_OlhVuoxLvV6oWkCrNbYiixK35mrcRTY" class="border">
+  <img src="https://data.heliosphere.app/images/JHuFldPkpX5_OlhVuoxLvV6oWkCrNbYiixK35mrcRTY" class="squared-corners">
   <div class="container">
     <p><a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank">
       <button type="button" name="button" class="btn">Download</button></a></p>
