@@ -9,31 +9,31 @@ permalink: /themes/windows/macos-themes-for-windows
     <div class="container">
         <h2 class="text-delta">MacOS Themes for Windows</h2>
             <div class="gallery"> 
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Light.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia Dark.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Sonoma Light.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Sonoma Dark.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Ventura Light.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Ventura Dark.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Day.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Night.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Colorful Day.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/BigSur Colorful Night.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Catalina Day.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Catalina Night.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Mojave Day.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Mojave Night.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Monterey Light.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Monterey Dark.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/High Sierra.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia%20Light.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Sequoia%20Dark.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Sonoma%20Light.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Sonoma%20Dark.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Ventura%20Light.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Ventura%20Dark.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/BigSur%20Day.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/BigSur%20Night.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/BigSur%20Colorful%20Day.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/BigSur%20Colorful%20Night.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Catalina%20Day.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Catalina%20Night.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Mojave%20Day.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Mojave%20Night.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Monterey%20Light.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Monterey%20Dark.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/High%20Sierra.png?raw=true" class="squared-corners">
                 <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Sierra.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/El Capitan.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/El%20Capitan.png?raw=true" class="squared-corners">
                 <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Yosemite.png?raw=true" class="squared-corners">
                 <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Mavericks.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Mountain Lion.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Mountain%20Lion.png?raw=true" class="squared-corners">
                 <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Lion.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Snow Leopard.png?raw=true" class="squared-corners">
-                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Snow Leopard Alt.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Snow%20Leopard.png?raw=true" class="squared-corners">
+                <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Snow%20Leopard%20Alt.png?raw=true" class="squared-corners">
                 <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Leopard.png?raw=true" class="squared-corners">
                 <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Tiger.png?raw=true" class="squared-corners">
                 <img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/PreviewImages/MacOS-Themes-for-Windows/Panther.png?raw=true" class="squared-corners">
