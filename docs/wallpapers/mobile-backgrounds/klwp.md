@@ -1,7 +1,8 @@
 ---
 layout: default
 title: KLWP Backgrounds
-nav_exclude: true
+nav_order: 1
+parent: Mobile Backgrounds
 permalink: /wallpapers/mobile-backgrounds/klwp
 ---
 

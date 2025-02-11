@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Windows 11 Mobile Backgrounds
-nav_exclude: true
+nav_order: 1
+parent: Mobile Backgrounds
 permalink: /wallpapers/mobile-backgrounds/windows-11
 ---
 

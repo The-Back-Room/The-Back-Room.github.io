@@ -1,7 +1,8 @@
 ---
 layout: default
 title: AI Generated
-nav_exclude: true
+nav_order: 2
+parent: Mobile Backgrounds
 permalink: /wallpapers/mobile-backgrounds/ai
 ---
 
