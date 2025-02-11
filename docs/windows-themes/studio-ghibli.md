@@ -16,9 +16,5 @@ permalink: /windows-themes/studio-ghibli
   </div>
 </div>
 <br />
-<div class="card">
-  <div class="container">
-    <p class="text-delta" style="text-align:center"><a href="https://github.com/The-Back-Room/Studio-Ghibli-Theme/archive/refs/heads/main.zip">
-      <button type="button" name="button" class="btn">Download</button></a></p>
-  </div>
-</div>
+<p class="text-delta" style="text-align:center"><a href="https://github.com/The-Back-Room/Studio-Ghibli-Theme/archive/refs/heads/main.zip">
+  <button type="button" name="button" class="btn">Download</button></a></p>

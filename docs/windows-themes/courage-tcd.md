@@ -16,9 +16,5 @@ permalink: /windows-themes/courage-tcd
   </div>
 </div>
 <br />
-<div class="card">
-  <div class="container">
-    <p class="text-delta" style="text-align:center"><a href="https://www.deviantart.com/og-nimbi/art/Courage-TCD-for-Windows-1138019044" target="_blank">
-      <button type="button" name="button" class="btn">Download</button></a></p>
-  </div>
-</div>
+<p class="text-delta" style="text-align:center"><a href="https://www.deviantart.com/og-nimbi/art/Courage-TCD-for-Windows-1138019044" target="_blank">
+  <button type="button" name="button" class="btn">Download</button></a></p>
