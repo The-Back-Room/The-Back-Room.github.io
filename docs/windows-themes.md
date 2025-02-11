@@ -8,6 +8,12 @@ permalink: /windows-themes
 
 <div class="card">
   <div class="container">
+    <h2 class="text-delta" style="text-align:center">Windows Themes</h2>
+  </div>
+</div>
+<br />
+<div class="card">
+  <div class="container">
     <lu>
       <li class="text-delta"><a href="https://the-back-room.github.io/themes/windows/macos-themes-for-windows.md" target="_blank">MacOS Themes for Windows</a></li>
       <li class="text-delta"><a href="https://the-back-room.github.io/themes/windows/windows-seven-themes-revived.md" target="_blank">Windows 7 Themes Revived</a></li>
