@@ -30,7 +30,7 @@ mermaid:
 heading_anchors: true
 nav_enabled: true
 search_enabled: true
-toc_disabled: true
+has_toc: true
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p"
