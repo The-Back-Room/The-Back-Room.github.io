@@ -7,7 +7,12 @@ parent: Windows Themes
 permalink: /windows-themes/courage-tcd
 ---
 
-
+<div class="card">
+  <div class="container">
+    <h2 class="text-delta" style="text-align:center">Courage TCD</h2>
+  </div>
+</div>
+<br />
 <div class="card">
   <div class="container">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/ditjp44-44befe4c-7d0d-4ff0-aba4-97b8babcc312.png/v1/fill/w_960,h_540/courage_tcd_for_windows_by_og_nimbi_ditjp44-fullview.png" class="squared-corners">
