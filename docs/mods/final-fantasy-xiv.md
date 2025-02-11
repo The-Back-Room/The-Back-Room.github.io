@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_order: 1
+nav_exlude: true
 title: Final Fantasy XIV
 parent: Mods
 permalink: /mods/final-fantasy-xiv
@@ -13,7 +13,7 @@ permalink: /mods/final-fantasy-xiv
   <div class="container">
     <lu>
       <li class="text-delta"><a href="https://the-back-room.github.io/mods/final-fantasy-xiv/lustful-eyes.md" target="_blank">Lustful eyes</button></a></li>
-      <li class="text-delta"><a href="https://the-back-room.github.io/mods/final-fantasy-xiv/ns3d-vm-ui-pack.md" target="_blank"[NS3D] (VM) UI Pack</a></li>
+      <li class="text-delta"><a href="https://the-back-room.github.io/mods/final-fantasy-xiv/ns3d-vm-ui-pack.md" target="_blank">[NS3D] (VM) UI Pack</a></li>
     </lu>
   </div>
 </div>

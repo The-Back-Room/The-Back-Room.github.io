@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Windows Themes
-nav_order: 1
-parent: Themes
+nav_exclude: true
 permalink: /themes/windows
 ---
-
 
 <div class="card">
   <div class="container">

@@ -70,17 +70,22 @@ pages:
 - themes.md
 - wallpapers.md
 - mods.md
+- themes/windows.md
 - mods/final-fantasy-xiv.md
+- themes/windows/gaming-themes.md
+- wallpapers/mobile-backgrounds.md
+- wallpapers/desktop-wallpapers.md
 - mods/final-fantasy-xiv/lustful-eyes.md
 - mods/final-fantasy-xiv/ns3d-vm-ui-pack.md
-- themes/windows.md
 - themes/windows/macos-themes-for-windows.md
 - themes/windows/windows-seven-themes-revived.md
 - themes/windows/studio-ghibli-themes.md
 - themes/windows/cartoon-network-themes.md
-- themes/windows/gaming-themes.md
-- wallpapers/mobile-backgrounds.md
-- wallpapers/desktop-wallpapers.md
+- wallpapers/desktop-wallpapers/anime.md
+- wallpapers/desktop-wallpapers/scenery.md
+- wallpapers/mobile-backgrounds/ai.md
+- wallpapers/mobile-backgrounds/klwp.md
+- wallpapers/mobile-backgrounds/windows-11.md
 
 aux_links:
   GitHub:
