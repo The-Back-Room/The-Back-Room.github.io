@@ -2,6 +2,7 @@
 layout: default
 title: Courage TCD
 nav_order: 4
+has_toc: false
 parent: Windows Themes
 permalink: /themes/windows/courage-tcd
 ---

@@ -2,6 +2,7 @@
 layout: default
 title: Windows Themes
 nav_order: 1
+has_toc: false
 parent: Themes
 permalink: /themes/windows
 ---

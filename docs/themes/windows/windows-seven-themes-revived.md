@@ -2,6 +2,7 @@
 layout: default
 title: Windows 7 Themes Revived
 nav_order: 2
+has_toc: false
 parent: Windows Themes
 permalink: /themes/windows/windows-seven-themes-revived
 ---

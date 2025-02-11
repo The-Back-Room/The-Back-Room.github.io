@@ -2,6 +2,7 @@
 layout: default
 title: MacOS Themes for Windows
 nav_order: 1
+has_toc: false
 parent: Windows Themes
 permalink: /themes/windows/macos-themes-for-windows
 ---

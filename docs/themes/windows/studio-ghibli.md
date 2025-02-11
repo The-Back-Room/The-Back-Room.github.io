@@ -2,6 +2,7 @@
 layout: default
 title: Studio Ghibli
 nav_order: 3
+has_toc: false
 parent: Windows Themes
 permalink: /themes/windows/studio-ghibli
 ---

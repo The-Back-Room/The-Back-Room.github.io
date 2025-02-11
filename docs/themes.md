@@ -2,6 +2,7 @@
 layout: default
 title: Themes
 nav_order: 3
+has_toc: false
 permalink: /themes
 ---
 
