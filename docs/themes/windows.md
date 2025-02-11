@@ -9,17 +9,14 @@ permalink: /themes/windows
 
 <div class="card">
   <div class="container">
-    <p class="text-delta">
-      <a href="./windows/macos-themes-for-windows.md" target="_blank">
-        <button type="button" name="button" class="btn">MacOS Themes for Windows</button></a>
-      <a href="./windows/windows-seven-themes-revived.md" target="_blank">
-        <button type="button" name="button" class="btn">Windows 7 Themes Revived</button>
-      <a href="./windows/studio-ghibli-themes.md" target="_blank">
-        <button type="button" name="button" class="btn">Studio Ghibli Theme</button></a>
-      <a href="./windows/cartoon-network-themes.md" target="_blank">
-        <button type="button" name="button" class="btn">Cartoon Network Themes</button>
-      <a href="./windows/gaming-themes.md" target="_blank">
-        <button type="button" name="button" class="btn">Gaming Themes</button></a>
-    </p>
+  <a href="./windows/macos-themes-for-windows.md" target="_blank">
+  <button type="button" name="button" class="btn">MacOS Themes for Windows
+  <button type="button" name="button" class="btn">Windows 7 Themes Revived</button>
+  <a href="./windows/studio-ghibli-themes.md" target="_blank">
+  <button type="button" name="button" class="btn">Studio Ghibli Theme</button></a>
+  <a href="./windows/cartoon-network-themes.md" target="_blank">
+  <button type="button" name="button" class="btn">Cartoon Network Themes</button>
+  <a href="./windows/gaming-themes.md" target="_blank">
+  <button type="button" name="button" class="btn">Gaming Themes</button></a>
   </div>
 </div>
