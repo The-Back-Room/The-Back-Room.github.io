@@ -6,5 +6,5 @@ has_toc: false
 permalink: /
 ---
 
-<h4>The Back Room</h4>
-<p class="text-delta">Open-Source Development and Customization</p>
+<h1 class="text-delta" style="text-align:center">The Back Room</h1>
+<p class="text-delta" style="text-align:center">Open-Source Development and Customization</p>
