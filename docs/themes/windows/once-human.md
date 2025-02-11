@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Gaming Themes
+title: Once Human
 nav_order: 5
 parent: Windows Themes
-permalink: /themes/windows/gaming-themes
+permalink: /themes/windows/once-human
 ---
 
 <div class="card">

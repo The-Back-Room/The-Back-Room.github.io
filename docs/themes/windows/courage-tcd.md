@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Cartoon Network Themes
+title: Courage TCD
 nav_order: 4
 parent: Windows Themes
-permalink: /themes/windows/cartoon-network-themes
+permalink: /themes/windows/courage-tcd
 ---
 
 
