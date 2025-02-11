@@ -3,8 +3,6 @@ description: Open-Source Development and Customization
 
 favicon_ico: "/assets/icons/brand/AppIcon.ico"
 
-logo: "/assets/icons/brand/AppIcon.png"
-
 remote_theme: just-the-docs/just-the-docs
 
 color_scheme: dark
