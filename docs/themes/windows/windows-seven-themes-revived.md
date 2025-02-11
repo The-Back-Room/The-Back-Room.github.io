@@ -15,7 +15,7 @@ permalink: /themes/windows/windows-seven-themes-revived
 <br />
 <div class="card">
   <div class="container">
-    <p class="text-delta" style="text-align:center"><a href="https://www.deviantart.com/og-nimbi/art/Windows-7-Themes-Revived-1128145485" target="_blank">
+    <p class="text-delta" style="text-align:center"><a href="https://github.com/The-Back-Room/Windows-7-Themes-Revived/archive/refs/heads/main.zip" target="_blank">
       <button type="button" name="button" class="btn">Download</button></a></p>
   </div>
 </div>

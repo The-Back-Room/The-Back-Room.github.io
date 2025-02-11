@@ -15,7 +15,7 @@ permalink: /themes/windows/macos-themes-for-windows
 <br />
 <div class="card">
   <div class="container">
-    <p class="text-delta" style="text-align:center"><a href="https://www.deviantart.com/og-nimbi/art/MacOS-Themes-for-Windows-1129149403">
+    <p class="text-delta" style="text-align:center"><a href="https://github.com/The-Back-Room/MacOS-Themes-for-Windows/archive/refs/heads/main.zip">
       <button type="button" name="button" class="btn">Download</button></a></p>
   </div>
 </div>
