@@ -37,13 +37,12 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 pages:
 - index.md
 - 404.md
-- themes.md
-- themes/windows.md
-- themes/windows/gaming-themes.md
-- themes/windows/macos-themes-for-windows.md
-- themes/windows/windows-seven-themes-revived.md
-- themes/windows/studio-ghibli-themes.md
-- themes/windows/cartoon-network-themes.md
+- windows-themes.md
+- windows-themes/once-human.md
+- windows-themes/macos-themes-for-windows.md
+- windows-themes/windows-seven-themes-revived.md
+- windows-themes/studio-ghibli.md
+- windows-themes/courage-tcd.md
 
 aux_links:
   GitHub:

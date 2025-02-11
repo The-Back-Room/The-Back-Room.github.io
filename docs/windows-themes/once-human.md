@@ -4,7 +4,7 @@ title: Once Human
 nav_order: 5
 has_toc: false
 parent: Windows Themes
-permalink: /themes/windows/once-human
+permalink: /windows-themes/once-human
 ---
 
 <div class="card">
