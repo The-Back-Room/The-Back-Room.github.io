@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Desktop Wallpapers
-nav_exclude: true
+nav_order: 1
 permalink: /wallpapers/desktop-wallpapers
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mobile Backgrounds
-nav_exclude: true
+nav_order: 2
 permalink: /wallpapers/mobile-backgrounds
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Windows Themes
-nav_exclude: true
+nav_order: 1
 permalink: /themes/windows
 ---
 

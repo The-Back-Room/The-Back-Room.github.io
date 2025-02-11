@@ -1,6 +1,6 @@
 ---
 layout: default
-nav_exlude: true
+nav_order: 1
 title: Final Fantasy XIV
 parent: Mods
 permalink: /mods/final-fantasy-xiv
