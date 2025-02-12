@@ -15,8 +15,8 @@ permalink: /windows-themes
 <div class="card">
   <div class="container">
     <lu>
-      <!-- <li class="text-delta"><a href="https://the-back-room.github.io/windows-themes/macos-themes-for-windows.md">MacOS Themes for Windows</a></li> -->
-      <!-- <li class="text-delta"><a href="https://the-back-room.github.io/windows-themes/windows-seven-themes-revived.md">Windows 7 Themes Revived</a></li> -->
+      <li class="text-delta"><a href="/windows-themes/macos-themes-for-windows">MacOS Themes for Windows</a></li>
+      <li class="text-delta"><a href="/windows-themes/windows-seven-themes-revived">Windows 7 Themes Revived</a></li>
       <li class="text-delta"><a href="/windows-themes/studio-ghibli">Studio Ghibli</a></li>
       <li class="text-delta"><a href="/windows-themes/courage-tcd">Courage TCD</a></li>
     </lu>
