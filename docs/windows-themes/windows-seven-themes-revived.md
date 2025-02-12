@@ -5,7 +5,6 @@ nav_order: 2
 has_toc: false
 parent: Windows Themes
 permalink: /windows-themes/windows-seven-themes-revived
-published: false
 ---
 
 <div class="card">
