@@ -5,7 +5,6 @@ nav_order: 1
 has_toc: false
 parent: Windows Themes
 permalink: /windows-themes/macos-themes-for-windows
-published: false
 ---
 
 <div class="card">
