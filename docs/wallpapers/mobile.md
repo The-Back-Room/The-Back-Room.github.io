@@ -9,14 +9,14 @@ permalink: /wallpapers/mobile
 
 <div class="card">
   <div class="container">
-    <h2 class="text-delta" style="text-align:center">Final Fantasy XIV</h2>
+    <h2 class="text-delta" style="text-align:center">Mobile Wallpapers</h2>
   </div>
 </div>
 <br />
 <div class="card">
   <div class="container">
     <lu>
-      <li class="text-delta"><a href="../wallpapers/mobile/final-fantasy-xiv">Final Fantasy XIV Scenery</a></li>
+      <li class="text-delta"><a href="../../wallpapers/mobile/final-fantasy-xiv">Final Fantasy XIV</a></li>
     </lu>
   </div>
 </div>
