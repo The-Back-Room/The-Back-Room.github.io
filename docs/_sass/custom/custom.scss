@@ -26,12 +26,13 @@ button {
 .gallery {
   display: grid;
   colums: 4;
-  padding: 2px 16px;
+  margin: 2rem auto;
   width: 100%;
 }
 
 .gallery:img {
   border-radius: 1px;
+  padding: 2px 16px;
 }
 
 .social:hover {
