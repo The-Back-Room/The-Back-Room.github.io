@@ -3,7 +3,6 @@ layout: default
 title: Final Fantasy XIV
 nav_order: 1
 has_toc: false
-grand_parent: Wallpapers
 parent: Mobile
 permalink: /wallpapers/mobile/final-fantasy-xiv
 ---
