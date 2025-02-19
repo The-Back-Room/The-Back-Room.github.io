@@ -11,12 +11,12 @@ permalink: /wallpapers/mobile/final-fantasy-xiv
 <div class="card">
   <h2 style="text-align:center" class="text-delta">Final Fantasy Scenery</h2>
   <div class="gallery">
-    <a href="../../assets/wallpapers/mobile/ffxiv/Qleport.png?raw=true" target="_blank">
+    <a href="../../assets/wallpapers/mobile/ffxiv/Aleport.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Aleport.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Amaurot.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Amaurot.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Camp-Bronze-Lake.png?raw=true" target="_blank">
-      <img src="../../assets/wallpapers/mobile/ffxiv/Camp-Bronze-lLake.png?raw=true" /></a>
+      <img src="../../assets/wallpapers/mobile/ffxiv/Camp-Bronze-Lake.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Coerthus.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Coerthus.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Costa-del-Sol.png?raw=true" target="_blank">
