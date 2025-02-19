@@ -17,8 +17,8 @@ permalink: /wallpapers/mobile/final-fantasy-xiv
       <img src="../../assets/wallpapers/mobile/ffxiv/Amaurot.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Camp-Bronze-Lake.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Camp-Bronze-Lake.png?raw=true" /></a>
-    <a href="../../assets/wallpapers/mobile/ffxiv/Coerthus.png?raw=true" target="_blank">
-      <img src="../../assets/wallpapers/mobile/ffxiv/Coerthus.png?raw=true" /></a>
+    <a href="../../assets/wallpapers/mobile/ffxiv/Coerthas.png?raw=true" target="_blank">
+      <img src="../../assets/wallpapers/mobile/ffxiv/Coerthas.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Costa-del-Sol.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Costa-del-Sol?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Dohn-Mheg.png?raw=true" target="_blank">
