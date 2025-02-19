@@ -6,8 +6,10 @@ has_toc: false
 permalink: /wallpapers
 ---
 
-<div class="container">
-  <h2 class="text-delta">Wallpapers</h2>
+<div class="card">
+  <div class="container">
+    <h2 class="text-delta" style="text-align:center">Wallpapers</h2>
+  </div>
 </div>
 <br />
 <div class="card">
