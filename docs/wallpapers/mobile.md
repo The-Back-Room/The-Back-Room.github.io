@@ -16,7 +16,7 @@ permalink: /wallpapers/mobile
 <div class="card">
   <div class="container">
     <lu>
-      <li class="text-delta"><a href="/mobile/final-fantasy-xiv">FFXIV Wallpapers</a></li>
+      <li class="text-delta"><a href="../wallpapers/mobile/final-fantasy-xiv">FFXIV Wallpapers</a></li>
     </lu>
   </div>
 </div>
