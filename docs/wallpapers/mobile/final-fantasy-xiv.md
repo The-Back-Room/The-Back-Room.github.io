@@ -10,6 +10,7 @@ permalink: /wallpapers/mobile/final-fantasy-xiv
 
 <div class="card">
   <h2 style="text-align:center" class="text-delta">Final Fantasy Scenery</h2>
+  <div class="gallery">
     <a href="../../assets/wallpapers/mobile/ffxiv/Aleport.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Aleport.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Amaurot.png?raw=true" target="_blank">
@@ -64,6 +65,7 @@ permalink: /wallpapers/mobile/final-fantasy-xiv
       <img src="../../assets/wallpapers/mobile/ffxiv/The-Omphalos.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Uldah.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Uldah.png?raw=true" /></a>
+  </div>
   <div class="container">
     <p styles="text-align:center" class="text-delta">These wallpapers were created by various Reddit users.</p>
   </div>
