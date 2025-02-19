@@ -7,7 +7,7 @@ permalink: /wallpapers
 ---
 
 <div class="container">
-  <h2 class=text-delta">Wallpapers</h2>
+  <h2 class="text-delta">Wallpapers</h2>
 </div>
 <br />
 <div class="card">
