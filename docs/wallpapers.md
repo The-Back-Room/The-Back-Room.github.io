@@ -6,9 +6,9 @@ has_toc: false
 permalink: /wallpapers
 ---
 
-  <div class="container">
-    <h2 class="text-delta" style="text-align:center">Windows Themes</h2>
-  </div>
+<div class="container">
+  <h2 class=text-delta">Wallpapers</h2>
+</div>
 </div>
 <br />
 <div class="card">
