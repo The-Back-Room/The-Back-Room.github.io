@@ -33,7 +33,7 @@ permalink: /wallpapers/mobile/final-fantasy-xiv
       <img src="../../assets/wallpapers/mobile/ffxiv/Endwalker.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Garlemald.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Garlemald.png?raw=true" /></a>
-    <a href="../../assets/wallpapers/mobile/ffxiv/Il-Mheg.pnf?raw=true" target="_blank">
+    <a href="../../assets/wallpapers/mobile/ffxiv/Il-Mheg.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Il-Mheg.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Lakeland.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Lakeland.png?raw=true" /></a>
