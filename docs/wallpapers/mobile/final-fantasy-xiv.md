@@ -20,11 +20,11 @@ permalink: /wallpapers/mobile/final-fantasy-xiv
     <a href="../../assets/wallpapers/mobile/ffxiv/Coerthas.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Coerthas.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Costa-del-Sol.png?raw=true" target="_blank">
-      <img src="../../assets/wallpapers/mobile/ffxiv/Costa-del-Sol?raw=true" /></a>
+      <img src="../../assets/wallpapers/mobile/ffxiv/Costa-del-Sol.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Dohn-Mheg.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Dohn-Mheg.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Dravanian-Forelands.png?raw=true" target="_blank">
-      <img src="../../assets/wallpapers/mobile/ffxiv/Dravanian-Forelands?raw=true" /></a>
+      <img src="../../assets/wallpapers/mobile/ffxiv/Dravanian-Forelands.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Elpis-1.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Elpis-1.png?raw=true" /></a>
     <a href="../../assets/wallpapers/mobile/ffxiv/Elpis-2.png?raw=true" target="_blank">
