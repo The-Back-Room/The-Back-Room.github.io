@@ -9,7 +9,6 @@ permalink: /wallpapers
 <div class="container">
   <h2 class=text-delta">Wallpapers</h2>
 </div>
-</div>
 <br />
 <div class="card">
   <div class="container">
