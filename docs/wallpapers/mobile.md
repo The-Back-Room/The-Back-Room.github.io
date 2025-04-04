@@ -17,6 +17,7 @@ permalink: /wallpapers/mobile
   <div class="container">
     <lu>
       <li class="text-delta"><a href="/wallpapers/mobile/final-fantasy-xiv">Final Fantasy XIV</a></li>
+      <li><a href="/wallpapers/mobile/windows-11">Windows 11</a></li>
     </lu>
   </div>
 </div>
