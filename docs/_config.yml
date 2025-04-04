@@ -20,14 +20,15 @@ nav_enabled: true
 search_enabled: false
 
 pages:
-- index.md
-- 404.md
-- windows-themes.md
-- wallpapers.md
-- wallpapers/mobile.md
-- windows-themes/once-human.md
-- windows-themes/macos-themes-for-windows.md
-- windows-themes/windows-seven-themes-revived.md
-- windows-themes/studio-ghibli.md
-- windows-themes/courage-tcd.md
+- /index.md
+- /404.md
+- /windows-themes.md
+- /wallpapers.md
+- /wallpapers/mobile.md
+- /windows-themes/once-human.md
+- /windows-themes/macos-themes-for-windows.md
+- /windows-themes/windows-seven-themes-revived.md
+- /windows-themes/studio-ghibli.md
+- /windows-themes/courage-tcd.md
 - /wallpapers/mobile/final-fantasy-xiv.md
+- /wallpapers/mobile/windows-11.md
