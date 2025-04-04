@@ -4,7 +4,6 @@ layout: default
 has_toc: false
 parent: Mobile
 permalink: /wallpapers/mobile/windows-11
-published: false
 ---
 
 
