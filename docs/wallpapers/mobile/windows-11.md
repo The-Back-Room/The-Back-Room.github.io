@@ -12,7 +12,9 @@ permalink: /wallpapers/mobile/windows-11
   <img src="https://birchtree.me/content/images/size/w1600/format/webp/2021/06/007-copy.jpg" />
   <div class="container">
     <br />
-    <p style="text-align:center">Windows 11 mobile wallpapers by Birchtree.</p>
+    <p style="text-align:center">Windows 11 mobile wallpapers by <b>Matt Birchler</b> and shared on <b>Birchtree</b>. All wallpapers are 1,712x3,704.
+      <br /><br />
+      The download button below will take you to the official page to download them from.</p>
   </div>
 </div>
 <br />
