@@ -14,9 +14,9 @@ permalink: /wallpapers
 <br />
 <div class="card">
   <div class="container">
-    <lu>
-      <li class="text-delta"><a href="/wallpapers/mobile">Mobile Wallpapers</a></li>
-      <!-- <li class="text-delta"><a href="/wallpapers/desktop">Desktop Wallpapers</a></li> -->
+    <lu class="text-delta">
+      <li><a href="/wallpapers/mobile">Mobile Wallpapers</a></li>
+      <!-- <li><a href="/wallpapers/desktop">Desktop Wallpapers</a></li> -->
     </lu>
   </div>
 </div>

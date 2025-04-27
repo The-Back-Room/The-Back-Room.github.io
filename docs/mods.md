@@ -14,9 +14,9 @@ permalink: /mods
 <br />
 <div class="card">
   <div class="container">
-    <lu>
-      <li class="text-delta"><a href="/mods/final-fantasy-xiv">Final Fantasy XIV</a></li>
-      <!-- <li class="text-delta"><a href="/mods/"></a></li> -->
+    <lu class="text-delta">
+      <li><a href="/mods/final-fantasy-xiv">Final Fantasy XIV</a></li>
+      <!-- <li><a href="/mods/"></a></li> -->
     </lu>
   </div>
 </div>
