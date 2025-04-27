@@ -9,8 +9,8 @@ permalink: /mods/final-fantasy-xiv
 
 <div class="card">
   <h2 style="text-align:center" class="text-delta">Lustful Eyes</h2>
-  <a href="https://heliosphere.app/api/web/package/e1fb17b8d93c41a5b12611d3ef85cb0c/image/5962" target="_blank">
-    <img src="https://heliosphere.app/api/web/package/e1fb17b8d93c41a5b12611d3ef85cb0c/image/5962" /></a>
+  <a href="https://data.heliosphere.app/images/Ps1K_4RxCX75xnQWhihjTWKQ2ZnQy9JsbS-vRePFyg8" target="_blank">
+    <img src="https://data.heliosphere.app/images/Ps1K_4RxCX75xnQWhihjTWKQ2ZnQy9JsbS-vRePFyg8" /></a>
   <div class="container">
     <p style="text-align:center" class="text-delta">Lustful Eyes for all races.<br />Let your inner OwO or Yandere take over.</p>
     <p class="text-delta" style="text-align:center"><a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank">
