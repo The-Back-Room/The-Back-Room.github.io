@@ -10,9 +10,9 @@ permalink: /mods/final-fantasy-xiv
 <div class="card">
   <h2 style="text-align:center" class="text-delta">Lustful Eyes</h2>
   <div class="gallery">
-    <img src="https://heliosphere.app/api/web/package/e1fb17b8d93c41a5b12611d3ef85cb0c/image/5962" /></a>
-    <img src="https://heliosphere.app/api/web/package/e1fb17b8d93c41a5b12611d3ef85cb0c/image/5966" /></a>
-    <img src="https://heliosphere.app/api/web/package/e1fb17b8d93c41a5b12611d3ef85cb0c/image/6019" /></a>
+    <img src="https://heliosphere.app/api/web/package/e1fb17b8d93c41a5b12611d3ef85cb0c/image/5962" />
+    <img src="https://heliosphere.app/api/web/package/e1fb17b8d93c41a5b12611d3ef85cb0c/image/5966" />
+    <img src="https://heliosphere.app/api/web/package/e1fb17b8d93c41a5b12611d3ef85cb0c/image/6019" />
   </div>
   <div class="container">
     <p style="text-align:center" class="text-delta">Lustful Eyes for ALL races. Let your inner OwO or Yandere take over.</p>
@@ -24,9 +24,9 @@ permalink: /mods/final-fantasy-xiv
 <div class="card">
   <h2 style="text-align:center" class="text-delta">NS3D VM UI Pack</h2>
   <div class="gallery">
-    <img src="https://heliosphere.app/api/web/package/8e32bd84ffec4a5298f1ce5caf918b7a/image/7660" /></a>
-    <img src="https://heliosphere.app/api/web/package/8e32bd84ffec4a5298f1ce5caf918b7a/image/7661" /></a>
-    <img src="https://heliosphere.app/api/web/package/8e32bd84ffec4a5298f1ce5caf918b7a/image/7662" /></a>
+    <img src="https://heliosphere.app/api/web/package/8e32bd84ffec4a5298f1ce5caf918b7a/image/7660" />
+    <img src="https://heliosphere.app/api/web/package/8e32bd84ffec4a5298f1ce5caf918b7a/image/7661" />
+    <img src="https://heliosphere.app/api/web/package/8e32bd84ffec4a5298f1ce5caf918b7a/image/7662" />
   </div>
   <div class="container">
     <p style="text-align:center" class="text-delta">A simple and minimalistic UI mod that cleans up the UI without making a whole lot of unnecessary changes.</p>
