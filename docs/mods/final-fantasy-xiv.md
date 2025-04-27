@@ -9,7 +9,7 @@ permalink: /mods/final-fantasy-xiv
 
 <div class="card">
   <h2 style="text-align:center" class="text-delta">Lustful Eyes</h2>
-  <div class="gallery">
+  <div class="gallery" align="center">
     <a href="https://heliosphere.app/api/web/package/e1fb17b8d93c41a5b12611d3ef85cb0c/image/5962" target="_blank">
         <img src="https://heliosphere.app/api/web/package/e1fb17b8d93c41a5b12611d3ef85cb0c/image/5962" /></a>
     <a href="https://heliosphere.app/api/web/package/e1fb17b8d93c41a5b12611d3ef85cb0c/image/5966" target="_blank">
