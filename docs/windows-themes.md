@@ -36,8 +36,6 @@ permalink: /windows-themes
   <br />
   <div class="container">
     <p><i><b>Copilot</b></i> theme inspired by Microsoft's <i><b>Copilot AI</b></i>.
-    <br /><br />
-    To install simply download the zip file below and extract the contents of the <i><b>Themes</b></i> folder into <i><b>C:/Windows/Resources/Themes/</b></i>.</p>
   </div>
 </div>
 <br />
@@ -48,8 +46,6 @@ permalink: /windows-themes
   <br />
   <div class="container">
     <p><i><b>Surface Pro</b></i> themes ported over from Microsoft's <i><b>Surface Pro</b></i>.
-    <br /><br />
-    To install simply download the zip file below and extract the contents of the <i><b>Themes</b></i> folder into <i><b>C:/Windows/Resources/Themes/</b></i>.</p>
   </div>
 </div>
 <br />
