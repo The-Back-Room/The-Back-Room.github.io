@@ -7,8 +7,8 @@ permalink: /windows-themes
 ---
 
 <div class="card">
-  <h2 class="text-delta">Windows 7 Themes Revived</h2>
-  <a href="https://github.com/The-Back-Room/Windows-7-Themes-Revived/archive/refs/heads/main.zip">
+  <h2 class="text-delta" style="text-align:center">Windows 7 Themes Revived</h2>
+  <a href="https://github.com/The-Back-Room/Windows-7-Themes-Revived/archive/refs/heads/main.zip" target="_blank">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dino2ml-ee84d62e-9ad3-4dbe-a5f3-62c414afec6e.png/v1/fill/w_1200,h_557,q_80,strp/windows_7_themes_revived_by_og_nimbi_dino2ml-fullview.jpg" /></a>
   <br />
   <div class="container">
@@ -20,8 +20,8 @@ permalink: /windows-themes
 </div>
 <br />
 <div class="card">
-  <h2 class="text-delta">MacOS Themes for Windows</h2>
-  <a href="https://github.com/The-Back-Room/MacOS-Themes-for-Windows/archive/refs/heads/main.zip">
+  <h2 class="text-delta" style="text-align:center">MacOS Themes for Windows</h2>
+  <a href="https://github.com/The-Back-Room/MacOS-Themes-for-Windows/archive/refs/heads/main.zip" target="_blank">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio9l97-b7c5f79d-4f66-4e2c-9408-e03e44194375.png/v1/fill/w_1363,h_586,q_70,strp/macos_themes_for_windows_by_og_nimbi_dio9l97-pre.jpg" /></a>
   <br />
   <div class="container">
@@ -30,8 +30,8 @@ permalink: /windows-themes
 </div>
 <br />
 <div class="card">
-  <h2 class="text-delta">Copilot</h2>
-  <a href="https://github.com/The-Back-Room/Copilot-Themes-for-Windows/archive/refs/heads/main.zip">
+  <h2 class="text-delta" style="text-align:center">Copilot</h2>
+  <a href="https://github.com/The-Back-Room/Copilot-Themes-for-Windows/archive/refs/heads/main.zip" target="_blank">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/836bd001-fc1e-41ac-8fce-917bee5d1f0e/djn78vn-fc9822ed-2e40-4cae-9f32-b255d38634ec.png/v1/fill/w_1131,h_707,q_70,strp/copilot_theme_for_windows_by_og_nimbi_djn78vn-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzNmJkMDAxLWZjMWUtNDFhYy04ZmNlLTkxN2JlZTVkMWYwZVwvZGpuNzh2bi1mYzk4MjJlZC0yZTQwLTRjYWUtOWYzMi1iMjU1ZDM4NjM0ZWMucG5nIiwiaGVpZ2h0IjoiPD04MDAiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC84MzZiZDAwMS1mYzFlLTQxYWMtOGZjZS05MTdiZWU1ZDFmMGVcL29nLW5pbWJpLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.kV0zsv4f75nBESPmr2mSAMxtYeBmFgJfhRVG4EFWbRw" /></a>
   <br />
   <div class="container">
@@ -42,8 +42,8 @@ permalink: /windows-themes
 </div>
 <br />
 <div class="card">
-  <h2 class="text-delta">Surface Pro</h2>
-  <a href="https://github.com/The-Back-Room/Surface-Pro-Themes-for-Windows/archive/refs/heads/main.zip">
+  <h2 class="text-delta" style="text-align:center">Surface Pro</h2>
+  <a href="https://github.com/The-Back-Room/Surface-Pro-Themes-for-Windows/archive/refs/heads/main.zip" target="_blank">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/836bd001-fc1e-41ac-8fce-917bee5d1f0e/djn7cxc-bb7abb26-ecbf-4471-8f18-d60b05fd24e1.png/v1/fill/w_1131,h_707,q_70,strp/surface_pro_themes_for_windows_by_og_nimbi_djn7cxc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzNmJkMDAxLWZjMWUtNDFhYy04ZmNlLTkxN2JlZTVkMWYwZVwvZGpuN2N4Yy1iYjdhYmIyNi1lY2JmLTQ0NzEtOGYxOC1kNjBiMDVmZDI0ZTEucG5nIiwiaGVpZ2h0IjoiPD04MDAiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC84MzZiZDAwMS1mYzFlLTQxYWMtOGZjZS05MTdiZWU1ZDFmMGVcL29nLW5pbWJpLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.xo2D-J_2gzJXoTwZT5pSaAyQx63ZLPe6wyQ8CTuoUm4" /></a>
   <br />
   <div class="container">
@@ -54,8 +54,8 @@ permalink: /windows-themes
 </div>
 <br />
   <div class="card">
-  <h2 class="text-delta">Studio Ghibli</h2>
-  <a href="https://github.com/The-Back-Room/Studio-Ghibli-Theme/archive/refs/heads/main.zip">
+  <h2 class="text-delta" style="text-align:center">Studio Ghibli</h2>
+  <a href="https://github.com/The-Back-Room/Studio-Ghibli-Theme/archive/refs/heads/main.zip" target="_blank">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio7nnc-6098ba2b-d3be-416f-ad85-7edbbb248d87.png/v1/fill/w_1174,h_522,q_80,strp/studio_ghibli_theme_by_og_nimbi_dio7nnc-fullview.jpg" /></a>
   <br />
   <div class="container">
@@ -65,8 +65,8 @@ permalink: /windows-themes
 </div>
 <br />
 <div class="card">
-  <h2 class="text-delta">Courage TCD</h2>
-  <a href="https://github.com/The-Back-Room/Courage-TCD/archive/refs/heads/main.zip">
+  <h2 class="text-delta" style="text-align:center">Courage TCD</h2>
+  <a href="https://github.com/The-Back-Room/Courage-TCD/archive/refs/heads/main.zip" target="_blank">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/ditjp44-44befe4c-7d0d-4ff0-aba4-97b8babcc312.png/v1/fill/w_960,h_540/courage_tcd_for_windows_by_og_nimbi_ditjp44-fullview.png" /></a>
   <br />
   <div class="container">
