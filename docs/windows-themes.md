@@ -12,10 +12,7 @@ permalink: /windows-themes
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dino2ml-ee84d62e-9ad3-4dbe-a5f3-62c414afec6e.png/v1/fill/w_1200,h_557,q_80,strp/windows_7_themes_revived_by_og_nimbi_dino2ml-fullview.jpg" /></a>
   <br />
   <div class="container">
-    <p>Windows 7 is a major release of the <a href="https://en.m.wikipedia.org/wiki/Windows_NT" target="_blank">Windows NT operating system</a> developed by <a href="https://en.m.wikipedia.org/wiki/Microsoft" target="_blank">Microsoft</a>. It was released to manufacturing on July 22, 2009, and became generally available on October 22, 2009. It is the successor to <a href="https://en.m.wikipedia.org/wiki/Windows_Vista" target="_blank">Windows Vista</a>, released nearly three years earlier. Windows 7's server counterpart, <a href="https://en.m.wikipedia.org/wiki/Windows_Server_2008_R2" target="_blank">Windows Server 2008 R2</a>, was released at the same time. It was succeeded by <a href="https://en.m.wikipedia.org/wiki/Windows_8" target="_blank">Windows 8</a> in October 2012.
-      <br /><br />
-      Extended support ended on January 14, 2020, over 10 years after the release of Windows 7, after which the operating system ceased receiving further updates. A paid support program was available for enterprises, providing security updates for Windows 7 for up to three years since the official end of life.
-    </p>
+    <p>Windows 7 is a major release of the <a href="https://en.m.wikipedia.org/wiki/Windows_NT" target="_blank">Windows NT operating system</a> developed by <a href="https://en.m.wikipedia.org/wiki/Microsoft" target="_blank">Microsoft</a>. It was released to manufacturing on July 22, 2009, and became generally available on October 22, 2009. It is the successor to <a href="https://en.m.wikipedia.org/wiki/Windows_Vista" target="_blank">Windows Vista</a>, released nearly three years earlier. Windows 7's server counterpart, <a href="https://en.m.wikipedia.org/wiki/Windows_Server_2008_R2" target="_blank">Windows Server 2008 R2</a>, was released at the same time. It was succeeded by <a href="https://en.m.wikipedia.org/wiki/Windows_8" target="_blank">Windows 8</a> in October 2012.<br /><br />Extended support ended on January 14, 2020, over 10 years after the release of Windows 7, after which the operating system ceased receiving further updates. A paid support program was available for enterprises, providing security updates for Windows 7 for up to three years since the official end of life.</p>
   </div>
 </div>
 <br />
@@ -35,7 +32,7 @@ permalink: /windows-themes
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/836bd001-fc1e-41ac-8fce-917bee5d1f0e/djn78vn-fc9822ed-2e40-4cae-9f32-b255d38634ec.png/v1/fill/w_1131,h_707,q_70,strp/copilot_theme_for_windows_by_og_nimbi_djn78vn-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzNmJkMDAxLWZjMWUtNDFhYy04ZmNlLTkxN2JlZTVkMWYwZVwvZGpuNzh2bi1mYzk4MjJlZC0yZTQwLTRjYWUtOWYzMi1iMjU1ZDM4NjM0ZWMucG5nIiwiaGVpZ2h0IjoiPD04MDAiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC84MzZiZDAwMS1mYzFlLTQxYWMtOGZjZS05MTdiZWU1ZDFmMGVcL29nLW5pbWJpLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.kV0zsv4f75nBESPmr2mSAMxtYeBmFgJfhRVG4EFWbRw" /></a>
   <br />
   <div class="container">
-    <p><i><b>Copilot</b></i> theme inspired by Microsoft's <i><b>Copilot AI</b></i>.
+    <p><i><b>Copilot</b></i> theme inspired by Microsoft's <i><b>Copilot AI</b></i>.</p>
   </div>
 </div>
 <br />
@@ -45,7 +42,7 @@ permalink: /windows-themes
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/836bd001-fc1e-41ac-8fce-917bee5d1f0e/djn7cxc-bb7abb26-ecbf-4471-8f18-d60b05fd24e1.png/v1/fill/w_1131,h_707,q_70,strp/surface_pro_themes_for_windows_by_og_nimbi_djn7cxc-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzgzNmJkMDAxLWZjMWUtNDFhYy04ZmNlLTkxN2JlZTVkMWYwZVwvZGpuN2N4Yy1iYjdhYmIyNi1lY2JmLTQ0NzEtOGYxOC1kNjBiMDVmZDI0ZTEucG5nIiwiaGVpZ2h0IjoiPD04MDAiLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiJcL3dtXC84MzZiZDAwMS1mYzFlLTQxYWMtOGZjZS05MTdiZWU1ZDFmMGVcL29nLW5pbWJpLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.xo2D-J_2gzJXoTwZT5pSaAyQx63ZLPe6wyQ8CTuoUm4" /></a>
   <br />
   <div class="container">
-    <p><i><b>Surface Pro</b></i> themes ported over from Microsoft's <i><b>Surface Pro</b></i>.
+    <p><i><b>Surface Pro</b></i> themes ported over from Microsoft's <i><b>Surface Pro</b></i>.</p>
   </div>
 </div>
 <br />
