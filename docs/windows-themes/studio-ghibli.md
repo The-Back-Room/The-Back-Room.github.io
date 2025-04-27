@@ -5,6 +5,7 @@ nav_order: 3
 has_toc: false
 parent: Windows Themes
 permalink: /windows-themes/studio-ghibli
+published: false
 ---
 
 <div class="card">

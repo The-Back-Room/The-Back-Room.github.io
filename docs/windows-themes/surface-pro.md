@@ -5,6 +5,7 @@ nav_order: 6
 has_toc: false
 parent: Windows Themes
 permalink: /windows-themes/surface-pro
+published: false
 ---
 
 <div class="card">

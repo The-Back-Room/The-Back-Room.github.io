@@ -5,6 +5,7 @@ nav_order: 4
 has_toc: false
 parent: Windows Themes
 permalink: /windows-themes/courage-tcd
+published: false
 ---
 
 <div class="card">

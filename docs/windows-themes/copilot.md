@@ -5,6 +5,7 @@ nav_order: 5
 has_toc: false
 parent: Windows Themes
 permalink: /windows-themes/copilot
+published: false
 ---
 
 <div class="card">
