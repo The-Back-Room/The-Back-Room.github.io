@@ -19,6 +19,8 @@ permalink: /windows-themes
       <li><a href="/windows-themes/windows-seven-themes-revived">Windows 7 Themes Revived</a></li>
       <li><a href="/windows-themes/studio-ghibli">Studio Ghibli</a></li>
       <li><a href="/windows-themes/courage-tcd">Courage TCD</a></li>
+      <li><a href="/windows-themes/copilot">Copilot</a></li>
+      <li><a href="/windows-themes/surface-pro">Surface Pro</a></li>
     </lu>
   </div>
 </div>
