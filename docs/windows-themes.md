@@ -9,7 +9,7 @@ permalink: /windows-themes
 <div class="card">
   <h2 class="text-delta" style="text-align:center">Windows 7 Themes Revived</h2>
   <a href="https://github.com/The-Back-Room/Windows-7-Themes-Revived/archive/refs/heads/main.zip" target="_blank">
-    <img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/.github/images/Screenshot%202025-04-30%20200025.png" /></a>
+    <img src="/assets/Screenshot%202025-04-30%20200025.png" /></a>
   <br />
   <div class="container">
     <p><b>Windows 7</b> is a major release of the <a href="https://en.m.wikipedia.org/wiki/Windows_NT" target="_blank">Windows NT operating system</a> developed by <a href="https://en.m.wikipedia.org/wiki/Microsoft" target="_blank">Microsoft</a>. It was released to manufacturing on July 22, 2009, and became generally available on October 22, 2009. It is the successor to <a href="https://en.m.wikipedia.org/wiki/Windows_Vista" target="_blank">Windows Vista</a>, released nearly three years earlier.</p>
