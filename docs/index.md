@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div class="card">
-  <img src="./assets/icons/brand/AppIcon.png" />
+  <img src="./assets/logo.png" />
   <div class="container">
     <p class="text-delta" style="text-align:center">Open-Source Development and Customization</p>
   </div>
