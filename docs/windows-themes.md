@@ -9,7 +9,7 @@ permalink: /windows-themes
 <div class="card">
   <h2 class="text-delta" style="text-align:center">Windows 7 Themes Revived</h2>
   <a href="https://github.com/The-Back-Room/Windows-7-Themes-Revived/archive/refs/heads/main.zip" target="_blank">
-    <img src="../assets/images/Screenshot%202025-04-30%20200025.png" /></a>
+    <img src="../assets/images/screenshots/Screenshot%202025-04-30%20200025.png" /></a>
   <br />
   <div class="container">
     <p><b>Windows 7</b> is a major release of the <a href="https://en.m.wikipedia.org/wiki/Windows_NT" target="_blank">Windows NT operating system</a> developed by <a href="https://en.m.wikipedia.org/wiki/Microsoft" target="_blank">Microsoft</a>. It was released to manufacturing on July 22, 2009, and became generally available on October 22, 2009. It is the successor to <a href="https://en.m.wikipedia.org/wiki/Windows_Vista" target="_blank">Windows Vista</a>, released nearly three years earlier.</p>
@@ -59,7 +59,7 @@ permalink: /windows-themes
 <div class="card">
   <h2 class="text-delta" style="text-align:center">Howl's Moving Castle</h2>
   <a href="https://github.com/The-Back-Room/Howls-Moving-Castle-Theme/archive/refs/heads/main.zip" target="_blank">
-    <img src="../assets/images/Screenshot 2025-04-30 212535.png" /></a>
+    <img src="../assets/images/screenshots/Screenshot 2025-04-30 212535.png" /></a>
   <br />
   <div class="container">
     <p>Howl's Moving Castle is a 2004 <a href="https://en.wikipedia.org/wiki/Anime" target="_blank">Japanese animated</a> <a href="https://en.wikipedia.org/wiki/Fantasy_film" target="_blank">fantasy film</a> written and directed by <a href="https://en.wikipedia.org/wiki/Hayao_Miyazaki" target="_blank">Hayao Miyazaki</a>. It is loosely based on the 1986 novel <a href="https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(novel)" target="_blank">Howl's Moving Castle</a> by British author <a href="https://en.wikipedia.org/wiki/Diana_Wynne_Jones" target="_blank">Diana Wynne Jones</a>. The film was produced by <a href="https://en.wikipedia.org/wiki/Toshio_Suzuki_(producer)" target="_blank">Toshio Suzuki</a>, animated by <a href="https://en.wikipedia.org/wiki/Studio_Ghibli" target="_blank">Studio Ghibli</a>, and distributed by <a href="https://en.wikipedia.org/wiki/Toho" target="_blank">Toho</a>.</p>
