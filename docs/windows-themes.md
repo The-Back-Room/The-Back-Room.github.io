@@ -57,6 +57,16 @@ permalink: /windows-themes
 </div>
 <br />
 <div class="card">
+  <h2 class="text-delta" style="text-align:center">Howl's Moving Castle</h2>
+  <a href="https://github.com/The-Back-Room/Howls-Moving-Castle-Theme/archive/refs/heads/main.zip" target="_blank">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio7w97-d4f5c896-12ab-4fc7-848e-f2dbaa08c7d0.png/v1/fill/w_1131,h_707,q_70,strp/howl_s_moving_castle_theme_by_og_nimbi_dio7w97-pre.jpg" /></a>
+  <br />
+  <div class="container">
+    <p><b>Studio Ghibli, Inc.</b> (Japanese: 株式会社スタジオジブリ, <a href="https://en.wikipedia.org/wiki/Hepburn_romanization" target="_blank">Hepburn</a>: <i><a href="https://en.wikipedia.org/wiki/Kabushiki-gaisha" target="_blank">Kabushiki-gaisha</a> Sutajio Jiburi</i>) is a Japanese <a href="https://en.wikipedia.org/wiki/Animation_studio" target="_blank">animation studio</a> based in <a href="https://en.wikipedia.org/wiki/Koganei,_Tokyo" target="_blank">Koganei, Tokyo</a>. It has a strong presence in the animation industry and has expanded its portfolio to include various media formats, such as short subjects, television commercials, and two television films. Their work has been well received by audiences and recognized with numerous awards. Their mascot and most recognizable symbol, the character Totoro from the 1988 film <i><a href="https://en.wikipedia.org/wiki/My_Neighbor_Totoro" target="_blank">My Neighbor Totoro</a></i>, is a giant <a href="https://en.wikipedia.org/wiki/Kami" target="_blank">spirit</a> inspired by <a href="https://en.wikipedia.org/wiki/Japanese_raccoon_dog" target="_blank">raccoon dogs</a> (tanuki) and cats <i>(neko)</i>. Among the studio's highest-grossing films are <i><a href="https://en.wikipedia.org/wiki/Princess_Mononoke" target="_blank">Princess Mononoke</a></i> (1997), <i><a href="https://en.wikipedia.org/wiki/Spirited_Away" target="_blank">Spirited Away</a></i> (2001), <i><a href="https://en.wikipedia.org/wiki/Howl%27s_Moving_Castle_(film)" target="_blank">Howl's Moving Castle</a></i> (2004), <i><a href="https://en.wikipedia.org/wiki/Ponyo" target="_blank">Ponyo</a></i> (2008), and <i><a href="https://en.wikipedia.org/wiki/The_Boy_and_the_Heron" target="_blank">The Boy and the Heron</a></i> (2023). Studio Ghibli was founded on June 15, 1985, by the directors Hayao Miyazaki and Isao Takahata and producer Toshio Suzuki, after acquiring Topcraft's assets.</p>
+  </div>
+</div>
+<br />
+<div class="card">
   <h2 class="text-delta" style="text-align:center">Courage TCD</h2>
   <a href="https://github.com/The-Back-Room/Courage-TCD/archive/refs/heads/main.zip" target="_blank">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/ditjp44-44befe4c-7d0d-4ff0-aba4-97b8babcc312.png/v1/fill/w_960,h_540/courage_tcd_for_windows_by_og_nimbi_ditjp44-fullview.png" /></a>
