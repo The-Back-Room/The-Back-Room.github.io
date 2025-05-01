@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div class="card">
-  <img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/icons/brand/AppIcon.png" />
+  <img src="./assets/icons/brand/AppIcon.png" width="50%">
   <div class="container">
     <p class="text-delta" style="text-align:center">Open-Source Development and Customization</p>
   </div>
