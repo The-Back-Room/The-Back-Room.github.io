@@ -12,7 +12,7 @@ permalink: /windows-themes
     <img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/.github/images/Screenshot%202025-04-30%20200025.png" /></a>
   <br />
   <div class="container">
-    <p>Windows 7 is a major release of the <a href="https://en.m.wikipedia.org/wiki/Windows_NT" target="_blank">Windows NT operating system</a> developed by <a href="https://en.m.wikipedia.org/wiki/Microsoft" target="_blank">Microsoft</a>. It was released to manufacturing on July 22, 2009, and became generally available on October 22, 2009. It is the successor to <a href="https://en.m.wikipedia.org/wiki/Windows_Vista" target="_blank">Windows Vista</a>, released nearly three years earlier.</p>
+    <p><b>Windows 7</b> is a major release of the <a href="https://en.m.wikipedia.org/wiki/Windows_NT" target="_blank">Windows NT operating system</a> developed by <a href="https://en.m.wikipedia.org/wiki/Microsoft" target="_blank">Microsoft</a>. It was released to manufacturing on July 22, 2009, and became generally available on October 22, 2009. It is the successor to <a href="https://en.m.wikipedia.org/wiki/Windows_Vista" target="_blank">Windows Vista</a>, released nearly three years earlier.</p>
   </div>
 </div>
 <br />
