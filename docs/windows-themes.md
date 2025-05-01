@@ -22,7 +22,7 @@ permalink: /windows-themes
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio9l97-b7c5f79d-4f66-4e2c-9408-e03e44194375.png/v1/fill/w_1363,h_586,q_70,strp/macos_themes_for_windows_by_og_nimbi_dio9l97-pre.jpg" /></a>
   <br />
   <div class="container">
-    <p>macOS, originally Mac OS X, previously shortened as OS X, is a Unix-like operating system developed and marketed by <a href="https://en.m.wikipedia.org/wiki/Apple_Inc." target="_blank">Apple</a> since 2001. It is the primary operating system for Apple's <a href="https://en.m.wikipedia.org/wiki/Mac_(computer)" target="_blank">Mac computers</a>.</p>
+    <p><b>macOS</b>, originally <b>Mac OS X</b>, previously shortened as <b>OS X</b>, is a Unix-like operating system developed and marketed by <a href="https://en.m.wikipedia.org/wiki/Apple_Inc." target="_blank">Apple</a> since 2001. It is the primary operating system for Apple's <a href="https://en.m.wikipedia.org/wiki/Mac_(computer)" target="_blank">Mac computers</a>.</p>
   </div>
 </div>
 <br />
@@ -33,8 +33,8 @@ permalink: /windows-themes
   <br />
   <div class="container">
     <p>Theme inspired by Microsoft's <b>Copilot</b>.
-    <br />
-    <b>Microsoft Copilot</b> (or simply <b>Copilot</b>) is a <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence">generative artificial intelligence chatbot</a> developed by <a href="https://en.wikipedia.org/wiki/Microsoft">Microsoft</a>. Based on the <a href="https://en.wikipedia.org/wiki/GPT-4">GPT-4</a> series of <a href="https://en.wikipedia.org/wiki/Large_language_model">large language models</a>, it was launched in 2023 as Microsoft's primary replacement for the discontinued <a href="https://en.wikipedia.org/wiki/Cortana_(virtual_assistant)">Cortana</a>.</p>
+    <br /><br />
+    <b>Microsoft Copilot</b> (or simply <b>Copilot</b>) is a <a href="https://en.wikipedia.org/wiki/Generative_artificial_intelligence" target="_blank">generative artificial intelligence chatbot</a> developed by <a href="https://en.wikipedia.org/wiki/Microsoft" target="_blank">Microsoft</a>. Based on the <a href="https://en.wikipedia.org/wiki/GPT-4">GPT-4</a> series of <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank">large language models</a>, it was launched in 2023 as Microsoft's primary replacement for the discontinued <a href="https://en.wikipedia.org/wiki/Cortana_(virtual_assistant)" target="_blank">Cortana</a>.</p>
   </div>
 </div>
 <br />
@@ -45,8 +45,8 @@ permalink: /windows-themes
   <br />
   <div class="container">
     <p>Themes ported over from Microsoft's <b>Surface Pro</b>.
-    <br />
-    The <b>Surface Pro</b> is a line of <a href="https://en.wikipedia.org/wiki/2-in-1_laptop">2-in-1 detachable</a> devices marketed by <a href="https://en.wikipedia.org/wiki/Microsoft">Microsoft</a>, as a sub-brand of their <a href="https://en.wikipedia.org/wiki/Microsoft_Surface">Surface</a> devices.</p>
+    <br /><br />
+    The <b>Surface Pro</b> is a line of <a href="https://en.wikipedia.org/wiki/2-in-1_laptop" target="_blank">2-in-1 detachable</a> devices marketed by <a href="https://en.wikipedia.org/wiki/Microsoft" target="_blank">Microsoft</a>, as a sub-brand of their <a href="https://en.wikipedia.org/wiki/Microsoft_Surface" target="_blank">Surface</a> devices.</p>
   </div>
 </div>
 <br />
