@@ -19,7 +19,7 @@ permalink: /windows-themes
 <div class="card">
   <h2 class="text-delta" style="text-align:center">MacOS Themes for Windows</h2>
   <a href="https://github.com/The-Back-Room/MacOS-Themes-for-Windows/archive/refs/heads/main.zip" target="_blank">
-    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio9l97-b7c5f79d-4f66-4e2c-9408-e03e44194375.png/v1/fill/w_1363,h_586,q_70,strp/macos_themes_for_windows_by_og_nimbi_dio9l97-pre.jpg" /></a>
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio9l97-97e10434-0246-44ab-a90e-e85e1c64b349.png/v1/fill/w_1131,h_707,q_70,strp/macos_themes_for_windows_by_og_nimbi_dio9l97-pre.jpg" /></a>
   <br />
   <div class="container">
     <p><b>macOS</b>, originally <b>Mac OS X</b>, previously shortened as <b>OS X</b>, is a Unix-like operating system developed and marketed by <a href="https://en.m.wikipedia.org/wiki/Apple_Inc." target="_blank">Apple</a> since 2001. It is the primary operating system for Apple's <a href="https://en.m.wikipedia.org/wiki/Mac_(computer)" target="_blank">Mac computers</a>.</p>
