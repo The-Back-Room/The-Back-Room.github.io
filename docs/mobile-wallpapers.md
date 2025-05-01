@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Final Fantasy XIV
-nav_order: 1
+title: Mobile Wallpapers
+nav_order: 3
 has_toc: false
-parent: Mobile
-permalink: /wallpapers/mobile/final-fantasy-xiv
+permalink: /mobile-wallpapers
 ---
-
 
 <div class="card">
   <h2 style="text-align:center" class="text-delta">Final Fantasy Scenery</h2>

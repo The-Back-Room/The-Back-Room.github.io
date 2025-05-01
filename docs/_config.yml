@@ -20,18 +20,8 @@ nav_enabled: true
 search_enabled: false
 
 pages:
-- /index.md
 - /404.md
+- /index.md
 - /windows-themes.md
-- /wallpapers.md
-- /mods.md
-- /mods/final-fantasy-xiv.md
-- /wallpapers/mobile.md
-# - /windows-themes/macos-themes-for-windows.md
-# - /windows-themes/windows-seven-themes-revived.md
-# - /windows-themes/studio-ghibli.md
-# - /windows-themes/courage-tcd.md
-# - /windows-themes/copilot.md
-# - /windows-themes/surface-pro.md
-- /wallpapers/mobile/final-fantasy-xiv.md
-- /wallpapers/mobile/windows-11.md
+- /mobile-wallpapers.md
+- /ffxiv-mods.md

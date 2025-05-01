@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Final Fantasy XIV
-nav_order: 1
+title: Final Fantasy XIV Mods
+nav_order: 4
 has_toc: false
-parent: Mods
-permalink: /mods/final-fantasy-xiv
+permalink: /ffxiv-mods
 ---
 
 <div class="card">
