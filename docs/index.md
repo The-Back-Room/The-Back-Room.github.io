@@ -7,9 +7,9 @@ permalink: /
 ---
 
 <div class="card">
-  <img src="./assets/logo.png" />
   <div class="container">
-    <p class="text-delta" style="text-align:center">Open-Source Development and Customization</p>
+    <p class="text-delta" style="text-align:center"><h2>The Back Room</h2><br />
+    Open-Source Development and Customization</p>
   </div>
 </div>
 
