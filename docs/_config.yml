@@ -25,3 +25,9 @@ pages:
 - /windows-themes.md
 - /mobile-wallpapers.md
 - /ffxiv-mods.md
+
+nav_external_links:
+- title: Vortex Mods
+  url: https://the-back-room.github.io/Vortex-Mods/
+  hide_json: false
+  open_in_new_tab: false
