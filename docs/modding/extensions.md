@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Extensions
+title: Modding
 parent: Vortex
 nav_order: 1
 has_toc: false
-permalink: /vortex/extensions
+permalink: /modding/extensions
 ---
 
 <div class="card">

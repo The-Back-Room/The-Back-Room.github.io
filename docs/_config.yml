@@ -24,7 +24,6 @@ pages:
 - /index.md
 - /windows-themes.md
 - /mobile-wallpapers.md
-- /ffxiv-mods.md
-- /vortex.md
-- /vortex/extensions.md
-- /vortex/mods.md
+- /modding.md
+- /modding/extensions.md
+- /modding/mods.md
