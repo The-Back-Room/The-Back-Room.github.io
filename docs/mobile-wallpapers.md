@@ -7,7 +7,6 @@ permalink: /mobile-wallpapers
 ---
 
 <div class="card">
-  <h2 style="text-align:center" class="text-delta">Final Fantasy Scenery</h2>
   <div class="gallery">
     <a href="../../assets/wallpapers/mobile/ffxiv/Aleport.png?raw=true" target="_blank">
       <img src="../../assets/wallpapers/mobile/ffxiv/Aleport.png?raw=true" /></a>
@@ -65,6 +64,7 @@ permalink: /mobile-wallpapers
       <img src="../../assets/wallpapers/mobile/ffxiv/Raincatcher-Gully.png?raw=true" /></a>
   </div>
   <div class="container">
-    <p style="text-align:center" class="text-delta">These wallpapers were created by various Reddit users.</p>
+    <p style="text-align:center" class="text-delta">Final Fantasy Scenery.
+    <br /><br />These wallpapers were created by various Reddit users.</p>
   </div>
 </div>
