@@ -8,8 +8,8 @@ permalink: /
 
 <div class="card">
   <div class="container">
-    <p class="text-delta" style="text-align:center"><h2>The Back Room</h2><br />
-    Open-Source Development and Customization</p>
+    <h2 class="text-delta" style="text-align:center">The Back Room</h2>
+    <p class="text-delta" style="text-align:center">Open-Source Development and Customization</p>
   </div>
 </div>
 
