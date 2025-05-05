@@ -10,6 +10,6 @@ permalink: /modding
 <div class="card">
   <img width="100%" height="auto" class="block" src="https://thumbs.dreamstime.com/b/concept-video-games-two-gamepads-levitate-abstract-background-wide-banner-181892875.jpg" />
   <div class="container">
-    <p class="text-delta" style="text-align:center">A collection of gaming mods and tools.</p>
+    <p class="text-delta" style="text-align:center">A collection of gaming mods and tools</p>
   </div>
 </div>
