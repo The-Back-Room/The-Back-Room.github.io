@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Modding
-parent: Vortex
+title: Extensions
+parent: Modding
 nav_order: 1
 has_toc: false
 permalink: /modding/extensions
