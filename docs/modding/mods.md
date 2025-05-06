@@ -7,16 +7,6 @@ has_toc: false
 permalink: /modding/mods
 ---
 
-<!-- <h2 style="text-align:center" class="text-delta">CAETGORY_NAME</h2>
-<br />
-<div class="card">
-  <a href="https://www.nexusmods.com/GAME_TITLE/mods/MOD_ID" target="_blank">
-    <img width="100%" height="auto" class="block" src="PREVIEW_URL" /></a>
-  <div class="container">
-    <p style="text-align:center" class="text-delta">MOD_NAME</p>
-  </div>
-</div>
-<br /> -->
 <h2 style="text-align:center" class="text-delta">Final Fantasy XIV</h2>
 <br />
 <div class="card">
@@ -27,9 +17,12 @@ permalink: /modding/mods
     <br /><br />
     <h2 style="text-align:center" class="text-delta">Dowload</h2>
     <p style="text-align:center" class="text-delta">
-      <a href="https://www.nexusmods.com/finalfantasy14/mods/2401" target="_blank"><button type="button" name="button" class="btn"></button>Nexus Mods</a>
-      <a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank"><button type="button" name="button" class="btn"></button>Heliosphere</a>
-      <a href="https://www.xivmodarchive.com/modid/120843" target="_blank"><button type="button" name="button" class="btn"></button>XIV Mod Archive</a>
+      <a href="https://www.nexusmods.com/finalfantasy14/mods/2401" target="_blank">
+        <button type="button" name="button" class="btn">Nexus Mods</button></a>
+      <a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank">
+        <button type="button" name="button" class="btn">Heliosphere</button></a>
+      <a href="https://www.xivmodarchive.com/modid/120843" target="_blank">
+        <button type="button" name="button" class="btn">XIV Mod Archive</button></a>
     </p>
   </div>
 </div>
@@ -42,9 +35,12 @@ permalink: /modding/mods
     <br /><br />
     <h2 style="text-align:center" class="text-delta">Dowload</h2>
     <p style="text-align:center" class="text-delta">
-      <a href="https://www.nexusmods.com/finalfantasy14/mods/2402" target="_blank"><button type="button" name="button" class="btn"></button>Nexus Mods</a>
-      <a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank"><button type="button" name="button" class="btn"></button>Heliosphere</a>
-      <a href="https://www.xivmodarchive.com/modid/125248" target="_blank"><button type="button" name="button" class="btn"></button>XIV Mod Archive</a>
+      <a href="https://www.nexusmods.com/finalfantasy14/mods/2402" target="_blank">
+        <button type="button" name="button" class="btn">Nexus Mods</button></a>
+      <a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank">
+        <button type="button" name="button" class="btn">Heliosphere</button></a>
+      <a href="https://www.xivmodarchive.com/modid/125248" target="_blank">
+        <button type="button" name="button" class="btn">XIV Mod Archive</button></a>
     </p>
   </div>
 </div>

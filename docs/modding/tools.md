@@ -14,10 +14,10 @@ permalink: /modding/tools
   <div class="container">
     <h2 style="text-align:center" class="text-delta">Action Taimanin Extension</h2>
     <p style="text-align:center" class="text-delta">Add mod support to <b><a href="https://www.nexusmods.com/about/vortex" target="_blank">Vortex Mod Manager</a></b></p>
-    <br /><br />
-    <h2 style="text-align:center" class="text-delta">Dowload</h2>
-    <p style="text-align:center" class="text-delta">
-      <a href="https://www.nexusmods.com/site/mods/546" target="_blank"><button type="button" name="button" class="btn"></button>Nexus Mods</a>
-    </p>
   </div>
 </div>
+<h2 style="text-align:center" class="text-delta">Dowload</h2>
+<p style="text-align:center" class="text-delta">
+  <a href="https://www.nexusmods.com/site/mods/546" target="_blank">
+    <button type="button" name="button" class="btn">Nexus Mods</button></a>
+</p>
