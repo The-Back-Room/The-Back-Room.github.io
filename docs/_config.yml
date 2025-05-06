@@ -12,7 +12,7 @@ mermaid:
 
 heading_anchors: true
 nav_enabled: true
-search_enabled: false
+search_enabled: true
 
 nav_sort: case_sensitive
 
