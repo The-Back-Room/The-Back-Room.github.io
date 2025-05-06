@@ -23,6 +23,7 @@ permalink: /modding/mods
       <a href="https://www.xivmodarchive.com/modid/120843" target="_blank">
         <button type="button" name="button" class="btn text-delta">XIV Mod Archive</button></a>
     </p>
+    <br />
   </div>
 </div>
 <br />
@@ -41,5 +42,6 @@ permalink: /modding/mods
       <a href="https://www.xivmodarchive.com/modid/125248" target="_blank">
         <button type="button" name="button" class="btn text-delta">XIV Mod Archive</button></a>
     </p>
+    <br />
   </div>
 </div>
