@@ -64,7 +64,7 @@ permalink: /mobile-wallpapers
       <img width="100%" height="auto" class="block" src="../../assets/wallpapers/mobile/ffxiv/Raincatcher-Gully.png?raw=true" /></a>
   </div>
   <div class="container">
-    <p style="text-align:center" class="text-delta">Final Fantasy Scenery.
+    <p style="text-align:center">Final Fantasy Scenery.
     <br /><br />These wallpapers were created by various Reddit users.</p>
   </div>
 </div>
