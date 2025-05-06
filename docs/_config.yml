@@ -5,7 +5,8 @@ favicon_ico: "/assets/icons/brand/AppIcon.ico"
 
 remote_theme: just-the-docs/just-the-docs
 
-color_scheme: dark
+color_scheme: nil
+enable_color_scheme_toggle: false
 
 callouts:
   warning:
