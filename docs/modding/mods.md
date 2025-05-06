@@ -14,7 +14,7 @@ permalink: /modding/mods
   <div class="container">
     <h2 style="text-align:center" class="text-delta">Lustful Eyes</h2>
     <p style="text-align:center" class="text-delta">Lustful eyes for all races. Let your inner OwO or Yandare take over!</p>
-    <br /><br />
+    <br />
     <h2 style="text-align:center" class="text-delta">Dowload</h2>
     <p style="text-align:center" class="text-delta">
       <a href="https://www.nexusmods.com/finalfantasy14/mods/2401" target="_blank">
@@ -32,7 +32,7 @@ permalink: /modding/mods
   <div class="container">
     <h2 style="text-align:center" class="text-delta">[NS3D] (VM) UI Pack</h2>
     <p style="text-align:center" class="text-delta">Lustful eyes for all races. Let your inner OwO or Yandare take over!</p>
-    <br /><br />
+    <br />
     <h2 style="text-align:center" class="text-delta">Dowload</h2>
     <p style="text-align:center" class="text-delta">
       <a href="https://www.nexusmods.com/finalfantasy14/mods/2402" target="_blank">
