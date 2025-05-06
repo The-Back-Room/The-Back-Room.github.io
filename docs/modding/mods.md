@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Mods
-parent: Modding
+description: Mods for various games
 nav_order: 2
-has_toc: false
+parent: Modding
 permalink: /modding/mods
 ---
 

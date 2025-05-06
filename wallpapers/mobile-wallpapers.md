@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Mobile Wallpapers
+description: Wallpapers for mobile users
 nav_order: 3
 has_toc: false
-permalink: /mobile-wallpapers
+parent: Wallpapers
+permalink: /wallpapers/mobile-wallpapers
 ---
 
 <div class="card">

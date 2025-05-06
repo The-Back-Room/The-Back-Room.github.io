@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Windows Themes
+description: Themes for Windows users
 nav_order: 2
-has_toc: false
-permalink: /windows-themes
+parent: Themes
+permalink: /themes/windows-themes
 ---
 
 <div class="card">
