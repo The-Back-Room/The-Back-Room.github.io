@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Extensions
+title: Tools
 parent: Modding
 nav_order: 1
 has_toc: false
