@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Tools
-descriptuon: Modding tools for various programs
 nav_order: 1
 parent: Modding
 permalink: /modding/tools

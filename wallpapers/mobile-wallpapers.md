@@ -1,9 +1,6 @@
 ---
 layout: default
 title: Mobile Wallpapers
-description: Wallpapers for mobile users
-nav_order: 3
-has_toc: false
 parent: Wallpapers
 permalink: /wallpapers/mobile-wallpapers
 ---

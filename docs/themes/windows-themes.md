@@ -1,8 +1,6 @@
 ---
 layout: default
 title: Windows Themes
-description: Themes for Windows users
-nav_order: 2
 parent: Themes
 permalink: /themes/windows-themes
 ---

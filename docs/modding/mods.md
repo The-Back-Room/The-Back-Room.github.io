@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Mods
-description: Mods for various games
 nav_order: 2
 parent: Modding
 permalink: /modding/mods
