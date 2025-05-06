@@ -15,14 +15,12 @@ permalink: /modding/mods
     <p class="text-delta" style="text-align:center">Lustful eyes for all races. Let your inner OwO or Yandare take over!</p>
     <br />
     <h2 class="text-delta" style="text-align:center">Dowload</h2>
-    <p class="text-delta" style="text-align:center">
-      <a href="https://www.nexusmods.com/finalfantasy14/mods/2401" target="_blank">
-        <button type="button" name="button" class="btn text-delta">Nexus Mods</button></a>
-      <a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank">
-        <button type="button" name="button" class="btn text-delta">Heliosphere</button></a>
-      <a href="https://www.xivmodarchive.com/modid/120843" target="_blank">
-        <button type="button" name="button" class="btn text-delta">XIV Mod Archive</button></a>
-    </p>
+    <a href="https://www.nexusmods.com/finalfantasy14/mods/2401" target="_blank">
+    <button type="button" name="button" class="btn text-delta">Nexus Mods</button></a>
+    <a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank">
+    <button type="button" name="button" class="btn text-delta">Heliosphere</button></a>
+    <a href="https://www.xivmodarchive.com/modid/120843" target="_blank">
+    <button type="button" name="button" class="btn text-delta">XIV Mod Archive</button></a>
     <br />
   </div>
 </div>
@@ -34,14 +32,12 @@ permalink: /modding/mods
     <p class="text-delta" style="text-align:center">Lustful eyes for all races. Let your inner OwO or Yandare take over!</p>
     <br />
     <h2 class="text-delta" style="text-align:center">Dowload</h2>
-    <p class="text-delta" style="text-align:center">
-      <a href="https://www.nexusmods.com/finalfantasy14/mods/2402" target="_blank">
-        <button type="button" name="button" class="btn text-delta">Nexus Mods</button></a>
-      <a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank">
-        <button type="button" name="button" class="btn text-delta">Heliosphere</button></a>
-      <a href="https://www.xivmodarchive.com/modid/125248" target="_blank">
-        <button type="button" name="button" class="btn text-delta">XIV Mod Archive</button></a>
-    </p>
+    <a href="https://www.nexusmods.com/finalfantasy14/mods/2402" target="_blank">
+    <button type="button" name="button" class="btn text-delta">Nexus Mods</button></a>
+    <a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank">
+    <button type="button" name="button" class="btn text-delta">Heliosphere</button></a>
+    <a href="https://www.xivmodarchive.com/modid/125248" target="_blank">
+    <button type="button" name="button" class="btn text-delta">XIV Mod Archive</button></a>
     <br />
   </div>
 </div>
