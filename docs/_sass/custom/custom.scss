@@ -1,4 +1,4 @@
-button {
+.btn {
   display: block;
   border-radius: 5px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
@@ -31,12 +31,4 @@ button {
 .block {
   display: block;
   border-radius: 5px;
-}
-
-.text-normal {
-  font-size: 10pt !important;
-}
-
-.text-large {
-  font-size: 12pt !important;
 }
