@@ -8,7 +8,7 @@ permalink: /themes/windows/howls-moving-castle
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../assets/images/screenshots/Screenshot 2025-04-30 212535.png" />
+  <img width="100%" height="auto" class="block" src="../../assets/images/screenshots/Screenshot 2025-04-30 212535.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Howl's Moving Castle</h2>
