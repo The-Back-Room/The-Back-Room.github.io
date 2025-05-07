@@ -16,7 +16,7 @@ permalink: /modding/tools
     <br />
     <h2 class="text-small" style="text-align:center">Dowload</h2>
     <p class="text-small" style="text-align:center">
-    <a href="https://www.nexusmods.com/site/mods/546" target="_blank"><button style="text-align:center" type="button" name="button" class="btn">Nexus Mods</button></a>
+    <a href="https://www.nexusmods.com/site/mods/546" target="_blank"><button style="text-align:center" type="button" name="button" class="btn mr-auto">Nexus Mods</button></a>
     </p>
   </div>
 </div>
