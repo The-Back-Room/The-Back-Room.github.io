@@ -29,9 +29,12 @@ permalink: /modding/mods
     <p class="text-small" style="text-align:center">Lustful eyes for all races. Let your inner OwO or Yandare take over!</p>
     <br />
     <h2 class="text-small" style="text-align:center">Dowload</h2>
-    <a href="https://www.nexusmods.com/finalfantasy14/mods/2402" target="_blank"><button style="text-align:center" type="button" name="button" class="btn mr-3">Nexus Mods</button></a>
-    <a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank"><button style="text-align:center" type="button" name="button" class="btn mr-3">Heliosphere</button></a>
-    <a href="https://www.xivmodarchive.com/modid/125248" target="_blank"><button style="text-align:center" type="button" name="button" class="btn mr-3">XIV Mod Archive</button></a>
+    <button style="text-align:center" type="button" name="button" class="btn mr-3">
+    <a href="https://www.nexusmods.com/finalfantasy14/mods/2402" target="_blank">Nexus Mods</a></button>
+    <button style="text-align:center" type="button" name="button" class="btn mr-3">
+    <a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank">Heliosphere</a></button>
+    <button style="text-align:center" type="button" name="button" class="btn mr-3">
+    <a href="https://www.xivmodarchive.com/modid/125248" target="_blank">XIV Mod Archive</a></button>
     <br />
   </div>
 </div>
