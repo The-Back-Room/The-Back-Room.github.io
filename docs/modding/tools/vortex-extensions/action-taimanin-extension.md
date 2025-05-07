@@ -8,7 +8,7 @@ permalink: /modding/tools/vortex-extensions/action-taimanin-extension
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="https://staticdelivery.nexusmods.com/mods/2295/images/headers/546_1746338251.jpg" />
+  <img width="100%" height="auto" class="block" src="../../../assets/images/vortex-extension.webp" />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Action Taimanin Extension</h2>
     <p class="text-small" style="text-align:center">Add mod support to <b><a href="https://www.nexusmods.com/about/vortex" target="_blank">Vortex Mod Manager</a></b></p>

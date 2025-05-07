@@ -8,7 +8,7 @@ permalink: /themes/windows/studio-ghibli
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio7nnc-6098ba2b-d3be-416f-ad85-7edbbb248d87.png/v1/fill/w_1174,h_522,q_80,strp/studio_ghibli_theme_by_og_nimbi_dio7nnc-fullview.jpg" />
+  <img width="100%" height="auto" class="block" src="../../assets/images/studio-ghibli.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Studio Ghibli</h2>

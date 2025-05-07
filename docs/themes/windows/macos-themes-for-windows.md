@@ -8,7 +8,7 @@ permalink: /themes/windows/macos-themes-for-windows
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio9l97-97e10434-0246-44ab-a90e-e85e1c64b349.png/v1/fill/w_1131,h_707,q_70,strp/macos_themes_for_windows_by_og_nimbi_dio9l97-pre.jpg" />
+  <img width="100%" height="auto" class="block" src="../../assets/images/macos-themes-for-windows.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">MacOS Themes for Windows</h2>

@@ -8,7 +8,7 @@ permalink: /themes/windows/windows-7-themes-revived
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../assets/images/screenshots/Screenshot%202025-04-30%20200025.png" />
+  <img width="100%" height="auto" class="block" src="../../assets/images/windows-7-themes-revived.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Windows 7 Themes Revived</h2>

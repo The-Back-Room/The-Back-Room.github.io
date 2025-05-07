@@ -8,7 +8,7 @@ permalink: /modding/mods/final-fantasy-xiv/lustful-eyes
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="https://staticdelivery.nexusmods.com/mods/941/images/headers/2401_1746486162.jpg" />
+  <img width="100%" height="auto" class="block" src="../../../assets/images/lustful-eyes.webp" />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Lustful Eyes</h2>
     <p class="text-small" style="text-align:center">Lustful eyes for all races. Let your inner OwO or Yandare take over!</p>
