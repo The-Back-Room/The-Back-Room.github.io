@@ -15,8 +15,8 @@ permalink: /modding/tools
     <p class="text-small" style="text-align:center">Add mod support to <b><a href="https://www.nexusmods.com/about/vortex" target="_blank">Vortex Mod Manager</a></b></p>
     <br />
     <h2 class="text-small" style="text-align:center">Dowload</h2>
-    <p style="text-align:center">
-    <a href="https://www.nexusmods.com/site/mods/546" target="_blank"><button type="button" name="button" class="btn">Nexus Mods</button></a>
+    <p class="text-small" style="text-align:center">
+    <a href="https://www.nexusmods.com/site/mods/546" target="_blank"><button style="text-align:center" type="button" name="button" class="btn">Nexus Mods</button></a>
     </p>
   </div>
 </div>
