@@ -10,7 +10,7 @@ permalink: /themes/windows-themes
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Windows 7 Themes Revived</h2>
-    <p class="text-small" style="text-align:center">Revival project bringing back the classic Windows 7 themes for Windows 11 users.</p>
+    <p class="text-small" style="text-align:center">Windows 7 themes ported to Windows 11</p>
     <br />
     <span class="fs-3">
       <div align="center" class="text-small">
@@ -27,7 +27,7 @@ permalink: /themes/windows-themes
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">MacOS Themes for Windows</h2>
-    <p class="text-small" style="text-align:center">MacOS themes ported over to Windows 11</p>
+    <p class="text-small" style="text-align:center">MacOS themes ported to Windows 11</p>
     <br />
     <span class="fs-3">
       <div align="center" class="text-small">
