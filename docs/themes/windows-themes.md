@@ -101,12 +101,11 @@ permalink: /themes/windows-themes
   <div class="container">
     <p class="text-small"  style="text-align:center">Courage TCD</p>
     <br />
-    <span class="fs-3">
-      <p class="text-small" style="text-align:center">
-        <a href="https://github.com/The-Back-Room/Courage-TCD/archive/refs/heads/main.zip" target="_blank">
-          <button type="button" name="button" class="btn">Download</button></a>
-      </p>
-    </span>
+    <div align="center" class="fs-3 mr-3">
+      <a href="https://github.com/The-Back-Room/Courage-TCD/archive/refs/heads/main.zip" target="_blank">
+        <button type="button" name="button" class="btn">Download</button></a>
+    </div>
+    <br />
   </div>
 </div>
 
