@@ -1,7 +1,8 @@
 {% if site.logo %}
 <div class="site-logo" class="text-delta" role="img" aria-label="{{ site.title }}"></div>
 {% else %}
-<img width="22px" src="/favicon.ico" />
+<!-- <img width="22px" src="/favicon.ico" /> -->
+{{ site.favicon }}
 <pre> </pre>
 <p class="text-delta">{{ site.title }}</p>
 {% endif %}
