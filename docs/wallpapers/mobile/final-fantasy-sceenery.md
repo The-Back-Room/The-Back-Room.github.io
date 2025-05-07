@@ -1,8 +1,10 @@
 ---
 layout: default
-title: Mobile Wallpapers
-parent: Wallpapers
-permalink: /wallpapers/mobile-wallpapers
+title: Final Fantasy Scenery
+nav_order: 1
+parent: Mobile Wallpapers
+grand_parent: Wallpapers
+permalink: /wallpapers/mobile/final-fantasy-scenery
 ---
 
 <div class="card">
