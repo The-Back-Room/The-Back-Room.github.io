@@ -7,8 +7,6 @@ grand_parent: Tools
 permalink: /modding/tools/vortex-extensions/action-taimanin-extension
 ---
 
-<h2 class="text-delta" style="text-align:center">Vortex Extensions</h2>
-<br />
 <div class="card">
   <img width="100%" height="auto" class="block" src="https://staticdelivery.nexusmods.com/mods/2295/images/headers/546_1746338251.jpg" />
   <div class="container">
