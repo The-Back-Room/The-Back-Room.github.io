@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Final Fantasy Scenery
+title: Final Fantasy XIV Scenery
 nav_order: 1
 parent: Mobile Wallpapers
 grand_parent: Wallpapers
-permalink: /wallpapers/mobile/final-fantasy-scenery
+permalink: /wallpapers/mobile/final-fantasy-xiv-scenery
 ---
 
 <div class="card">
@@ -65,7 +65,7 @@ permalink: /wallpapers/mobile/final-fantasy-scenery
       <img width="100%" height="auto" class="block" src="../../assets/wallpapers/mobile/ffxiv/Raincatcher-Gully.png?raw=true" /></a>
   </div>
   <div class="container">
-    <h2 class="text-small" style="text-align:center">Final Fantasy Scenery</h2>
+    <h2 class="text-small" style="text-align:center">Final Fantasy XIV Scenery</h2>
     <p class="text-small" style="text-align:center">These wallpapers were created by various Reddit users. I've resized and preserved them here for all to enjoy.
     <br /><br />Click the image(s) to download whichever wallpaper(s) you want.</p>
   </div>
