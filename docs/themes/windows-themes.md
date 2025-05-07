@@ -12,10 +12,10 @@ permalink: /themes/windows-themes
     <p class="text-small"  style="text-align:center">Windows 7 Themes Revived</p>
     <br />
     <span class="fs-3">
-      <p class="text-small" style="text-align:center">
+      <div align="center" class="text-small">
         <a href="https://github.com/The-Back-Room/Windows-7-Themes-Revived/archive/refs/heads/main.zip" target="_blank">
-          <button type="button" name="button" class="btn">Download</button></a>
-      </p>
+          <button type="button" name="button" class="btn">Download</button></a> 
+      </div>
     </span>
   </div>
 </div>
@@ -27,10 +27,10 @@ permalink: /themes/windows-themes
     <p class="text-small"  style="text-align:center">MacOS Themes for Windows</p>
     <br />
     <span class="fs-3">
-      <p class="text-small" style="text-align:center">
+      <div align="center" class="text-small">
         <a href="https://github.com/The-Back-Room/MacOS-Themes-for-Windows/archive/refs/heads/main.zip" target="_blank">
-          <button type="button" name="button" class="btn">Download</button></a>
-      </p>
+          <button type="button" name="button" class="btn">Download</button></a> 
+      </div>
     </span>
   </div>
 </div>
@@ -42,10 +42,10 @@ permalink: /themes/windows-themes
     <p class="text-small"  style="text-align:center">Copilot</p>
     <br />
     <span class="fs-3">
-      <p class="text-small" style="text-align:center">
+      <div align="center" class="text-small">
         <a href="https://github.com/The-Back-Room/Copilot-Themes-for-Windows/archive/refs/heads/main.zip" target="_blank">
-          <button type="button" name="button" class="btn">Download</button></a>
-      </p>
+          <button type="button" name="button" class="btn">Download</button></a> 
+      </div>
     </span>
   </div>
 </div>
@@ -57,10 +57,10 @@ permalink: /themes/windows-themes
     <p class="text-small"  style="text-align:center">Surface Pro</p>
     <br />
     <span class="fs-3">
-      <p class="text-small" style="text-align:center">
+      <div align="center" class="text-small">
         <a href="https://github.com/The-Back-Room/Surface-Pro-Themes-for-Windows/archive/refs/heads/main.zip" target="_blank">
-          <button type="button" name="button" class="btn">Download</button></a>
-      </p>
+          <button type="button" name="button" class="btn">Download</button></a> 
+      </div>
     </span>
   </div>
 </div>
@@ -72,10 +72,10 @@ permalink: /themes/windows-themes
     <p class="text-small"  style="text-align:center">Studio Ghibli</p>
     <br />
     <span class="fs-3">
-      <p class="text-small" style="text-align:center">
+      <div align="center" class="text-small">
         <a href="https://github.com/The-Back-Room/Studio-Ghibli-Theme/archive/refs/heads/main.zip" target="_blank">
-          <button type="button" name="button" class="btn">Download</button></a>
-      </p>
+          <button type="button" name="button" class="btn">Download</button></a> 
+      </div>
     </span>
   </div>
 </div>
@@ -87,10 +87,10 @@ permalink: /themes/windows-themes
     <p class="text-small"  style="text-align:center">Howl's Moving Castle</p>
     <br />
     <span class="fs-3">
-      <p class="text-small" style="text-align:center">
+      <div align="center" class="text-small">
         <a href="https://github.com/The-Back-Room/Howls-Moving-Castle-Theme/archive/refs/heads/main.zip" target="_blank">
-          <button type="button" name="button" class="btn">Download</button></a>
-      </p>
+          <button type="button" name="button" class="btn">Download</button></a> 
+      </div>
     </span>
   </div>
 </div>
@@ -101,10 +101,12 @@ permalink: /themes/windows-themes
   <div class="container">
     <p class="text-small"  style="text-align:center">Courage TCD</p>
     <br />
-    <div align="center" class="fs-3 mr-3">
-      <a href="https://github.com/The-Back-Room/Courage-TCD/archive/refs/heads/main.zip" target="_blank">
-        <button type="button" name="button" class="btn">Download</button></a>
-    </div>
+    <span class="fs-3">
+      <div align="center" class="text-small">
+        <a href="https://github.com/The-Back-Room/Courage-TCD/archive/refs/heads/main.zip" target="_blank">
+          <button type="button" name="button" class="btn">Download</button></a> 
+      </div>
+    </span>
     <br />
   </div>
 </div>
