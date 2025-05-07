@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mods
+title: NS3D VM UI
 nav_order: 2
 parent: Final Fantasy XIV
 grand_parent: Mods

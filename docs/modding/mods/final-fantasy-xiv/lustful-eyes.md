@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mods
+title: Lustful Eyes
 nav_order: 1
 parent: Final Fantasy XIV
 grand_parent: Mods
