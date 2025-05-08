@@ -10,7 +10,7 @@ permalink: /modding/mods/final-fantasy-xiv
 
 {: .important }
 > {: .warning }
-> Using mods in any shape or way violates the **Final Fantasy XIV** T.O.S and can lead to your service account being banned by **SQUARE ENIX**.
+> Using mods in any shape or way violates the **Final Fantasy XIV** T.O.S and can lead to your service account being terminated and/or banned by **SQUARE ENIX**.
 >
 > We take **NO** responsibility for anyone who loses their account due to the use of mods. Use of mods in **Final Fantasy XIV** is done **AT YOUR OWN RISK**.
 >
