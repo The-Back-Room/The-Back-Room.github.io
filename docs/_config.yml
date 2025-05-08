@@ -33,19 +33,19 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 callouts_level: quiet
 callouts:
   highlight:
-    color: yellow
+    color: yellow-000
   important:
     title: Important
-    color: blue
+    color: blue-000
   new:
     title: New
-    color: green
+    color: green-000
   note:
     title: Note
-    color: purple
+    color: purple-000
   warning:
     title: Warning
-    color: red
+    color: red-000
 
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
