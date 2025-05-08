@@ -23,43 +23,8 @@ permalink: pretty
 favicon_ico: "/favicon.ico"
 remote_theme: just-the-docs/just-the-docs
 
-defaults:
-  - scope:
-      path: "docs" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "default"
-
-exclude:
-  # from https://github.com/jekyll/jekyll/blob/master/lib/site_template/_config.yml:
-  - .sass-cache/
-  - .jekyll-cache/
-  - gemfiles/
-  - Gemfile
-  - Gemfile.lock
-  - node_modules/
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-  # specific to the theme website:
-  - bin/
-  - lib/
-  - "*.gemspec"
-  - "*.gem"
-  - LICENSE.txt
-  - package.json
-  - package-lock.json
-  - Rakefile
-  - README.md
-  - CODE_OF_CONDUCT.md
-  - docker-compose.yml
-  - Dockerfile
-  # theme test code
-  - fixtures/
-
 # Set a path/url to a logo that will be displayed instead of the title
-#logo: "/assets/images/just-the-docs.png"
+#logo: "/assets/images/logo.png"
 
 # Enable or disable the site search
 # Supports true (default) or false
@@ -159,7 +124,7 @@ callouts:
 # Google Analytics Tracking (optional)
 # Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
 # Note: the main Just the Docs site does *not* use Google Analytics.
-# ga_tracking: UA-2709176-10,G-5FG1HLH3XQ
+# ga_tracking: 
 # ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
