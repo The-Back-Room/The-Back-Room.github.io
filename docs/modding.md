@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Modding
-nav_order: 3
-parent: Home
+nav_order: 4
 permalink: /modding
 ---
