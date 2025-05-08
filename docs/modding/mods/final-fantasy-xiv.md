@@ -15,7 +15,15 @@ permalink: /modding/mods/final-fantasy-xiv
 >
 > We take **NO** responsibility for anyone who loses their account due to the use of mods. Use of mods in **Final Fantasy XIV** is done **AT YOUR OWN RISK**.
 >
-> - [Final Fantasy XIV User Agreement][USER_AGREEMENT]
+> - **[JP] TOS**: [ファイナルファンタジーXIV ユーザー契約][JP_TOS]
+> - **[NA] TOS**: [Final Fantasy XIV User Agreement][NA_TOS]
+> - **[UK] TOS**: [Final Fantasy XIV User Agreement][UK_TOS]
+> - **[FR] TOS**: [Contrat d'utilisation de Final Fantasy XIV][FR_TOS]
+> - **[DU] TOS**: [Final Fantasy XIV-Benutzervereinbarung][DU_TOS]
 
 
-[USER_AGREEMENT]: https://support.na.square-enix.com/rule.php?id=5382&la=1&tag=users_en
+[JP_TOS]: https://support.jp.square-enix.com/main.php?id=5381&la=0
+[NA_TOS]: https://support.na.square-enix.com/main.php?id=5382&la=1
+[UK_TOS]: https://support.eu.square-enix.com/main.php?id=5383&la=2
+[FR_TOS]: https://support.eu.square-enix.com/main.php?id=5384&la=3
+[DU_TOS]: https://support.eu.square-enix.com/main.php?id=5385&la=4
