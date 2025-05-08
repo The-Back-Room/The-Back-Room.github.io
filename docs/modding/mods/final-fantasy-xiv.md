@@ -9,12 +9,13 @@ permalink: /modding/mods/final-fantasy-xiv
 ---
 
 {: .important }
+> {: .opaque }
 > {: .warning }
 > Using mods in any shape or way violates the **Final Fantasy XIV** User Agreement and can lead to your service account being terminated and/or banned by **SQUARE ENIX**.
 >
 > We take **NO** responsibility for anyone who loses their account due to the use of mods. Use of mods in **Final Fantasy XIV** is done **AT YOUR OWN RISK**.
 >
-> - [Final Fantasy XIV - User Agreement][USER_AGREEMENT]
+> - [User Agreement][USER_AGREEMENT]
 
 
 [USER_AGREEMENT]: https://support.na.square-enix.com/rule.php?id=5382&la=1&tag=users_en
