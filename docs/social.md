@@ -19,5 +19,6 @@ permalink: /social
           <button type="button" name="button" class="btn"></button></a> -->
       </div>
     </span>
+    <br />
   </div>
 </div>
