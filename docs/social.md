@@ -4,7 +4,7 @@ title: Social
 nav_order: 5
 permalink: /social
 ---
-<!-- >
+<!-- 
 <div class="card">
   <div class="container">
     <h2 class="text-small" style="text-align:center">Subreddits</h2>
@@ -30,8 +30,9 @@ permalink: /social
   </div>
 </div>
 -->
+
 <div class="row">
-  <div class="column">
+  <div class="column left">
     <div class="card">
       <div class="container">
         <h2 class="text-small" style="text-align:center">Subreddits</h2>
@@ -50,7 +51,7 @@ permalink: /social
       </div>
     </div>
   </div>
-  <div class="column">
+  <div class="column right">
     <div class="card">
       <div class="container">
         <h2 class="text-small" style="text-align:center">Facebook</h2>
