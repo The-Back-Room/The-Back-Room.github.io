@@ -12,7 +12,7 @@ permalink: /themes/windows/ranma-chan-nsfw
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Ranma-chan [NSFW] Theme</h2>
-    <p class="text-small" style="text-align:center">MNSFW Theme inspired by Ranma 1/2</p>
+    <p class="text-small" style="text-align:center">NSFW Theme inspired by Ranma 1/2</p>
     <br />
     <span class="fs-3">
       <div align="center" class="text-small">
