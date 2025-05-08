@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Action Taimanin Extension
+description: Add mod support for Action Taimanin to Vortex Mod Manager
 nav_order: 1
 parent: Vortex Extensions
-grand_parent: Tools
+grand_parent: Modding Tools
 permalink: /modding/tools/vortex-extensions/action-taimanin-extension
 ---
 

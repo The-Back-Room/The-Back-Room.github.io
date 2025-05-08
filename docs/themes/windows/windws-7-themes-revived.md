@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Windows 7 Themes Revived
+description: Windows 7 themes ported to Windows 11
 nav_order: 1
 parent: Windows Themes
 grand_parent: Themes

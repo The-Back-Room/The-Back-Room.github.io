@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Courage TCD
+description: A tribute to a cult classic from the early to late 90s
 nav_order: 7
 parent: Windows Themes
 grand_parent: Themes

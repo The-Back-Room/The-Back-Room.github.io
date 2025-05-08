@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Studio Ghibli
+description: A tribute to one of the greatest animation studios of the 20th century
 nav_order: 5
 parent: Windows Themes
 grand_parent: Themes

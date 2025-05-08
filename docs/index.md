@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: Open-Source Development and Customization
 nav_order: 1
 permalink: /
 ---

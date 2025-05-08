@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Howl's Moving Castle
+description: A tribute to one of Studio Ghibli's highest grossing films
 nav_order: 6
 parent: Windows Themes
 grand_parent: Themes

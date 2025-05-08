@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ranma-chan [NSFW] Theme
+description: NSFW Theme inspired by Ranma 1/2
 nav_order: 3
 parent: Windows Themes
 grand_parent: Themes

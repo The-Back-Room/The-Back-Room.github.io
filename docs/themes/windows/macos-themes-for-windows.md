@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MacOS Themes for Windows
+description: MacOS themes ported to Windows 11
 nav_order: 2
 parent: Windows Themes
 grand_parent: Themes

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Surface Pro
+description: Microsoft's Surface Pro themes for all to enjoy
 nav_order: 4
 parent: Windows Themes
 grand_parent: Themes
