@@ -11,9 +11,7 @@ permalink: /themes/windows/surface-pro
 > {: .opaque }
 > We are currently in the process of rebuilding some of our themes.
 >
-> If you are seeing this, that means this theme is still using the **.deskthemepack** compression of which we are changing out of due to issues with failed compression.
->
-> The screenshot for this theme has been removed until the update is finished and a new screenshot can be created.
+> If you are seeing this, that means the screenshot for this theme has been removed until the update is finished and a new screenshot can be created.
 
 
 <div class="card">
