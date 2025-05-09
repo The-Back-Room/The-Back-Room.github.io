@@ -7,16 +7,10 @@ parent: Windows Themes
 grand_parent: Themes
 permalink: /themes/windows/surface-pro
 ---
-{: .note }
-> {: .opaque }
-> We are currently in the process of rebuilding some of our themes.
->
-> If you are seeing this, that means the screenshot for this theme has been removed until the update is finished and a new screenshot can be created.
-
 
 <div class="card">
-  <!-- <img width="100%" height="auto" class="block" src="../../assets/images/surface-pro.png" />
-  <br /> -->
+  <img width="100%" height="auto" class="block" src="../../assets/images/surface-pro.png" />
+  <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Surface Pro</h2>
     <p class="text-small" style="text-align:center">Microsoft's <b>Surface Pro</b> themes for all to enjoy</p>
