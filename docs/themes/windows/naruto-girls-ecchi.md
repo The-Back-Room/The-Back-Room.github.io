@@ -4,7 +4,7 @@ title: Naruto Girls [Ecchi]
 nav_order: 3.1
 parent: Windows Themes
 grand_parent: Themes
-permalink: /themes/windows/ranma-chan-nsfw
+permalink: /themes/windows/naruto-girls-ecchi
 ---
 
 <div class="card">
