@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Copilot
-description: Microsoft's Copilot inspired theme for all to enjoy
-nav_order: 3
+nav_order: 1.3
 parent: Windows Themes
 grand_parent: Themes
 permalink: /themes/windows/copilot

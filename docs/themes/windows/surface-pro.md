@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Surface Pro
-description: Microsoft's Surface Pro themes for all to enjoy
-nav_order: 4
+nav_order: 1.4
 parent: Windows Themes
 grand_parent: Themes
 permalink: /themes/windows/surface-pro
