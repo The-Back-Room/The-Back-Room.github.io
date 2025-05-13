@@ -14,7 +14,7 @@ permalink: /modding/tools/vortex-extensions/action-taimanin-extension
     <h2 class="text-small" style="text-align:center">Action Taimanin Extension</h2>
     <p class="text-small" style="text-align:center">Add mod support to <b><a href="https://www.nexusmods.com/about/vortex" target="_blank">Vortex Mod Manager</a></b></p>
     <br />
-    <h2 class="text-small" style="text-align:center">Dowload</h2>
+    <h2 class="text-small" style="text-align:center">Download</h2>
     <br />
     <span class="fs-3">
       <div align="center" class="text-small">

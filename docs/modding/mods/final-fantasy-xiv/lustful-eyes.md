@@ -14,7 +14,7 @@ permalink: /modding/mods/final-fantasy-xiv/lustful-eyes
     <h2 class="text-small" style="text-align:center">Lustful Eyes</h2>
     <p class="text-small" style="text-align:center">Lustful eyes for all races. Let your inner OwO or Yandare take over!</p>
     <br />
-    <h2 class="text-small" style="text-align:center">Dowload</h2>
+    <h2 class="text-small" style="text-align:center">Download</h2>
     <br />
     <span class="fs-3">
       <div align="center" class="text-small">
