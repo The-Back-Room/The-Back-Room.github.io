@@ -21,10 +21,8 @@ permalink: /modding/mods/final-fantasy-xiv/roseblood-duelist
           <button type="button" name="button" class="btn">Nexus Mods</button></a> 
         <a href="https://heliosphere.app/mod/5w9m2enmw16ys40x0v310v269m" target="_blank">
           <button type="button" name="button" class="btn">Heliosphere</button></a> 
-        <!--
-        <a href="" target="_blank">
+        <a href="https://www.xivmodarchive.com/modid/137286" target="_blank">
           <button type="button" name="button" class="btn">XIV Mod Archive</button></a>
-        -->
       </div>
     </span>
     <br />
