@@ -19,8 +19,6 @@ permalink: /modding/mods/valheim/odinheim
       <div align="center" class="text-small">
         <a href="https://thunderstore.io/c/valheim/p/Nimbi/Odinheim/" target="_blank">
           <button type="button" name="button" class="btn">Thunderstore</button></a> 
-        <a href="https://heliosphere.app/mod/5w9m2enmw16ys40x0v310v269m" target="_blank">
-          <button type="button" name="button" class="btn">Heliosphere</button></a> 
       </div>
     </span>
     <br />
