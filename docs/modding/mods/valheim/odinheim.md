@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Odinheim
-nav_order: 3
+nav_order: 1
 parent: Valheim
 grand_parent: Mods
 permalink: /modding/mods/valheim/odinheim
