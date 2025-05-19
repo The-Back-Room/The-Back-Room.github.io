@@ -11,7 +11,7 @@ permalink: /modding/mods/valheim/odinheim
   <img width="100%" height="auto" class="block" src="../../../assets/images/odinheim.png" />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Odinheim</h2>
-    <p class="text-small" style="text-align:center"></p>
+    <p class="text-small" style="text-align:center">A collection of mods to improve gameplay.<br />Contains both client-side and server-side mods.</p>
     <br />
     <h2 class="text-small" style="text-align:center">Download</h2>
     <br />
