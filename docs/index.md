@@ -12,6 +12,3 @@ permalink: /
     <p class="text-small" style="text-align:center">Open-Source Development and Customization</p>
   </div>
 </div>
-
-
-
