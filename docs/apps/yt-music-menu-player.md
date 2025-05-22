@@ -8,7 +8,7 @@ permalink: /apps/yt-music-menu-player
 
 {: .important }
 > {: .opaque }
-> This is an unofficial application and not published or supported by YouTube or Google. Intended for personal and educational purposes. I am liable for nothing.
+> This is an unofficial application and not published or supported by YouTube or Google. It is intended for personal and educational purposes. I am liable for nothing.
 
 
 <div class="card">
