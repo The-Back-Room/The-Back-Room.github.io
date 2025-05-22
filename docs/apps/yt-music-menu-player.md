@@ -20,7 +20,6 @@ permalink: /apps/yt-music-menu-player
     <br />
     <span class="fs-3">
       <div align="center" class="text-small">
-      <p>Check the link(s) below for instructions on how to download and/or install this app.</p>
       <a href="https://github.com/The-Back-Room/YT-Music-Menu-Player" target="_blank">
       <button type="button" name="button" class="btn">GitHub</button></a> 
       </div>
