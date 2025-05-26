@@ -1,7 +1,6 @@
 ---
 layout: default
 title: NS3D VM UI
-description: A simple and minimalistic UI mod that cleans up the UI without making a whole lot of unnecessary changes.
 nav_order: 2
 parent: Final Fantasy XIV
 grand_parent: SFW Mods

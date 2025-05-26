@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Lustful Eyes
-description: Lustful eyes for all races. Let your inner OwO or Yandare take over!
 nav_order: 1
 parent: Final Fantasy 
 grand_parent: SFW Mods
