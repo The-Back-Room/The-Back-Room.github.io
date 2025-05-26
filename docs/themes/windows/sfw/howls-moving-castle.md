@@ -6,15 +6,15 @@ parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /themes/windows/sfw/howls-moving-castle
 ---
-
-{: .important }
+<!-- 
+{: .note }
 > {: .opaque }
-> We are in the process af revamping our preview images. As such this page currently has no preview available.
->
-> Please be patient as we upload new and better previews.
-
+> 
+> 
+> 
+-->
 <div class="card">
-  <!-- <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/HOWLS-MOVING-CASTLE.webp" /> -->
+  <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/HOWLS-MOVING-CASTLE.jpg" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Howl's Moving Castle</h2>

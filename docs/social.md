@@ -4,7 +4,13 @@ title: Social
 nav_order: 6
 permalink: /social
 ---
-
+<!-- 
+{: .note }
+> {: .opaque }
+> 
+> 
+> 
+-->
 <div class="card">
   <div class="container">
     <h2 class="text-small" style="text-align:center">Subreddits</h2>

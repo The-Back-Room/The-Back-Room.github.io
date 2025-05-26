@@ -7,3 +7,10 @@ parent: Themes
 permalink: /themes/linux
 published: false
 ---
+<!-- 
+{: .note }
+> {: .opaque }
+> 
+> 
+> 
+-->

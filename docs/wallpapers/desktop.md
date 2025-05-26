@@ -6,3 +6,10 @@ parent: Wallpapers
 permalink: /wallpapers/desktop
 published: false
 ---
+<!-- 
+{: .note }
+> {: .opaque }
+> 
+> 
+> 
+-->
