@@ -2,9 +2,9 @@
 layout: default
 title: Odinheim
 nav_order: 1
-parent: Valheim
-grand_parent: Mods
-permalink: /modding/mods/valheim/odinheim
+parent: Game Mods
+grand_parent: Valheim
+permalink: /modding/mods/sfw/valheim/odinheim
 ---
 
 {: .important }
@@ -14,7 +14,7 @@ permalink: /modding/mods/valheim/odinheim
 > Please be patient as we upload new and better previews.
 
 <div class="card">
-  <!-- <img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/" /> -->
+  <img width="100%" height="auto" class="block" src="../../../../assets/images/modding/mods/sfw/odinheim.png" />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Odinheim</h2>
     <p class="text-small" style="text-align:center">A collection of mods to improve gameplay.<br />Contains both client-side and server-side mods.</p>

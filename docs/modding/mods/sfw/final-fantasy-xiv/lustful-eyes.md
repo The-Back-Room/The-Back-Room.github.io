@@ -3,9 +3,9 @@ layout: default
 title: Lustful Eyes
 description: Lustful eyes for all races. Let your inner OwO or Yandare take over!
 nav_order: 1
-parent: Final Fantasy XIV
-grand_parent: Mods
-permalink: /modding/mods/final-fantasy-xiv/lustful-eyes
+parent: Game Mods
+grand_parent: Final Fantasy XIV
+permalink: /modding/mods/sfw/final-fantasy-xiv/lustful-eyes
 ---
 
 {: .important }
@@ -15,7 +15,7 @@ permalink: /modding/mods/final-fantasy-xiv/lustful-eyes
 > Please be patient as we upload new and better previews.
 
 <div class="card">
-  <!-- <img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/" /> -->
+  <img width="100%" height="auto" class="block" src="../../../../assets/images/modding/mods/sfw/lustful-eyes.webp" />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Lustful Eyes</h2>
     <p class="text-small" style="text-align:center">Lustful eyes for all races. Let your inner OwO or Yandare take over!</p>

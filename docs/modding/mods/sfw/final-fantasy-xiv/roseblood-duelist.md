@@ -2,9 +2,9 @@
 layout: default
 title: Roseblood Duelist
 nav_order: 3
-parent: Final Fantasy XIV
-grand_parent: Mods
-permalink: /modding/mods/final-fantasy-xiv/roseblood-duelist
+parent: Game Mods
+grand_parent: Final Fantasy XIV
+permalink: /modding/mods/sfw/final-fantasy-xiv/roseblood-duelist
 ---
 
 {: .important }
@@ -14,7 +14,7 @@ permalink: /modding/mods/final-fantasy-xiv/roseblood-duelist
 > Please be patient as we upload new and better previews.
 
 <div class="card">
-  <!-- <img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/" /> -->
+  <img width="100%" height="auto" class="block" src="../../../../assets/images/modding/mods/sfw/roseblood-duelist.webp" /> 
   <div class="container">
     <h2 class="text-small" style="text-align:center">Roseblood Duelist</h2>
     <p class="text-small" style="text-align:center">Because it's just a better overall look!</p>

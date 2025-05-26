@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Modding Tools
+title: SFW Mods
 nav_order: 1
-parent: Modding
-permalink: /modding/tools
+parent: Game Mods
+permalink: /modding/mods/sfw
 ---
 <!-- 
 {: .note }
