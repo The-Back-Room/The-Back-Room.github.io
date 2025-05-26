@@ -1,10 +1,10 @@
 ---
 layout: default
 title:
-nav_order: 1
-parent: SFW Wallpapers
-grand_parent: Desktop Wallpeprs
-permalink: /wallpapers/desktop/sfw/
+nav_order: 
+parent: 
+grand_parent: 
+permalink: 
 published: false
 ---
 <!-- 

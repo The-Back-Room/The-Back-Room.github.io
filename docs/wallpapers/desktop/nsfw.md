@@ -5,6 +5,7 @@ description: A list of NSFW wallpapers for desktop devices
 nav_order: 2
 parent: Desktop Wallpapers
 permalink: /wallpapers/desktop/nsfw
+published: false
 ---
 <!-- 
 {: .note }
