@@ -1,12 +1,12 @@
 ---
 layout: default
 title: NSFW Themes
-description: A list of NSFW themes for Linux devices
 nav_order: 2
 parent: Linux Themes
+grand_parent: Themes
 permalink: /themes/linux/nsfw
-published: false
 ---
+
 <!-- 
 {: .note }
 > {: .opaque }
@@ -14,6 +14,7 @@ published: false
 > 
 > 
 -->
+
 {: .important }
 > {: .opaque }
 > {: .warning }

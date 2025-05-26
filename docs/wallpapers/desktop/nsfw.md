@@ -1,12 +1,12 @@
 ---
 layout: default
 title: NSFW Wallpapers
-description: A list of NSFW wallpapers for desktop devices
 nav_order: 2
 parent: Desktop Wallpapers
+grand_parent: Wallpapers
 permalink: /wallpapers/desktop/nsfw
-published: false
 ---
+
 <!-- 
 {: .note }
 > {: .opaque }
@@ -14,6 +14,7 @@ published: false
 > 
 > 
 -->
+
 {: .important }
 > {: .opaque }
 > {: .warning }

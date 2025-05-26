@@ -3,6 +3,7 @@ layout: default
 title: NSFW Tools
 nav_order: 2
 parent: Modding Tools
+grand_parent: Modding
 permalink: /modding/tools/nsfw
 ---
 
@@ -10,7 +11,7 @@ permalink: /modding/tools/nsfw
 {: .note }
 > {: .opaque }
 > 
->
+> 
 > 
 -->
 

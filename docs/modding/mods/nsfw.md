@@ -3,15 +3,15 @@ layout: default
 title: NSFW Mods
 nav_order: 2
 parent: Game Mods
+grand_parent: Modding
 permalink: /modding/mods/nsfw
-published: false
 ---
 
 <!-- 
 {: .note }
 > {: .opaque }
 > 
->
+> 
 > 
 -->
 

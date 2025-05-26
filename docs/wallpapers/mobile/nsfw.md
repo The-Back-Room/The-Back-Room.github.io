@@ -1,11 +1,10 @@
 ---
 layout: default
 title: NSFW Wallpapers
-description: A list of NSFW wallpapers for desktop devices
 nav_order: 2
-parent: Desktop Wallpapers
-permalink: /wallpapers/desktop/nsfw
-published: false
+parent: Mobile Wallpapers
+grand_parent: Wallpapers
+permalink: /wallpapers/mobile/nsfw
 ---
 
 <!-- 

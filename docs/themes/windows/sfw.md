@@ -1,9 +1,9 @@
 ---
 layout: default
 title: SFW Themes
-description: A list of SFW themes for Windows devices
 nav_order: 1
 parent: Windows Themes
+grand_parent: Themes
 permalink: /themes/windows/sfw
 ---
 
@@ -11,6 +11,6 @@ permalink: /themes/windows/sfw
 {: .note }
 > {: .opaque }
 > 
->
+> 
 > 
 -->

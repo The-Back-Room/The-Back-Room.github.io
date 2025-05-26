@@ -1,10 +1,10 @@
 ---
 layout: default
-title: 
+title: SFW Wallpapers
 nav_order: 1
-parent: SFW Wallpapers
+parent: Mobile Wallpapers
 grand_parent: Wallpapers
-permalink: /wallpapers/desktop/sfw
+permalink: /wallpapers/mobile/sfw
 ---
 
 <!-- 
