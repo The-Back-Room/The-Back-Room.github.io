@@ -2,8 +2,8 @@
 layout: default
 title: Roseblood Duelist
 nav_order: 3
-parent: Game Mods
-grand_parent: Final Fantasy XIV
+parent: Final Fantasy XIV
+grand_parent: SFW Mods
 permalink: /modding/mods/sfw/final-fantasy-xiv/roseblood-duelist
 ---
 

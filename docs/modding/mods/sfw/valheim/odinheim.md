@@ -2,8 +2,8 @@
 layout: default
 title: Odinheim
 nav_order: 1
-parent: Game Mods
-grand_parent: Valheim
+parent: Valheim
+grand_parent: Game Mods
 permalink: /modding/mods/sfw/valheim/odinheim
 ---
 

@@ -3,8 +3,8 @@ layout: default
 title: Lustful Eyes
 description: Lustful eyes for all races. Let your inner OwO or Yandare take over!
 nav_order: 1
-parent: Game Mods
-grand_parent: Final Fantasy XIV
+parent: Final Fantasy 
+grand_parent: SFW Mods
 permalink: /modding/mods/sfw/final-fantasy-xiv/lustful-eyes
 ---
 
