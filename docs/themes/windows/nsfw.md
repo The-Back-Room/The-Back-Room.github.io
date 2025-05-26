@@ -15,4 +15,4 @@ permalink: /themes/windows/nsfw
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 >
 
-<!-- <img width="100%" height="auto" class="block" src="./assets/images/UNDERAGE.webp" width="100%"> -->
+<img width="100%" height="auto" class="block" src="./assets/images/NSFW.png" />
