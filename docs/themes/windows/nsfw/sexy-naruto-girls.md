@@ -7,8 +7,14 @@ grand_parent: Windows Themes
 permalink: /themes/windows/nsfw/sexy-naruto-girls
 ---
 
+{: .important }
+> {: .opaque }
+> We are in the process af revamping our preview images. As such this page currently has no preview available.
+>
+> Please be patient as we upload new and better previews.
+
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../../assets/images/sexy-naruto-girls.png" />
+  <!-- <img width="100%" height="auto" class="block" src="../../../assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.webp" /> -->
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Sexy Naruto Girls</h2>

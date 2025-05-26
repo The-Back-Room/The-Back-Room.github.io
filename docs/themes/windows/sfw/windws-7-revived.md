@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Courage TCD
-nav_order: 5
+title: Windows 7 Revived
+nav_order: 1
 parent: SFW Themes
 grand_parent: Windows Themes
-permalink: /themes/windows/sfw/courage-tcd
+permalink: /themes/windows/sfw/windows-7-revived
 ---
 
 {: .important }
@@ -14,15 +14,15 @@ permalink: /themes/windows/sfw/courage-tcd
 > Please be patient as we upload new and better previews.
 
 <div class="card">
-  <!-- <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/COURAGE-TCD.webp" /> -->
+  <!-- <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/WINDOWS-7-REVIVED.webp" /> -->
   <br />
   <div class="container">
-    <h2 class="text-small" style="text-align:center">Courage TCD</h2>
-    <p class="text-small" style="text-align:center">A tribute to a cult classic from the early to late 90s</p>
+    <h2 class="text-small" style="text-align:center">Windows 7 Revived</h2>
+    <p class="text-small" style="text-align:center">Large scale Windows 7 themes revival project</p>
     <br />
     <span class="fs-3">
       <div align="center" class="text-small">
-        <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Courage-TCD" target="_blank">
+        <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-7-Revived" target="_blank">
           <button type="button" name="button" class="btn">Download</button></a> 
       </div>
     </span>

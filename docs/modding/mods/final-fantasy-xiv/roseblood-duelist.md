@@ -7,8 +7,14 @@ grand_parent: Mods
 permalink: /modding/mods/final-fantasy-xiv/roseblood-duelist
 ---
 
+{: .important }
+> {: .opaque }
+> We are in the process af revamping our preview images. As such this page currently has no preview available.
+>
+> Please be patient as we upload new and better previews.
+
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../../assets/images/roseblood-duelist.webp" />
+  <!-- <img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/" /> -->
   <div class="container">
     <h2 class="text-small" style="text-align:center">Roseblood Duelist</h2>
     <p class="text-small" style="text-align:center">Because it's just a better overall look!</p>

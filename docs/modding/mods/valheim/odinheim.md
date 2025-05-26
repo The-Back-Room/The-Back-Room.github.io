@@ -7,8 +7,14 @@ grand_parent: Mods
 permalink: /modding/mods/valheim/odinheim
 ---
 
+{: .important }
+> {: .opaque }
+> We are in the process af revamping our preview images. As such this page currently has no preview available.
+>
+> Please be patient as we upload new and better previews.
+
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../../assets/images/odinheim.png" />
+  <!-- <img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/" /> -->
   <div class="container">
     <h2 class="text-small" style="text-align:center">Odinheim</h2>
     <p class="text-small" style="text-align:center">A collection of mods to improve gameplay.<br />Contains both client-side and server-side mods.</p>

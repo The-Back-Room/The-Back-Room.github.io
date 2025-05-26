@@ -8,8 +8,14 @@ grand_parent: Mods
 permalink: /modding/mods/final-fantasy-xiv/lustful-eyes
 ---
 
+{: .important }
+> {: .opaque }
+> We are in the process af revamping our preview images. As such this page currently has no preview available.
+>
+> Please be patient as we upload new and better previews.
+
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../../assets/images/lustful-eyes.webp" />
+  <!-- <img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/" /> -->
   <div class="container">
     <h2 class="text-small" style="text-align:center">Lustful Eyes</h2>
     <p class="text-small" style="text-align:center">Lustful eyes for all races. Let your inner OwO or Yandare take over!</p>
