@@ -19,5 +19,6 @@ permalink: /modding/mods/nsfw
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 >
-
-<img width="80%" height="auto" class="block" src="../../assets/images/NSFW.png" />
+<div align="center">
+    <img width="50%" height="auto" class="block" src="../../assets/images/NSFW.png" />
+</div>
