@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Ranma Hentai
-nav_order: 3.2
-parent: Windows Themes
-grand_parent: Themes
-permalink: /themes/windows/ranma-hentai
+nav_order: 1
+parent: NSFW Themes
+grand_parent: Windows Themes
+permalink: /themes/windows/nsfw/ranma-hentai
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../assets/images/ranma-hentai.png" />
+  <img width="100%" height="auto" class="block" src="../../../assets/images/ranma-hentai.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Ranma Hentai</h2>

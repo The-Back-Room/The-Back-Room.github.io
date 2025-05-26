@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Surface Pro
-nav_order: 1.4
-parent: Windows Themes
-grand_parent: Themes
-permalink: /themes/windows/surface-pro
+nav_order: 4
+parent: SFW Themes
+grand_parent: Windows Themes
+permalink: /themes/windows/sfw/surface-pro
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../assets/images/surface-pro.png" />
+  <img width="100%" height="auto" class="block" src="../../../assets/images/surface-pro.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Surface Pro</h2>

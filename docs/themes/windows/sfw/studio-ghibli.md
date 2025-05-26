@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Studio Ghibli
-nav_order: 2.1
-parent: Windows Themes
-grand_parent: Themes
-permalink: /themes/windows/studio-ghibli
+nav_order: 7
+parent: SFW Themes
+grand_parent: Windows Themes
+permalink: /themes/windows/sfw/studio-ghibli
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../assets/images/studio-ghibli.png" />
+  <img width="100%" height="auto" class="block" src="../../../assets/images/studio-ghibli.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Studio Ghibli</h2>

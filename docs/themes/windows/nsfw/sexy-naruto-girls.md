@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Sexy Naruto Girls
-nav_order: 3.1
-parent: Windows Themes
-grand_parent: Themes
-permalink: /themes/windows/sexy-naruto-girls
+nav_order: 2
+parent: NSFW Themes
+grand_parent: Windows Themes
+permalink: /themes/windows/nsfw/sexy-naruto-girls
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../assets/images/sexy-naruto-girls.png" />
+  <img width="100%" height="auto" class="block" src="../../../assets/images/sexy-naruto-girls.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Sexy Naruto Girls</h2>

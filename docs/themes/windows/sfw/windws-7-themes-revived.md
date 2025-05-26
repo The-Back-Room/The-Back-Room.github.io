@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Windows 7 Themes Revived
-nav_order: 1.1
-parent: Windows Themes
-grand_parent: Themes
-permalink: /themes/windows/windows-7-themes-revived
+nav_order: 1
+parent: SFW Themes
+grand_parent: Windows Themes
+permalink: /themes/windows/sfw/windows-7-themes-revived
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../assets/images/windows-7-themes-revived.png" />
+  <img width="100%" height="auto" class="block" src="../../../assets/images/windows-7-themes-revived.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Windows 7 Themes Revived</h2>

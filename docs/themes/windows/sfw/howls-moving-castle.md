@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Howl's Moving Castle
-nav_order: 2.2
-parent: Windows Themes
-grand_parent: Themes
-permalink: /themes/windows/howls-moving-castle
+nav_order: 6
+parent: SFW Themes
+grand_parent: Windows Themes
+permalink: /themes/windows/sfw/howls-moving-castle
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../assets/images/howls-moving-castle.png" />
+  <img width="100%" height="auto" class="block" src="../../../assets/images/howls-moving-castle.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Howl's Moving Castle</h2>

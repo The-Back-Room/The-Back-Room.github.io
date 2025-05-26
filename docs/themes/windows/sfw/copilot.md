@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Copilot
-nav_order: 1.3
-parent: Windows Themes
-grand_parent: Themes
-permalink: /themes/windows/copilot
+nav_order: 3
+parent: SFW Themes
+grand_parent: Windows Themes
+permalink: /themes/windows/sfw/copilot
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../assets/images/copilot.png" />
+  <img width="100%" height="auto" class="block" src="../../../assets/images/copilot.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Copilot</h2>

@@ -1,14 +1,14 @@
 ---
 layout: default
 title: MacOS Themes for Windows
-nav_order: 1.2
-parent: Windows Themes
-grand_parent: Themes
-permalink: /themes/windows/macos-themes-for-windows
+nav_order: 2
+parent: SFW Themes
+grand_parent: Windows Themes
+permalink: /themes/windows/sfw/macos-themes-for-windows
 ---
 
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../assets/images/macos-themes-for-windows.png" />
+  <img width="100%" height="auto" class="block" src="../../../assets/images/macos-themes-for-windows.png" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">MacOS Themes for Windows</h2>
