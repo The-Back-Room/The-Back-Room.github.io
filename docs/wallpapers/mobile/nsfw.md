@@ -5,6 +5,7 @@ nav_order: 2
 parent: Mobile Wallpapers
 grand_parent: Wallpapers
 permalink: /wallpapers/mobile/nsfw
+published: false
 ---
 
 <!-- 

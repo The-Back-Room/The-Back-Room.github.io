@@ -5,6 +5,7 @@ nav_order: 2
 parent: Desktop Wallpapers
 grand_parent: Wallpapers
 permalink: /wallpapers/desktop/nsfw
+published: false
 ---
 
 <!-- 
