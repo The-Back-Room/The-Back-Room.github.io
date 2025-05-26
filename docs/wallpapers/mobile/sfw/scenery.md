@@ -2,8 +2,8 @@
 layout: default
 title: Scenery
 nav_order: 3
-parent: Mobile Wallpapers
-grand_parent: Wallpapers
+parent: SFW Wallpapers
+grand_parent: Mobile Wallpapers
 permalink: /wallpapers/mobile/sfw/scenery
 ---
 

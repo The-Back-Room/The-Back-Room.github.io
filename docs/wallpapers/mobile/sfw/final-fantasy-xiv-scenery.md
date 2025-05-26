@@ -2,8 +2,8 @@
 layout: default
 title: Final Fantasy XIV Scenery
 nav_order: 1
-parent: Mobile Wallpapers
-grand_parent: Wallpapers
+parent: SFW Wallpapers
+grand_parent: Mobile Wallpapers
 permalink: /wallpapers/mobile/sfw/final-fantasy-xiv-scenery
 ---
 
