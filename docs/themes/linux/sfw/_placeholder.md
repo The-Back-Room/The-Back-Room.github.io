@@ -1,9 +1,16 @@
 ---
 layout: default
 title:
-nav_order: 1
-parent: SFW Themes
-grand_parent: Linux Themes
-permalink: /themes/linux/
+nav_order: 
+parent:
+grand_parent: 
+permalink: 
 published: false
 ---
+<!-- 
+{: .note }
+> {: .opaque }
+> 
+> 
+> 
+-->
