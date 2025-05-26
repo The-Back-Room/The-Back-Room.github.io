@@ -1,10 +1,10 @@
 ---
 layout: default
 title: NSFW Themes
-description: A list of NSFW themes for Windows devices
+description: A list of NSFW themes for Linux devices
 nav_order: 2
-parent: Windows Themes
-permalink: /themes/windows/nsfw
+parent: Linux Themes
+permalink: /themes/linux/nsfw
 ---
 <!-- 
 {: .note }

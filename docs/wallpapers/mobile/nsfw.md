@@ -16,7 +16,7 @@ permalink: /wallpapers/desktop/nsfw
 {: .important }
 > {: .opaque }
 > {: .warning }
-> The following is for adults only. By continuing past this page, you are agreeing that you are of legal age.
+> Adults only beyond this point. By continuing past this page, you are agreeing that you are of legal age.
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 >
