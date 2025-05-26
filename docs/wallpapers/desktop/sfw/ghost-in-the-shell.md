@@ -3,7 +3,7 @@ layout: default
 title: Ghost in the Shell
 nav_order: 1
 parent: SFW Wallpapers
-grand_parent: Desktop Wallpeprs
+grand_parent: Desktop Wallpapers
 permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
 ---
 <!-- 
