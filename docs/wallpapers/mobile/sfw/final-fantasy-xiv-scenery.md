@@ -46,5 +46,6 @@ permalink: /wallpapers/mobile/sfw/final-fantasy-xiv-scenery
           <button type="button" name="button" class="btn">Download</button></a> 
       </div>
     </span>
+    <br />
   </div>
 </div>
