@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ranma-chan [NSFW] Theme
+title: Ranma Hentai
 nav_order: 3.2
 parent: Windows Themes
 grand_parent: Themes
@@ -11,7 +11,7 @@ permalink: /themes/windows/ranma-hentai
   <img width="100%" height="auto" class="block" src="../../assets/images/ranma-hentai.png" />
   <br />
   <div class="container">
-    <h2 class="text-small" style="text-align:center">Ranma-chan [NSFW] Theme</h2>
+    <h2 class="text-small" style="text-align:center">Ranma Hentai</h2>
     <p class="text-small" style="text-align:center">NSFW Theme inspired by Ranma 1/2</p>
     <br />
     <span class="fs-3">
