@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Copilot
+title: Classic 11
 nav_order: 5
 parent: SFW Themes
 grand_parent: Windows Themes
-permalink: /themes/windows/sfw/copilot
+permalink: /themes/windows/sfw/classic-11
 ---
 <!-- 
 {: .note }
@@ -14,7 +14,7 @@ permalink: /themes/windows/sfw/copilot
 > 
 -->
 <div class="card">
-  <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/COPILOT.jpg" />
+  <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/CLASSIC-11.jpg" />
   <br />
   <div class="container">
     <h2 class="text-small" style="text-align:center">Classic 11</h2>
