@@ -3,8 +3,8 @@ layout: default
 title: NSFW Themes
 description: A list of NSFW themes for Windows devices
 nav_order: 2
-parent: Themes
-permalink: /themes/windows
+parent: Windows Themes
+permalink: /themes/windows/nsfw
 ---
 
 {: .important }
