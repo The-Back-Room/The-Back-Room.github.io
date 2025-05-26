@@ -7,13 +7,15 @@ parent: Desktop Wallpapers
 permalink: /wallpapers/desktop/nsfw
 published: false
 ---
+
 <!-- 
 {: .note }
 > {: .opaque }
 > 
-> 
+>
 > 
 -->
+
 {: .important }
 > {: .opaque }
 > {: .warning }

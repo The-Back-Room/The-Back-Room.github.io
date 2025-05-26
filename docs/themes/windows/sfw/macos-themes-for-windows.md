@@ -6,13 +6,15 @@ parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /themes/windows/sfw/macos-themes-for-windows
 ---
+
 <!-- 
 {: .note }
 > {: .opaque }
 > 
-> 
+>
 > 
 -->
+
 <div class="card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/MACOS-THEMES-FOR-WINDOWS.jpg" />
   <br />

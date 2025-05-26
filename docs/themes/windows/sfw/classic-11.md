@@ -6,13 +6,15 @@ parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /themes/windows/sfw/classic-11
 ---
+
 <!-- 
 {: .note }
 > {: .opaque }
 > 
-> 
+>
 > 
 -->
+
 <div class="card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/CLASSIC-11.jpg" />
   <br />

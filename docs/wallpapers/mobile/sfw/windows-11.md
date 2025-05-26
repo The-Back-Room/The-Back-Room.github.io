@@ -7,6 +7,14 @@ grand_parent: Wallpapers
 permalink: /wallpapers/mobile/sfw/windows-11
 ---
 
+<!-- 
+{: .note }
+> {: .opaque }
+> 
+>
+> 
+-->
+
 <div class="card">
   <div class="gallery">
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (1).png" />

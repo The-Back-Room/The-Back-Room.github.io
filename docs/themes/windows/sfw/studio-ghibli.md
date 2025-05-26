@@ -6,13 +6,15 @@ parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /themes/windows/sfw/studio-ghibli
 ---
+
 <!-- 
 {: .note }
 > {: .opaque }
 > 
-> 
+>
 > 
 -->
+
 <div class="card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/STUDIO-GHIBLI.jpg" />
   <br />

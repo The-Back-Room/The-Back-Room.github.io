@@ -6,6 +6,7 @@ parent: Valheim
 grand_parent: Game Mods
 permalink: /modding/mods/sfw/valheim/odinheim
 ---
+
 <!-- 
 {: .note }
 > {: .opaque }
@@ -13,6 +14,7 @@ permalink: /modding/mods/sfw/valheim/odinheim
 >
 > 
 -->
+
 <div class="card">
   <img width="100%" height="auto" class="block" src="../../../../assets/images/modding/mods/sfw/odinheim.png" />
   <div class="container">

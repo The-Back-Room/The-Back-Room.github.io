@@ -7,6 +7,14 @@ grand_parent: Wallpapers
 permalink: /wallpapers/mobile/sfw/final-fantasy-xiv-scenery
 ---
 
+<!-- 
+{: .note }
+> {: .opaque }
+> 
+>
+> 
+-->
+
 <div class="card">
   <div class="gallery">
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Aleport.png" />

@@ -6,6 +6,7 @@ parent: Final Fantasy XIV
 grand_parent: SFW Mods
 permalink: /modding/mods/sfw/final-fantasy-xiv/roseblood-duelist
 ---
+
 <!-- 
 {: .note }
 > {: .opaque }
@@ -13,6 +14,7 @@ permalink: /modding/mods/sfw/final-fantasy-xiv/roseblood-duelist
 >
 > 
 -->
+
 <div class="card">
   <img width="100%" height="auto" class="block" src="../../../../assets/images/modding/mods/sfw/roseblood-duelist.webp" /> 
   <div class="container">

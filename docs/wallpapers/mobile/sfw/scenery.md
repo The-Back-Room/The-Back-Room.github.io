@@ -7,6 +7,14 @@ grand_parent: Wallpapers
 permalink: /wallpapers/mobile/sfw/scenery
 ---
 
+<!-- 
+{: .note }
+> {: .opaque }
+> 
+>
+> 
+-->
+
 <div class="card">
     <div class="gallery">
         <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/Scenery/Wallpaper (1).png" />

@@ -6,13 +6,15 @@ nav_order: 2
 parent: Windows Themes
 permalink: /themes/windows/nsfw
 ---
+
 <!-- 
 {: .note }
 > {: .opaque }
 > 
-> 
+>
 > 
 -->
+
 {: .important }
 > {: .opaque }
 > {: .warning }
