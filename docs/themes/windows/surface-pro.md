@@ -16,7 +16,7 @@ permalink: /themes/windows/surface-pro
     <br />
     <span class="fs-3">
       <div align="center" class="text-small">
-        <a href="https://github.com/The-Back-Room/Surface-Pro-Themes-for-Windows/archive/refs/heads/main.zip" target="_blank">
+        <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Microsoft-Surface-Pro" target="_blank">
           <button type="button" name="button" class="btn">Download</button></a> 
       </div>
     </span>

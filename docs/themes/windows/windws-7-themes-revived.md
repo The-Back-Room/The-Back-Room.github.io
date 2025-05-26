@@ -16,7 +16,7 @@ permalink: /themes/windows/windows-7-themes-revived
     <br />
     <span class="fs-3">
       <div align="center" class="text-small">
-        <a href="https://github.com/The-Back-Room/Windows-7-Themes-Revived/archive/refs/heads/main.zip" target="_blank">
+        <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-7-Revived" target="_blank">
           <button type="button" name="button" class="btn">Download</button></a> 
       </div>
     </span>
