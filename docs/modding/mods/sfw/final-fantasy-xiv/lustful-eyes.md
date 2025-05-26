@@ -7,13 +7,13 @@ parent: Final Fantasy
 grand_parent: SFW Mods
 permalink: /modding/mods/sfw/final-fantasy-xiv/lustful-eyes
 ---
-
-{: .important }
+<!-- 
+{: .note }
 > {: .opaque }
-> We are in the process af revamping our preview images. As such this page currently has no preview available.
+> 
 >
-> Please be patient as we upload new and better previews.
-
+> 
+-->
 <div class="card">
   <img width="100%" height="auto" class="block" src="../../../../assets/images/modding/mods/sfw/lustful-eyes.webp" />
   <div class="container">
