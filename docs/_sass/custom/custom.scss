@@ -25,17 +25,16 @@ button {
   float: left;
 }
 
-.gallery img {
+.mobile {
+  max-width: 800px;
   width: 100%;
   height: auto;
 }
 
-.mobile {
-  max-width: 40%;
-}
-
 .desktop {
-  max-width: 60%;
+  max-width: 800px;
+  width: 100%;
+  height: auto;
 }
 
 .side-bar {
