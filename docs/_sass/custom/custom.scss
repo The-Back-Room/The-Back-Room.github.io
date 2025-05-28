@@ -11,11 +11,11 @@ button {
 
 .card:hover {
   box-shadow: 0 8px 16px 0  $grey-dk-250;
+  background-color: $sidebar-color;
 }
 
 .container {
   padding: 2px 16px;
-  background-color: $sidebar-color;
 }
 
 .gallery {
@@ -25,7 +25,6 @@ button {
   padding: 10px;
   max-width: 800px;
   width: 100%;
-  background-color: $sidebar-color;
 }
 
 .block {
