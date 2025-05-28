@@ -21,14 +21,21 @@ button {
 
 .gallery {
   padding: 10px;
-  max-width: 60%;
-  width: fit-content;
+  width: 100%;
   float: left;
 }
 
 .gallery img {
   width: 100%;
   height: auto;
+}
+
+.mobile {
+  max-width: 40%;
+}
+
+.desktop {
+  max-width: 60%;
 }
 
 .side-bar {

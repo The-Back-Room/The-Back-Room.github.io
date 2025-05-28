@@ -17,33 +17,33 @@ permalink: /wallpapers/mobile/sfw/final-fantasy-xiv-scenery
 
 <div class="w3-card">
   <div class="gallery">
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Aleport.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Amaurot.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Camp-Bronze-Lake.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Costa-del-Sol.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Dohn-Mheg.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Dravanian-Forelands.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Elpis-1.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Elpis-2.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Endwalker.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Garlemald.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Lakeland.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Sagoli-Desert.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Thanolan.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Thavnair.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Aetherfont.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Azim-Steppe.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Black-Shroud.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Crystarium.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Fringes.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Lochs.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Omphalos.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Uldah.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Coerthas.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Il-Mheg.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Mare-Lamentorum.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Old-Sharlayan.png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Raincatcher-Gully.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Aleport.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Amaurot.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Camp-Bronze-Lake.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Costa-del-Sol.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Dohn-Mheg.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Dravanian-Forelands.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Elpis-1.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Elpis-2.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Endwalker.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Garlemald.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Lakeland.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Sagoli-Desert.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Thanolan.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Thavnair.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Aetherfont.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Azim-Steppe.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Black-Shroud.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Crystarium.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Fringes.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Lochs.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Omphalos.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Uldah.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Coerthas.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Il-Mheg.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Mare-Lamentorum.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Old-Sharlayan.png" />
+    <img class="mobile" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Raincatcher-Gully.png" />
   </div>
   <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Final Fantasy XIV Scenery</h2>
