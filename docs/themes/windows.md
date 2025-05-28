@@ -15,5 +15,5 @@ permalink: /themes/windows
 > You can find those on our gitlab page.
 > 
 > <ul>
->   <li> <a href="https://gitlab.com/the-back-room/Themes/-/releases" target="_blank">GitLab</a></li>
+>   <li> <a href="https://gitlab.com/the-back-room/Themes/-/tree/main/Windows" target="_blank">GitLab</a></li>
 > </ul>
