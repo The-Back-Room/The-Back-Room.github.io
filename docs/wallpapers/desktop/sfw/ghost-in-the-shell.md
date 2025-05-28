@@ -19,12 +19,6 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
   <div class="w3-content w3-display-container" style="max-width:800px">
     <img class="slideshow" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png" style="width:100%">
     <img class="slideshow" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png" style="width:100%">
-    <div class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:100%">
-      <div class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</div>
-      <div class="w3-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</div>
-      <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)"></span>
-      <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)"></span>
-    </div>
   </div>
   <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>
@@ -40,30 +34,23 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
 </div>
 
 <script>
-  var slideIndex = 1;
-  showDivs(slideIndex);
+  let slideIndex = 0;
+  showSlides();
 
-  function plusDivs(n) {
-    showDivs(slideIndex += n);
-  }
-
-  function currentDiv(n) {
-    showDivs(slideIndex = n);
-  }
-
-  function showDivs(n) {
-    var i;
-    var x = document.getElementsByClassName("slideshow");
-    var dots = document.getElementsByClassName("demo");
-    if (n > x.length) {slideIndex = 1}
-    if (n < 1) {slideIndex = x.length}
-    for (i = 0; i < x.length; i++) {
-      x[i].style.display = "none";  
+  function showSlides() {
+    let i;
+    let slides = document.getElementsByClassName("slideshow");
+    let dots = document.getElementsByClassName("dot");
+    for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";  
     }
+    slideIndex++;
+    if (slideIndex > slides.length) {slideIndex = 1}    
     for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" w3-white", "");
+      dots[i].className = dots[i].className.replace(" active", "");
     }
-    x[slideIndex-1].style.display = "block";  
-    dots[slideIndex-1].className += " w3-white";
+    slides[slideIndex-1].style.display = "block";  
+    dots[slideIndex-1].className += " active";
+    setTimeout(showSlides, 2000); // Change image every 2 seconds
   }
 </script>
