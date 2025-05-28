@@ -16,10 +16,19 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
 -->
 
 <div class="w3-card">
-  <div class="w3-content w3-display-container" style="max-width:800px">
-    <img class="slideshow" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png" style="width:100%">
-    <img class="slideshow" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png" style="width:100%">
+  <div class="slideshow-container">
+    <div class="slideshow fade">
+      <img class="slideshow" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png" style="width:100%">
+    </div>
+    <div class="slideshow fade">
+      <img class="slideshow" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png" style="width:100%">
+    </div>
   </div>
+  <br>
+  <div style="text-align:center">
+    <span class="dot"></span> 
+    <span class="dot"></span> 
+</div>
   <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>
     <p class="text-small" style="text-align:center">Ghost in the Shell desktop wallpapers created with AI</p><br /><br />
