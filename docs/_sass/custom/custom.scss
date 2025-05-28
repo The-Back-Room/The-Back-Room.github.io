@@ -3,8 +3,7 @@ button {
 }
 
 .card {
-  background-color: $card-color;
-  box-shadow: 0 4px 8px 0 $shadow-color;
+  box-shadow: 0 4px 8px 0 $grey-dk-200;
   transition: 0.3s;
   border-radius: 5px;
 }
@@ -14,7 +13,6 @@ button {
 }
 
 .container {
-  background-color: $container-color;
   padding: 2px 16px;
 }
 
@@ -28,6 +26,7 @@ button {
 }
 
 .block {
+  background-color: $sidebar-color;
   display: block;
   border-radius: 5px;
 }
