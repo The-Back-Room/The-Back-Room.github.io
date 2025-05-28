@@ -3,6 +3,7 @@ button {
 }
 
 .w3-card {
+  display: block;
   background-color: $sidebar-color;
   box-shadow: 0 4px 8px 0 $grey-dk-200;
   transition: 0.3s;
@@ -18,18 +19,22 @@ button {
   padding: 2px 16px;
 }
 
-.gallery {
+.desktop-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+  padding: 10px;
+  max-width: 45%;
+  width: 100%;
+}
+
+.mobile-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
   gap: 10px;
   padding: 10px;
   max-width: 800px;
   width: 100%;
-}
-
-.block {
-  display: block;
-  border-radius: 5px;
 }
 
 .side-bar {
