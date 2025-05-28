@@ -21,9 +21,8 @@ button {
 
 .gallery {
   padding: 10px;
-  max-width: 40%;
-  width: 100%;
-  border: 1px solid $grey-dk-200;
+  max-width: 60%;
+  width: fit-content;
   float: left;
 }
 
@@ -31,11 +30,6 @@ button {
   width: 100%;
   height: auto;
 }
-
-.gallery:hover {
-  border: 1px solid $grey-dk-300;
-}
-
 
 .side-bar {
   z-index: 0;
