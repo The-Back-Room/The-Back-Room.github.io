@@ -3,13 +3,13 @@ button {
 }
 
 .card {
-  box-shadow: 0 4px 8px 0  $grey-dk-200;
+  box-shadow: 0 4px 8px 0 $grey-dk-200;
   transition: 0.3s;
   border-radius: 5px;
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0  $grey-dk-300;
+  box-shadow: 0 8px 16px 0 $grey-dk-300;
 }
 
 .container {
