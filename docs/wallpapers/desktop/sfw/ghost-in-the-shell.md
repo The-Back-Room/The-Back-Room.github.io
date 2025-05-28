@@ -14,7 +14,7 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
 > 
 -->
 <div class="w3-card">
-  <div class="w3-grid">
+  <div class="gallery">
     <img width="25%" height="auto" class="block" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png" />
     <img width="25%" height="auto" class="block" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png" />
   </div>
