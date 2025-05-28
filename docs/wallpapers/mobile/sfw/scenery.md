@@ -16,7 +16,7 @@ permalink: /wallpapers/mobile/sfw/scenery
 -->
 
 <div class="w3-card">
-    <div class="mobile-gallery">
+    <div class="gallery">
         <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Scenery/Wallpaper (1).png" />
     </div>
     <div class="w3-container">

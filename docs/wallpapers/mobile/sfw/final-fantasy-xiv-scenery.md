@@ -16,7 +16,7 @@ permalink: /wallpapers/mobile/sfw/final-fantasy-xiv-scenery
 -->
 
 <div class="w3-card">
-  <div class="mobile-gallery">
+  <div class="gallery">
     <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Aleport.png" />
     <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Amaurot.png" />
     <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Camp-Bronze-Lake.png" />

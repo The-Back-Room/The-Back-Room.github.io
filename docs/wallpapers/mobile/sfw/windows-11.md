@@ -16,7 +16,7 @@ permalink: /wallpapers/mobile/sfw/windows-11
 -->
 
 <div class="w3-card">
-  <div class="mobile-gallery">
+  <div class="gallery">
     <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (1).png" />
     <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (2).png" />
     <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (3).png" />
