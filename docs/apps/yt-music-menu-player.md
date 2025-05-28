@@ -11,10 +11,10 @@ permalink: /apps/yt-music-menu-player
 > This is an unofficial application and not published or supported by YouTube or Google. It is intended for personal and educational purposes. I am liable for nothing.
 
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../assets/images/yt-music.png" />
   <br />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">YT Music Menu Player</h2>
     <p class="text-small" style="text-align:center">Menu bar app for <a href="https://music.youtube.com/" target="_blank">YouTube Music</a>.</p>
     <br />

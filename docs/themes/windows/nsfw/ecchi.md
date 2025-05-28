@@ -15,10 +15,10 @@ permalink: /themes/windows/nsfw/ecchi
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/nsfw/ECCHI.jpg" />
   <br />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Ecchi</h2>
     <p class="text-small" style="text-align:center">Ecchi theme featuring girls from various different anime</p>
     <br />

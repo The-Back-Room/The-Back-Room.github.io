@@ -13,12 +13,12 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
 > 
 > 
 -->
-<div class="card">
-  <div class="gallery">
+<div class="w3-card">
+  <div class="w3-grid">
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png" />
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png" />
   </div>
-  <div class="container">
+  <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>
     <p class="text-small" style="text-align:center">Ghost in the Shell desktop wallpapers created with AI</p><br /><br />
     <span class="fs-3">

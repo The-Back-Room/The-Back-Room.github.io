@@ -15,9 +15,9 @@ permalink: /modding/mods/sfw/final-fantasy-xiv/lustful-eyes
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../../assets/images/modding/mods/sfw/lustful-eyes.webp" />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Lustful Eyes</h2>
     <p class="text-small" style="text-align:center">Lustful eyes for all races. Let your inner OwO or Yandare take over!</p>
     <br />

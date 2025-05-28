@@ -15,10 +15,10 @@ permalink: /themes/windows/nsfw/sexy-naruto-girls
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.jpg" />
   <br />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Sexy Naruto Girls</h2>
     <p class="text-small" style="text-align:center">Ecchi theme featuring some of the girls from the Naruto franchise</p>
     <br />

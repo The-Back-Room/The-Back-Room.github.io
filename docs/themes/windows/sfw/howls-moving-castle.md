@@ -15,10 +15,10 @@ permalink: /themes/windows/sfw/howls-moving-castle
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/HOWLS-MOVING-CASTLE.jpg" />
   <br />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Howl's Moving Castle</h2>
     <p class="text-small" style="text-align:center">A tribute to one of Studio Ghibli's highest grossing films</p>
     <br />

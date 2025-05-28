@@ -2,18 +2,26 @@ button {
   padding: 2px 16px;
 }
 
-.card {
+.w3-card {
+  background-color: $sidebar-color;
   box-shadow: 0 4px 8px 0 $grey-dk-200;
   transition: 0.3s;
   border-radius: 5px;
 }
 
-.card:hover {
+.w3-card:hover {
   box-shadow: 0 8px 16px 0 $grey-dk-300;
 }
 
-.container {
+.w3-container {
+  background-color: $sidebar-color;
   padding: 2px 16px;
+}
+
+.w3-grid {
+  column-gap: 2px;
+  row-gap: 2px;
+  grid-template-columns: auto auto auto;
 }
 
 .gallery {
@@ -26,7 +34,6 @@ button {
 }
 
 .block {
-  background-color: $sidebar-color;
   display: block;
   border-radius: 5px;
 }

@@ -15,10 +15,10 @@ permalink: /themes/windows/sfw/macos-themes-for-windows
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/MACOS-THEMES-FOR-WINDOWS.jpg" />
   <br />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">MacOS Themes for Windows</h2>
     <p class="text-small" style="text-align:center">MacOS themes ported to Windows 11</p>
     <br />

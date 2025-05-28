@@ -15,9 +15,9 @@ permalink: /modding/mods/sfw/final-fantasy-xiv/roseblood-duelist
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../../assets/images/modding/mods/sfw/roseblood-duelist.webp" /> 
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Roseblood Duelist</h2>
     <p class="text-small" style="text-align:center">Because it's just a better overall look!</p>
     <br />

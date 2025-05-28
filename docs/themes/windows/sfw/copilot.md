@@ -15,10 +15,10 @@ permalink: /themes/windows/sfw/copilot
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/COPILOT.jpg" />
   <br />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Copilot</h2>
     <p class="text-small" style="text-align:center">Microsoft's <b>Copilot</b> inspired theme for all to enjoy</p>
     <br />

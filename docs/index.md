@@ -14,8 +14,8 @@ permalink: /
 > 
 -->
 
-<div class="card">
-  <div class="container">
+<div class="w3-card">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">The Back Room</h2>
     <p class="text-small" style="text-align:center">Open-Source Development and Customization</p>
   </div>

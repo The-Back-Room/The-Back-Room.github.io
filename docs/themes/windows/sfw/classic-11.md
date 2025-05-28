@@ -15,10 +15,10 @@ permalink: /themes/windows/sfw/classic-11
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/CLASSIC-11.jpg" />
   <br />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Classic 11</h2>
     <p class="text-small" style="text-align:center">Simple Windows 11 theme with a classic style reminiscent of the Windows 7 era</p>
     <br />

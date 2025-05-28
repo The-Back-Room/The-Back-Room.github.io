@@ -15,10 +15,10 @@ permalink: /themes/windows/nsfw/ranma-hentai
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/nsfw/RANMA-HENTAI.jpg" />
   <br />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Ranma Hentai</h2>
     <p class="text-small" style="text-align:center">NSFW Theme inspired by Ranma 1/2</p>
     <br />

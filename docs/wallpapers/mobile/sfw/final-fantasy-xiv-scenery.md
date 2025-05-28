@@ -15,7 +15,7 @@ permalink: /wallpapers/mobile/sfw/final-fantasy-xiv-scenery
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <div class="gallery">
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Aleport.png" />
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Amaurot.png" />
@@ -45,7 +45,7 @@ permalink: /wallpapers/mobile/sfw/final-fantasy-xiv-scenery
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Old-Sharlayan.png" />
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Raincatcher-Gully.png" />
   </div>
-  <div class="container">
+  <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Final Fantasy XIV Scenery</h2>
     <p class="text-small" style="text-align:center">Final Fantasy XIV Scenery wallpapers created by various reddit users.</p><br /><br />
     <span class="fs-3">

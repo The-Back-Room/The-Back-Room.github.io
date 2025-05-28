@@ -15,10 +15,10 @@ permalink: /themes/windows/sfw/courage-tcd
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/COURAGE-TCD.jpg" />
   <br />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Courage TCD</h2>
     <p class="text-small" style="text-align:center">A tribute to a cult classic from the early to late 90s</p>
     <br />

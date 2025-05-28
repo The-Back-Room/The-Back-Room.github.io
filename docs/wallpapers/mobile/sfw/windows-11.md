@@ -15,7 +15,7 @@ permalink: /wallpapers/mobile/sfw/windows-11
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <div class="gallery">
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (1).png" />
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (2).png" />
@@ -36,7 +36,7 @@ permalink: /wallpapers/mobile/sfw/windows-11
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (17).png" />
     <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (18).png" />
   </div>
-  <div class="container">
+  <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Windows 11</h2>
     <p class="text-small" style="text-align:center">Windows 11 wallpapers ported to mobile.</p><br /><br />
     <span class="fs-3">

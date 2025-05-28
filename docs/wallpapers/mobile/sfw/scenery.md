@@ -15,11 +15,11 @@ permalink: /wallpapers/mobile/sfw/scenery
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
     <div class="gallery">
         <img width="100%" height="auto" class="block" src="../../../assets/images/wallpapers/mobile/sfw/Scenery/Wallpaper (1).png" />
     </div>
-    <div class="container">
+    <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Scenery</h2>
     <p class="text-small" style="text-align:center">Beautiful scenery wallpapers.</p><br /><br />
     <span class="fs-3">

@@ -15,9 +15,9 @@ permalink: /modding/mods/sfw/valheim/odinheim
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../../assets/images/modding/mods/sfw/odinheim.png" />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Odinheim</h2>
     <p class="text-small" style="text-align:center">A collection of mods to improve gameplay.<br />Contains both client-side and server-side mods.</p>
     <br />

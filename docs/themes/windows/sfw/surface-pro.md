@@ -15,10 +15,10 @@ permalink: /themes/windows/sfw/surface-pro
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/SURFACE-PRO.jpg" />
   <br />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Surface Pro</h2>
     <p class="text-small" style="text-align:center">Microsoft's <b>Surface Pro</b> themes for all to enjoy</p>
     <br />

@@ -15,10 +15,10 @@ permalink: /themes/windows/sfw/windows-7-revived
 > 
 -->
 
-<div class="card">
+<div class="w3-card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/WINDOWS-7-REVIVED.jpg" />
   <br />
-  <div class="container">
+  <div class="w3-container">
     <h2 class="text-small" style="text-align:center">Windows 7 Revived</h2>
     <p class="text-small" style="text-align:center">Large scale Windows 7 themes revival project</p>
     <br />
