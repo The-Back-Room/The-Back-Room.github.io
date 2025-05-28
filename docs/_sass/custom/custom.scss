@@ -3,10 +3,10 @@ button {
 }
 
 .card {
-  color: $grey-dk-300;
   box-shadow: 0 4px 8px 0  $grey-dk-250;
   transition: 0.3s;
   border-radius: 5px;
+  background-color: $sidebar-color;
 }
 
 .card:hover {
@@ -15,6 +15,7 @@ button {
 
 .container {
   padding: 2px 16px;
+  background-color: $sidebar-color;
 }
 
 .gallery {
@@ -24,6 +25,7 @@ button {
   padding: 10px;
   max-width: 800px;
   width: 100%;
+  background-color: $sidebar-color;
 }
 
 .block {
