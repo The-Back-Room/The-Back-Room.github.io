@@ -20,6 +20,7 @@ permalink: /wallpapers/mobile/sfw/scenery
     <div class="slideshow slideshow-fade" style="text-align:center">
       <div class="slideshow-number-text text-small">1 / 1</div>
       <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Scenery/Wallpaper (1).png" />
+      <div class="slideshow-caption-text text-small"></div>
     </div>
   </div>
   <div style="text-align:center">
