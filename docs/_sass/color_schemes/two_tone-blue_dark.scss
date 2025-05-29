@@ -17,5 +17,5 @@ $border-color: $grey-dk-200;
 $card-background-color: $grey-dk-300;
 $container-background-color: $grey-dk-300;
 
-@import "./vendor/OneDarkJekyll/syntax"; 
-@import "./two_tone/blue_dark";
+@import "../vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
+@import "two_tone/blue_dark"; // this is the blue_dark two_tone theme stylesheet
