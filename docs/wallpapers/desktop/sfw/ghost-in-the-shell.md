@@ -18,9 +18,11 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
 <div class="w3-card">
   <div class="slideshow-container">
     <div class="slideshow slideshow-fade" style="text-align:center">
+      <div class="slideshow-number-text text-small">1 / 2</div>
       <img width="100%" height="auto" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png">
     </div>
     <div class="slideshow slideshow-fade" style="text-align:center">
+      <div class="slideshow-number-text text-small">2 / 2</div>
       <img width="100%" height="auto" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png">
     </div>
   </div>

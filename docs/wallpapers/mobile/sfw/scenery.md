@@ -16,8 +16,9 @@ permalink: /wallpapers/mobile/sfw/scenery
 -->
 
 <div class="w3-card">
-  <div class="slideshow-container" style="text-align:center">
-    <div class="slideshow slideshow-fade">
+  <div class="slideshow-container">
+    <div class="slideshow slideshow-fade" style="text-align:center">
+      <div class="slideshow-number-text text-small">1 / 1</div>
       <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Scenery/Wallpaper (1).png" />
     </div>
   </div>
