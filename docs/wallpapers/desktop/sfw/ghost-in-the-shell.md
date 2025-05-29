@@ -27,11 +27,6 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
       <span class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(3)"></span>
     </div>
   </div>
-  <br>
-  <div style="text-align:center">
-    <span class="dot"></span> 
-    <span class="dot"></span> 
-</div>
   <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>
     <p class="text-small" style="text-align:center">Ghost in the Shell desktop wallpapers created with AI</p><br /><br />
