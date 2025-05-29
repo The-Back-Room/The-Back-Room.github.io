@@ -45,6 +45,8 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
   </div>
 </div>
 
+<script src="{{ '../../../assets/js/slideshow.js' | relative_url }}"></script>
+
 <!--
 <script>
 let slideIndex = 0;
