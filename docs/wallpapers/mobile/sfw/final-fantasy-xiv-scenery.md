@@ -16,7 +16,8 @@ permalink: /wallpapers/mobile/sfw/final-fantasy-xiv-scenery
 -->
 
 <div class="w3-card">
-<div class="slideshow-container" style="text-align:center">
+  <div class="slideshow-container" style="text-align:center">
+    <br />
     <div class="slideshow slideshow-fade">
       <img width="50%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Aleport.png" />
     </div>
@@ -97,32 +98,32 @@ permalink: /wallpapers/mobile/sfw/final-fantasy-xiv-scenery
     </div>
   </div><br>
   <div style="text-align:center">
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span>
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span>
   </div>
   <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Final Fantasy XIV Scenery</h2>
