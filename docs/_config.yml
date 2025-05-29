@@ -10,7 +10,7 @@ favicon_ico: "/favicon.ico"
 
 remote_theme: just-the-docs/just-the-docs
 
-color_scheme: blue-dk
+color_scheme: two_tone-blue_dark
 
 mermaid:
   version: "9.1.3"
