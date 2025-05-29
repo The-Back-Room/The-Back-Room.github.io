@@ -31,8 +31,8 @@ button {
 }
 
 .slideshow-dot {
-  height: 5px;
-  width: 5px;
+  height: 8px;
+  width: 8px;
   margin: 0 2px;
   background-color: $grey-lt-000;
   border-radius: 50%;
@@ -49,7 +49,7 @@ button {
   animation-duration: 1.5s;
 }
 
-@keyframes fade {
+@keyframes slideshow-fade {
   from {opacity: .4} 
   to {opacity: 1}
 }
@@ -61,25 +61,4 @@ button {
   padding: 10px;
   max-width: fit-content;
   width: 100%;
-}
-
-.side-bar {
-  z-index: 0;
-  display: flex;
-  flex-wrap: wrap;
-  background-color: $sidebar-color;
-
-  @include mq(md) {
-    flex-flow: column nowrap;
-    position: fixed;
-    width: $nav-width-md;
-    height: 100%;
-    border-right: $border $border-color;
-    align-items: flex-end;
-  }
-
-  @include mq(lg) {
-    width: calc((100% - #{$nav-width + $content-width}) / 20 + #{$nav-width});
-    min-width: $nav-width;
-  }
 }
