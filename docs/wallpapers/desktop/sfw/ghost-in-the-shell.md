@@ -45,10 +45,7 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
   </div>
 </div>
 
-<script src="{{ '../../../assets/js/slideshow.js' | relative_url }}"></script>
-
-<!--
-<script>
+<!-- <script>
 let slideIndex = 0;
 showSlides();
 
@@ -68,5 +65,4 @@ function showSlides() {
   dots[slideIndex-1].className += " slideshow-active";
   setTimeout(showSlides, 2000);
 }
-</script>
--->
+</script> -->
