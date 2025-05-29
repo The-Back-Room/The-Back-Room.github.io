@@ -23,10 +23,10 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
     <div class="slideshow slideshow-fade">
       <img width="100%" height="auto" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png">
     </div>
-  </div><br>
+  </div>
   <div style="text-align:center">
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span>
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span>
   </div>
   <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>

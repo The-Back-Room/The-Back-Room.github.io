@@ -96,7 +96,6 @@ permalink: /wallpapers/mobile/sfw/final-fantasy-xiv-scenery
       <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Raincatcher-Gully.png" />
     </div>
   </div>
-  <br>
   <div style="text-align:center">
     <span class="slideshow-dot"></span> 
     <span class="slideshow-dot"></span> 

@@ -16,25 +16,81 @@ permalink: /wallpapers/mobile/sfw/windows-11
 -->
 
 <div class="w3-card">
-  <div class="gallery">
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (1).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (2).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (3).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (4).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (5).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (6).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (7).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (8).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (9).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (10).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (11).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (12).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (13).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (14).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (15).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (16).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (17).png" />
-    <img src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (18).png" />
+  <div class="slideshow-container" style="text-align:center">
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (1).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (2).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (3).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (4).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (5).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (6).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (7).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (8).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (9).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (10).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (11).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (12).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (13).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (14).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (15).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (16).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (17).png" />
+    </div>
+    <div class="slideshow slideshow-fade">
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (18).png" />
+    </div>
+  </div>
+  <div style="text-align:center">
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span> 
+    <span class="slideshow-dot"></span>
   </div>
   <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Windows 11</h2>
@@ -48,3 +104,25 @@ permalink: /wallpapers/mobile/sfw/windows-11
     <br />
   </div>
 </div>
+
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("slideshow");
+  let dots = document.getElementsByClassName("slideshow-dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" slideshow-active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " slideshow-active";
+  setTimeout(showSlides, 2000);
+}
+</script>
