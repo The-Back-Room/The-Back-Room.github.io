@@ -45,6 +45,7 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
   </div>
 </div>
 
+<!--
 <script>
 let slideIndex = 0;
 showSlides();
@@ -66,3 +67,4 @@ function showSlides() {
   setTimeout(showSlides, 2000);
 }
 </script>
+-->
