@@ -43,7 +43,6 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
   </div>
 </div>
 
-<!--
 <script>
 let slideIndex = 0;
 showSlides();
@@ -65,7 +64,3 @@ function showSlides() {
   setTimeout(showSlides, 2000);
 }
 </script>
--->
-
-<script type="text/javascript" src="jquery-3.3.1.js"></script>
-<script src="../../../_includes/js/slideshow.js"></script>
