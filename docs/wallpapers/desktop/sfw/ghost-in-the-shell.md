@@ -19,12 +19,12 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
   <div class="slideshow-container">
     <div class="slideshow fade">
       <div class="number-text text-small">1 / 2</div>
-      <img width="100%" height="auto" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png" />
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png">
       <div class="caption-text text-small">768x512</div>
     </div>
     <div class="slideshow fade">
       <div class="number-text text-small">2 / 2</div>
-      <img width="100%" height="auto" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png" />
+      <img width="100%" height="auto" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png">
       <div class="caption-text text-small">768x512</div>
     </div>
   </div>
