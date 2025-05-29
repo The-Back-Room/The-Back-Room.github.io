@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ranma Hentai
-nav_order: 1
+nav_order: 2
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /themes/windows/nsfw/ranma-hentai

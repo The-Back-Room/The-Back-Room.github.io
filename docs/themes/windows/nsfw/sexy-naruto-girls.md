@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sexy Naruto Girls
-nav_order: 2
+nav_order: 3
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /themes/windows/nsfw/sexy-naruto-girls

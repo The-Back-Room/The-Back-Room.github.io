@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ecchi
-nav_order: 3
+nav_order: 4
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /themes/windows/nsfw/ecchi
