@@ -26,8 +26,7 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
   </div><br>
   <div style="text-align:center">
     <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
-    <span class="slideshow-dot text-small"></span> 
+    <span class="slideshow-dot text-small"></span>
   </div>
   <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>
