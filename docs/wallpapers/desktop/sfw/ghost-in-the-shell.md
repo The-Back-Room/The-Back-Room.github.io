@@ -18,27 +18,17 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
 <div class="w3-card">
   <div class="slideshow-container" style="text-align:center">
     <div class="slideshow slideshow-fade">
-      <div class="slideshow-number-text text-small">1 / 2</div>
       <img width="100%" height="auto" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png">
-      <div class="slideshow-caption-text text-small">768x512</div>
     </div>
     <div class="slideshow slideshow-fade">
-      <div class="slideshow-number-text text-small">2 / 2</div>
       <img width="100%" height="auto" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png">
-      <div class="slideshow-caption-text text-small">768x512</div>
     </div>
   </div><br>
   <div style="text-align:center">
-    <span class="dot text-small"></span> 
-    <span class="dot text-small"></span> 
-    <span class="dot text-small"></span> 
+    <span class="slideshow-dot text-small"></span> 
+    <span class="slideshow-dot text-small"></span> 
+    <span class="slideshow-dot text-small"></span> 
   </div>
-  <!-- 
-  <div class="gallery">
-    <img width="100%" height="auto" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png" />
-    <img width="100%" height="auto" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png" />
-  </div>
-  -->
   <div class="w3-container">
   <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>
     <p class="text-small" style="text-align:center">Ghost in the Shell desktop wallpapers created with AI</p><br /><br />
