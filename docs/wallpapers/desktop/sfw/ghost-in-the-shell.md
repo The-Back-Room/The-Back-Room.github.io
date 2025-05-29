@@ -21,8 +21,8 @@ permalink: /wallpapers/desktop/sfw/ghost-in-the-shell
     <img class="slideshow" src="../../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png" style="width:100%">
     <span class="w3-center w3-container w3-section w3-large w3-text-white w3-display-bottommiddle" style="width:80%">
       <p class="w3-left w3-hover-text-khaki" onclick="plusDivs(-1)">&#10094;</p>
-      <p class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)">•</p>
-      <p class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)">•</p>
+      <p class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(1)">&#9675;</p>
+      <p class="w3-badge demo w3-border w3-transparent w3-hover-white" onclick="currentDiv(2)">&#9675;</p>
       <p class="w3-right w3-hover-text-khaki" onclick="plusDivs(1)">&#10095;</p>
     </span>
   </div>
