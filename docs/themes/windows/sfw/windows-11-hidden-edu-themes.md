@@ -20,54 +20,54 @@ permalink: /themes/windows/sfw/windows-11-hidden-edu-themes
         <div class="slideshow slideshow-fade" style="text-align:center">
             <div class="slideshow-number-text text-small">1 / 6</div>
             <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
-            <div class="slideshow-caption-text text-small">Flower (light)</div>
+            <div class="slideshow-caption-text text-small">Flower Light</div>
         </div>
         <div class="slideshow slideshow-fade" style="text-align:center">
             <div class="slideshow-number-text text-small">2 / 6</div>
             <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/FLOWER_DARK.jpg" />
-            <div class="slideshow-caption-text text-small">Flower (dark)</div>
+            <div class="slideshow-caption-text text-small">Flower Dark</div>
         </div>
         <div class="slideshow slideshow-fade" style="text-align:center">
             <div class="slideshow-number-text text-small">3 / 6</div>
             <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/PLANETS_LIGHT.jpg" />
-            <div class="slideshow-caption-text text-small">Planets (light)</div>
+            <div class="slideshow-caption-text text-small">Planets Light</div>
         </div>
         <div class="slideshow slideshow-fade" style="text-align:center">
             <div class="slideshow-number-text text-small">4 / 6</div>
             <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/PLANETS_DARK.jpg" />
-            <div class="slideshow-caption-text text-small">Planets (dark)</div>
+            <div class="slideshow-caption-text text-small">Planets Dark</div>
         </div>
         <div class="slideshow slideshow-fade" style="text-align:center">
             <div class="slideshow-number-text text-small">5 / 6</div>
             <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/SUNSET_LIGHT.jpg" />
-            <div class="slideshow-caption-text text-small">Sunset (light)</div>
+            <div class="slideshow-caption-text text-small">Sunset Light</div>
         </div>
         <div class="slideshow slideshow-fade" style="text-align:center">
             <div class="slideshow-number-text text-small">6 / 6</div>
             <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/SUNSET_DARK.jpg" />
-            <div class="slideshow-caption-text text-small">Sunset (dark)</div>
+            <div class="slideshow-caption-text text-small">Sunset Dark</div>
         </div>
-  </div>
-  <div style="text-align:center">
-    <span class="slideshow-dot"></span> 
-    <span class="slideshow-dot"></span>
-    <span class="slideshow-dot"></span> 
-    <span class="slideshow-dot"></span>
-    <span class="slideshow-dot"></span> 
-    <span class="slideshow-dot"></span>
-  </div>
-  <div class="w3-container">
-    <h2 class="text-small" style="text-align:center">Windows 11 Hidden EDU Themes</h2>
-    <p class="text-small" style="text-align:center">Windows 11 Hidden EDU Themes for all to enjoy.</p>
-    <br />
-    <span class="fs-3">
-      <div align="center" class="text-small">
-        <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-11-Hidden-EDU-Themes" target="_blank">
-          <button type="button" name="button" class="btn">Download</button></a> 
-      </div>
-    </span>
-    <br />
-  </div>
+    </div>
+    <div style="text-align:center">
+        <span class="slideshow-dot"></span> 
+        <span class="slideshow-dot"></span>
+        <span class="slideshow-dot"></span> 
+        <span class="slideshow-dot"></span>
+        <span class="slideshow-dot"></span> 
+        <span class="slideshow-dot"></span>
+    </div>
+    <div class="w3-container">
+        <h2 class="text-small" style="text-align:center">Windows 11 Hidden EDU Themes</h2>
+        <p class="text-small" style="text-align:center">Windows 11 Hidden EDU Themes for all to enjoy.</p>
+        <br />
+        <span class="fs-3">
+        <div align="center" class="text-small">
+            <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-11-Hidden-EDU-Themes" target="_blank">
+            <button type="button" name="button" class="btn">Download</button></a> 
+        </div>
+        </span>
+        <br />
+    </div>
 </div>
 
 <script>
