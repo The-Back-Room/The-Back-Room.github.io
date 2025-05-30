@@ -17,34 +17,36 @@ permalink: /themes/windows/sfw/windows-11-hidden-edu-themes
 
 <div class="w3-card">
     <div class="slideshow-container">
-    <div class="slideshow slideshow-fade" style="text-align:center">
-      <div class="slideshow-number-text text-small">1 / 6</div>
-      <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
-      <div class="slideshow-caption-text text-small">Flower (light)</div>
-    </div>
-    <div class="slideshow slideshow-fade" style="text-align:center">
-      <div class="slideshow-number-text text-small">2 / 6</div>
-      <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/FLOWER_DARK.jpg" />
-      <div class="slideshow-caption-text text-small">Flower (dark)</div>
-    <div class="slideshow slideshow-fade" style="text-align:center">
-      <div class="slideshow-number-text text-small">3 / 6</div>
-      <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/PLANETS_LIGHT.jpg" />
-      <div class="slideshow-caption-text text-small">Planets (light)</div>
-    </div>
-    <div class="slideshow slideshow-fade" style="text-align:center">
-      <div class="slideshow-number-text text-small">4 / 6</div>
-      <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/PLANETS_DARK.jpg" />
-      <div class="slideshow-caption-text text-small">Planets (dark)</div>
-    <div class="slideshow slideshow-fade" style="text-align:center">
-      <div class="slideshow-number-text text-small">5 / 6</div>
-      <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/SUNSET_LIGHT.jpg" />
-      <div class="slideshow-caption-text text-small">Sunset (light)</div>
-    </div>
-    <div class="slideshow slideshow-fade" style="text-align:center">
-      <div class="slideshow-number-text text-small">6 / 6</div>
-      <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/SUNSET_DARK.jpg" />
-      <div class="slideshow-caption-text text-small">Sunset (dark)</div>
-    </div>
+        <div class="slideshow slideshow-fade" style="text-align:center">
+            <div class="slideshow-number-text text-small">1 / 6</div>
+            <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
+            <div class="slideshow-caption-text text-small">Flower (light)</div>
+        </div>
+        <div class="slideshow slideshow-fade" style="text-align:center">
+            <div class="slideshow-number-text text-small">2 / 6</div>
+            <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/FLOWER_DARK.jpg" />
+            <div class="slideshow-caption-text text-small">Flower (dark)</div>
+        </div>
+        <div class="slideshow slideshow-fade" style="text-align:center">
+            <div class="slideshow-number-text text-small">3 / 6</div>
+            <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/PLANETS_LIGHT.jpg" />
+            <div class="slideshow-caption-text text-small">Planets (light)</div>
+        </div>
+        <div class="slideshow slideshow-fade" style="text-align:center">
+            <div class="slideshow-number-text text-small">4 / 6</div>
+            <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/PLANETS_DARK.jpg" />
+            <div class="slideshow-caption-text text-small">Planets (dark)</div>
+        </div>
+        <div class="slideshow slideshow-fade" style="text-align:center">
+            <div class="slideshow-number-text text-small">5 / 6</div>
+            <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/SUNSET_LIGHT.jpg" />
+            <div class="slideshow-caption-text text-small">Sunset (light)</div>
+        </div>
+        <div class="slideshow slideshow-fade" style="text-align:center">
+            <div class="slideshow-number-text text-small">6 / 6</div>
+            <img width="100%" height="auto" class="block" src="../../../assets/images/themes/sfw/SUNSET_DARK.jpg" />
+            <div class="slideshow-caption-text text-small">Sunset (dark)</div>
+        </div>
   </div>
   <div style="text-align:center">
     <span class="slideshow-dot"></span> 
