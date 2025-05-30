@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Copilot
-nav_order: 3
+nav_order: 5
 parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /themes/windows/sfw/copilot

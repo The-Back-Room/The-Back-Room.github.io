@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Studio Ghibli
-nav_order: 8
+nav_order: 9
 parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /themes/windows/sfw/studio-ghibli

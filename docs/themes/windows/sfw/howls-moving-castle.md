@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Howl's Moving Castle
-nav_order: 7
+nav_order: 8
 parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /themes/windows/sfw/howls-moving-castle

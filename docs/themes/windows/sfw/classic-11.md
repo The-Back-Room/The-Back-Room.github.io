@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Classic 11
-nav_order: 5
+nav_order: 6
 parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /themes/windows/sfw/classic-11
