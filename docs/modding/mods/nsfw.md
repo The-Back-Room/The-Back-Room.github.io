@@ -1,8 +1,6 @@
 ---
 layout: default
 title: NSFW Mods
-parent: Game Mods
-grand_parent: Modding
 permalink: /modding/mods/nsfw
 nav_exclude: true
 ---

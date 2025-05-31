@@ -1,8 +1,6 @@
 ---
 layout: default
 title: NSFW Tools
-parent: Modding Tools
-grand_parent: Modding
 permalink: /modding/tools/nsfw
 nav_exclude: true
 ---

@@ -1,8 +1,6 @@
 ---
 layout: default
 title: NSFW Themes
-parent: Windows Themes
-grand_parent: Themes
 permalink: /themes/windows/nsfw
 nav_exclude: true
 ---
