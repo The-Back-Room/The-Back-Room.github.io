@@ -15,11 +15,9 @@ permalink: /wallpapers/desktop
 -->
 
 <div class="w3-card">
-<div class="responisve">
 <div class="gallery">
 <img src="../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png">
 <img src="../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png">
-</div>
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>

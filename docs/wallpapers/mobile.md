@@ -15,7 +15,6 @@ permalink: /wallpapers/mobile
 -->
 
 <div class="w3-card">
-<div class="responisve">
 <div class="gallery">
 <img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Aleport.png" />
 <img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Amaurot.png" />
@@ -44,7 +43,6 @@ permalink: /wallpapers/mobile
 <img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Old-Sharlayan.png" />
 <img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Raincatcher-Gully.png" />
 </div>
-</div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Final Fantasy XIV Scenery</h2>
 <p class="text-small" style="text-align:center">Final Fantasy XIV Scenery wallpapers created by various reddit users.</p><br /><br />
@@ -59,10 +57,8 @@ permalink: /wallpapers/mobile
 </div>
 <br />
 <div class="w3-card">
-<div class="responisve">
 <div class="gallery">
 <img src="../assets/images/wallpapers/mobile/sfw/Scenery/Wallpaper (1).png" />
-</div>
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Scenery</h2>
@@ -78,7 +74,6 @@ permalink: /wallpapers/mobile
 </div>
 <br />
 <div class="w3-card">
-<div class="responisve">
 <div class="gallery">
 <img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (1).png" />
 <img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (2).png" />
@@ -98,7 +93,6 @@ permalink: /wallpapers/mobile
 <img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (16).png" />
 <img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (17).png" />
 <img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (18).png" />
-</div>
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Windows 11</h2>
