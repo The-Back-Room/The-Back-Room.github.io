@@ -96,7 +96,6 @@ permalink: /wallpapers/mobile
 <img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (17).png" />
 <img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (18).png" />
 </div>
-</div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Windows 11</h2>
 <p class="text-small" style="text-align:center">Windows 11 wallpapers ported to mobile.</p><br /><br />
