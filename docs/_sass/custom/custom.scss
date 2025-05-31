@@ -2,6 +2,25 @@ button {
   padding: 2px 16px;
 }
 
+.gallery {
+  border: 1px solid $grey-lt-000;
+}
+
+.gallery:hover {
+  border: 1px solid $grey-dk-000;
+}
+
+.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+.responsive {
+  padding: 0 6px;
+  float: left;
+  width: 24.99999%;
+}
+
 .slideshow1,
 .slideshow2,
 .slideshow3,

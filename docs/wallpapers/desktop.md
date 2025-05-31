@@ -15,13 +15,8 @@ permalink: /wallpapers/desktop
 -->
 
 <div class="w3-card">
-<div class="slideshow-container">
-<div class="slideshow-one slideshow-fade" style="text-align:center">
-<div class="slideshow-number-text text-small">1 / 2</div>
+<div class="gallery">
 <img width="100%" height="auto" src="../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png">
-</div>
-<div class="slideshow-one slideshow-fade" style="text-align:center">
-<div class="slideshow-number-text text-small">2 / 2</div>
 <img width="100%" height="auto" src="../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png">
 </div>
 </div>
@@ -37,20 +32,3 @@ permalink: /wallpapers/desktop
 <br />
 </div>
 </div>
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-<script>
-let S1Index = 0;
-showS1();
-function showS1() {
-  let i;
-  let S1 = document.getElementsByClassName("slideshow-one");
-  for (i = 0; i < S1.length; i++) {
-    S1[i].style.display = "none";  
-  }
-  S1Index++;
-  if (S1Index > S1.length) {S1Index = 1}    
-  S1[S1Index-1].style.display = "block";  
-  setTimeout(showS1, 2000);
-};
-</script>
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
