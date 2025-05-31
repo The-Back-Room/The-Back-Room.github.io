@@ -22,7 +22,7 @@ nav_exclude: true
 
 <div class="w3-card">
 <div class="gallery">
-<img class="responsive" src="../../assets/images/themes/nsfw/BLEACH-HENTAI.jpg" />
+<img src="../../assets/images/themes/nsfw/BLEACH-HENTAI.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Bleach Hentai</h2>
@@ -40,7 +40,7 @@ nav_exclude: true
 <br />
 <div class="w3-card">
 <div class="gallery">
-<img class="responsive" src="../../assets/images/themes/nsfw/ECCHI.jpg" />
+<img src="../../assets/images/themes/nsfw/ECCHI.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Ecchi</h2>
@@ -58,7 +58,7 @@ nav_exclude: true
 <br />
 <div class="w3-card">
 <div class="gallery">
-<img class="responsive" src="../../assets/images/themes/nsfw/RANMA-HENTAI.jpg" />
+<img src="../../assets/images/themes/nsfw/RANMA-HENTAI.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Ranma Hentai</h2>
@@ -76,7 +76,7 @@ nav_exclude: true
 <br />
 <div class="w3-card">
 <div class="gallery">
-<img class="responsive" src="../../assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.jpg" />
+<img src="../../assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Sexy Naruto Girls</h2>

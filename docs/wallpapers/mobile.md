@@ -15,33 +15,34 @@ permalink: /wallpapers/mobile
 -->
 
 <div class="w3-card">
+<div class="responisve">
 <div class="gallery">
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Aleport.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Amaurot.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Camp-Bronze-Lake.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Costa-del-Sol.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Dohn-Mheg.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Dravanian-Forelands.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Elpis-1.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Elpis-2.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Endwalker.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Lakeland.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Sagoli-Desert.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Thanolan.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Thavnair.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Aetherfont.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Azim-Steppe.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Black-Shroud.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Crystarium.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Fringes.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Lochs.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Omphalos.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Uldah.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Coerthas.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Il-Mheg.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Mare-Lamentorum.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Old-Sharlayan.png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Raincatcher-Gully.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Aleport.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Amaurot.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Camp-Bronze-Lake.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Costa-del-Sol.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Dohn-Mheg.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Dravanian-Forelands.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Elpis-1.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Elpis-2.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Endwalker.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Lakeland.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Sagoli-Desert.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Thanolan.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Thavnair.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Aetherfont.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Azim-Steppe.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Black-Shroud.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Crystarium.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Fringes.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Lochs.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/The-Omphalos.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Uldah.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Coerthas.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Il-Mheg.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Mare-Lamentorum.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Old-Sharlayan.png" />
+<img src="../assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Raincatcher-Gully.png" />
 </div>
 </div>
 <div class="w3-container">
@@ -58,8 +59,9 @@ permalink: /wallpapers/mobile
 </div>
 <br />
 <div class="w3-card">
+<div class="responisve">
 <div class="gallery">
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Scenery/Wallpaper (1).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Scenery/Wallpaper (1).png" />
 </div>
 </div>
 <div class="w3-container">
@@ -76,25 +78,27 @@ permalink: /wallpapers/mobile
 </div>
 <br />
 <div class="w3-card">
+<div class="responisve">
 <div class="gallery">
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (1).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (2).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (3).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (4).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (5).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (6).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (7).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (8).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (9).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (10).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (11).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (12).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (13).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (14).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (15).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (16).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (17).png" />
-<img class="responsive" src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (18).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (1).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (2).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (3).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (4).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (5).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (6).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (7).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (8).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (9).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (10).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (11).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (12).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (13).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (14).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (15).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (16).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (17).png" />
+<img src="../assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (18).png" />
+</div>
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Windows 11</h2>

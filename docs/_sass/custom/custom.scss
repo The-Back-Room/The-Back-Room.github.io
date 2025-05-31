@@ -3,11 +3,12 @@ button {
 }
 
 .gallery {
-  border: 1px solid $grey-dk-200;
-}
-
-.gallery:hover {
-  border: 1px solid $grey-dk-300;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px;
+  padding: 10px;
+  max-width: fit-content;
+  width: 100%;
 }
 
 .gallery img {
@@ -19,70 +20,6 @@ button {
   padding: 0 6px;
   float: left;
   width: 24.99999%;
-}
-
-.slideshow1,
-.slideshow2,
-.slideshow3,
-.slideshow4,
-.slideshow5,
-.slideshow6,
-.slideshow7,
-.slideshow8,
-.slideshow9 {
-  display: none;
-}
-
-.slideshow-container {
-  max-width: 1000px;
-  position: relative;
-  margin: auto;
-}
-
-.slideshow-caption-text {
-  color: $grey-lt-000;
-  background-color: rgba(0, 0, 0, 0.75);
-  padding: 8px;
-  position: absolute;
-  bottom: 8px;
-  width: 100%;
-  text-align: center;
-}
-
-.slideshow-number-text {
-  color: $grey-lt-000;
-  background-color: rgba(0, 0, 0, 0.75);
-  padding: 8px;
-  position: absolute;
-  top: 0;
-}
-
-.slideshow-active {
-  background-color: $grey-dk-000;
-}
-
-.slideshow-fade {
-  animation-name: fade;
-  animation-duration: 1.5s;
-}
-
-@keyframes slideshow-fade {
-  from {
-    opacity: .4
-  }
-
-  to {
-    opacity: 1
-  }
-}
-
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-  gap: 10px;
-  padding: 10px;
-  max-width: fit-content;
-  width: 100%;
 }
 
 .side-bar {
