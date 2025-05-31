@@ -45,11 +45,7 @@ permalink: /themes/windows
 </div>
 <br />
 <div class="w3-card">
-<div class="responsive">
-<div class="gallery">
 <img class="responsive"src="../assets/images/themes/sfw/CLASSIC-11.jpg" />
-</div>
-</div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Classic 11</h2>
 <p class="text-small" style="text-align:center">Simple Windows 11 theme with a classic style reminiscent of the Windows 7 era</p>
@@ -65,11 +61,7 @@ permalink: /themes/windows
 </div>
 <br />
 <div class="w3-card">
-<div class="responsive">
-<div class="gallery">
 <img src="../assets/images/themes/sfw/COPILOT.jpg" />
-</div>
-</div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Copilot</h2>
 <p class="text-small" style="text-align:center">Microsoft's <b>Copilot</b> inspired theme for all to enjoy</p>
@@ -85,11 +77,7 @@ permalink: /themes/windows
 </div>
 <br />
 <div class="w3-card">
-<div class="responsive">
-<div class="gallery">
 <img src="../assets/images/themes/sfw/COURAGE-TCD.jpg" />
-</div>
-</div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Courage TCD</h2>
 <p class="text-small" style="text-align:center">A tribute to a cult classic from the early to late 90s</p>
@@ -105,11 +93,7 @@ permalink: /themes/windows
 </div>
 <br />
 <div class="w3-card">
-<div class="responsive">
-<div class="gallery">
 <img src="../assets/images/themes/sfw/HOWLS-MOVING-CASTLE.jpg" />
-</div>
-</div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Howl's Moving Castle</h2>
 <p class="text-small" style="text-align:center">A tribute to one of Studio Ghibli's highest grossing films</p>
@@ -125,11 +109,7 @@ permalink: /themes/windows
 </div>
 <br />
 <div class="w3-card">
-<div class="responsive">
-<div class="gallery">
 <img src="../assets/images/themes/sfw/MACOS-THEMES-FOR-WINDOWS.jpg" />
-</div>
-</div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">MacOS Themes for Windows</h2>
 <p class="text-small" style="text-align:center">MacOS themes ported to Windows 11</p>
@@ -145,11 +125,7 @@ permalink: /themes/windows
 </div>
 <br />
 <div class="w3-card">
-<div class="responsive">
-<div class="gallery">
 <img src="../assets/images/themes/sfw/STUDIO-GHIBLI.jpg" />
-</div>
-</div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Studio Ghibli</h2>
 <p class="text-small" style="text-align:center">A tribute to one of the greatest animation studios of the 20th century</p>
@@ -165,11 +141,7 @@ permalink: /themes/windows
 </div>
 <br />
 <div class="w3-card">
-<div class="responsive">
-<div class="gallery">
 <img src="../assets/images/themes/sfw/SURFACE-PRO.jpg" />
-</div>
-</div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Surface Pro</h2>
 <p class="text-small" style="text-align:center">Microsoft's <b>Surface Pro</b> themes for all to enjoy</p>
@@ -185,11 +157,7 @@ permalink: /themes/windows
 </div>
 <br />
 <div class="w3-card">
-<div class="responsive">
-<div class="gallery">
 <img src="../assets/images/themes/sfw/WINDOWS-7-REVIVED.jpg" />
-</div>
-</div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Windows 7 Revived</h2>
 <p class="text-small" style="text-align:center">Large scale Windows 7 themes revival project</p>
