@@ -23,6 +23,7 @@ button {
 
 .slideshow-caption-text {
   color: $grey-lt-000;
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 8px 12px;
   position: absolute;
   bottom: 8px;
@@ -32,6 +33,7 @@ button {
 
 .slideshow-number-text {
   color: $grey-lt-000;
+  background-color: rgba(0, 0, 0, 0.5);
   padding: 8px 12px;
   position: absolute;
   top: 0;

@@ -7,7 +7,7 @@ grand_parent: Wallpapers
 permalink: /wallpapers/desktop/sfw
 ---
 
-<!-- 
+<!-->
 {: .note }
 > {: .opaque }
 > 
@@ -17,41 +17,21 @@ permalink: /wallpapers/desktop/sfw
 
 <div class="w3-card">
 <div class="slideshow-container">
-<div class="slideshow slideshow-fade" style="text-align:center">
-<!-- <div class="slideshow-number-text text-small">1 / 2</div> -->
+<div class="slideshow-one slideshow-fade" style="text-align:center">
+<div class="slideshow-number-text text-small">1 / 2</div>
 <img width="100%" height="auto" src="../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png">
-<!-- <div class="slideshow-caption-text text-small"></div> -->
+<div class="slideshow-caption-text text-small"></div>
 </div>
-<div class="slideshow slideshow-fade" style="text-align:center">
-<!-- <div class="slideshow-number-text text-small">2 / 2</div> -->
+<div class="slideshow-one slideshow-fade" style="text-align:center">
+<div class="slideshow-number-text text-small">2 / 2</div>
 <img width="100%" height="auto" src="../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png">
-<!-- <div class="slideshow-caption-text text-small"></div> -->
+<div class="slideshow-caption-text text-small"></div>
 </div>
 </div>
 <div style="text-align:center">
-<span class="slideshow-dot"></span> 
-<span class="slideshow-dot"></span>
+<span class="slideshow-dot-one"></span> 
+<span class="slideshow-dot-one"></span>
 </div>
-<script>
-let slideIndex = 0;
-showSlides();
-function showSlides() {
-  let i;
-  let slides = document.getElementsByClassName("slideshow");
-  let dots = document.getElementsByClassName("slideshow-dot");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) {slideIndex = 1}    
-  for (i = 0; i < dots.length; i++) {
-    dots[i].className = dots[i].className.replace(" slideshow-active", "");
-  }
-  slides[slideIndex-1].style.display = "block";  
-  dots[slideIndex-1].className += " slideshow-active";
-  setTimeout(showSlides, 2000);
-}
-</script>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>
 <p class="text-small" style="text-align:center">Ghost in the Shell desktop wallpapers created with AI</p><br /><br />
@@ -64,3 +44,24 @@ function showSlides() {
 <br />
 </div>
 </div>
+
+<script>
+let S1Index = 0;
+showS1();
+function showS1() {
+  let i;
+  let S1 = document.getElementsByClassName("slideshow-one");
+  let D1 = document.getElementsByClassName("slideshow-dot-one");
+  for (i = 0; i < S1.length; i++) {
+    S1[i].style.display = "none";  
+  }
+  S1Index++;
+  if (S1Index > S1.length) {S1Index = 1}    
+  for (i = 0; i < D1.length; i++) {
+    D1[i].className = D1[i].className.replace(" slideshow-active", "");
+  }
+  S1[S1Index-1].style.display = "block";  
+  D1[S1Index-1].className += " slideshow-active";
+  setTimeout(showS1, 2000);
+}
+</script>
