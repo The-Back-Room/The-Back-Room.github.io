@@ -1,10 +1,9 @@
 ---
 layout: default
-title: SFW Social Communities
+title: Reddit
 nav_order: 1
 parent: Social
-permalink: /social/sfw
-published: false
+permalink: /social/reddit
 ---
 
 <!-- 

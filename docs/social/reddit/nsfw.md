@@ -1,9 +1,10 @@
 ---
 layout: default
-title: NSFW Social Communities
+title: NSFW
 nav_order: 2
-parent: Social
-permalink: /social/nsfw
+parent: Reddit
+grand_parent: Social
+permalink: /social/reddit/nsfw
 ---
 
 <!-- 
