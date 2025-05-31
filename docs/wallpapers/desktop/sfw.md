@@ -7,7 +7,7 @@ grand_parent: Wallpapers
 permalink: /wallpapers/desktop/sfw
 ---
 
-<!-->
+<!--
 {: .note }
 > {: .opaque }
 > 
