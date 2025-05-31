@@ -5,24 +5,21 @@ nav_order: 2
 parent: Game Mods
 grand_parent: Modding
 permalink: /modding/mods/nsfw
-published: false
 ---
 
-<!-- 
 {: .note }
 > {: .opaque }
-> 
-> 
-> 
--->
+> This page is currently empty. We plan to add content to it in the future. For now, we simply don't have anything to add here.
+>
+> Please be patient as we build new content for all to enjoy.
 
 {: .important }
 > {: .opaque }
 > {: .warning }
-> Adults only beyond this point. By continuing past this page, you are agreeing that you are of legal age.
+> This page is for adults only. By being on this page, you are agreeing that you are of legal age.
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
->
+
 <div align="center">
     <img width="50%" height="auto" class="block" src="../../assets/images/NSFW.png" />
 </div>

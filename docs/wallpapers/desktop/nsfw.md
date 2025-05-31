@@ -5,16 +5,14 @@ nav_order: 2
 parent: Desktop Wallpapers
 grand_parent: Wallpapers
 permalink: /wallpapers/desktop/nsfw
-published: false
 ---
 
-<!-- 
 {: .note }
 > {: .opaque }
-> 
-> 
-> 
--->
+> This page is currently empty. We plan to add content to it in the future. For now, we simply don't have anything to add here.
+>
+> Please be patient as we build new content for all to enjoy.
+
 
 {: .important }
 > {: .opaque }
