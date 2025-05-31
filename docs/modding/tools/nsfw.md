@@ -22,10 +22,6 @@ permalink: /modding/tools/nsfw
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
-<div align="center">
-    <img width="50%" height="auto" class="block" src="../../assets/images/NSFW.png" />
-</div>
-
 <div class="card">
   <img width="100%" height="auto" class="block" src="../../../assets/images/modding/tools/nsfw/action-taimanin.webp" />
   <div class="container">
@@ -43,3 +39,25 @@ permalink: /modding/tools/nsfw
     <br />
   </div>
 </div>
+
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  let slides = document.getElementsByClassName("slideshow");
+  let dots = document.getElementsByClassName("slideshow-dot");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) {slideIndex = 1}    
+  for (i = 0; i < dots.length; i++) {
+    dots[i].className = dots[i].className.replace(" slideshow-active", "");
+  }
+  slides[slideIndex-1].style.display = "block";  
+  dots[slideIndex-1].className += " slideshow-active";
+  setTimeout(showSlides, 2000);
+}
+</script>
