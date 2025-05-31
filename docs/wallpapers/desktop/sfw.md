@@ -20,12 +20,12 @@ permalink: /wallpapers/desktop/sfw
 <div class="slideshow-one slideshow-fade" style="text-align:center">
 <div class="slideshow-number-text text-small">1 / 2</div>
 <img width="100%" height="auto" src="../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png">
-<div class="slideshow-caption-text text-small"></div>
+<!-- <div class="slideshow-caption-text text-small"></div> -->
 </div>
 <div class="slideshow-one slideshow-fade" style="text-align:center">
 <div class="slideshow-number-text text-small">2 / 2</div>
 <img width="100%" height="auto" src="../../assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png">
-<div class="slideshow-caption-text text-small"></div>
+<!-- <div class="slideshow-caption-text text-small"></div> -->
 </div>
 </div>
 <div style="text-align:center">
