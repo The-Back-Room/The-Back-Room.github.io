@@ -1,8 +1,6 @@
 ---
 layout: default
 title: NSFW Themes
-parent: Linux Themes
-grand_parent: Themes
 permalink: /themes/linux/nsfw
 nav_exclude: true
 ---

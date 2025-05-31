@@ -12,3 +12,8 @@ permalink: /themes/linux
 >
 > Please be patient as we build new content for all to enjoy.
 
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- <br /> -->
+<!-- <p class="text-small"><a href="https://the-back-room.info/themes/linux/nsfw">Click here</a> to check out our NSFW themes.</p> -->
+<!-- <br /> -->
