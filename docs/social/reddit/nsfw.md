@@ -22,10 +22,6 @@ permalink: /social/reddit/nsfw
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
-<div align="center">
-    <img width="50%" height="auto" class="block" src="../../assets/images/NSFW.png" />
-</div>
-
 <div class="w3-card">
     <img width="100%" height="auto" src="https://styles.redditmedia.com/t5_ekyrut/styles/bannerBackgroundImage_r9jlhib4544f1.png" />
     <div class="w3-container">
