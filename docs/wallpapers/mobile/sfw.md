@@ -341,59 +341,22 @@ permalink: /wallpapers/mobile/sfw
 
 <script>
 let Index = 0;
+showslides();
 
-showS1();
-showS2();
-showS3();
-
-function showS1() {
+function showslides() {
   let i;
-  let S1 = document.getElementsByClassName("slideshow-one");
-  let D1 = document.getElementsByClassName("slideshow-dot-one");
-  for (i = 0; i < S1.length; i++) {
-    S1[i].style.display = "none";  
+  let slides = document.getElementsByClassName(["slideshow-one","slideshow-two","slideshow-three"]);
+  let dots = document.getElementsByClassName(["slideshow-dot-one", "slideshow-dot-two", "slideshow-dot-three"]);
+
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
   }
   Index++;
-  if (Index > S1.length) {Index = 1}    
-  for (i = 0; i < D1.length; i++) {
-    D1[i].className = D1[i].className.replace(" slideshow-active", "");
+  if (Index > slides.length) {Index = 1}    
+  for (i = 0; i < dots1.length; i++) {
+    dots1[i].className = dots1[i].className.replace(" slideshow-active", "");
   }
-  S1[Index-1].style.display = "block";  
-  D1[Index-1].className += " slideshow-active";
-  setTimeout(showS1, 2000);
+  slides[Index-1].style.display = "block";  
+  dots1[Index-1].className += " slideshow-active";
+  setTimeout(showslides, 2000);
 };
-
-function showS2() {
-  let i;
-  let S2 = document.getElementsByClassName("slideshow-two");
-  let D2 = document.getElementsByClassName("slideshow-dot-two");
-  for (i = 0; i < S2.length; i++) {
-    S2[i].style.display = "none";  
-  }
-  Index++;
-  if (Index > S2.length) {Index = 1}    
-  for (i = 0; i < D2.length; i++) {
-    D2[i].className = D2[i].className.replace(" slideshow-active", "");
-  }
-  S2[Index-1].style.display = "block";  
-  D2[Index-1].className += " slideshow-active";
-  setTimeout(showS2, 2000);
-};
-
-function showS3() {
-  let i;
-  let S3 = document.getElementsByClassName("slideshow-three");
-  let D3 = document.getElementsByClassName("slideshow-dot-three");
-  for (i = 0; i < S3.length; i++) {
-    S3[i].style.display = "none";  
-  }
-  Index++;
-  if (Index > S3.length) {Index = 1}    
-  for (i = 0; i < D3.length; i++) {
-    D3[i].className = D3[i].className.replace(" slideshow-active", "");
-  }
-  S3[Index-1].style.display = "block";  
-  D3[Index-1].className += " slideshow-active";
-  setTimeout(showS3, 2000);
-};
-</script>
