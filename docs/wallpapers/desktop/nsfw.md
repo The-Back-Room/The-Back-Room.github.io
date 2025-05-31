@@ -1,8 +1,6 @@
 ---
 layout: default
 title: NSFW Wallpapers
-parent: Desktop Wallpapers
-grand_parent: Wallpapers
 permalink: /wallpapers/desktop/nsfw
 nav_exclude: true
 ---

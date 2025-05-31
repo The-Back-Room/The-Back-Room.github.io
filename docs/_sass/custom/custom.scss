@@ -2,36 +2,15 @@ button {
   padding: 2px 16px;
 }
 
-.slideshow-one,
-.slideshow-two,
-.slideshow-three,
-.slidehow-four,
-.slideshow-five,
-.slideshow-six,
-.slideshow-seven,
-.slideshow-eight,
-.slidehsow-nine,
-.slideshow-ten {
+.hidden-edu-themes,
+.w7-themes-revived,
+.macos-themes,
+.studio-ghibli-theme
+.hmc-theme,
+.w11-mobile-wallpapers,
+.ffxiv-mobile-wallpapers,
+.scenery-mobile-wallpapers {
   display: none;
-}
-
-.slideshow-dot-one,
-.slideshow-dot-two,
-.slideshow-dot-three,
-.slideshow-dot-four,
-.slideshow-dot-five,
-.slideshow-dot-six,
-.slideshow-dot-seven,
-.slideshow-dot-eight,
-.slideshow-dot-nine,
-.slideshow-dot-ten {
-  height: 8px;
-  width: 8px;
-  margin: 0 2px;
-  background-color: $grey-lt-000;
-  border-radius: 50%;
-  display: inline-block;
-  transition: background-color 0.6s ease;
 }
 
 .slideshow-container {
