@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reddit
-nav_order: 6
+nav_order: 1
 parent: NSFW Social Communities
 grand_parent: Social
 permalink: /social/nsfw/reddit
