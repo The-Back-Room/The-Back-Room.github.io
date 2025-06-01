@@ -13,6 +13,25 @@ permalink: /social
 > 
 -->
 
-<div align="center" class="text-small">
-<a href="https://www.deviantart.com/the-back-room" target="_blank"><img width="38px" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/DeviantArt_Logo.png" /></a> <a href="https://www.facebook.com/profile.php?id=61572245999615" target="_blank"><img width="38px" height="auto" src="https://logohistory.net/wp-content/uploads/2022/10/Facebook-Logo.png" /></a> <a href="/social/reddit" target="_blank"><img width="38px" height="auto" src="https://logos-world.net/wp-content/uploads/2023/12/Reddit-Logo.jpg" /></a>
+<div class="gallery">
+<div class="card">
+<div class="responsive">
+<a href="https://www.deviantart.com/the-back-room" target="_blank">
+<img width="25%" height="auto" src="" /></a> <a href="https://upload.wikimedia.org/wikipedia/commons/9/9b/DeviantArt_Logo.png" target="_blank">
+</div>
+</div>
+
+<div class="card">
+<div class="responsive">
+<a href="https://www.facebook.com/profile.php?id=61572245999615" target="_blank">
+<img width="25%" height="auto" src="https://socialsizes.io/static/facebook-banner-size-e26971e1cc6384ea2e577f3fbc9a60e0.jpg" /></a>
+</div>
+</div>
+
+<div class="card">
+<div class="responsive">
+<a href="/social/reddit" target="_blank">
+<img width="25%" height="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0lXMqtpxmHSmYjIR5lshZSLb3cYrAq1tqDA&s" /></a>
+</div>
+</div>
 </div>
