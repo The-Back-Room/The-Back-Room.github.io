@@ -169,7 +169,12 @@ permalink: /themes/windows
 
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/MACOS-THEMES-FOR-WINDOWS.jpg" />
+<div class="gallery">
+<img src="../assets/images/themes/sfw/macos-themes-for-windows/BIGSUR_LIGHT.jpg" />
+<img src="../assets/images/themes/sfw/macos-themes-for-windows/MOJAVE_LIGHT.jpg" />
+<img src="../assets/images/themes/sfw/macos-themes-for-windows/MONTEREY_LIGHT.jpg" />
+<img src="../assets/images/themes/sfw/macos-themes-for-windows/SEQUOIA_LIGHT.jpg" />
+</div>
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">MacOS Themes for Windows</p>
