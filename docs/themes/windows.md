@@ -25,7 +25,6 @@ permalink: /themes/windows
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Windows 11 Hidden EDU Themes</p>
-<br />
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-11-Hidden-EDU-Themes" target="_blank">
@@ -127,7 +126,6 @@ permalink: /themes/windows
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">MacOS Themes for Windows</p>
-<br />
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/MacOS-Themes-for-Windows" target="_blank">
