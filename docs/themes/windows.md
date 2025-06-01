@@ -46,7 +46,6 @@ permalink: /themes/windows
 <div class="responsive">
 <img src="../assets/images/themes/sfw/CLASSIC-11.jpg" />
 </div>
-</div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Classic 11</h2>
 <p class="text-small" style="text-align:center">Simple Windows 11 theme with a classic style reminiscent of the Windows 7 era</p>
