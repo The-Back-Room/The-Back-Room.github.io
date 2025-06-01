@@ -34,6 +34,7 @@ permalink: /modding/mods
 <p class="text-small" style="text-align:center">Lustful Eyes</p>
 <br />
 <span class="fs-3">
+<div align="center" class="text-small">
 <a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank">
 <button type="button" name="button" class="btn">Download</button></a> 
 </div>
@@ -48,6 +49,7 @@ permalink: /modding/mods
 <p class="text-small" style="text-align:center">[NS3D] (VM) UI Pack</p>
 <br />
 <span class="fs-3">
+<div align="center" class="text-small">
 <a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank">
 <button type="button" name="button" class="btn">Download</button></a> 
 </div>
@@ -84,13 +86,10 @@ permalink: /modding/mods
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Odinheim</p>
 <br />
-<p class="text-small" style="text-align:center">Download</p>
-<br />
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://thunderstore.io/c/valheim/p/Nimbi/Odinheim/" target="_blank">
-<button type="button" name="button" class="btn">Thunderstore</button></a> 
-</div>
+<button type="button" name="button" class="btn">Download</button></a> 
 </span>
 <br />
 </div>
