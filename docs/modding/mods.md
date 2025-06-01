@@ -25,13 +25,13 @@ permalink: /modding/mods
 >
 > We take **NO** responsibility for anyone who loses their account due to the use of mods. Use of mods in Final Fantasy XIV is done **AT YOUR OWN RISK**.
 
+<div class="gallery">
 <div class="w3-card">
 <img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/lustful-eyes.webp" />
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">Lustful Eyes</h2>
-<p class="text-small" style="text-align:center">Lustful eyes for all races. Let your inner OwO or Yandare take over!</p>
+<p class="text-small" style="text-align:center">Lustful Eyes</p>
 <br />
-<h2 class="text-small" style="text-align:center">Download</h2>
+<p class="text-small" style="text-align:center">Download</p>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -46,14 +46,13 @@ permalink: /modding/mods
 <br />
 </div>
 </div>
-<br />
+
 <div class="w3-card">
 <img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/ns3d-vm-ui.webp" />
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">[NS3D] (VM) UI Pack</h2>
-<p class="text-small" style="text-align:center">A simple and minimalistic UI mod that cleans up the UI without making a whole lot of unnecessary changes.</p>
+<p class="text-small" style="text-align:center">[NS3D] (VM) UI Pack</p>
 <br />
-<h2 class="text-small" style="text-align:center">Download</h2>
+<p class="text-small" style="text-align:center">Download</p>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -68,14 +67,13 @@ permalink: /modding/mods
 <br />
 </div>
 </div>
-<br />
+
 <div class="w3-card">
 <img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/roseblood-duelist.webp" /> 
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">Roseblood Duelist</h2>
-<p class="text-small" style="text-align:center">Because it's just a better overall look!</p>
+<p class="text-small" style="text-align:center">Roseblood Duelist</p>
 <br />
-<h2 class="text-small" style="text-align:center">Download</h2>
+<p class="text-small" style="text-align:center">Download</p>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -90,16 +88,17 @@ permalink: /modding/mods
 <br />
 </div>
 </div>
-<br />
+</div>
+
 <h1 align="center">Valheim</h1>
-<br />
+
+<div class="gallery">
 <div class="w3-card">
 <img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/odinheim.png" />
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">Odinheim</h2>
-<p class="text-small" style="text-align:center">A collection of mods to improve gameplay.<br />Contains both client-side and server-side mods.</p>
+<p class="text-small" style="text-align:center">Odinheim</p>
 <br />
-<h2 class="text-small" style="text-align:center">Download</h2>
+<p class="text-small" style="text-align:center">Download</p>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -110,10 +109,11 @@ permalink: /modding/mods
 <br />
 </div>
 </div>
+</div>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
-<p class="text-small"><a href="https://the-back-room.info/modding/mods/nsfw">Click here</a> to check out our NSFW Mods.</p> 
+<a href="/modding/tools/nsfw">
+<button type="button" name="button" class="btn">NSFW Mods</button></a> 
 <br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
