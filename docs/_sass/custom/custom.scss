@@ -18,8 +18,9 @@ button {
 
 .responsive {
   padding: 10px;
+  gap: 10px;
   float: left;
-  width: 24.99999%;
+  width: fit-content;
 }
 
 .side-bar {
