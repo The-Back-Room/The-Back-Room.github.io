@@ -86,6 +86,25 @@ permalink: /themes/windows
 <div class="column">
 <div class="w3-card">
 <div class="responsive">
+<img src="../assets/images/themes/sfw/WINDOWS-7-REVIVED.jpg" />
+</div>
+<div class="w3-container">
+<h2 class="text-small" style="text-align:center">Windows 7 Revived</h2>
+<p class="text-small" style="text-align:center">Large scale Windows 7 themes revival project</p>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-7-Revived" target="_blank">
+<button type="button" name="button" class="btn">Download</button></a> 
+</div>
+</span>
+<br />
+</div>
+</div>
+</div>
+<div class="column">
+<div class="w3-card">
+<div class="responsive">
 <img src="../assets/images/themes/sfw/COURAGE-TCD.jpg" />
 </div>
 <div class="w3-container">
@@ -173,27 +192,6 @@ permalink: /themes/windows
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Microsoft-Surface-Pro" target="_blank">
-<button type="button" name="button" class="btn">Download</button></a> 
-</div>
-</span>
-<br />
-</div>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="column">
-<div class="w3-card">
-<div class="responsive">
-<img src="../assets/images/themes/sfw/WINDOWS-7-REVIVED.jpg" />
-</div>
-<div class="w3-container">
-<h2 class="text-small" style="text-align:center">Windows 7 Revived</h2>
-<p class="text-small" style="text-align:center">Large scale Windows 7 themes revival project</p>
-<br />
-<span class="fs-3">
-<div align="center" class="text-small">
-<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-7-Revived" target="_blank">
 <button type="button" name="button" class="btn">Download</button></a> 
 </div>
 </span>
