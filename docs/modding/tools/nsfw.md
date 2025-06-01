@@ -22,8 +22,9 @@ nav_exclude: true
 
 <div class="gallery">
 <div class="w3-card">
+<div class="responsive">
 <img width="100%" height="auto" class="block" src="../../../assets/images/modding/tools/nsfw/action-taimanin.webp" />
-<br />
+</div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Action Taimanin Extension</p>
 <br />
