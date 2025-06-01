@@ -13,13 +13,6 @@ permalink: /social
 > 
 -->
 
-<span class="fs-3">
 <div align="center" class="text-small">
-<a href="https://www.deviantart.com/the-back-room" target="_blank">
-<button style="text-align:center" type="button" name="button" class="btn"><img width="25%" height="auto" src="https://static.vecteezy.com/system/resources/previews/046/861/662/non_2x/deviantart-logo-transparent-icon-free-png.png" /></button></a> 
-<a href="https://www.facebook.com/profile.php?id=61572245999615" target="_blank">
-<button style="text-align:center" type="button" name="button" class="btn"><img width="25%" height="auto" src="https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png" /></button></a> 
-<a href="/social/reddit" target="_blank">
-<button style="text-align:center" type="button" name="button" class="btn"><img width="25%" height="auto" src="https://static.vecteezy.com/system/resources/previews/018/930/474/non_2x/reddit-logo-reddit-icon-transparent-free-png.png" /></button></a>
+<a href="https://www.deviantart.com/the-back-room" target="_blank"> <button style="text-align:center" type="button" name="button" class="btn"><img width="25px" height="auto" src="https://static.vecteezy.com/system/resources/previews/046/861/662/non_2x/deviantart-logo-transparent-icon-free-png.png" /></button></a> <a href="https://www.facebook.com/profile.php?id=61572245999615" target="_blank"> <button style="text-align:center" type="button" name="button" class="btn"><img width="25px" height="auto" src="https://static.vecteezy.com/system/resources/previews/018/930/698/non_2x/facebook-logo-facebook-icon-transparent-free-png.png" /></button></a> <a href="/social/reddit" target="_blank"> <button style="text-align:center" type="button" name="button" class="btn"><img width="25px" height="auto" src="https://static.vecteezy.com/system/resources/previews/018/930/474/non_2x/reddit-logo-reddit-icon-transparent-free-png.png" /></button></a>
 </div>
-</span>
