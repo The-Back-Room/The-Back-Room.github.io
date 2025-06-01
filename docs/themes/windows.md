@@ -97,7 +97,12 @@ permalink: /themes/windows
 
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/WINDOWS-7-REVIVED.jpg" />
+<div class="gallery">
+<img src="../assets/images/themes/sfw/windows-7-revived/WINDOWS.jpg" />
+<img src="../assets/images/themes/sfw/windows-7-revived/FRANCE.jpg" />
+<img src="../assets/images/themes/sfw/windows-7-revived/LANDSCAPES.jpg" />
+<img src="../assets/images/themes/sfw/windows-7-revived/UNITED-STATES.jpg" />
+</div>
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Windows 7 Revived</p>
