@@ -18,9 +18,9 @@ permalink: /themes/windows
 >   <li> <a href="https://gitlab.com/the-back-room/Themes/-/tree/main/Windows" target="_blank">GitLab</a></li>
 > </ul>
 
-
 <div class="gallery">
 <div class="w3-card">
+<div class="responsive">
 <img src="../assets/images/themes/sfw/SUNSET_DARK.jpg" />
 </div>
 <div class="w3-container">
