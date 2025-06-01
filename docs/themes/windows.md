@@ -108,7 +108,7 @@ Contains all 6 EDU themes.</p>
 <h2 class="text-small" style="text-align:center">Windows 7 Revived</h2>
 <p class="text-small" style="text-align:center">Collection of stock Windows 7 themes restored for Windows 10 and 11.
 <br />
-Contains over 20+ themes.</p>
+Contains over 40+ themes.</p>
 </div>
 <br />
 <span class="fs-3">
