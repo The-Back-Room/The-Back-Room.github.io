@@ -14,9 +14,10 @@ permalink: /modding/mods
 > 
 -->
 
+<div class="w3-card">
 <div class="w3-container">
 <h2 align="center">Final Fantasy XIV</h2>
-<br />
+</div>
 </div>
 
 {: .important }
@@ -91,8 +92,10 @@ permalink: /modding/mods
 </div>
 </div>
 
+<div class="w3-card">
 <div class="w3-container">
 <h2 align="center">Valheim</h2>
+</div>
 </div>
 
 <div class="gallery">
