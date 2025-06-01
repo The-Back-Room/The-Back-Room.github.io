@@ -19,13 +19,8 @@ permalink: /themes/windows
 > </ul>
 
 
-<div class="w3-card">
 <div class="gallery">
-<img src="../assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
-<img src="../assets/images/themes/sfw/FLOWER_DARK.jpg" />
-<img src="../assets/images/themes/sfw/PLANETS_LIGHT.jpg" />
-<img src="../assets/images/themes/sfw/PLANETS_DARK.jpg" />
-<img src="../assets/images/themes/sfw/SUNSET_LIGHT.jpg" />
+<div class="w3-card">
 <img src="../assets/images/themes/sfw/SUNSET_DARK.jpg" />
 </div>
 <div class="w3-container">
@@ -41,7 +36,6 @@ permalink: /themes/windows
 </div>
 </div>
 
-<div class="gallery">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/CLASSIC-11.jpg" />

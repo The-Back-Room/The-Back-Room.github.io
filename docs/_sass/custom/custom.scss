@@ -2,22 +2,6 @@ button {
   padding: 2px 16px;
 }
 
-.column {
-  float: left;
-  width: 25%;
-  padding: 10px;
-}
-
-.row {
-  padding: 10px;
-}
-
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
