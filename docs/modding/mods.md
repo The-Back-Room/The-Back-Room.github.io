@@ -33,16 +33,9 @@ permalink: /modding/mods
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Lustful Eyes</p>
 <br />
-<p class="text-small" style="text-align:center">Download</p>
-<br />
 <span class="fs-3">
-<div align="center" class="text-small">
-<a href="https://www.nexusmods.com/finalfantasy14/mods/2401" target="_blank">
-<button type="button" name="button" class="btn">Nexus Mods</button></a> 
 <a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank">
-<button type="button" name="button" class="btn">Heliosphere</button></a> 
-<a href="https://www.xivmodarchive.com/modid/120843" target="_blank">
-<button type="button" name="button" class="btn">XIV Mod Archive</button></a> 
+<button type="button" name="button" class="btn">Download</button></a> 
 </div>
 </span>
 <br />
@@ -54,16 +47,9 @@ permalink: /modding/mods
 <div class="w3-container">
 <p class="text-small" style="text-align:center">[NS3D] (VM) UI Pack</p>
 <br />
-<p class="text-small" style="text-align:center">Download</p>
-<br />
 <span class="fs-3">
-<div align="center" class="text-small">
-<a href="https://www.nexusmods.com/finalfantasy14/mods/2402" target="_blank">
-<button type="button" name="button" class="btn">Nexus Mods</button></a> 
 <a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank">
-<button type="button" name="button" class="btn">Heliosphere</button></a> 
-<a href="https://www.xivmodarchive.com/modid/125248" target="_blank">
-<button type="button" name="button" class="btn">XIV Mod Archive</button></a> 
+<button type="button" name="button" class="btn">Download</button></a> 
 </div>
 </span>
 <br />
@@ -75,16 +61,10 @@ permalink: /modding/mods
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Roseblood Duelist</p>
 <br />
-<p class="text-small" style="text-align:center">Download</p>
-<br />
 <span class="fs-3">
 <div align="center" class="text-small">
-<a href="https://www.nexusmods.com/finalfantasy14/mods/2411" target="_blank">
-<button type="button" name="button" class="btn">Nexus Mods</button></a> 
 <a href="https://heliosphere.app/mod/5w9m2enmw16ys40x0v310v269m" target="_blank">
-<button type="button" name="button" class="btn">Heliosphere</button></a> 
-<a href="https://www.xivmodarchive.com/modid/137286" target="_blank">
-<button type="button" name="button" class="btn">XIV Mod Archive</button></a>
+<button type="button" name="button" class="btn">Download</button></a> 
 </div>
 </span>
 <br />
