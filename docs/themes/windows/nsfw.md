@@ -20,6 +20,8 @@ nav_exclude: true
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
+<div class="row">
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="../../assets/images/themes/nsfw/BLEACH-HENTAI.jpg" />
@@ -53,6 +55,7 @@ nav_exclude: true
 </div>
 </span>
 <br />
+</div>
 </div>
 </div>
 <br />
