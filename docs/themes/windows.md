@@ -18,7 +18,6 @@ permalink: /themes/windows
 >   <li> <a href="https://gitlab.com/the-back-room/Themes/-/tree/main/Windows" target="_blank">GitLab</a></li>
 > </ul>
 
-<div class="gallery">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/SUNSET_DARK.jpg" />
@@ -36,6 +35,7 @@ permalink: /themes/windows
 <br />
 </div>
 
+<div class="gallery">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/CLASSIC-11.jpg" />
@@ -69,6 +69,7 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
+</div>
 
 <div class="w3-card">
 <div class="responsive">
@@ -87,6 +88,7 @@ permalink: /themes/windows
 <br />
 </div>
 
+<div class="gallery">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/COURAGE-TCD.jpg" />
@@ -115,23 +117,6 @@ permalink: /themes/windows
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Howls-Moving-Castle" target="_blank">
-<button type="button" name="button" class="btn">Download</button></a> 
-</div>
-</span>
-<br />
-</div>
-
-<div class="w3-card">
-<div class="responsive">
-<img src="../assets/images/themes/sfw/MACOS-THEMES-FOR-WINDOWS.jpg" />
-</div>
-<div class="w3-container">
-<p class="text-small" style="text-align:center">MacOS Themes for Windows</p>
-</div>
-<br />
-<span class="fs-3">
-<div align="center" class="text-small">
-<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/MacOS-Themes-for-Windows" target="_blank">
 <button type="button" name="button" class="btn">Download</button></a> 
 </div>
 </span>
@@ -171,6 +156,23 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
+</div>
+
+<div class="w3-card">
+<div class="responsive">
+<img src="../assets/images/themes/sfw/MACOS-THEMES-FOR-WINDOWS.jpg" />
+</div>
+<div class="w3-container">
+<p class="text-small" style="text-align:center">MacOS Themes for Windows</p>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/MacOS-Themes-for-Windows" target="_blank">
+<button type="button" name="button" class="btn">Download</button></a> 
+</div>
+</span>
+<br />
 </div>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
