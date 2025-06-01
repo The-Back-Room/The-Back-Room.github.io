@@ -190,6 +190,7 @@ permalink: /themes/windows
 </div>
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
-<p class="text-small"><a href="https://the-back-room.info/themes/windows/nsfw">Click here</a> to check out our NSFW themes.</p> 
+<a href="/nsfw">
+<button type="button" name="button" class="btn"><img width="56px" height="auto" src="../assets/images/NSFW.png" /> NSFW Themes</button></a> 
 <br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
