@@ -40,9 +40,8 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
-<br />
-<div class="row">
-<div class="column">
+
+<div class="gallery">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/CLASSIC-11.jpg" />
@@ -59,9 +58,7 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
-</div>
-<br />
-<div class="column">
+
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/COPILOT.jpg" />
@@ -78,9 +75,7 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
-</div>
-<br />
-<div class="column">
+
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/WINDOWS-7-REVIVED.jpg" />
@@ -97,8 +92,7 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
-</div>
-<div class="column">
+
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/COURAGE-TCD.jpg" />
@@ -115,10 +109,7 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
-</div>
-</div>
-<div class="row">
-<div class="column">
+
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/HOWLS-MOVING-CASTLE.jpg" />
@@ -135,8 +126,7 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
-</div>
-<div class="column">
+
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/MACOS-THEMES-FOR-WINDOWS.jpg" />
@@ -153,8 +143,7 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
-</div>
-<div class="column">
+
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/STUDIO-GHIBLI.jpg" />
@@ -171,8 +160,7 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
-</div>
-<div class="column">
+
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/SURFACE-PRO.jpg" />
@@ -187,7 +175,6 @@ permalink: /themes/windows
 </div>
 </span>
 <br />
-</div>
 </div>
 </div>
 </div>

@@ -40,6 +40,7 @@ nav_exclude: true
 </div>
 </div>
 <br />
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="../../assets/images/themes/nsfw/ECCHI.jpg" />
@@ -58,6 +59,7 @@ nav_exclude: true
 </div>
 </div>
 <br />
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="../../assets/images/themes/nsfw/RANMA-HENTAI.jpg" />
@@ -76,6 +78,7 @@ nav_exclude: true
 </div>
 </div>
 <br />
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="../../assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.jpg" />
