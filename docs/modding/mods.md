@@ -14,9 +14,10 @@ permalink: /modding/mods
 > 
 -->
 
-<h1 align="center">Final Fantasy XIV</h1>
+<div class="w3-container">
+<h2 align="center">Final Fantasy XIV</h2>
 <br />
-
+</div>
 
 {: .important }
 > {: .opaque }
@@ -90,7 +91,9 @@ permalink: /modding/mods
 </div>
 </div>
 
-<h1 align="center">Valheim</h1>
+<div class="w3-container">
+<h2 align="center">Valheim</h2>
+</div>
 
 <div class="gallery">
 <div class="w3-card">
@@ -113,7 +116,7 @@ permalink: /modding/mods
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
-<a href="/modding/tools/nsfw">
+<a href="/modding/mods/nsfw">
 <button type="button" name="button" class="btn">NSFW Mods</button></a> 
 <br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
