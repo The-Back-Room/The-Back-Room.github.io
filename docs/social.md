@@ -24,7 +24,7 @@ permalink: /social
 <div class="w3-card">
 <div class="responsive">
 <a href="https://www.deviantart.com/the-back-room" target="_blank">
-<img width="100%" height="auto" src="https://blog.logomyway.com/wp-content/uploads/2018/06/facebook-logo.jpg" /></a> 
+<img width="100%" height="auto" src="https://logohistory.net/wp-content/uploads/2022/10/Facebook-Logo-2019.png" /></a> 
 </div>
 </div>
 </div>
