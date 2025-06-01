@@ -17,21 +17,21 @@ permalink: /social
 <div class="w3-card">
 <div class="responsive">
 <a href="https://www.deviantart.com/the-back-room" target="_blank">
-<img width="100%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/DeviantArt_Logo.png" /></a>
+<img width="100%" height="auto" src="https://utaucity.org/wp-content/uploads/2015/10/ckxjwj7q.png" /></a>
 </div>
 </div>
 
 <div class="w3-card">
 <div class="responsive">
 <a href="https://www.facebook.com/profile.php?id=61572245999615" target="_blank">
-<img width="100%" height="auto" src="https://socialsizes.io/static/facebook-banner-size-e26971e1cc6384ea2e577f3fbc9a60e0.jpg" /></a>
+<img width="100%" height="auto" src="https://cdn-icons-png.freepik.com/512/2496/2496095.png" /></a>
 </div>
 </div>
 
 <div class="w3-card">
 <div class="responsive">
 <a href="/social/reddit" target="_blank">
-<img width="100%" height="auto" src="https://redditinc.com/hubfs/Reddit%20Inc/Blog/Imported_Blog_Media/reddit_header_2023-11-28-222257_hthh.png" /></a>
+<img width="100%" height="auto" src="https://static-00.iconduck.com/assets.00/reddit-icon-256x256-8snmtp9g.png" /></a>
 </div>
 </div>
 </div>
