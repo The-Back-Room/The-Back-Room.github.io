@@ -76,6 +76,23 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
+
+<div class="w3-card">
+<div class="responsive">
+<img src="../assets/images/themes/sfw/SURFACE-PRO.jpg" />
+</div>
+<div class="w3-container">
+<p class="text-small" style="text-align:center">Surface Pro</p>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Microsoft-Surface-Pro" target="_blank">
+<button type="button" name="button" class="btn">Download</button></a> 
+</div>
+</span>
+<br />
+</div>
 </div>
 
 <div class="w3-card">
@@ -141,23 +158,6 @@ permalink: /themes/windows
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Studio-Ghibli" target="_blank">
-<button type="button" name="button" class="btn">Download</button></a> 
-</div>
-</span>
-<br />
-</div>
-
-<div class="w3-card">
-<div class="responsive">
-<img src="../assets/images/themes/sfw/SURFACE-PRO.jpg" />
-</div>
-<div class="w3-container">
-<p class="text-small" style="text-align:center">Surface Pro</p>
-</div>
-<br />
-<span class="fs-3">
-<div align="center" class="text-small">
-<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Microsoft-Surface-Pro" target="_blank">
 <button type="button" name="button" class="btn">Download</button></a> 
 </div>
 </span>
