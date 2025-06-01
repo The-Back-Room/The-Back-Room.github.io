@@ -27,7 +27,10 @@ permalink: /themes/windows
 </div>
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Windows 11 Hidden EDU Themes</p>
+<h2 class="text-small" style="text-align:center">Windows 11 Hidden EDU Themes</h2>
+<p class="text-small" style="text-align:center">Windows 11 hidden EDU themes ported for all Windows 10 and 11 users.
+<br />
+Contains all 6 EDU themes.</p>
 </div>
 <br />
 <span class="fs-3">
@@ -45,7 +48,7 @@ permalink: /themes/windows
 <img src="../assets/images/themes/sfw/CLASSIC-11.jpg" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Classic 11</p>
+<h2 class="text-small" style="text-align:center">Classic 11</h2>
 </div>
 <br />
 <span class="fs-3">
@@ -62,7 +65,7 @@ permalink: /themes/windows
 <img src="../assets/images/themes/sfw/COPILOT.jpg" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Copilot</p>
+<h2 class="text-small" style="text-align:center">Copilot</h2>
 </div>
 <br />
 <span class="fs-3">
@@ -79,7 +82,7 @@ permalink: /themes/windows
 <img src="../assets/images/themes/sfw/SURFACE-PRO.jpg" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Surface Pro</p>
+<h2 class="text-small" style="text-align:center">Surface Pro</h2>
 </div>
 <br />
 <span class="fs-3">
@@ -102,7 +105,10 @@ permalink: /themes/windows
 </div>
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Windows 7 Revived</p>
+<h2 class="text-small" style="text-align:center">Windows 7 Revived</h2>
+<p class="text-small" style="text-align:center">Collection of stock Windows 7 themes restored for Windows 10 and 11.
+<br />
+Contains over 20+ themes.</p>
 </div>
 <br />
 <span class="fs-3">
@@ -120,7 +126,7 @@ permalink: /themes/windows
 <img src="../assets/images/themes/sfw/COURAGE-TCD.jpg" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Courage TCD</p>
+<h2 class="text-small" style="text-align:center">Courage TCD</h2>
 </div>
 <br />
 <span class="fs-3">
@@ -137,7 +143,7 @@ permalink: /themes/windows
 <img src="../assets/images/themes/sfw/HOWLS-MOVING-CASTLE.jpg" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Howl's Moving Castle</p>
+<h2 class="text-small" style="text-align:center">Howl's Moving Castle</h2>
 </div>
 <br />
 <span class="fs-3">
@@ -154,7 +160,7 @@ permalink: /themes/windows
 <img src="../assets/images/themes/sfw/STUDIO-GHIBLI.jpg" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Studio Ghibli</p>
+<h2 class="text-small" style="text-align:center">Studio Ghibli</h2>
 </div>
 <br />
 <span class="fs-3">
@@ -177,7 +183,10 @@ permalink: /themes/windows
 </div>
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">MacOS Themes for Windows</p>
+<h2 class="text-small" style="text-align:center">MacOS Themes for Windows</h2>
+<p class="text-small" style="text-align:center">Collection of MacOS themes ported to Windows 10 and 11.
+<br />
+Contains over 20+ themes.</p>
 </div>
 <br />
 <span class="fs-3">
