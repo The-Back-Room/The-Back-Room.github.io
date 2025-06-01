@@ -17,7 +17,7 @@ permalink: /social
 <div class="w3-card">
 <div class="responsive">
 <a href="https://www.deviantart.com/the-back-room" target="_blank">
-<img width="100%" height="auto" src="https://1000logos.net/wp-content/uploads/2020/08/Deviantart-Logo-2014.png" /></a>
+<img width="100%" height="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/DeviantArt_Logo_White.svg/2560px-DeviantArt_Logo_White.svg.png" /></a>
 </div>
 </div>
 
