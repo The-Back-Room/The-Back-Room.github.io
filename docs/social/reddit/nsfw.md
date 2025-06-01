@@ -20,13 +20,13 @@ nav_exclude: true
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
+<div class="gallery">
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="https://styles.redditmedia.com/t5_ekyrut/styles/bannerBackgroundImage_r9jlhib4544f1.png" />
 </div>
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">NSFW Hentai AI</h2>
-<p class="text-small" style="text-align:center">AI hentai images, videos, and GIFs.</p>
+<p class="text-small" style="text-align:center">NSFW Hentai AI</p>
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://www.reddit.com/r/NSFW_Hentai_AI/" target="_blank">
@@ -36,14 +36,13 @@ nav_exclude: true
 <br />
 </div>
 </div>
-<br />
+
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="https://styles.redditmedia.com/t5_dn30ob/styles/bannerBackgroundImage_my6kvnkad44f1.png" />
 </div>
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">Ranma Hentai</h2>
-<p class="text-small" style="text-align:center">Ranma 1/2 Hentai images, videos, and GIFs</p>
+<p class="text-small" style="text-align:center">Ranma Hentai</p>
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://www.reddit.com/r/Ranma_Hentai/" target="_blank">
@@ -51,5 +50,6 @@ nav_exclude: true
 </div>
 </span>
 <br />
+</div>
 </div>
 </div>
