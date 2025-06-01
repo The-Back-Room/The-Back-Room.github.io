@@ -28,12 +28,10 @@ nav_exclude: true
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Action Taimanin Extension</p>
 <br />
-<p class="text-small" style="text-align:center">Download</p>
-<br />
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://www.nexusmods.com/site/mods/546" target="_blank">
-<button style="text-align:center" type="button" name="button" class="btn">Nexus Mods</button></a> 
+<button style="text-align:center" type="button" name="button" class="btn">Download</button></a> 
 </div>
 </span>
 <br />
