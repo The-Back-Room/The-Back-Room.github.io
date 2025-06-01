@@ -22,11 +22,8 @@ permalink: /themes/windows
 <div class="responsive">
 <div class="gallery">
 <img src="../assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
-<img src="../assets/images/themes/sfw/FLOWER_DARK.jpg" />
 <img src="../assets/images/themes/sfw/PLANETS_LIGHT.jpg" />
-<img src="../assets/images/themes/sfw/PLANETS_DARK.jpg" />
 <img src="../assets/images/themes/sfw/SUNSET_LIGHT.jpg" />
-<img src="../assets/images/themes/sfw/SUNSET_DARK.jpg" />
 </div>
 </div>
 <div class="w3-container">
