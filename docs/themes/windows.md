@@ -82,9 +82,7 @@ permalink: /themes/windows
 </div>
 </div>
 </div>
-</div>
 <br />
-<div class="row">
 <div class="column">
 <div class="w3-card">
 <div class="responsive">
@@ -104,7 +102,8 @@ permalink: /themes/windows
 </div>
 </div>
 </div>
-<br />
+</div>
+<div class="row">
 <div class="column">
 <div class="w3-card">
 <div class="responsive">
@@ -124,9 +123,6 @@ permalink: /themes/windows
 </div>
 </div>
 </div>
-</div>
-<br />
-<div class="row">
 <div class="column">
 <div class="w3-card">
 <div class="responsive">
@@ -146,7 +142,6 @@ permalink: /themes/windows
 </div>
 </div>
 </div>
-<br />
 <div class="column">
 <div class="w3-card">
 <div class="responsive">
@@ -166,9 +161,6 @@ permalink: /themes/windows
 </div>
 </div>
 </div>
-</div>
-<br />
-<div class="row">
 <div class="column">
 <div class="w3-card">
 <div class="responsive">
@@ -188,7 +180,8 @@ permalink: /themes/windows
 </div>
 </div>
 </div>
-<br />
+</div>
+<div class="row">
 <div class="column">
 <div class="w3-card">
 <div class="responsive">
@@ -212,6 +205,6 @@ permalink: /themes/windows
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
 <a href="/nsfw">
-<button type="button" name="button" class="btn"><img width="24px" height="auto" src="../assets/images/NSFW.png" /> NSFW Themes</button></a> 
+<button type="button" name="button" class="btn">NSFW Themes</button></a> 
 <br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
