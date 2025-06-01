@@ -20,13 +20,14 @@ nav_exclude: true
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
+<div class="row">
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="../../assets/images/themes/nsfw/BLEACH-HENTAI.jpg" />
 </div>
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">Bleach Hentai</h2>
-<p class="text-small" style="text-align:center">NSFW Theme inspired by BLEACH</p>
+<p class="text-small" style="text-align:center">Bleach Hentai</p>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -37,14 +38,14 @@ nav_exclude: true
 <br />
 </div>
 </div>
+</div>
 <br />
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="../../assets/images/themes/nsfw/ECCHI.jpg" />
 </div>
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">Ecchi</h2>
-<p class="text-small" style="text-align:center">Ecchi theme featuring girls from various different anime</p>
+<p class="text-small" style="text-align:center">Ecchi</p>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -55,14 +56,14 @@ nav_exclude: true
 <br />
 </div>
 </div>
+</div>
 <br />
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="../../assets/images/themes/nsfw/RANMA-HENTAI.jpg" />
 </div>
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">Ranma Hentai</h2>
-<p class="text-small" style="text-align:center">NSFW Theme inspired by Ranma 1/2</p>
+<p class="text-small" style="text-align:center">Ranma Hentai</p>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -73,14 +74,14 @@ nav_exclude: true
 <br />
 </div>
 </div>
+</div>
 <br />
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="../../assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.jpg" />
 </div>
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">Sexy Naruto Girls</h2>
-<p class="text-small" style="text-align:center">Ecchi theme featuring some of the girls from the Naruto franchise</p>
+<p class="text-small" style="text-align:center">Sexy Naruto Girls</p>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -89,5 +90,7 @@ nav_exclude: true
 </div>
 </span>
 <br />
+</div>
+</div>
 </div>
 </div>
