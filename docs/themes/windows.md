@@ -25,6 +25,8 @@ permalink: /themes/windows
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Windows 11 Hidden EDU Themes</p>
+</div>
+<br />
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-11-Hidden-EDU-Themes" target="_blank">
@@ -33,7 +35,6 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
@@ -41,6 +42,7 @@ permalink: /themes/windows
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Classic 11</p>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -50,7 +52,6 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
@@ -58,6 +59,7 @@ permalink: /themes/windows
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Copilot</p>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -67,7 +69,6 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
@@ -75,6 +76,7 @@ permalink: /themes/windows
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Windows 7 Revived</p>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -84,7 +86,6 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
@@ -92,6 +93,7 @@ permalink: /themes/windows
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Courage TCD</p>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -101,7 +103,6 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
@@ -109,6 +110,7 @@ permalink: /themes/windows
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Howl's Moving Castle</p>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -118,7 +120,6 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
@@ -126,6 +127,8 @@ permalink: /themes/windows
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">MacOS Themes for Windows</p>
+</div>
+<br />
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/MacOS-Themes-for-Windows" target="_blank">
@@ -134,7 +137,6 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
@@ -142,6 +144,7 @@ permalink: /themes/windows
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Studio Ghibli</p>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -151,7 +154,6 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
@@ -159,6 +161,7 @@ permalink: /themes/windows
 </div>
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Surface Pro</p>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -167,7 +170,6 @@ permalink: /themes/windows
 </div>
 </span>
 <br />
-</div>
 </div>
 </div>
 
