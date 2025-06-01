@@ -61,7 +61,9 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
+</div>
 <br />
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/COPILOT.jpg" />
@@ -80,7 +82,10 @@ permalink: /themes/windows
 </div>
 </div>
 </div>
+</div>
 <br />
+<div class="row">
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/COURAGE-TCD.jpg" />
@@ -98,7 +103,9 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
+</div>
 <br />
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/HOWLS-MOVING-CASTLE.jpg" />
@@ -116,7 +123,11 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
+</div>
+</div>
 <br />
+<div class="row">
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/MACOS-THEMES-FOR-WINDOWS.jpg" />
@@ -134,7 +145,9 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
+</div>
 <br />
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/STUDIO-GHIBLI.jpg" />
@@ -152,7 +165,11 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
+</div>
+</div>
 <br />
+<div class="row">
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/SURFACE-PRO.jpg" />
@@ -170,7 +187,9 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
+</div>
 <br />
+<div class="column">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/WINDOWS-7-REVIVED.jpg" />
@@ -188,9 +207,11 @@ permalink: /themes/windows
 <br />
 </div>
 </div>
+</div>
+</div>
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
 <a href="/nsfw">
-<button type="button" name="button" class="btn"><img width="56px" height="auto" src="../assets/images/NSFW.png" /> NSFW Themes</button></a> 
+<button type="button" name="button" class="btn"><img width="24px" height="auto" src="../assets/images/NSFW.png" /> NSFW Themes</button></a> 
 <br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
