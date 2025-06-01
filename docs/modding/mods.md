@@ -29,7 +29,7 @@ permalink: /modding/mods
 
 <div class="gallery">
 <div class="w3-card">
-<img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/lustful-eyes.webp" />
+<img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/lustful-eyes.webp" />
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Lustful Eyes</p>
 <br />
@@ -44,7 +44,7 @@ permalink: /modding/mods
 </div>
 
 <div class="w3-card">
-<img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/ns3d-vm-ui.webp" />
+<img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/ns3d-vm-ui.webp" />
 <div class="w3-container">
 <p class="text-small" style="text-align:center">[NS3D] (VM) UI Pack</p>
 <br />
@@ -59,7 +59,7 @@ permalink: /modding/mods
 </div>
 
 <div class="w3-card">
-<img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/roseblood-duelist.webp" /> 
+<img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/roseblood-duelist.webp" /> 
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Roseblood Duelist</p>
 <br />
@@ -82,7 +82,7 @@ permalink: /modding/mods
 
 <div class="gallery">
 <div class="w3-card">
-<img width="100%" height="auto" class="block" src="../../../assets/images/modding/mods/sfw/odinheim.png" />
+<img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/odinheim.png" />
 <div class="w3-container">
 <p class="text-small" style="text-align:center">Odinheim</p>
 <br />
