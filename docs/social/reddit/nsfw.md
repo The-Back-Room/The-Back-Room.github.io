@@ -26,7 +26,9 @@ nav_exclude: true
 <img width="100%" height="auto" src="https://styles.redditmedia.com/t5_ekyrut/styles/bannerBackgroundImage_r9jlhib4544f1.png" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">NSFW Hentai AI</p>
+<h2 class="text-small" style="text-align:center">NSFW Hentai AI</h2>
+</div>
+<br />
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://www.reddit.com/r/NSFW_Hentai_AI/" target="_blank">
@@ -35,14 +37,15 @@ nav_exclude: true
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="https://styles.redditmedia.com/t5_dn30ob/styles/bannerBackgroundImage_my6kvnkad44f1.png" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Ranma Hentai</p>
+<h2 class="text-small" style="text-align:center">Ranma Hentai</h2>
+</div>
+<br />
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://www.reddit.com/r/Ranma_Hentai/" target="_blank">
@@ -50,6 +53,5 @@ nav_exclude: true
 </div>
 </span>
 <br />
-</div>
 </div>
 </div>

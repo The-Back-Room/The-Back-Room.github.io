@@ -14,11 +14,8 @@ permalink: /modding/mods
 > 
 -->
 
-<div class="w3-card">
-<div class="w3-container">
+
 <h2 align="center">Final Fantasy XIV</h2>
-</div>
-</div>
 
 {: .important }
 > {: .opaque }
@@ -33,7 +30,8 @@ permalink: /modding/mods
 <img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/lustful-eyes.webp" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Lustful Eyes</p>
+<h2 class="text-small" style="text-align:center">Lustful Eyes</h2>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -43,14 +41,14 @@ permalink: /modding/mods
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/ns3d-vm-ui.webp" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">[NS3D] (VM) UI Pack</p>
+<h2 class="text-small" style="text-align:center">[NS3D] (VM) UI Pack</h2>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -60,14 +58,14 @@ permalink: /modding/mods
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/roseblood-duelist.webp" />
-</div> 
+</div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Roseblood Duelist</p>
+<h2 class="text-small" style="text-align:center">Roseblood Duelist</h2>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -77,14 +75,8 @@ permalink: /modding/mods
 </span>
 <br />
 </div>
-</div>
-</div>
 
-<div class="w3-card">
-<div class="w3-container">
 <h2 align="center">Valheim</h2>
-</div>
-</div>
 
 <div class="gallery">
 <div class="w3-card">
@@ -92,7 +84,8 @@ permalink: /modding/mods
 <img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/odinheim.png" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Odinheim</p>
+<h2 class="text-small" style="text-align:center">Odinheim</h2>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
@@ -101,8 +94,6 @@ permalink: /modding/mods
 </div>
 </span>
 <br />
-</div>
-</div>
 </div>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

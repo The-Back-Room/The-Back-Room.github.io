@@ -18,7 +18,6 @@ permalink: /themes/windows
 >   <li> <a href="https://gitlab.com/the-back-room/Themes/-/tree/main/Windows" target="_blank">GitLab</a></li>
 > </ul>
 
-<div class="gallery">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
@@ -187,7 +186,6 @@ permalink: /themes/windows
 </div>
 </span>
 <br />
-</div>
 </div>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

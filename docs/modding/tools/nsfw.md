@@ -32,15 +32,14 @@ nav_exclude: true
 <img width="100%" height="auto" class="block" src="../../../assets/images/modding/tools/nsfw/action-taimanin.webp" />
 </div>
 <div class="w3-container">
-<p class="text-small" style="text-align:center">Action Taimanin Extension</p>
+<h2 class="text-small" style="text-align:center">Action Taimanin Extension</h2>
+</div>
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://www.nexusmods.com/site/mods/546" target="_blank">
-<button style="text-align:center" type="button" name="button" class="btn">Download</button></a> 
+<button type="button" name="button" class="btn">Download</button></a> 
 </div>
 </span>
 <br />
-</div>
-</div>
 </div>
