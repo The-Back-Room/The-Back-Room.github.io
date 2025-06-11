@@ -177,7 +177,7 @@ permalink: /themes/windows
 <img src="../assets/images/themes/sfw/macos-themes-for-windows/BIGSUR_LIGHT.jpg" />
 </div>
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">MacOS Themes for Windows</h2>
+<h2 class="text-small" style="text-align:center">MacOS Themes</h2>
 </div>
 <br />
 <span class="fs-3">
