@@ -18,19 +18,13 @@ permalink: /themes/windows
 >   <li> <a href="https://gitlab.com/the-back-room/Themes/-/tree/main/Windows" target="_blank">GitLab</a></li>
 > </ul>
 
+<div class="gallery">
 <div class="w3-card">
 <div class="responsive">
-<div class="gallery">
 <img src="../assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
-<img src="../assets/images/themes/sfw/PLANETS_LIGHT.jpg" />
-<img src="../assets/images/themes/sfw/SUNSET_LIGHT.jpg" />
-</div>
 </div>
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">Windows 11 Hidden EDU Themes</h2>
-<p class="text-small" style="text-align:center">Windows 11 hidden EDU themes ported for all Windows 10 and 11 users.
-<br />
-Contains all 6 EDU themes.</p>
+<h2 class="text-small" style="text-align:center">EDU Themes</h2>
 </div>
 <br />
 <span class="fs-3">
@@ -42,7 +36,6 @@ Contains all 6 EDU themes.</p>
 <br />
 </div>
 
-<div class="gallery">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/CLASSIC-11.jpg" />
@@ -93,22 +86,30 @@ Contains all 6 EDU themes.</p>
 </span>
 <br />
 </div>
+
+<div class="w3-card">
+<div class="responsive">
+<img src="../assets/images/themes/sfw/FFXIV.jpg" />
+</div>
+<div class="w3-container">
+<h2 class="text-small" style="text-align:center">Final Fantasy XIV</h2>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/FFXIV" target="_blank">
+<button type="button" name="button" class="btn">Download</button></a> 
+</div>
+</span>
+<br />
 </div>
 
 <div class="w3-card">
 <div class="responsive">
-<div class="gallery">
 <img src="../assets/images/themes/sfw/windows-7-revived/WINDOWS.jpg" />
-<img src="../assets/images/themes/sfw/windows-7-revived/FRANCE.jpg" />
-<img src="../assets/images/themes/sfw/windows-7-revived/LANDSCAPES.jpg" />
-<img src="../assets/images/themes/sfw/windows-7-revived/UNITED-STATES.jpg" />
-</div>
 </div>
 <div class="w3-container">
-<h2 class="text-small" style="text-align:center">Windows 7 Revived</h2>
-<p class="text-small" style="text-align:center">Collection of stock Windows 7 themes restored for Windows 10 and 11.
-<br />
-Contains over 40+ themes.</p>
+<h2 class="text-small" style="text-align:center">Windows 7</h2>
 </div>
 <br />
 <span class="fs-3">
@@ -120,7 +121,6 @@ Contains over 40+ themes.</p>
 <br />
 </div>
 
-<div class="gallery">
 <div class="w3-card">
 <div class="responsive">
 <img src="../assets/images/themes/sfw/COURAGE-TCD.jpg" />
@@ -171,22 +171,13 @@ Contains over 40+ themes.</p>
 </span>
 <br />
 </div>
-</div>
 
 <div class="w3-card">
 <div class="responsive">
-<div class="gallery">
 <img src="../assets/images/themes/sfw/macos-themes-for-windows/BIGSUR_LIGHT.jpg" />
-<img src="../assets/images/themes/sfw/macos-themes-for-windows/MOJAVE_LIGHT.jpg" />
-<img src="../assets/images/themes/sfw/macos-themes-for-windows/MONTEREY_LIGHT.jpg" />
-<img src="../assets/images/themes/sfw/macos-themes-for-windows/SEQUOIA_LIGHT.jpg" />
-</div>
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">MacOS Themes for Windows</h2>
-<p class="text-small" style="text-align:center">Collection of MacOS themes ported to Windows 10 and 11.
-<br />
-Contains over 20+ themes.</p>
 </div>
 <br />
 <span class="fs-3">
@@ -196,6 +187,7 @@ Contains over 20+ themes.</p>
 </div>
 </span>
 <br />
+</div>
 </div>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
