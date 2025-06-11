@@ -35,7 +35,7 @@ nav_exclude: true
 </span>
 <br />
 </div>
-
+<br /><br />
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="../../assets/images/themes/nsfw/ECCHI.jpg" />
@@ -52,7 +52,7 @@ nav_exclude: true
 </span>
 <br />
 </div>
-
+<br /><br />
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="../../assets/images/themes/nsfw/RANMA-HENTAI.jpg" />
@@ -69,7 +69,7 @@ nav_exclude: true
 </span>
 <br />
 </div>
-
+<br /><br />
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="../../assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.jpg" />
