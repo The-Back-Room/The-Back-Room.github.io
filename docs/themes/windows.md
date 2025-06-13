@@ -105,23 +105,6 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/windows-7-revived/WINDOWS.jpg" />
-</div>
-<div class="w3-container">
-<h2 class="text-small" style="text-align:center">Windows 7</h2>
-</div>
-<br />
-<span class="fs-3">
-<div align="center" class="text-small">
-<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-7-Revived" target="_blank">
-<button type="button" name="button" class="btn">Download</button></a> 
-</div>
-</span>
-<br />
-</div>
-<br /><br />
-<div class="w3-card">
-<div class="responsive">
 <img src="../assets/images/themes/sfw/COURAGE-TCD.jpg" />
 </div>
 <div class="w3-container">
