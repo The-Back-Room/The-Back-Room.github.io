@@ -105,6 +105,40 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
+<img src="../assets/images/themes/sfw/BLEACH.jpg" />
+</div>
+<div class="w3-container">
+<h2 class="text-small" style="text-align:center">BLEACH</h2>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/BLEACH" target="_blank">
+<button type="button" name="button" class="btn">Download</button></a> 
+</div>
+</span>
+<br />
+</div>
+<br /><br />
+<div class="w3-card">
+<div class="responsive">
+<img src="../assets/images/themes/sfw/BLEACH-TYBW.jpg" />
+</div>
+<div class="w3-container">
+<h2 class="text-small" style="text-align:center">BLEACH</h2>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/BLEACH-TYBW" target="_blank">
+<button type="button" name="button" class="btn">Download</button></a> 
+</div>
+</span>
+<br />
+</div>
+<br /><br />
+<div class="w3-card">
+<div class="responsive">
 <img src="../assets/images/themes/sfw/COURAGE-TCD.jpg" />
 </div>
 <div class="w3-container">
