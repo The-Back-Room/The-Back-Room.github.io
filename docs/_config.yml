@@ -36,7 +36,7 @@ callouts:
     color: yellow
   adult_content:
     title: Adult Content
-    color: red
+    color: orange
   important:
     title: Important
     color: blue
