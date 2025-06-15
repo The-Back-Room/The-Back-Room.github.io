@@ -38,13 +38,11 @@ callouts:
     title: Important
     color: blue
   new:
-    title: New
     color: green
   note:
     title: Note
     color: purple
   warning:
-    title: Warning
     color: red
 
 # Google Analytics Tracking (optional)
