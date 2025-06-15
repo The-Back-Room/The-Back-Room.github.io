@@ -15,10 +15,11 @@ permalink: /modding
 -->
 
 <div class="w3-card">
-    <div class="w3-container">
-    <ul>
-    <li><a href="/modding/mods">Game Mods</a></li>
-    <li><a href="/modding/toolss">Modding Tools</a></li>
-    </ul>
-    </div>
+<div class="w3-container">
+<h4>Table of Contents</h4>
+<ul>
+<li><a class="text-delta" href="/modding/mods">Game Mods</a></li>
+<li><a class="text-delta" href="/modding/toolss">Modding Tools</a></li>
+</ul>
+</div>
 </div>

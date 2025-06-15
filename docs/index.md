@@ -15,8 +15,23 @@ permalink: /
 -->
 
 <div class="w3-card">
-  <div class="w3-container">
-    <h2 class="text-small" style="text-align:center">The Back Room</h2>
-    <p class="text-small" style="text-align:center">Open-Source Development and Customization</p>
-  </div>
+<div class="w3-container">
+<h2 class="text-small" style="text-align:center">The Back Room</h2>
+<p class="text-small" style="text-align:center">Open-Source Development and Customization</p>
 </div>
+</div>
+<br /><br />
+<div class="w3-card">
+<div class="w3-container">
+<h4>Table of Contents</h4>
+<ul>
+<li><a class="text-delta" href="/apps">Apps</a></li>
+<li><a class="text-delta" href="/themes">Themes</a></li>
+<li><a class="text-delta" href="/wallpapers">Wallpapers</a></li>
+<li><a class="text-delta" href="/modding"></a>Modding</li>
+<li><a class="text-delta" href="/social"></a>Social</li>
+</ul>
+</div>
+</div>
+
+

@@ -15,10 +15,11 @@ permalink: /wallpapers
 -->
 
 <div class="w3-card">
-    <div class="w3-container">
-    <ul>
-    <li><a href="/wallpapers/desktop">Desktop Wallpapers</a></li>
-    <li><a href="/wallpapers/mobile">Mobile Wallpapers</a></li>
-    </ul>
-    </div>
+<div class="w3-container">
+<h4>Table of Contents</h4>
+<ul>
+<li><a class="text-delta" href="/wallpapers/desktop">Desktop Wallpapers</a></li>
+<li><a class="text-delta" href="/wallpapers/mobile">Mobile Wallpapers</a></li>
+</ul>
+</div>
 </div>
