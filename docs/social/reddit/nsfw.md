@@ -20,7 +20,6 @@ permalink: /social/reddit/nsfw
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
-<div class="gallery">
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="https://styles.redditmedia.com/t5_ekyrut/styles/bannerBackgroundImage_r9jlhib4544f1.png" />
@@ -37,7 +36,7 @@ permalink: /social/reddit/nsfw
 </span>
 <br />
 </div>
-
+<br /><br />
 <div class="w3-card">
 <div class="responsive">
 <img width="100%" height="auto" src="https://styles.redditmedia.com/t5_dn30ob/styles/bannerBackgroundImage_my6kvnkad44f1.png" />
@@ -53,5 +52,4 @@ permalink: /social/reddit/nsfw
 </div>
 </span>
 <br />
-</div>
 </div>
