@@ -32,20 +32,19 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 callouts_level: quiet
 callouts:
-  adult:
-    title: Adult Content
-    color: pink
-  caution:
-    color: orange
   highlight:
     color: yellow
   important:
     title: Important
     color: blue
+  new:
+    title: New
+    color: green
   note:
+    title: Note
     color: purple
   warning:
-    title: warning
+    title: Warning
     color: red
 
 # Google Analytics Tracking (optional)

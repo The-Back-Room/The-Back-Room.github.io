@@ -21,7 +21,7 @@ permalink: /modding/mods
 
 {: .important }
 > {: .opaque }
-> {: .caution }
+> {: .warning }
 > Using mods in any shape or way violates section 2.1 of the Final Fantasy XIV User Agreement and can lead to your service account being terminated and/or banned by SQUARE ENIX.
 > 
 > We take **NO** responsibility for anyone who loses their account due to the use of mods. Use of mods in Final Fantasy XIV is done **AT YOUR OWN RISK**.
