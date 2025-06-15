@@ -1,8 +1,10 @@
 ---
 layout: default
-title: NSFW MSSTYLE Themes
+title: NSFW Themes
+nav_order: 1
+parent: MSSTYLE Themes
+grand_parent: Windows Themes
 permalink: /themes/windows/msstyle/nsfw
-nav_exclude: true
 ---
 
 {: .note }

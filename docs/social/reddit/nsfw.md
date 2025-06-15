@@ -1,8 +1,10 @@
 ---
 layout: default
 title: NSFW Subreddits
+nav_order: 1
+parent: Reddit
+grand_parent: Social
 permalink: /social/reddit/nsfw
-nav_exclude: true
 ---
 
 <!-- 
