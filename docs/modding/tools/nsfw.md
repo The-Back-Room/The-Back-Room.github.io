@@ -34,7 +34,8 @@ permalink: /modding/tools/nsfw
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://www.nexusmods.com/site/mods/546" target="_blank">
-<button type="button" name="button" class="btn">Download</button></a> 
+<button type="button" name="button" class="btn">Download</button></a>
 </div>
 </span>
+<br />
 </div>
