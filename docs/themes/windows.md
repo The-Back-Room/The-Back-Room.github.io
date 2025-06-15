@@ -34,7 +34,7 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/CLASSIC-11.jpg" />
@@ -51,7 +51,7 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/COPILOT.jpg" />
@@ -68,7 +68,7 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/SURFACE-PRO.jpg" />
@@ -85,7 +85,7 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/FFXIV.jpg" />
@@ -102,7 +102,7 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/BLEACH.jpg" />
@@ -119,7 +119,7 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/BLEACH-TYBW.jpg" />
@@ -136,7 +136,7 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/COURAGE-TCD.jpg" />
@@ -153,7 +153,7 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/HOWLS-MOVING-CASTLE.jpg" />
@@ -170,7 +170,7 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/STUDIO-GHIBLI.jpg" />
@@ -187,7 +187,7 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/macos-themes-for-windows/BIGSUR_LIGHT.jpg" />

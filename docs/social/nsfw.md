@@ -23,7 +23,7 @@ permalink: /social/nsfw
 
 <div class="w3-card">
 <div class="responsive">
-<h4>Subreddits</h4>
+<h4 style="text-align:center">Subreddits</h4>
 <ul>
     <li><a href="https://www.reddit.com/r/Ranma_Hentai/" target="_blank">r/Ranma_Hentai</a> </li>
     <li><a href="https://www.reddit.com/r/NSFW_Hentai_AI/" target="_blank">>r/NSFW_Hentai_AI</a></li>

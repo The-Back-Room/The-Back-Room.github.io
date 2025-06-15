@@ -20,7 +20,7 @@ permalink: /
 <p class="text-small" style="text-align:center">Open-Source Development and Customization</p>
 </div>
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="w3-container">
 <h4 style="text-align:center">Table of Contents</h4>

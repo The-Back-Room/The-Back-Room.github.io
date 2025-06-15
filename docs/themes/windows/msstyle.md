@@ -63,7 +63,7 @@ permalink: /themes/windows/msstyle
 </span>
 <br />
 </div>
-<br /><br />
+<br />
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/msstyle/WINDOWS-7.jpg" />
