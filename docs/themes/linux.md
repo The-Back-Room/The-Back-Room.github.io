@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Linux Themes
-description: A list of themes for Linux devices
+nav_order: 2
+has_toc: false
 parent: Themes
 permalink: /themes/linux
 ---

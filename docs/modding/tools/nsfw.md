@@ -2,6 +2,7 @@
 layout: default
 title: NSFW Tools
 nav_exclude: true
+has_toc: false
 permalink: /modding/tools/nsfw
 ---
 

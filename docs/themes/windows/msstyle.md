@@ -2,6 +2,7 @@
 layout: default
 title: MSSTYLE Themes
 nav_order: 1
+has_toc: false
 parent: Windows Themes
 grand_parent: Themes
 permalink: /themes/windows/msstyle

@@ -2,6 +2,7 @@
 layout: default
 title: NSFW Subreddits
 nav_exclude: true
+has_toc: false
 permalink: /social/nsfw
 ---
 

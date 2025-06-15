@@ -1,7 +1,8 @@
 ---
 layout: default
 title: YT Music Menu Player
-nav_order: 1.3
+nav_order: 1
+has_toc: false
 parent: Apps
 permalink: /apps/yt-music-menu-player
 ---

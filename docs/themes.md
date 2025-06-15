@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Themes
-description: A list of themes for various platforms
 nav_order: 2
 permalink: /themes
 ---

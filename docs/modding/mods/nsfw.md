@@ -2,6 +2,7 @@
 layout: default
 title: NSFW Mods
 nav_exclude: true
+has_toc: false
 permalink: /modding/mods/nsfw
 ---
 

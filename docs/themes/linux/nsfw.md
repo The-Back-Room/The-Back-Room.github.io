@@ -2,6 +2,7 @@
 layout: default
 title: NSFW Themes
 nav_exclude: true
+has_toc: false
 permalink: /themes/linux/nsfw
 ---
 

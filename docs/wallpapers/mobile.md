@@ -2,6 +2,7 @@
 layout: default
 title: Mobile Wallpapers
 nav_order: 2
+has_toc: false
 parent: Wallpapers
 permalink: /wallpapers/mobile
 ---

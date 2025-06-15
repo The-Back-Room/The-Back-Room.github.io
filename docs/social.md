@@ -2,6 +2,7 @@
 layout: default
 title: Social
 nav_order: 6
+has_toc: false
 permalink: /social
 ---
 

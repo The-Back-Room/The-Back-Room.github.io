@@ -3,6 +3,7 @@ layout: default
 title: NSFW Wallpapers
 permalink: /wallpapers/desktop/nsfw
 nav_exclude: true
+has_toc: false
 ---
 
 {: .note }

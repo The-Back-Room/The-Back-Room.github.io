@@ -2,6 +2,7 @@
 layout: default
 title: Desktop Wallpapers
 nav_order: 1
+has_toc: false
 parent: Wallpapers
 permalink: /wallpapers/desktop
 ---
