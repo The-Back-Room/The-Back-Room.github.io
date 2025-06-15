@@ -89,15 +89,17 @@ permalink: /themes/windows/msstyle
             <li>Mica For Everyone</li>
         </ul>
         <br /><br />
-        <ul>
-            <li><b>RTM Themes</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes</li>
-            <li><b>Regional Themes</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States</li>
-            <li><b>Panoramic Themes</b>: Panoramic Animals, Panoramic Beaches, Panoramic Deserts, Panoramic Rock Formations, Panoramic Glaciers, Panoramic Snow
-            <li><b>Community Showcase Themes</b>: Aqua, Cityscapes</li>
-            <li><b>Other Themes</b>: Beach Sunsets, Glowing Beaches, Waterscapes</li>
-        </ul>
+        <h4>Themes</h4>
         <br />
+        <ul>
+            <li><b>RTM</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes</li>
+            <li><b>Regional</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States</li>
+            <li><b>Panoramic</b>: Panoramic Animals, Panoramic Beaches, Panoramic Deserts, Panoramic Rock Formations, Panoramic Glaciers, Panoramic Snow</li>
+            <li><b>Community Showcase</b>: Aqua, Cityscapes</li>
+            <li><b>Othes: Beach Sunsets, Glowing Beaches, Waterscapes</li>
+        </ul>
     </div>
+    <br />
     <span class="fs-3">
         <div align="center" class="text-small">
             <a href="https://github.com/The-Back-Room/Windows-7-Themes-for-Windows-11/archive/refs/heads/main.zip" target="_blank">
@@ -105,7 +107,7 @@ permalink: /themes/windows/msstyle
         </div>
     </span>
     <br />
-</div>
+
 <br /><br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
