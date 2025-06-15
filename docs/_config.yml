@@ -32,24 +32,17 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 callouts_level: quiet
 callouts:
-  nsfw:
-    color: red
   caution:
-    title: Caution
     color: orange
   highlight:
     color: yellow
   important:
     title: Important
     color: blue
-  new:
-    title: New
-    color: green
   note:
-    title: Note
     color: purple
   warning:
-    title: Warning
+    title: warning
     color: red
 
 # Google Analytics Tracking (optional)

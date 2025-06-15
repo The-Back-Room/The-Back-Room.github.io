@@ -16,10 +16,9 @@ permalink: /modding/tools/nsfw
 
 {: .important }
 > {: .opaque }
-> {: .nsfw }
+> {: .warning }
 > This page is for adults only. By being on this page, you are agreeing that you are of legal age.
 > 
-> {: .warning }
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
 <h2 align="center">Vortex Extensions</h2>
