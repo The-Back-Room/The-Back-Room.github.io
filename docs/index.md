@@ -23,7 +23,7 @@ permalink: /
 <br /><br />
 <div class="w3-card">
 <div class="w3-container">
-<h4>Table of Contents</h4>
+<h4 style="text-align:center">Table of Contents</h4>
 <ul>
 <li><a class="text-delta" href="/apps">Apps</a></li>
 <li><a class="text-delta" href="/themes">Themes</a></li>
