@@ -44,14 +44,16 @@ permalink: /themes/windows/msstyle
         </ul>
         <br /><br />
         <h4>Themes</h4>
-        <p><b>BLEACH</b><br />
-        <b>BLEACH</b>: Square<br />
-        <b>BLEACH</b>: Small Title<br />
-        <b>BLEACH</b>: Square - Small Title<br />
-        <b>BLEACH</b>: Thousand Year Blood War<br />
-        <b>BLEACH</b>: Thousand Year Blood War - Square<br />
-        <b>BLEACH</b>: Thousand Year Blood War - Small Title<br />
-        <b>BLEACH</b>: Thousand Year Blood War - Square - Small Title</p><br />
+        <ul>
+            <li><p><b>BLEACH</b></li>
+            <li><b>BLEACH</b>: Square</li>
+            <li><b>BLEACH</b>: Small Title</li>
+            <li><b>BLEACH</b>: Square - Small Title</li>
+            <li><b>BLEACH</b>: Thousand Year Blood War</li>
+            <li><b>BLEACH</b>: Thousand Year Blood War - Square</li>
+            <li><b>BLEACH</b>: Thousand Year Blood War - Small Title</li>
+            <li><b>BLEACH</b>: Thousand Year Blood War - Square - Small Title</li>
+        </ul>
     </div>
     <br />
     <span class="fs-3">
@@ -85,11 +87,14 @@ permalink: /themes/windows/msstyle
         </ul>
         <br /><br />
         <h4>Themes</h4>
-        <p><b>RTM</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes<br />
-        <b>Regional</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States<br />
-        <b>Panoramic</b>: Panoramic Animals, Panoramic Beaches, Panoramic Deserts, Panoramic Rock Formations, Panoramic Glaciers, Panoramic Snow<br />
-        <b>Community Showcase</b>: Aqua, Cityscapes<br />
-        <b>Othes</b>: Beach Sunsets, Glowing Beaches, Waterscapes</p><br />
+        <ul>
+            <li><b>RTM</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes</li>
+            <li><b>Regional</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States</li>
+            <li><b>Panoramic</b>: Panoramic Animals, Panoramic Beaches, Panoramic Deserts, Panoramic Rock Formations, Panoramic Glaciers, Panoramic Snow</li>
+            <li><b>Community Showcase</b>: Aqua, Cityscapes</li>
+            <li><b>Othes</b>: Beach Sunsets, Glowing Beaches, Waterscapes</li>
+        </ul>
+    </div>
     <br />
     <span class="fs-3">
         <div align="center" class="text-small">
