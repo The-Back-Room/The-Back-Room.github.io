@@ -28,9 +28,11 @@ permalink: /themes/windows/msstyle
     </div>
     <div class="w3-container">
         <h2 class="text-small" style="text-align:center">BLEACH Themes for Windows 11 23H2+</h2>
+        <br />
         <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>
         <br /><br />
         <h4>Requirements</h4>
+        <br />
         <ul>
             <li><b>WindHawk Plugin</b>: Bring Back the Borders!</li>
             <li><b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored</li>
@@ -43,6 +45,7 @@ permalink: /themes/windows/msstyle
         </ul>
         <br /><br />
         <h4>Themes</h4>
+        <br />
         <ul>
             <li><b>BLEACH</b></li>
             <li><b>BLEACH</b>: Square</li>
@@ -70,9 +73,11 @@ permalink: /themes/windows/msstyle
     </div>
     <div class="w3-container">
         <h2 class="text-small" style="text-align:center">Windows 7 Themes for Windows 11 23H2+</h2>
+        <br />
         <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>
         <br /><br />
         <h4>Requirements</h4>
+        <br />
         <ul>
             <li><b>WindHawk Plugin</b>: Bring Back the Borders!</li>
             <li><b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored</li>
