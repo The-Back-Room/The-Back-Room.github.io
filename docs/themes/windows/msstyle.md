@@ -30,7 +30,6 @@ permalink: /themes/windows/msstyle
         <h2 class="text-small" style="text-align:center">BLEACH Themes for Windows 11 23H2+</h2>
         <br />
         <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>
-        <br /><br />
         <h4>Requirements</h4>
         <ul>
             <li><a href="https://windhawk.net/" targe="_blank">WindHawk</a> Plugin: <a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a></li>
@@ -41,6 +40,17 @@ permalink: /themes/windows/msstyle
             <li><a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a> | <a href="https://windhawk.net/" targe="_blank">WindHawk</a> Plugin: <a href="https://windhawk.net/mods/aerexplorer" target="_blank">Aerexplorer</a></li>
             <li><a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a></li>
             <li><a href="https://github.com/MicaForEveryone/MicaForEveryone" target="_blank">Mica For Everyone</a></li>
+        </ul>
+        <h4>Themes</h4>
+        <ul>
+            <li><b>BLEACH</b></li>
+            <li><b>BLEACH</b>: Square</li>
+            <li><b>BLEACH</b>: Small Title</li>
+            <li><b>BLEACH</b>: Square - Small Title</li>
+            <li><b>BLEACH</b>: Thousand Year Blood War</li>
+            <li><b>BLEACH</b>: Thousand Year Blood War - Square</li>
+            <li><b>BLEACH</b>: Thousand Year Blood War - Small Title</li>
+            <li><b>BLEACH</b>: Thousand Year Blood War - Square - Small Title</li>
         </ul>
     </div>
     <br />
@@ -61,7 +71,6 @@ permalink: /themes/windows/msstyle
         <h2 class="text-small" style="text-align:center">Windows 7 Themes for Windows 11 23H2+</h2>
         <br />
         <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>
-        <br /><br />
         <h4>Requirements</h4>
         <ul>
             <li><a href="https://windhawk.net/" targe="_blank">WindHawk</a> Plugin: <a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a></li>
@@ -72,6 +81,14 @@ permalink: /themes/windows/msstyle
             <li><a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a> | <a href="https://windhawk.net/" targe="_blank">WindHawk</a> Plugin: <a href="https://windhawk.net/mods/aerexplorer" target="_blank">Aerexplorer</a></li>
             <li><a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a></li>
             <li><a href="https://github.com/MicaForEveryone/MicaForEveryone" target="_blank">Mica For Everyone</a></li>
+        </ul>
+        <h4>Themes</h4>
+        <ul>
+            <li><p><b>RTM</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes</li>
+            <li><b>Regional</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States</li>
+            <li><b>Panoramic</b>: Panoramic Animals, Panoramic Beaches, Panoramic Deserts, Panoramic Rock Formations, Panoramic Glaciers, Panoramic Snow</li>
+            <li><b>Community Showcase</b>: Aqua, Cityscapes</li>
+            <li><b>Othes</b>: Beach Sunsets, Glowing Beaches, Waterscapes</li>
         </ul>
     </div>
     <br />
