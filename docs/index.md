@@ -28,8 +28,8 @@ permalink: /
 <li><a class="text-delta" href="/apps">Apps</a></li>
 <li><a class="text-delta" href="/themes">Themes</a></li>
 <li><a class="text-delta" href="/wallpapers">Wallpapers</a></li>
-<li><a class="text-delta" href="/modding"></a>Modding</li>
-<li><a class="text-delta" href="/social"></a>Social</li>
+<li><a class="text-delta" href="/modding">Modding</a></li>
+<li><a class="text-delta" href="/social">Social</a></li>
 </ul>
 </div>
 </div>
