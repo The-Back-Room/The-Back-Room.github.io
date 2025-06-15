@@ -25,7 +25,7 @@ liquid:
    error_mode: strict
    strict_filters: true
 
-footer_content: "Copyright &copy; 2025"
+footer_content: "Copyright &copy; 2025 Joshua Lewis"
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p" 
