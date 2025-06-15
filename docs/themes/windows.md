@@ -20,7 +20,7 @@ permalink: /themes/windows
 
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">EDU Themes</h2>
@@ -37,7 +37,7 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/CLASSIC-11.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/CLASSIC-11.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Classic 11</h2>
@@ -54,7 +54,7 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/COPILOT.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/COPILOT.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Copilot</h2>
@@ -71,7 +71,7 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/SURFACE-PRO.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/SURFACE-PRO.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Surface Pro</h2>
@@ -88,7 +88,7 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/FFXIV.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/FFXIV.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Final Fantasy XIV</h2>
@@ -105,7 +105,7 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/BLEACH.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/BLEACH.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">BLEACH</h2>
@@ -122,7 +122,7 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/BLEACH-TYBW.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/BLEACH-TYBW.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">BLEACH</h2>
@@ -139,7 +139,7 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/COURAGE-TCD.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/COURAGE-TCD.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Courage TCD</h2>
@@ -156,7 +156,7 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/HOWLS-MOVING-CASTLE.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/HOWLS-MOVING-CASTLE.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Howl's Moving Castle</h2>
@@ -173,7 +173,7 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/STUDIO-GHIBLI.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/STUDIO-GHIBLI.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Studio Ghibli</h2>
@@ -190,7 +190,7 @@ permalink: /themes/windows
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../assets/images/themes/sfw/macos-themes-for-windows/BIGSUR_LIGHT.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/macos-themes-for-windows/BIGSUR_LIGHT.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">MacOS Themes</h2>

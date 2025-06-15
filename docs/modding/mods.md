@@ -27,7 +27,7 @@ permalink: /modding/mods
 <div class="gallery">
 <div class="w3-card">
 <div class="responsive">
-<img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/lustful-eyes.webp" />
+<img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/lustful-eyes.webp" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Lustful Eyes</h2>
@@ -44,7 +44,7 @@ permalink: /modding/mods
 
 <div class="w3-card">
 <div class="responsive">
-<img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/ns3d-vm-ui.webp" />
+<img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/ns3d-vm-ui.webp" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">[NS3D] (VM) UI Pack</h2>
@@ -61,7 +61,7 @@ permalink: /modding/mods
 
 <div class="w3-card">
 <div class="responsive">
-<img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/roseblood-duelist.webp" />
+<img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/roseblood-duelist.webp" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Roseblood Duelist</h2>
@@ -81,7 +81,7 @@ permalink: /modding/mods
 <div class="gallery">
 <div class="w3-card">
 <div class="responsive">
-<img width="100%" height="auto" class="block" src="../assets/images/modding/mods/sfw/odinheim.png" />
+<img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/odinheim.png" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Odinheim</h2>

@@ -24,7 +24,7 @@ permalink: /themes/windows/msstyle
 
 <div class="w3-card">
 <div class="responsive">
-<img src="../../assets/images/themes/sfw/msstyle/BLEACH-TYBW.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/msstyle/BLEACH-TYBW.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">BLEACH Themes for Windows 11 23H2+</h2>
@@ -65,7 +65,7 @@ permalink: /themes/windows/msstyle
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img src="../../assets/images/themes/sfw/msstyle/WINDOWS-7.jpg" />
+<img src="https://the-back-room.info/assets/images/themes/sfw/msstyle/WINDOWS-7.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Windows 7 Themes for Windows 11 23H2+</h2>

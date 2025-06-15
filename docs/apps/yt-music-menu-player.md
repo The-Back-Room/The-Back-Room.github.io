@@ -12,7 +12,7 @@ permalink: /apps/yt-music-menu-player
 
 
 <div class="w3-card">
-<img width="100%" height="auto" class="block" src="../assets/images/yt-music.png" />
+<img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/yt-music.png" />
 <br />
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">YT Music Menu Player</h2>

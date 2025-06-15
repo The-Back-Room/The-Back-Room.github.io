@@ -22,7 +22,7 @@ permalink: /themes/windows/nsfw
 
 <div class="w3-card">
 <div class="responsive">
-<img width="100%" height="auto" src="../../assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.jpg" />
+<img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Sexy Naruto Girls</h2>
@@ -39,7 +39,7 @@ permalink: /themes/windows/nsfw
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img width="100%" height="auto" src="../../assets/images/themes/nsfw/ECCHI.jpg" />
+<img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/ECCHI.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Ecchi</h2>
@@ -56,7 +56,7 @@ permalink: /themes/windows/nsfw
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img width="100%" height="auto" src="../../assets/images/themes/nsfw/RANMA-HENTAI.jpg" />
+<img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/RANMA-HENTAI.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Ranma Hentai</h2>
@@ -73,7 +73,7 @@ permalink: /themes/windows/nsfw
 <br /><br />
 <div class="w3-card">
 <div class="responsive">
-<img width="100%" height="auto" src="../../assets/images/themes/nsfw/BLEACH-HENTAI.jpg" />
+<img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/BLEACH-HENTAI.jpg" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Bleach Hentai</h2>
