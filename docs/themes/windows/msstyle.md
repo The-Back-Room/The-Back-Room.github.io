@@ -1,8 +1,10 @@
 ---
 layout: default
 title: MSSTYLE Themes
+nav_order: 1
+parent: Windows Themes
+grand_parent: Themes
 permalink: /themes/windows/msstyle
-nav_exclude: true
 ---
 <!-- 
 {: .note }
@@ -27,6 +29,7 @@ nav_exclude: true
     <div class="w3-container">
         <h2 class="text-small" style="text-align:center">BLEACH Themes for Windows 11 23H2+</h2>
         <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>
+        <br /><br />
         <h4>Requirements</h4>
         <ul>
             <li><b>WindHawk Plugin</b>: Bring Back the Borders!</li>
@@ -38,6 +41,7 @@ nav_exclude: true
             <li>DWMBlurGlass</li>
             <li>Mica For Everyone</li>
         </ul>
+        <br /><br />
         <h4>Themes</h4>
         <ul>
             <li><b>BLEACH</b></li>
@@ -67,6 +71,7 @@ nav_exclude: true
     <div class="w3-container">
         <h2 class="text-small" style="text-align:center">Windows 7 Themes for Windows 11 23H2+</h2>
         <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>
+        <br /><br />
         <h4>Requirements</h4>
         <ul>
             <li><b>WindHawk Plugin</b>: Bring Back the Borders!</li>
@@ -78,6 +83,7 @@ nav_exclude: true
             <li>DWMBlurGlass</li>
             <li>Mica For Everyone</li>
         </ul>
+        <br /><br />
         <ul>
             <li><b>RTM Themes</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes</li>
             <li><b>Regional Themes</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States</li>
