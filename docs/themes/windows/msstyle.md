@@ -42,18 +42,6 @@ permalink: /themes/windows/msstyle
             <li><a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a></li>
             <li><a href="https://github.com/MicaForEveryone/MicaForEveryone" target="_blank">Mica For Everyone</a></li>
         </ul>
-        <br /><br />
-        <h4>Themes</h4>
-        <ul>
-            <li><p><b>BLEACH</b></li>
-            <li><b>BLEACH</b>: Square</li>
-            <li><b>BLEACH</b>: Small Title</li>
-            <li><b>BLEACH</b>: Square - Small Title</li>
-            <li><b>BLEACH</b>: Thousand Year Blood War</li>
-            <li><b>BLEACH</b>: Thousand Year Blood War - Square</li>
-            <li><b>BLEACH</b>: Thousand Year Blood War - Small Title</li>
-            <li><b>BLEACH</b>: Thousand Year Blood War - Square - Small Title</li>
-        </ul>
     </div>
     <br />
     <span class="fs-3">
@@ -84,15 +72,6 @@ permalink: /themes/windows/msstyle
             <li><a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a> | <a href="https://windhawk.net/" targe="_blank">WindHawk</a> Plugin: <a href="https://windhawk.net/mods/aerexplorer" target="_blank">Aerexplorer</a></li>
             <li><a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a></li>
             <li><a href="https://github.com/MicaForEveryone/MicaForEveryone" target="_blank">Mica For Everyone</a></li>
-        </ul>
-        <br /><br />
-        <h4>Themes</h4>
-        <ul>
-            <li><b>RTM</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes</li>
-            <li><b>Regional</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States</li>
-            <li><b>Panoramic</b>: Panoramic Animals, Panoramic Beaches, Panoramic Deserts, Panoramic Rock Formations, Panoramic Glaciers, Panoramic Snow</li>
-            <li><b>Community Showcase</b>: Aqua, Cityscapes</li>
-            <li><b>Othes</b>: Beach Sunsets, Glowing Beaches, Waterscapes</li>
         </ul>
     </div>
     <br />
