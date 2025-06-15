@@ -34,6 +34,9 @@ callouts_level: quiet
 callouts:
   highlight:
     color: yellow
+  adult_content:
+    title: Adult Content
+    color: red
   important:
     title: Important
     color: blue
