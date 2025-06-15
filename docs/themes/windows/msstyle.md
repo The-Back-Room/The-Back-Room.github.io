@@ -32,7 +32,6 @@ permalink: /themes/windows/msstyle
         <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>
         <br /><br />
         <h4>Requirements</h4>
-        <br />
         <p><b>WindHawk Plugin</b>: Bring Back the Borders!<br />
         <b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored<br />
         <b>WindHawk Plugin</b>: Resource Redirect<br />
@@ -43,7 +42,6 @@ permalink: /themes/windows/msstyle
         Mica For Everyone</p>
         <br /><br />
         <h4>Themes</h4>
-        <br />
         <p><b>BLEACH</b><br />
         <b>BLEACH</b>: Square<br />
         <b>BLEACH</b>: Small Title<br />
@@ -73,7 +71,6 @@ permalink: /themes/windows/msstyle
         <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>
         <br /><br />
         <h4>Requirements</h4>
-        <br />
         <p><b>WindHawk Plugin</b>: Bring Back the Borders!<br />
         <b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored<br />
         <b>WindHawk Plugin</b>: Resource Redirect<br />
@@ -84,7 +81,6 @@ permalink: /themes/windows/msstyle
         Mica For Everyone</p>
         <br /><br />
         <h4>Themes</h4>
-        <br />
         <p><b>RTM</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes<br />
         <b>Regional</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States<br />
         <b>Panoramic</b>: Panoramic Animals, Panoramic Beaches, Panoramic Deserts, Panoramic Rock Formations, Panoramic Glaciers, Panoramic Snow<br />
