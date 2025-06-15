@@ -15,11 +15,11 @@ permalink: /social
 
 <div class="w3-card">
 <div class="responsive">
-<h2>DeviantArt Groups</h2>
+<h4>DeviantArt Groups</h4>
 <ul>
     <li><a href="https://www.deviantart.com/the-back-room" target="_blank">DeviantArt</a></li>
 </ul>
-<h2>Facebook Pages</h2>
+<h4>Facebook Pages</h4>
 <ul>
     <li><a href="https://www.facebook.com/profile.php?id=61572245999615" target="_blank">Facebook</a></li>
 </ul>
