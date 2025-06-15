@@ -33,29 +33,25 @@ permalink: /themes/windows/msstyle
         <br /><br />
         <h4>Requirements</h4>
         <br />
-        <ul>
-            <li><b>WindHawk Plugin</b>: Bring Back the Borders!</li>
-            <li><b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored</li>
-            <li><b>WindHawk Plugin</b>: Resource Redirect</li>
-            <li>UltraUxThemePatcher or SecureUxTheme and|or <b>WindHawk Plugin</b>: UxThemeHook</li>
-            <li>StartAllBack or Explorer7</li>
-            <li>OldNewExplorer and|or <b>WindHawk Plugin</b>: Aerexplorer</li>
-            <li>DWMBlurGlass</li>
-            <li>Mica For Everyone</li>
-        </ul>
+        <p><b>WindHawk Plugin</b>: Bring Back the Borders!<br />
+        <b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored<br />
+        <b>WindHawk Plugin</b>: Resource Redirect<br />
+        UltraUxThemePatcher or SecureUxTheme and|or <b>WindHawk Plugin</b>: UxThemeHook<br />
+        StartAllBack or Explorer7<br />
+        OldNewExplorer and|or <b>WindHawk Plugin</b>: Aerexplorer<br />
+        DWMBlurGlass<br />
+        Mica For Everyone</p>
         <br /><br />
         <h4>Themes</h4>
         <br />
-        <ul>
-            <li><b>BLEACH</b></li>
-            <li><b>BLEACH</b>: Square</li>
-            <li><b>BLEACH</b>: Small Title</li>
-            <li><b>BLEACH</b>: Square - Small Title</li>
-            <li><b>BLEACH</b>: Thousand Year Blood War</li>
-            <li><b>BLEACH</b>: Thousand Year Blood War - Square</li>
-            <li><b>BLEACH</b>: Thousand Year Blood War - Small Title</li>
-            <li><b>BLEACH</b>: Thousand Year Blood War - Square - Small Title</li>
-        </ul>
+        <p><b>BLEACH</b><br />
+        <b>BLEACH</b>: Square<br />
+        <b>BLEACH</b>: Small Title<br />
+        <b>BLEACH</b>: Square - Small Title<br />
+        <b>BLEACH</b>: Thousand Year Blood War<br />
+        <b>BLEACH</b>: Thousand Year Blood War - Square<br />
+        <b>BLEACH</b>: Thousand Year Blood War - Small Title<br />
+        <b>BLEACH</b>: Thousand Year Blood War - Square - Small Title</p><br />
     </div>
     <br />
     <span class="fs-3">
@@ -78,27 +74,22 @@ permalink: /themes/windows/msstyle
         <br /><br />
         <h4>Requirements</h4>
         <br />
-        <ul>
-            <li><b>WindHawk Plugin</b>: Bring Back the Borders!</li>
-            <li><b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored</li>
-            <li><b>WindHawk Plugin</b>: Resource Redirect</li>
-            <li>UltraUxThemePatcher or SecureUxTheme and|or <b>WindHawk Plugin</b>: UxThemeHook</li>
-            <li>StartAllBack or Explorer7</li>
-            <li>OldNewExplorer and|or <b>WindHawk Plugin</b>: Aerexplorer</li>
-            <li>DWMBlurGlass</li>
-            <li>Mica For Everyone</li>
-        </ul>
+        <p><b>WindHawk Plugin</b>: Bring Back the Borders!<br />
+        <b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored<br />
+        <b>WindHawk Plugin</b>: Resource Redirect<br />
+        UltraUxThemePatcher or SecureUxTheme and|or <b>WindHawk Plugin</b>: UxThemeHook<br />
+        StartAllBack or Explorer7<br />
+        OldNewExplorer and|or <b>WindHawk Plugin</b>: Aerexplorer<br />
+        DWMBlurGlass<br />
+        Mica For Everyone</p>
         <br /><br />
         <h4>Themes</h4>
         <br />
-        <ul>
-            <li><b>RTM</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes</li>
-            <li><b>Regional</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States</li>
-            <li><b>Panoramic</b>: Panoramic Animals, Panoramic Beaches, Panoramic Deserts, Panoramic Rock Formations, Panoramic Glaciers, Panoramic Snow</li>
-            <li><b>Community Showcase</b>: Aqua, Cityscapes</li>
-            <li><b>Othes: Beach Sunsets, Glowing Beaches, Waterscapes</li>
-        </ul>
-    </div>
+        <p><b>RTM</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes<br />
+        <b>Regional</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States<br />
+        <b>Panoramic</b>: Panoramic Animals, Panoramic Beaches, Panoramic Deserts, Panoramic Rock Formations, Panoramic Glaciers, Panoramic Snow<br />
+        <b>Community Showcase</b>: Aqua, Cityscapes<br />
+        <b>Othes: Beach Sunsets, Glowing Beaches, Waterscapes</p><br />
     <br />
     <span class="fs-3">
         <div align="center" class="text-small">
@@ -107,7 +98,7 @@ permalink: /themes/windows/msstyle
         </div>
     </span>
     <br />
-
+</div>
 <br /><br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
