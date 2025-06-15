@@ -89,7 +89,7 @@ permalink: /themes/windows/msstyle
         <b>Regional</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States<br />
         <b>Panoramic</b>: Panoramic Animals, Panoramic Beaches, Panoramic Deserts, Panoramic Rock Formations, Panoramic Glaciers, Panoramic Snow<br />
         <b>Community Showcase</b>: Aqua, Cityscapes<br />
-        <b>Othes: Beach Sunsets, Glowing Beaches, Waterscapes</p><br />
+        <b>Othes</b>: Beach Sunsets, Glowing Beaches, Waterscapes</p><br />
     <br />
     <span class="fs-3">
         <div align="center" class="text-small">
