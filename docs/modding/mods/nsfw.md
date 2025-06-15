@@ -1,8 +1,8 @@
 ---
 layout: default
 title: NSFW Mods
-permalink: /modding/mods/nsfw
 nav_exclude: true
+permalink: /modding/mods/nsfw
 ---
 
 {: .note }

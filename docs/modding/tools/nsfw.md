@@ -1,8 +1,8 @@
 ---
 layout: default
 title: NSFW Tools
-permalink: /modding/tools/nsfw
 nav_exclude: true
+permalink: /modding/tools/nsfw
 ---
 
 <!-- 
