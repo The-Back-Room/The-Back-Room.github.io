@@ -32,14 +32,16 @@ permalink: /themes/windows/msstyle
         <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>
         <br /><br />
         <h4>Requirements</h4>
-        <p><b>WindHawk Plugin</b>: Bring Back the Borders!<br />
-        <b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored<br />
-        <b>WindHawk Plugin</b>: Resource Redirect<br />
-        UltraUxThemePatcher or SecureUxTheme and|or <b>WindHawk Plugin</b>: UxThemeHook<br />
-        StartAllBack or Explorer7<br />
-        OldNewExplorer and|or <b>WindHawk Plugin</b>: Aerexplorer<br />
-        DWMBlurGlass<br />
-        Mica For Everyone</p>
+        <ul>
+            <li><a href="https://windhawk.net/" targe="_blank">WindHawk</a> Plugin: <a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a></li>
+            <li><a href="https://windhawk.net/" targe="_blank">WindHawk</a> <a href="https://windhawk.net/mods/logon-logoff-shutdown-sounds" target="_blank">Plugin: Logon, Logoff & Shutdown Sounds Restored</a></li>
+            <li><a href="https://windhawk.net/" targe="_blank">WindHawk</a> <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+            <li><a href="https://mhoefs.eu/software_uxtheme.php" target="_blank">UltraUxThemePatcher</a> | <a href="https://github.com/namazso/SecureUxTheme" target="_blank">SecureUxTheme</a> | <a href="https://windhawk.net/" targe="_blank">WindHawk</a> Plugin: <a href="https://windhawk.net/mods/uxtheme-hook" target="_blank">UxThemeHook</a></li>
+            <li><a href="https://www.startallback.com/" target="_blank">StartAllBack</a> | <a href="https://winclassic.net/thread/2588/explorer7-windows-explorer-10-11" target="_blank">Explorer7</a></li>
+            <li><a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a> | <a href="https://windhawk.net/" targe="_blank">WindHawk</a> Plugin: <a href="https://windhawk.net/mods/aerexplorer" target="_blank">Aerexplorer</a></li>
+            <li><a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a></li>
+            <li><a href="https://github.com/MicaForEveryone/MicaForEveryone" target="_blank">Mica For Everyone</a></li>
+        </ul>
         <br /><br />
         <h4>Themes</h4>
         <p><b>BLEACH</b><br />
@@ -71,14 +73,16 @@ permalink: /themes/windows/msstyle
         <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>
         <br /><br />
         <h4>Requirements</h4>
-        <p><b>WindHawk Plugin</b>: Bring Back the Borders!<br />
-        <b>WindHawk Plugin</b>: Logon, Logoff & Shutdown Sounds Restored<br />
-        <b>WindHawk Plugin</b>: Resource Redirect<br />
-        UltraUxThemePatcher or SecureUxTheme and|or <b>WindHawk Plugin</b>: UxThemeHook<br />
-        StartAllBack or Explorer7<br />
-        OldNewExplorer and|or <b>WindHawk Plugin</b>: Aerexplorer<br />
-        DWMBlurGlass<br />
-        Mica For Everyone</p>
+        <ul>
+            <li><a href="https://windhawk.net/" targe="_blank">WindHawk</a> Plugin: <a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a></li>
+            <li><a href="https://windhawk.net/" targe="_blank">WindHawk</a> <a href="https://windhawk.net/mods/logon-logoff-shutdown-sounds" target="_blank">Plugin: Logon, Logoff & Shutdown Sounds Restored</a></li>
+            <li><a href="https://windhawk.net/" targe="_blank">WindHawk</a> <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+            <li><a href="https://mhoefs.eu/software_uxtheme.php" target="_blank">UltraUxThemePatcher</a> | <a href="https://github.com/namazso/SecureUxTheme" target="_blank">SecureUxTheme</a> | <a href="https://windhawk.net/" targe="_blank">WindHawk</a> Plugin: <a href="https://windhawk.net/mods/uxtheme-hook" target="_blank">UxThemeHook</a></li>
+            <li><a href="https://www.startallback.com/" target="_blank">StartAllBack</a> | <a href="https://winclassic.net/thread/2588/explorer7-windows-explorer-10-11" target="_blank">Explorer7</a></li>
+            <li><a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a> | <a href="https://windhawk.net/" targe="_blank">WindHawk</a> Plugin: <a href="https://windhawk.net/mods/aerexplorer" target="_blank">Aerexplorer</a></li>
+            <li><a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a></li>
+            <li><a href="https://github.com/MicaForEveryone/MicaForEveryone" target="_blank">Mica For Everyone</a></li>
+        </ul>
         <br /><br />
         <h4>Themes</h4>
         <p><b>RTM</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes<br />
