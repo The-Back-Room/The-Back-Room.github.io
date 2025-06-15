@@ -18,7 +18,7 @@ permalink: /themes/windows/msstyle
 > {: .opaque }
 > {: .warning }
 > These themes are for advanced users who know how to properly patch their systems to run unisgned themes. 
-> Patching your system **CAN** and **WILL* brick your system if done wrong.
+> Patching your system **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
