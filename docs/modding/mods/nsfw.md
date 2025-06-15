@@ -14,7 +14,7 @@ permalink: /modding/mods/nsfw
 
 {: .important }
 > {: .opaque }
-> {: .adult_content }
+> {: .adult }
 > This page is for adults only. By being on this page, you are agreeing that you are of legal age.
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
