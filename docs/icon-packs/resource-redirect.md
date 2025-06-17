@@ -8,7 +8,7 @@ permalink: /icon-packs/resource-redirect
 
 <div class="w3-card">
 <div class="responsive">
-<img src="https://github.com/The-Back-Room/HUD-Machine-Icon-Packs-for-Resource-Redirect/blob/main/HUD-Machine-Red/Preview.png?raw=true" />
+<img src="https://github.com/The-Back-Room/HUD-Machine-Icon-Packs-for-Resource-Redirect/blob/main/HUD-Machine-Red/Extra/Preview.png?raw=true" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">HUD Machine Red</h2>
