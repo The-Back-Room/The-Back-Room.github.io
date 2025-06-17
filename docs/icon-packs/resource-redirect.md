@@ -3,6 +3,7 @@ layout: default
 title: Resource Redirect
 nav_order: 1
 has_toc: false
+parent: Icon Packs
 permalink: /icon-packs/resource-redirect
 ---
 
