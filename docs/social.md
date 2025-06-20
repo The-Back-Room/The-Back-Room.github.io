@@ -20,10 +20,6 @@ permalink: /social
 <ul>
     <li><a href="https://www.deviantart.com/the-back-room" target="_blank">DeviantArt</a></li>
 </ul>
-<h4 style="text-align:center">Facebook Pages</h4>
-<ul>
-    <li><a href="https://www.facebook.com/profile.php?id=61572245999615" target="_blank">Facebook</a></li>
-</ul>
 </div>
 </div>
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
