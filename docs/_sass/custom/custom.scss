@@ -4,7 +4,7 @@ button {
 
 .themes {
   display: grid;
-  grid-template-columns: auto, auto, auto;
+  grid-template-columns: repeat(auto, auto, auto);
   gap: 10px;
   padding: 10px;
   max-width: fit-content;
@@ -18,7 +18,7 @@ button {
 
 .desktop-wallpapers {
   display: grid;
-  grid-template-columns: auto, auto;
+  grid-template-columns: repeat(auto, auto, auto);
   gap: 10px;
   padding: 10px;
   max-width: fit-content;
@@ -32,7 +32,7 @@ button {
 
 .mobile-wallpapers {
   display: grid;
-  grid-template-columns: auto, auto, auto;
+  grid-template-columns: repeat(auto, auto, auto);
   gap: 10px;
   padding: 10px;
   max-width: fit-content;
