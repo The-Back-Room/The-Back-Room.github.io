@@ -18,6 +18,7 @@ permalink: /themes/windows
 >
 -->
 
+<div class="themes">
 <div class="w3-card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
@@ -203,6 +204,7 @@ permalink: /themes/windows
 </div>
 </span>
 <br />
+</div>
 </div>
 <br /><br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

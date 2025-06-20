@@ -16,7 +16,7 @@ permalink: /wallpapers/desktop
 -->
 
 <div class="w3-card">
-<div class="gallery">
+<div class="desktop-wallpapers">
 <img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png">
 <img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png">
 </div>
