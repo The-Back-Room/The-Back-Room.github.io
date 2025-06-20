@@ -10,10 +10,14 @@ jobs:
   screenshots:
     runs-on: ubuntu-latest
     steps:
-      - uses: karol-brejna-i/webpage-screenshot-action@v1
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Webpage Screenshot Action
+        uses: karol-brejna-i/webpage-screenshot-action@v1
         with:
           url: https://the-back-room.info
-      - uses: actions/upload-artifact@v3
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
         with:
           name: screenshot
           path: ${{ github.workspace }}/.github/assets/*.png
