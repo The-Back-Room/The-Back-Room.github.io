@@ -40,7 +40,7 @@ jobs:
         uses: JonathanTreffler/full-website-screenshot-action@v1.0
         with:
           url: https://the-back-room.info
-          destination: ./screenshot.png
+          destination: https://github.com/The-Back-Room/The-Back-Room.github.io/tree/main/.github/assets/screenshot.png
 
   deploy:
     environment:
