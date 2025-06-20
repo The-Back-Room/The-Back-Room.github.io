@@ -30,17 +30,17 @@ jobs:
           destination: ./_site
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-  screenshot:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/setup-node@v1
-        with:
-          node-version: '14'
-      - name: Test Action
-        uses: JonathanTreffler/full-website-screenshot-action@v1.0
-        with:
-          url: ${{ steps.deployment.outputs.page_url }}
-          destination: ./screenshot.png
+#  screenshot:
+#    runs-on: ubuntu-latest
+#    steps:
+#      - uses: actions/setup-node@v1
+#        with:
+#          node-version: '14'
+#      - name: Test Action
+#        uses: JonathanTreffler/full-website-screenshot-action@v1.0
+#        with:
+#          url: ${{ steps.deployment.outputs.page_url }}
+#          destination: ./screenshot.png
 
   deploy:
     environment:
