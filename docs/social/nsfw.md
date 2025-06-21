@@ -13,7 +13,6 @@ permalink: /social/nsfw
 >
 > 
 -->
-
 {: .important }
 > {: .opaque }
 > {: .warning }

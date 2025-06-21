@@ -7,6 +7,15 @@ parent: Icon Packs
 permalink: /icon-packs/resource-redirect
 ---
 
+<!-- 
+{: .note }
+> {: .opaque }
+> 
+>
+> 
+-->
+
+<div style="gallery">
 <div class="card">
 <div class="responsive">
 <img src="https://github.com/The-Back-Room/HUD-Machine-Icon-Packs-for-Resource-Redirect/blob/main/HUD-Machine-Red/Extra/Preview.png?raw=true" />
@@ -39,6 +48,7 @@ permalink: /icon-packs/resource-redirect
 </div>
 </span>
 <br />
+</div>
 </div>
 <br /><br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
