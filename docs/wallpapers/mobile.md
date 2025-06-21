@@ -7,6 +7,14 @@ parent: Wallpapers
 permalink: /wallpapers/mobile
 ---
 
+<div class="card">
+<div class="container">
+<h2 class="text-small" style="text-align:center">Mobile Wallpapers</h2>
+<p class="text-small" style="text-align:center">Various wallpapers for Android and iOS devices</p>
+</div>
+</div>
+<br />
+
 <!-- 
 {: .note }
 > {: .opaque }

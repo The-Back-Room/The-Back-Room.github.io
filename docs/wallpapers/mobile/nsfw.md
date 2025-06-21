@@ -6,6 +6,14 @@ nav_exclude: true
 has_toc: false
 ---
 
+<div class="card">
+<div class="container">
+<h2 class="text-small" style="text-align:center">NSFW Mobile Wallpapers</h2>
+<p class="text-small" style="text-align:center">Various NSFW wallpapers for Windows, Mac, and Linux devices</p>
+</div>
+</div>
+<br />
+
 {: .note }
 > {: .opaque }
 > This page is currently empty. We plan to add content to it in the future. For now, we simply don't have anything to add here.

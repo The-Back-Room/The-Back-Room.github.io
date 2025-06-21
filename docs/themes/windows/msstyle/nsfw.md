@@ -11,6 +11,7 @@ permalink: /themes/windows/msstyle/nsfw
 <p class="text-small" style="text-align:center">Various NSFW MSSTYLE themes for Windows 11</p>
 </div>
 </div>
+<br />
 
 {: .note }
 > {: .opaque }

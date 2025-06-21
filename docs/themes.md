@@ -12,6 +12,7 @@ permalink: /themes
 <p class="text-small" style="text-align:center">Themes for Windows and Linux</p>
 </div>
 </div>
+<br />
 
 {: .note }
 > {: .opaque }

@@ -7,6 +7,14 @@ parent: Wallpapers
 permalink: /wallpapers/desktop
 ---
 
+<div class="card">
+<div class="container">
+<h2 class="text-small" style="text-align:center">Desktop Wallpapers</h2>
+<p class="text-small" style="text-align:center">Various wallpapers for Windows, Mac, and Linux devices</p>
+</div>
+</div>
+<br />
+
 <!-- 
 {: .note }
 > {: .opaque }

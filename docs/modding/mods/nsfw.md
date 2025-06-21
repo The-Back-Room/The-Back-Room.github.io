@@ -12,6 +12,7 @@ permalink: /modding/mods/nsfw
 <p class="text-small" style="text-align:center">NSFW mods for various different games</p>
 </div>
 </div>
+<br />
 
 {: .note }
 > {: .opaque }

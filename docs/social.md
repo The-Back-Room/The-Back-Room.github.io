@@ -12,6 +12,7 @@ permalink: /social
 <p class="text-small" style="text-align:center">Various Social Groups and Pages hosted by our members</p>
 </div>
 </div>
+<br />
 
 <!-- 
 {: .note }

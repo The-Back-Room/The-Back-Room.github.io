@@ -14,6 +14,7 @@ permalink: /themes/windows/msstyle
 <p class="text-small" style="text-align:center">Various MSSTYLE themes for Windows 11</p>
 </div>
 </div>
+<br />
 
 <!-- 
 {: .note }

@@ -13,6 +13,7 @@ permalink: /themes/windows
 <p class="text-small" style="text-align:center">Various themes for Windows 10 and 11</p>
 </div>
 </div>
+<br />
 
 <!-- 
 {: .note }

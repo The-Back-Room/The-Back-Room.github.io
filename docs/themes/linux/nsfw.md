@@ -12,6 +12,7 @@ permalink: /themes/linux/nsfw
 <p class="text-small" style="text-align:center">NSFW themes for various Linux distrobutions</p>
 </div>
 </div>
+<br />
 
 {: .note }
 > {: .opaque }

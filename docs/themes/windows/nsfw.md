@@ -12,6 +12,7 @@ permalink: /themes/windows/nsfw
 <p class="text-small" style="text-align:center">Various NSFW themes for Windows 10 and 11</p>
 </div>
 </div>
+<br />
 
 <!-- 
 {: .note }

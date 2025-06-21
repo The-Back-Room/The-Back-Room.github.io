@@ -12,6 +12,7 @@ permalink: /icon-packs/linux
 <p class="text-small" style="text-align:center">Icon packs for various linux distrobutions</p>
 </div>
 </div>
+<br />
 
 {: .note }
 > {: .opaque }

@@ -12,6 +12,7 @@ permalink: /icon-packs/mobile
 <p class="text-small" style="text-align:center">Icon packs for Android devices</p>
 </div>
 </div>
+<br />
 
 <!-- 
 {: .note }

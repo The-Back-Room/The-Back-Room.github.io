@@ -12,6 +12,7 @@ permalink: /icon-packs/mobile/icon-pack-studio
 <p class="text-small" style="text-align:center">Icon packs for use with Icon Pack Studio</p>
 </div>
 </div>
+<br />
 
 {: .note }
 > {: .opaque }

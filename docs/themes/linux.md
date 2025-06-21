@@ -13,6 +13,7 @@ permalink: /themes/linux
 <p class="text-small" style="text-align:center">Themes for various Linux distrobutions</p>
 </div>
 </div>
+<br />
 
 {: .note }
 > {: .opaque }

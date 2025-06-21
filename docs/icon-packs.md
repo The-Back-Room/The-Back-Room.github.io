@@ -12,6 +12,7 @@ permalink: /icon-packs
 <p class="text-small" style="text-align:center">Icon packs for Windows, Linux, and Mobile</p>
 </div>
 </div>
+<br />
 
 <!-- 
 {: .note }
