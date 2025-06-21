@@ -9,7 +9,7 @@ has_toc: false
 <div class="card">
 <div class="container">
 <h2 class="text-small" style="text-align:center">NSFW Mobile Wallpapers</h2>
-<p class="text-small" style="text-align:center">Various NSFW wallpapers for Windows, Mac, and Linux devices</p>
+<p class="text-small" style="text-align:center">Various NSFW wallpapers for Android and iOS devices</p>
 </div>
 </div>
 <br />
