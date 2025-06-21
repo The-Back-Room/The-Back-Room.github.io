@@ -67,7 +67,7 @@ has_toc: false
 <p class="text-small" style="text-align:center">Final Fantasy XIV waifu wallpapers created with AI<br />Wallpaper sizes are 2560x1440</p><br /><br />
 <span class="fs-3">
 <div align="center" class="text-small">
-<a href="https://gitlab.com/the-back-room/Wallpapers/-/archive/main/Wallpapers-main.zip?path=desktop/NSFW/Lewd-Gamer-Waifus" target="_blank">
+<a href="https://gitlab.com/the-back-room/Wallpapers/-/archive/main/Wallpapers-main.zip?path=desktop/NSFW/Final-Fantasy-XIV-Waifus" target="_blank">
 <button type="button" name="button" class="btn">Download</button></a> 
 </div>
 </span>
