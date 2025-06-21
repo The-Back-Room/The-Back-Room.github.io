@@ -23,10 +23,30 @@ permalink: /wallpapers/desktop
 > 
 -->
 
+<br />
 <div class="card">
 <div class="gallery">
-<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png">
-<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png">
+<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Beautiful Scenery/1750480460_3014_34030.png" />
+<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Beautiful Scenery/1750480485_1019_57794.png" />
+<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Beautiful Scenery/1750480504_3865_47983.png" />
+<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Beautiful Scenery/1750480526_725_36644.png" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Beautiful Scenery</h2>
+<p class="text-small" style="text-align:center">Beautiful anime landscape wallpapers created with AI<br />Wallpaper sizes are 2560x1440</p><br /><br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://gitlab.com/the-back-room/Wallpapers/-/archive/main/Wallpapers-main.zip?path=desktop/SFW/Beautiful-Scenery" target="_blank">
+<button type="button" name="button" class="btn">Download</button></a> 
+</div>
+</span>
+</div>
+<br />
+</div>
+<div class="card">
+<div class="gallery">
+<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost in the Shell/Wallpaper (1).png">
+<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost in the Shell/Wallpaper (2).png">
 </div>
 <div class="container">
 <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>
