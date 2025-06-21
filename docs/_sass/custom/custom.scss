@@ -21,9 +21,9 @@ button {
 
 #gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 250px);
-  gap: 10px;
-  padding: 10px;
+  grid-template-columns: repeat(auto-fill, 20%);
+  gap: 1rem;
+  padding: 1rem;
 }
 
 #gallery > img {
