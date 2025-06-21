@@ -16,7 +16,7 @@ permalink: /wallpapers/mobile
 -->
 
 <div class="w3-card">
-<div class="mobile-wallpapers">
+<div class="gallery">
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Aleport.png" />
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Amaurot.png" />
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Camp-Bronze-Lake.png" />
