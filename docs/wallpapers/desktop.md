@@ -46,12 +46,14 @@ permalink: /wallpapers/desktop
 <br />
 <div class="card">
 <div class="gallery">
-<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost in the Shell/Wallpaper (1).png">
-<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost in the Shell/Wallpaper (2).png">
+<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost in the Shell/1750481566_3437_50547.png">
+<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost in the Shell/1750481774_1277_58929.png">
+<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost in the Shell/1750481890_265_21841.png">
+<img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost in the Shell/1750482104_9042_47867.png">
 </div>
 <div class="container">
 <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>
-<p class="text-small" style="text-align:center">Ghost in the Shell desktop wallpapers created with AI</p><br /><br />
+<p class="text-small" style="text-align:center">Ghost in the Shell desktop wallpapers created with AI<br />Wallpaper sizes are 2560x1440</p><br /><br />
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://gitlab.com/the-back-room/Wallpapers/-/archive/main/Wallpapers-main.zip?path=desktop/SFW/Ghost-in-the-Shell" target="_blank">
