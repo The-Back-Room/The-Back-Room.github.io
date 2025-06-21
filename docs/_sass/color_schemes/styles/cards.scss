@@ -1,4 +1,4 @@
-.w3-card {
+.card {
   display: block;
   background-color: $card-background-color;
   box-shadow: 0 4px 8px 0 $card-shadow-color;
@@ -6,11 +6,11 @@
   border-radius: 5px;
 }
 
-.w3-card:hover {
+.card:hover {
   box-shadow: 0 8px 16px 0 $card-shadow-hover-color;
 }
 
-.w3-container {
+.container {
   background-color: $container-background-color;
   padding: 2px 16px;
 }

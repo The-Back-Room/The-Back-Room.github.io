@@ -21,7 +21,7 @@ permalink: /social/nsfw
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
-<div class="w3-card">
+<div class="card">
 <div class="responsive">
 <h4 style="text-align:center">Subreddits</h4>
 <ul>

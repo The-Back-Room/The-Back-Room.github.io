@@ -23,11 +23,11 @@ permalink: /modding/tools/nsfw
 
 <h2 align="center">Vortex Extensions</h2>
 <br />
-<div class="w3-card">
+<div class="card">
 <div class="responsive">
 <img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/tools/nsfw/action-taimanin.webp" />
 </div>
-<div class="w3-container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Action Taimanin Extension</h2>
 </div>
 <br />

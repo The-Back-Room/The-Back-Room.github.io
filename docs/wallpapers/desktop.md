@@ -15,12 +15,12 @@ permalink: /wallpapers/desktop
 > 
 -->
 
-<div class="w3-card">
+<div class="card">
 <div class="gallery">
 <img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (1).png">
 <img src="https://the-back-room.info/assets/images/wallpapers/desktop/sfw/Ghost-in-the-Shell/Wallpaper (2).png">
 </div>
-<div class="w3-container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Ghost in the Shell</h2>
 <p class="text-small" style="text-align:center">Ghost in the Shell desktop wallpapers created with AI</p><br /><br />
 <span class="fs-3">

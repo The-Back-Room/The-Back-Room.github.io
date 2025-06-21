@@ -13,8 +13,8 @@ permalink: /themes
 >
 > We have plans to add themes for Linux devices as well. However, we currently don't have the extra devices needed to make them with.
 
-<div class="w3-card">
-<div class="w3-container">
+<div class="card">
+<div class="container">
 <h4 style="text-align:center">Table of Contents</h4>
 <ul>
 <li><a class="text-delta" href="/themes/windows">Windows Themes</a></li>

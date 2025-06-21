@@ -14,7 +14,7 @@ permalink: /social
 > 
 -->
 
-<div class="w3-card">
+<div class="card">
 <div class="responsive">
 <h4 style="text-align:center">DeviantArt Groups</h4>
 <ul>

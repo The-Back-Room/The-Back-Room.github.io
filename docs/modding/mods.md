@@ -26,11 +26,11 @@ permalink: /modding/mods
 > 
 > We take **NO** responsibility for anyone who loses their account due to the use of mods. Use of mods in Final Fantasy XIV is done **AT YOUR OWN RISK**.
 
-<div class="w3-card">
+<div class="card">
 <div class="responsive">
 <img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/lustful-eyes.webp" />
 </div>
-<div class="w3-container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Lustful Eyes</h2>
 </div>
 <br />
@@ -43,11 +43,11 @@ permalink: /modding/mods
 <br />
 </div>
 <br />
-<div class="w3-card">
+<div class="card">
 <div class="responsive">
 <img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/ns3d-vm-ui.webp" />
 </div>
-<div class="w3-container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">[NS3D] (VM) UI Pack</h2>
 </div>
 <br />
@@ -60,11 +60,11 @@ permalink: /modding/mods
 <br />
 </div>
 <br />
-<div class="w3-card">
+<div class="card">
 <div class="responsive">
 <img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/roseblood-duelist.webp" />
 </div>
-<div class="w3-container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Roseblood Duelist</h2>
 </div>
 <br />
@@ -79,11 +79,11 @@ permalink: /modding/mods
 <br /><br />
 <h2 align="center">Valheim</h2>
 <br />
-<div class="w3-card">
+<div class="card">
 <div class="responsive">
 <img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/odinheim.png" />
 </div>
-<div class="w3-container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Odinheim</h2>
 </div>
 <br />
