@@ -21,11 +21,11 @@ permalink: /themes/windows/nsfw
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Sexy Naruto Girls</h2>
 </div>
 <br />
@@ -38,11 +38,11 @@ permalink: /themes/windows/nsfw
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/ECCHI.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Ecchi</h2>
 </div>
 <br />
@@ -55,11 +55,11 @@ permalink: /themes/windows/nsfw
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/RANMA-HENTAI.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Ranma Hentai</h2>
 </div>
 <br />
@@ -72,11 +72,11 @@ permalink: /themes/windows/nsfw
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/BLEACH-HENTAI.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Bleach Hentai</h2>
 </div>
 <br />

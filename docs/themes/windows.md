@@ -18,11 +18,11 @@ permalink: /themes/windows
 >
 -->
 
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">EDU Themes</h2>
 </div>
 <br />
@@ -35,11 +35,11 @@ permalink: /themes/windows
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/CLASSIC-11.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Classic 11</h2>
 </div>
 <br />
@@ -52,11 +52,11 @@ permalink: /themes/windows
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/COPILOT.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Copilot</h2>
 </div>
 <br />
@@ -69,11 +69,11 @@ permalink: /themes/windows
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/SURFACE-PRO.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Surface Pro</h2>
 </div>
 <br />
@@ -86,11 +86,11 @@ permalink: /themes/windows
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/FFXIV.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Final Fantasy XIV</h2>
 </div>
 <br />
@@ -103,11 +103,11 @@ permalink: /themes/windows
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/BLEACH.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">BLEACH</h2>
 </div>
 <br />
@@ -120,11 +120,11 @@ permalink: /themes/windows
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/BLEACH-TYBW.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">BLEACH</h2>
 </div>
 <br />
@@ -137,11 +137,11 @@ permalink: /themes/windows
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/COURAGE-TCD.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Courage TCD</h2>
 </div>
 <br />
@@ -154,11 +154,11 @@ permalink: /themes/windows
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/HOWLS-MOVING-CASTLE.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Howl's Moving Castle</h2>
 </div>
 <br />
@@ -171,11 +171,11 @@ permalink: /themes/windows
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/STUDIO-GHIBLI.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Studio Ghibli</h2>
 </div>
 <br />
@@ -188,11 +188,11 @@ permalink: /themes/windows
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/macos-themes-for-windows/BIGSUR_LIGHT.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">MacOS Themes</h2>
 </div>
 <br />

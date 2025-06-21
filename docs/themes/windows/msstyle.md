@@ -23,11 +23,11 @@ permalink: /themes/windows/msstyle
 > 
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/msstyle/BLEACH-TYBW.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">BLEACH Themes for Windows 11 23H2+</h2>
 <br />
 <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>
@@ -64,11 +64,11 @@ permalink: /themes/windows/msstyle
 <br />
 </div>
 <br />
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/msstyle/WINDOWS-7.jpg" />
 </div>
-<div id="container">
+<div class="container">
 <h2 class="text-small" style="text-align:center">Windows 7 Themes for Windows 11 23H2+</h2>
 <br />
 <p>This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.<br />You can find the original source code here: <a href="https://github.com/LittleFox2024/Aero7-11" target="_blank">LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+</a></p>

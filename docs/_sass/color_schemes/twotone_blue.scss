@@ -20,4 +20,3 @@ $card-shadow-color: $grey-dk-200;
 $card-shadow-hover-color: darken($card-shadow-color, 3%);
 
 @import "../vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
-@import "styles/cards"; // this colorizes the card backgrounds

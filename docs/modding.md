@@ -14,8 +14,8 @@ permalink: /modding
 > 
 -->
 
-<div id="card">
-<div id="container">
+<div class="card">
+<div class="container">
 <h4 style="text-align:center">Table of Contents</h4>
 <ul>
 <li><a class="text-delta" href="/modding/mods">Game Mods</a></li>

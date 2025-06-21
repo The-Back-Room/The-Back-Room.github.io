@@ -2,7 +2,7 @@ button {
   padding: 2px 16px;
 }
 
-#card {
+.card {
   display: block;
   background-color: $card-background-color;
   box-shadow: 0 4px 8px 0 $card-shadow-color;
@@ -10,29 +10,30 @@ button {
   border-radius: 5px;
 }
 
-#card > hover {
+.card:hover {
   box-shadow: 0 8px 16px 0 $card-shadow-hover-color;
 }
 
-#container {
+.container {
   background-color: $container-background-color;
   padding: 2px 16px;
 }
 
-#gallery {
+.gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, 20%);
+  grid-template-columns: repeat(auto-fill, 250px);
   gap: 1rem;
   padding: 1rem;
+  position: relative;
 }
 
-#gallery > img {
+.gallery img {
   width: 100%;
   height: auto;
 }
 
-#responsive {
-  padding: 10px;
+.responsive {
+  padding: 1rem;
   width: fit-content;
   position: relative;
 }

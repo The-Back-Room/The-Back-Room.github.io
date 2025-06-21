@@ -14,8 +14,8 @@ permalink: /social
 > 
 -->
 
-<div id="card">
-<div id="responsive">
+<div class="card">
+<div class="responsive">
 <h4 style="text-align:center">DeviantArt Groups</h4>
 <ul>
     <li><a href="https://www.deviantart.com/the-back-room" target="_blank">DeviantArt</a></li>
