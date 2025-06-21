@@ -29,7 +29,7 @@ has_toc: false
         <img src="https://the-back-room.info/assets/images/wallpapers/desktop/nsfw/Lewd Gamer Waifus/1750476714_6806_19645.png" />
     </div>
     <div class="container">
-        <h2 class="text-small" style="text-align:center">Lewd Gamer Waifues</h2>
+        <h2 class="text-small" style="text-align:center">Lewd Gamer Waifus</h2>
         <p class="text-small" style="text-align:center">UHD Lewd Gamer Waifu wallpapers</p><br /><br />
         <span class="fs-3">
             <div align="center" class="text-small">
