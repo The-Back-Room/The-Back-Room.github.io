@@ -4,7 +4,7 @@ button {
 
 .gallery {
   display: grid;
-  grid-auto-columns: 30%;
+  grid-auto-columns: auto;
   gap: 10px;
   padding: 10px;
   max-width: fit-content;
