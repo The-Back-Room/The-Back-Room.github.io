@@ -33,6 +33,38 @@ permalink: /themes/windows/nsfw
 <div class="gallery">
 <div class="card">
 <div class="responsive">
+<img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/LEWD-GAMER-WAIFUS.jpg" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Lewd Gamer Waifus</h2>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/NSFW/Lewd-Gamer-Waifus" target="_blank">
+<button type="button" name="button" class="btn">Download</button></a>
+</div>
+</span>
+<br />
+</div>
+<div class="card">
+<div class="responsive">
+<img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/FINAL-FANTASY-XIV-WAIFUS.jpg" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Final Fantasy XIV Waifus</h2>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/NSFW/Final-Fantasy-XIV-Waifus" target="_blank">
+<button type="button" name="button" class="btn">Download</button></a>
+</div>
+</span>
+<br />
+</div>
+<div class="card">
+<div class="responsive">
 <img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.jpg" />
 </div>
 <div class="container">
