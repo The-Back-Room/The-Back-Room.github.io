@@ -38,7 +38,7 @@ has_toc: false
 </div>
 <div class="container">
 <h2 class="text-small" style="text-align:center">Lewd Gamer Waifus</h2>
-<p class="text-small" style="text-align:center">UHD Lewd Gamer Waifu wallpapers</p><br /><br />
+<p class="text-small" style="text-align:center">Lewd gamer waifu wallpapers created with AI<br />Wallpaper sizes are 2560x1440</p><br /><br />
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://gitlab.com/the-back-room/Wallpapers/-/archive/main/Wallpapers-main.zip?path=desktop/NSFW/Lewd-Gamer-Waifus" target="_blank">
