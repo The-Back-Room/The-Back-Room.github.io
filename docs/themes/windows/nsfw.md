@@ -38,7 +38,6 @@ permalink: /themes/windows/nsfw
 </span>
 <br />
 </div>
-<br />
 <div class="card">
 <div class="responsive">
 <img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/ECCHI.jpg" />
@@ -55,7 +54,6 @@ permalink: /themes/windows/nsfw
 </span>
 <br />
 </div>
-<br />
 <div class="card">
 <div class="responsive">
 <img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/RANMA-HENTAI.jpg" />
@@ -72,7 +70,6 @@ permalink: /themes/windows/nsfw
 </span>
 <br />
 </div>
-<br />
 <div class="card">
 <div class="responsive">
 <img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/BLEACH-HENTAI.jpg" />
