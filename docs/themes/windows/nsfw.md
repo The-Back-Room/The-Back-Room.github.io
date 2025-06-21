@@ -21,6 +21,7 @@ permalink: /themes/windows/nsfw
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
+<div class="gallery">
 <div class="card">
 <div class="responsive">
 <img width="100%" height="auto" src="https://the-back-room.info/assets/images/themes/nsfw/SEXY-NARUTO-GIRLS.jpg" />
@@ -87,4 +88,5 @@ permalink: /themes/windows/nsfw
 </div>
 </span>
 <br />
+</div>
 </div>
