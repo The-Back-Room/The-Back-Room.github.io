@@ -6,6 +6,13 @@ has_toc: false
 permalink: /themes/linux/nsfw
 ---
 
+<div class="card">
+<div class="container">
+<h2 class="text-small" style="text-align:center">NSFW Linux Themes</h2>
+<p class="text-small" style="text-align:center">NSFW themes for various Linux distrobutions</p>
+</div>
+</div>
+
 {: .note }
 > {: .opaque }
 > This page is currently empty. We plan to add content to it in the future. For now, we simply don't have anything to add here.

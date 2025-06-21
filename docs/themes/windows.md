@@ -7,15 +7,19 @@ parent: Themes
 permalink: /themes/windows
 ---
 
+<div class="card">
+<div class="container">
+<h2 class="text-small" style="text-align:center">Windows Themes</h2>
+<p class="text-small" style="text-align:center">Various themes for Windows 10 and 11</p>
+</div>
+</div>
+
 <!-- 
 {: .note }
 > {: .opaque }
+> 
 >
->
->
->
->
->
+> 
 -->
 
 <div class="gallery">

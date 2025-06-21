@@ -1,22 +1,21 @@
 ---
-layout: default
-title: Icon Packs
-nav_order: 3
+title: Windows Icon Packs
+nav_order: 1
 has_toc: false
-permalink: /icon-packs
+parent: Icon Packs
+permalink: /icon-packs/windows
 ---
 
 <div class="card">
 <div class="container">
-<h2 class="text-small" style="text-align:center">Icon Packs</h2>
-<p class="text-small" style="text-align:center">Icon packs for Windows, Linux, and Mobile</p>
+<h2 class="text-small" style="text-align:center">Windows Icon Packs</h2>
+<p class="text-small" style="text-align:center">Icon Packs for Windows 10 and 11</p>
 </div>
 </div>
 
 <!-- 
 {: .note }
 > {: .opaque }
-> 
 >
 > 
 -->

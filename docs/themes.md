@@ -6,6 +6,12 @@ has_toc: false
 permalink: /themes
 ---
 
+<div class="card">
+<div class="container">
+<h2 class="text-small" style="text-align:center">Themes</h2>
+<p class="text-small" style="text-align:center">Themes for Windows and Linux</p>
+</div>
+</div>
 
 {: .note }
 > {: .opaque }

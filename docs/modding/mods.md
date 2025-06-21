@@ -7,6 +7,13 @@ parent: Modding
 permalink: /modding/mods
 ---
 
+<div class="card">
+<div class="container">
+<h2 class="text-small" style="text-align:center">Game Mods</h2>
+<p class="text-small" style="text-align:center">Mods for various different games</p>
+</div>
+</div>
+
 <!-- 
 {: .note }
 > {: .opaque }
@@ -14,7 +21,6 @@ permalink: /modding/mods
 >
 > 
 -->
-
 
 <h2 align="center">Final Fantasy XIV</h2>
 <br />

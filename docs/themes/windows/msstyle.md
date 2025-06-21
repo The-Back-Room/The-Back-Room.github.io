@@ -7,6 +7,14 @@ parent: Windows Themes
 grand_parent: Themes
 permalink: /themes/windows/msstyle
 ---
+
+<div class="card">
+<div class="container">
+<h2 class="text-small" style="text-align:center">MSSTYLE Themes</h2>
+<p class="text-small" style="text-align:center">Various MSSTYLE themes for Windows 11</p>
+</div>
+</div>
+
 <!-- 
 {: .note }
 > {: .opaque }

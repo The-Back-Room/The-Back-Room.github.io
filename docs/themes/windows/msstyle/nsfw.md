@@ -5,6 +5,13 @@ nav_exclude: true
 permalink: /themes/windows/msstyle/nsfw
 ---
 
+<div class="card">
+<div class="container">
+<h2 class="text-small" style="text-align:center">NSFW MSSTYLE Themes</h2>
+<p class="text-small" style="text-align:center">Various NSFW MSSTYLE themes for Windows 11</p>
+</div>
+</div>
+
 {: .note }
 > {: .opaque }
 > This page is currently empty. We plan to add content to it in the future. For now, we simply don't have anything to add here.

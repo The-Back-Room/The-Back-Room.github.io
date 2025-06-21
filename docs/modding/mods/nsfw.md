@@ -6,6 +6,13 @@ has_toc: false
 permalink: /modding/mods/nsfw
 ---
 
+<div class="card">
+<div class="container">
+<h2 class="text-small" style="text-align:center">NSFW Game Mods</h2>
+<p class="text-small" style="text-align:center">NSFW mods for various different games</p>
+</div>
+</div>
+
 {: .note }
 > {: .opaque }
 > This page is currently empty. We plan to add content to it in the future. For now, we simply don't have anything to add here.

@@ -4,16 +4,22 @@ title: Resource Redirect
 nav_order: 1
 has_toc: false
 parent: Icon Packs
-permalink: /icon-packs/resource-redirect
+permalink: /icon-packs/windows/resource-redirect
 ---
 
-<!-- 
+<div class="card">
+<div class="container">
+<h2 class="text-small" style="text-align:center">Resource Redirect Icon Packs</h2>
+<p class="text-small" style="text-align:center">Icon packs for use with the Windhawk Plugin: Resource Redirect</p>
+</div>
+</div>
+
 {: .note }
 > {: .opaque }
+> These icon packs require the Windhawk Plugin: Resource Redirect in order to use.
 > 
->
-> 
--->
+> You can find the required plugin on the Windhawk website at: <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Resource Redirect - Windhawk</a>
+
 <div class="gallery">
 <div class="card">
 <div class="responsive">
@@ -48,10 +54,3 @@ permalink: /icon-packs/resource-redirect
 <br />
 </div>
 </div>
-<br /><br />
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-<br />
-<a href="/icon-packs/resource-redirect/nsfw">
-<button type="button" name="button" class="btn">NSFW Icon Packs</button></a> 
-<br />
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
