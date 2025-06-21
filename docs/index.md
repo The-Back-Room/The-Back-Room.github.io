@@ -28,6 +28,7 @@ permalink: /
 <li><a class="text-delta" href="/apps">Apps</a></li>
 <li><a class="text-delta" href="/themes">Themes</a></li>
 <li><a class="text-delta" href="/icon-packs">Icon Packs</a></li>
+<li><a class="text-delta" href="/apps">Apps</a></li>
 <li><a class="text-delta" href="/wallpapers">Wallpapers</a></li>
 <li><a class="text-delta" href="/modding">Modding</a></li>
 <li><a class="text-delta" href="/social">Social</a></li>
