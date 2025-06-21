@@ -33,7 +33,7 @@ permalink: /icon-packs/resource-redirect
 </div>
 <div class="card">
 <div class="responsive">
-<img src="https://github.com/The-Back-Room/Jarvis-Icon-Pack-for-Resource-Redirect/raw/main/Jarvis/Extra/Preview.png?raw=true" />
+<img src="https://the-back-room.info/assets/images/icons/resource redirect/JARVIS-ICONS.png" />
 </div>
 <div class="w3-container">
 <h2 class="text-small" style="text-align:center">Jarvis</h2>
