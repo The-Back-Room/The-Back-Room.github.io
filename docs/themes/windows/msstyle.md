@@ -32,6 +32,7 @@ permalink: /themes/windows/msstyle
 > 
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+<br />
 <div class="card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/msstyle/BLEACH-TYBW.jpg" />

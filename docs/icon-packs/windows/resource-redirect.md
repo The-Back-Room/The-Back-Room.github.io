@@ -20,6 +20,7 @@ permalink: /icon-packs/windows/resource-redirect
 > 
 > You can find the required plugin on the Windhawk website at: <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Resource Redirect - Windhawk</a>
 
+<br />
 <div class="gallery">
 <div class="card">
 <div class="responsive">

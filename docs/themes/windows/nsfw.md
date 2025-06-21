@@ -29,6 +29,7 @@ permalink: /themes/windows/nsfw
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
+<br />
 <div class="gallery">
 <div class="card">
 <div class="responsive">

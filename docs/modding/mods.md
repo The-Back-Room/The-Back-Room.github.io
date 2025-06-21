@@ -33,6 +33,7 @@ permalink: /modding/mods
 > 
 > We take **NO** responsibility for anyone who loses their account due to the use of mods. Use of mods in Final Fantasy XIV is done **AT YOUR OWN RISK**.
 
+<br />
 <div class="card">
 <div class="responsive">
 <img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/lustful-eyes.webp" />

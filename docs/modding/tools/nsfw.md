@@ -29,6 +29,7 @@ permalink: /modding/tools/nsfw
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
+<br />
 <h2 align="center">Vortex Extensions</h2>
 <br />
 <div class="card">

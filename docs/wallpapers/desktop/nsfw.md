@@ -28,6 +28,7 @@ has_toc: false
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
+<br />
 <div class="card">
 <div class="gallery">
 <img src="https://the-back-room.info/assets/images/wallpapers/desktop/nsfw/Lewd Gamer Waifus/1750475865_6020_90065.png" />
