@@ -18,7 +18,7 @@ permalink: /icon-packs/resource-redirect
 <div style="gallery">
 <div class="card">
 <div class="responsive">
-<img src="https://github.com/The-Back-Room/HUD-Machine-Icon-Packs-for-Resource-Redirect/blob/main/HUD-Machine-Red/Extra/Preview.png?raw=true" />
+<img src="https://the-back-room.info/assets/images/icons/resource redirect/HUD-MACHINE-RED-ICONS.jpg" />
 </div>
 <div class="container">
 <h2 class="text-small" style="text-align:center">HUD Machine Red</h2>
@@ -32,7 +32,6 @@ permalink: /icon-packs/resource-redirect
 </span>
 <br />
 </div>
-<br />
 <div class="card">
 <div class="responsive">
 <img src="https://github.com/The-Back-Room/Jarvis-Icon-Pack-for-Resource-Redirect/raw/main/Jarvis/Extra/Preview.png?raw=true" />
