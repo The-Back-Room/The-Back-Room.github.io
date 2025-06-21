@@ -13,8 +13,8 @@ permalink: /icon-packs
 > 
 -->
 
-<div class="card">
-<div class="container">
+<div id="card">
+<div id="container">
 <h4 style="text-align:center">Table of Contents</h4>
 <ul>
 <li><a class="text-delta" href="/icon-packs/resource-redirect">Resource Redirect</a></li>

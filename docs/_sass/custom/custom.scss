@@ -2,19 +2,36 @@ button {
   padding: 2px 16px;
 }
 
-.gallery {
+#card {
+  display: block;
+  background-color: $card-background-color;
+  box-shadow: 0 4px 8px 0 $card-shadow-color;
+  transition: 0.3s;
+  border-radius: 5px;
+}
+
+#card > hover {
+  box-shadow: 0 8px 16px 0 $card-shadow-hover-color;
+}
+
+#container {
+  background-color: $container-background-color;
+  padding: 2px 16px;
+}
+
+#gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, 250px);
   gap: 10px;
   padding: 10px;
 }
 
-.gallery img {
+#gallery > img {
   width: 100%;
   height: auto;
 }
 
-.responsive {
+#responsive {
   padding: 10px;
   width: fit-content;
   position: relative;

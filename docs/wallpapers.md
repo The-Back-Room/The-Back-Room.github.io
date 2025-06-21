@@ -14,8 +14,8 @@ permalink: /wallpapers
 > 
 -->
 
-<div class="card">
-<div class="container">
+<div id="card">
+<div id="container">
 <h4 style="text-align:center">Table of Contents</h4>
 <ul>
 <li><a class="text-delta" href="/wallpapers/desktop">Desktop Wallpapers</a></li>

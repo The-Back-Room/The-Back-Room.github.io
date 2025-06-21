@@ -7,11 +7,11 @@ parent: Icon Packs
 permalink: /icon-packs/resource-redirect
 ---
 
-<div class="card">
-<div class="responsive">
+<div id="card">
+<div id="responsive">
 <img src="https://github.com/The-Back-Room/HUD-Machine-Icon-Packs-for-Resource-Redirect/blob/main/HUD-Machine-Red/Extra/Preview.png?raw=true" />
 </div>
-<div class="container">
+<div id="container">
 <h2 class="text-small" style="text-align:center">HUD Machine Red</h2>
 </div>
 <br />
@@ -24,11 +24,11 @@ permalink: /icon-packs/resource-redirect
 <br />
 </div>
 <br />
-<div class="card">
-<div class="responsive">
+<div id="card">
+<div id="responsive">
 <img src="https://github.com/The-Back-Room/Jarvis-Icon-Pack-for-Resource-Redirect/raw/main/Jarvis/Extra/Preview.png?raw=true" />
 </div>
-<div class="container">
+<div id="container">
 <h2 class="text-small" style="text-align:center">Jarvis</h2>
 </div>
 <br />

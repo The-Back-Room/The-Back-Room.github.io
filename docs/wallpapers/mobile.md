@@ -15,8 +15,8 @@ permalink: /wallpapers/mobile
 > 
 -->
 
-<div class="card">
-<div class="gallery">
+<div id="card">
+<div id="gallery">
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Aleport.png" />
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Amaurot.png" />
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Camp-Bronze-Lake.png" />
@@ -44,7 +44,7 @@ permalink: /wallpapers/mobile
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Old-Sharlayan.png" />
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/FFXIV Scenery/Raincatcher-Gully.png" />
 </div>
-<div class="container">
+<div id="container">
 <h2 class="text-small" style="text-align:center">Final Fantasy XIV Scenery</h2>
 <p class="text-small" style="text-align:center">Final Fantasy XIV Scenery wallpapers created by various reddit users.</p><br /><br />
 <span class="fs-3">
@@ -57,11 +57,11 @@ permalink: /wallpapers/mobile
 </div>
 </div>
 <br />
-<div class="card">
-<div class="gallery">
+<div id="card">
+<div id="gallery">
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/Scenery/Wallpaper (1).png" />
 </div>
-<div class="container">
+<div id="container">
 <h2 class="text-small" style="text-align:center">Scenery</h2>
 <p class="text-small" style="text-align:center">Beautiful scenery wallpapers.</p><br /><br />
 <span class="fs-3">
@@ -74,8 +74,8 @@ permalink: /wallpapers/mobile
 </div>
 </div>
 <br />
-<div class="card">
-<div class="gallery">
+<div id="card">
+<div id="gallery">
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (1).png" />
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (2).png" />
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (3).png" />
@@ -95,7 +95,7 @@ permalink: /wallpapers/mobile
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (17).png" />
 <img src="https://the-back-room.info/assets/images/wallpapers/mobile/sfw/Windows 11/Windows 11 (18).png" />
 </div>
-<div class="container">
+<div id="container">
 <h2 class="text-small" style="text-align:center">Windows 11</h2>
 <p class="text-small" style="text-align:center">Windows 11 wallpapers ported to mobile.</p><br /><br />
 <span class="fs-3">
