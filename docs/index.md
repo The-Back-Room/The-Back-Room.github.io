@@ -10,6 +10,9 @@ permalink: /
 <div class="container">
 <h2 class="text-small" style="text-align:center">The Back Room</h2>
 <p class="text-small" style="text-align:center">Open-Source Development and Customization</p>
+<div align="center">
+<img width="90%" src="https://The-Back-Room.com/assets/images/Banner.jpg">
+</div>
 </div>
 </div>
 <br />
