@@ -125,7 +125,7 @@ permalink: /themes/windows
 <img src="https://the-back-room.info/assets/images/themes/sfw/BLEACH-TYBW.jpg" />
 </div>
 <div class="container">
-<h2 class="text-small" style="text-align:center">BLEACH</h2>
+<h2 class="text-small" style="text-align:center">BLEACH: Thousand Year Blood War</h2>
 </div>
 <br />
 <span class="fs-3">
