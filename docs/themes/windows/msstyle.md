@@ -52,7 +52,7 @@ permalink: /themes/windows/msstyle
 <li><a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a></li>
 <li><a href="https://github.com/MicaForEveryone/MicaForEveryone" target="_blank">Mica For Everyone</a></li>
 </ul>
-<h4>Themes</h4>
+<h4>Included Themes</h4>
 <ul>
 <li><b>BLEACH</b></li>
 <li><b>BLEACH</b>: Square</li>
@@ -93,7 +93,14 @@ permalink: /themes/windows/msstyle
 <li><a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a></li>
 <li><a href="https://github.com/MicaForEveryone/MicaForEveryone" target="_blank">Mica For Everyone</a></li>
 </ul>
-<h4>Themes</h4>
+<h4>Features</h4>
+<ul>
+<li><b>Custom Cursors</b>: Contains the original Windows 7 default aero cursors</li>
+<li><b>Custom Sounds</b>: Contains the original sounds for each theme</li>
+<li><b>Custom Icons</b>: Contains a Windows 7 system icon pack</li>
+<li><b>Alternate Styles</b>: Contains 4 different styles; round, round small-title, square, and square small-title</li>
+</ul>
+<h4>Included Themes</h4>
 <ul>
 <li><b>RTM</b>: Windows, Architecture, Nature, Characters, Landscapes, Scenes</li>
 <li><b>Regional</b>: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States</li>
