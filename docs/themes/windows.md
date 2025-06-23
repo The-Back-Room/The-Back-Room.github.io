@@ -40,6 +40,23 @@ permalink: /themes/windows
 </span>
 <br />
 </div>
+<div class="gallery">
+<div class="card">
+<div class="responsive">
+<img src="https://the-back-room.info/assets/images/themes/sfw/WINDOWS-7-MCT-THEMES.jpg" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Windows 7 MCT Themes</h2>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-7-MCT-Themes" target="_blank">
+<button type="button" name="button" class="btn">Download</button></a> 
+</div>
+</span>
+<br />
+</div>
 <div class="card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/sfw/ONCE-HUMAN.jpg" />
