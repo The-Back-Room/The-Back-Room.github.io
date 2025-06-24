@@ -9,9 +9,7 @@ permalink: /social
 <div class="card">
 <div class="container">
 <h2 class="text-small" style="text-align:center">Social</h2>
-<p class="text-small" style="text-align:center">
-Various Social Groups and Pages hosted by our members
-</p>
+<p class="text-small" style="text-align:center">Various Social Groups and Pages hosted by our members</p>
 </div>
 </div>
 <br />
@@ -27,7 +25,7 @@ Various Social Groups and Pages hosted by our members
 <br />
 <div class="gallery">
 <div class="card">
-<div class="responsive">
+<div class="responsive white-background">
 <img src="https://the-back-room.info/assets/images/social/deviantart-1-logo-svg-vector.svg" />
 </div>
 <div class="container">
