@@ -25,7 +25,7 @@ permalink: /social
 <br />
 <div class="gallery">
 <div class="card">
-<div class="responsive white-background">
+<div class="white-background">
 <img src="https://the-back-room.info/assets/images/social/deviantart-1-logo-svg-vector.svg" />
 </div>
 <div class="container">
