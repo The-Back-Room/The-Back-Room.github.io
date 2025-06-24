@@ -25,6 +25,7 @@ Various Social Groups and Pages hosted by our members
 -->
 
 <br />
+<div class="gallery">
 <div class="card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/social/deviantart.jpg" />
@@ -33,11 +34,12 @@ Various Social Groups and Pages hosted by our members
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://www.deviantart.com/the-back-room" target="_blank">
-<button type="button" name="button" class="btn">The Back Room</button>
-</a>
+<button type="button" name="button" class="btn">The Back Room</button></a>
 </div>
 </span>
 <br />
+</div>
+</div>
 </div>
 <br /><br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

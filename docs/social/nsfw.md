@@ -26,6 +26,7 @@ permalink: /social/nsfw
 <div class="responsive">
 <img src="https://styles.redditmedia.com/t5_ekyrut/styles/bannerBackgroundImage_r9jlhib4544f1.png" />
 </div>
+<div class="container">
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://www.reddit.com/r/Ranma_Hentai/" target="_blank">
@@ -35,10 +36,12 @@ permalink: /social/nsfw
 </span>
 <br />
 </div>
+</div>
 <div class="card">
 <div class="responsive">
 <img src="https://styles.redditmedia.com/t5_dn30ob/styles/bannerBackgroundImage_my6kvnkad44f1.png" />
 </div>
+<div class="container">
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://www.reddit.com/r/NSFW_Hentai_AI/" target="_blank">
@@ -47,6 +50,7 @@ permalink: /social/nsfw
 </div>
 </span>
 <br />
+</div>
 </div>
 </div>
 <br /><br />
