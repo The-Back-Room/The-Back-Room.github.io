@@ -80,6 +80,7 @@ You can find the original UI-X2 theme  here:
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</ul>
 </div>
 <br />
 <span class="fs-3">
@@ -138,6 +139,7 @@ You can find the original UI-X2 theme  here:
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</ul>
 </div>
 <br />
 <span class="fs-3">
@@ -197,6 +199,7 @@ You can find the original UI-X2 theme  here:
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</ul>
 </div>
 <br />
 <span class="fs-3">
@@ -256,6 +259,7 @@ You can find the original UI-X2 theme  here:
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</ul>
 </div>
 <br />
 <span class="fs-3">
@@ -315,6 +319,7 @@ You can find the original UI-X2 theme  here:
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</ul>
 </div>
 <br />
 <span class="fs-3">
@@ -374,6 +379,7 @@ You can find the original UI-X2 theme  here:
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</ul>
 </div>
 <br />
 <span class="fs-3">
