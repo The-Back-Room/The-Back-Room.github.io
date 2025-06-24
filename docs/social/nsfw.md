@@ -21,33 +21,29 @@ permalink: /social/nsfw
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
 <br />
-<h2 align="center">SubReddits</h2>
-<br />
 <div class="gallery">
+    <h2 align="center">SubReddits</h2>
+    <br />
     <div class="card">
         <div class="responsive">
-            <img width="100%" src="https://styles.redditmedia.com/t5_ekyrut/styles/bannerBackgroundImage_r9jlhib4544f1.png" />
-            <span class="fs-3">
-                <div align="center" class="text-small">
+            <img width="100%" src="https://the-back-room.inf/assets/images/social/reddit.png" />
+        </div>
+        <br />
+        <div class="container">
+            <ul>
+                <li>
                     <a href="https://www.reddit.com/r/Ranma_Hentai/" target="_blank">
-                        <button type="button" name="button" class="btn">r/Ranma_Hentai</button>
+                        r/Ranma_Hentai
                     </a>
-                </div>
-            </span>
-            <br />
-        </div>
-    </div>
-    <div class="card">
-        <div class="responsive">
-            <img width="100%" src="https://styles.redditmedia.com/t5_dn30ob/styles/bannerBackgroundImage_my6kvnkad44f1.png" />
-            <span class="fs-3">
-                <div align="center" class="text-small">
+                </li>
+                <li>
                     <a href="https://www.reddit.com/r/NSFW_Hentai_AI/" target="_blank">
-                        <button type="button" name="button" class="btn">r/NSFW_Hentai_AI</button>
+                        r/NSFW_Hentai_AI
                     </a>
-                </div>
-            </span>
-            <br />
+                </li>
+            </ul>
         </div>
+        <br />
     </div>
 </div>
+<br />
