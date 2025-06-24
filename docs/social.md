@@ -26,9 +26,10 @@ Various Social Groups and Pages hosted by our members
 
 <h2 align="center">DeviantArt Groups</h2>
 
+<div class="gallery">
 <div class="card">
 <div class="responsive">
-<img width="100%" src="https://the-back-room.info/assets/images/social/deviantart.jpg" />
+<img src="https://the-back-room.info/assets/images/social/deviantart.jpg" />
 </div>
 <br />
 <div class="container">
@@ -37,6 +38,7 @@ Various Social Groups and Pages hosted by our members
 </ul>
 </div>
 <br />
+</div>
 </div>
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />

@@ -21,11 +21,12 @@ permalink: /social/nsfw
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
 <br />
+<div class="gallery">
 <h2 align="center">SubReddits</h2>
 <br />
 <div class="card">
 <div class="responsive">
-<img width="100%" src="https://the-back-room.info/assets/images/social/reddit.png" />
+<img src="https://the-back-room.info/assets/images/social/reddit.png" />
 </div>
 <br />
 <div class="container">
@@ -35,5 +36,6 @@ permalink: /social/nsfw
 </ul>
 </div>
 <br />
+</div>
 </div>
 <br />
