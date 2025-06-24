@@ -157,7 +157,13 @@ permalink: /themes/windows/msstyle
             <li><b>Custom Cursors</b>: Contains the original Windows 7 default aero cursors</li>
             <li><b>Custom Sounds</b>: Contains the original sounds for each theme</li>
             <li><b>Custom Icons</b>: Contains a Windows 7 system icon pack</li>
-            <li><b>Alternate Styles</b>: Contains 4 different styles; round, round small-title, square, and square small-title</li>
+            <li><b>Alternate Styles</b>: Contains 4 different styles</li>
+                <ul>
+                    <li>Round</li>
+                    <li>Square</li>
+                    <li>Round - Small Title</li>
+                    <li>Square - Small Title</li>
+                </ul>
         </ul>
         <h4>Included Themes</h4>
         <ul>
