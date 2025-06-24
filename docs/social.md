@@ -9,7 +9,7 @@ permalink: /social
 <div class="card">
 <div class="container">
 <h2 class="text-small" style="text-align:center">Social</h2>
-<p class="text-small" style="text-align:center">Various Social Groups and Pages hosted by our members</p>
+<p class="text-small" style="text-align:center">Check out our social groups and pages</p>
 </div>
 </div>
 <br />
