@@ -77,7 +77,7 @@ You can find the original UI-X2 theme  here:
 </ul>
 <h4>Features</h4>
 <ul>
-<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="https://www.deviantart.com/anblues" target="_blank">anblues</a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
@@ -140,7 +140,7 @@ You can find the original UI-X2 theme  here:
 </ul>
 <h4>Features</h4>
 <ul>
-<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="https://www.deviantart.com/anblues" target="_blank">anblues</a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
@@ -203,7 +203,7 @@ You can find the original UI-X2 theme  here:
 </ul>
 <h4>Features</h4>
 <ul>
-<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="https://www.deviantart.com/anblues" target="_blank">anblues</a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
@@ -266,7 +266,7 @@ You can find the original UI-X2 theme  here:
 </ul>
 <h4>Features</h4>
 <ul>
-<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="https://www.deviantart.com/anblues" target="_blank">anblues</a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
@@ -329,7 +329,7 @@ You can find the original UI-X2 theme  here:
 </ul>
 <h4>Features</h4>
 <ul>
-<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="https://www.deviantart.com/anblues" target="_blank">anblues</a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
@@ -392,7 +392,7 @@ You can find the original UI-X2 theme  here:
 </ul>
 <h4>Features</h4>
 <ul>
-<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="https://www.deviantart.com/anblues" target="_blank">anblues</a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
 <li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
