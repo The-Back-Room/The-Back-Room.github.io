@@ -27,3 +27,11 @@ has_toc: false
 > This page is for adults only. By being on this page, you are agreeing that you are of legal age.
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
+
+<br /><br />
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<br />
+<a href="/wallpapers/mobile">
+<button type="button" name="button" class="btn">Back</button></a>
+<br />
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

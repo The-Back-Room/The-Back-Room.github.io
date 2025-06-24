@@ -27,3 +27,11 @@ permalink: /themes/linux/nsfw
 > This page is for adults only. By being on this page, you are agreeing that you are of legal age.
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
+
+<br /><br />
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<br />
+<a href="themes/linux">
+<button type="button" name="button" class="btn">Back</button></a>
+<br />
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
