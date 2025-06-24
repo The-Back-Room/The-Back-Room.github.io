@@ -193,7 +193,7 @@ You can find the original source code here:
 <h2 class="text-small" style="text-align:center">Once Human UI-X2 Theme for Windows 10 19H1-22H1</h2>
 <br />
 <p>
-This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a>.<br />
+This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a><br />
 You can find the original UI-X2 theme  here: 
 <a href="https://virtualcustoms.net/showthread.php/88154-UI-X2-Theme-for-Windows-10-19H1-22H2" target="_blank">UI-X2 Theme for Windows 1019H2-22H2</a>
 </p>
