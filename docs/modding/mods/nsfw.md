@@ -7,10 +7,10 @@ permalink: /modding/mods/nsfw
 ---
 
 <div class="card">
-    <div class="container">
-        <h2 class="text-small" style="text-align:center">NSFW Game Mods</h2>
-        <p class="text-small" style="text-align:center">NSFW mods for various different games</p>
-    </div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">NSFW Game Mods</h2>
+<p class="text-small" style="text-align:center">NSFW mods for various different games</p>
+</div>
 </div>
 <br />
 

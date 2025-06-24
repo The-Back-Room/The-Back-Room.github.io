@@ -8,10 +8,10 @@ permalink: /modding/tools
 ---
 
 <div class="card">
-    <div class="container">
-        <h2 class="text-small" style="text-align:center">Modding Tools</h2>
-        <p class="text-small" style="text-align:center">Modding Tools for various different games</p>
-    </div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Modding Tools</h2>
+<p class="text-small" style="text-align:center">Modding Tools for various different games</p>
+</div>
 </div>
 <br />
 
@@ -26,7 +26,7 @@ permalink: /modding/tools
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
 <a href="/modding/tools/nsfw">
-    <button type="button" name="button" class="btn">NSFW Modding Tools</button>
+<button type="button" name="button" class="btn">NSFW Modding Tools</button>
 </a>
 <br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

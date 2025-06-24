@@ -8,10 +8,10 @@ permalink: /modding/mods
 ---
 
 <div class="card">
-    <div class="container">
-        <h2 class="text-small" style="text-align:center">Game Mods</h2>
-        <p class="text-small" style="text-align:center">Mods for various different games</p>
-    </div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Game Mods</h2>
+<p class="text-small" style="text-align:center">Mods for various different games</p>
+</div>
 </div>
 <br />
 
@@ -35,83 +35,83 @@ permalink: /modding/mods
 
 <br />
 <div class="card">
-    <div class="responsive">
-        <img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/lustful-eyes.webp" />
-    </div>
-    <div class="container">
-        <h2 class="text-small" style="text-align:center">Lustful Eyes</h2>
-    </div>
-    <br />
-    <span class="fs-3">
-        <div align="center" class="text-small">
-            <a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank">
-                <button type="button" name="button" class="btn">Download</button>
-            </a> 
-        </div>
-    </span>
-    <br />
+<div class="responsive">
+<img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/lustful-eyes.webp" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Lustful Eyes</h2>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://heliosphere.app/mod/w7xhfe6s7h0tbc96279yz1eb1g" target="_blank">
+<button type="button" name="button" class="btn">Download</button>
+</a> 
+</div>
+</span>
+<br />
 </div>
 <br />
 <div class="card">
-    <div class="responsive">
-        <img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/ns3d-vm-ui.webp" />
-    </div>
-    <div class="container">
-        <h2 class="text-small" style="text-align:center">[NS3D] (VM) UI Pack</h2>
-    </div>
-    <br />
-    <span class="fs-3">
-        <div align="center" class="text-small">
-            <a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank">
-                <button type="button" name="button" class="btn">Download</button>
-            </a> 
-        </div>
-    </span>
-    <br />
+<div class="responsive">
+<img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/ns3d-vm-ui.webp" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">[NS3D] (VM) UI Pack</h2>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://heliosphere.app/mod/hrsbv17zxh55567hsseaz4cbf8" target="_blank">
+<button type="button" name="button" class="btn">Download</button>
+</a> 
+</div>
+</span>
+<br />
 </div>
 <br />
 <div class="card">
-    <div class="responsive">
-        <img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/roseblood-duelist.webp" />
-    </div>
-    <div class="container">
-        <h2 class="text-small" style="text-align:center">Roseblood Duelist</h2>
-    </div>
-    <br />
-    <span class="fs-3">
-        <div align="center" class="text-small">
-            <a href="https://heliosphere.app/mod/5w9m2enmw16ys40x0v310v269m" target="_blank">
-                <button type="button" name="button" class="btn">Download</button>
-            </a> 
-        </div>
-    </span>
-    <br />
+<div class="responsive">
+<img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/roseblood-duelist.webp" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Roseblood Duelist</h2>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://heliosphere.app/mod/5w9m2enmw16ys40x0v310v269m" target="_blank">
+<button type="button" name="button" class="btn">Download</button>
+</a> 
+</div>
+</span>
+<br />
 </div>
 <br /><br />
 <h2 align="center">Valheim</h2>
 <br />
 <div class="card">
-    <div class="responsive">
-        <img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/odinheim.png" />
-    </div>
-    <div class="container">
-        <h2 class="text-small" style="text-align:center">Odinheim</h2>
-    </div>
-    <br />
-    <span class="fs-3">
-        <div align="center" class="text-small">
-            <a href="https://thunderstore.io/c/valheim/p/Nimbi/Odinheim/" target="_blank">
-                <button type="button" name="button" class="btn">Download</button>
-            </a> 
-        </div>
-    </span>
-    <br />
+<div class="responsive">
+<img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/modding/mods/sfw/odinheim.png" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Odinheim</h2>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://thunderstore.io/c/valheim/p/Nimbi/Odinheim/" target="_blank">
+<button type="button" name="button" class="btn">Download</button>
+</a> 
+</div>
+</span>
+<br />
 </div>
 <br /><br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
 <a href="/modding/mods/nsfw">
-    <button type="button" name="button" class="btn">NSFW Mods</button>
+<button type="button" name="button" class="btn">NSFW Mods</button>
 </a> 
 <br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
