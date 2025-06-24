@@ -21,7 +21,6 @@ permalink: /social/nsfw
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
 <br />
-<div class="gallery">
 <h2 align="center">SubReddits</h2>
 <br />
 <div class="card">
@@ -36,6 +35,5 @@ permalink: /social/nsfw
 </ul>
 </div>
 <br />
-</div>
 </div>
 <br />
