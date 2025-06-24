@@ -24,21 +24,22 @@ Various Social Groups and Pages hosted by our members
 > 
 -->
 
-<h2 align="center">DeviantArt Groups</h2>
-
-<div class="gallery">
+<br />
 <div class="card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/social/deviantart.jpg" />
 </div>
 <div class="container">
-<ul>
-<li><a href="https://www.deviantart.com/the-back-room" target="_blank">The Back Room</a></li>
-</ul>
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://www.deviantart.com/the-back-room" target="_blank">
+<button type="button" name="button" class="btn">The Back Room</button>
+</a>
 </div>
+</span>
 <br />
 </div>
-</div>
+<br /><br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
 <a href="/social/nsfw">
