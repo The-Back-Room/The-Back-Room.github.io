@@ -28,7 +28,6 @@ permalink: /social/nsfw
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/social/reddit.png" />
 </div>
-<br />
 <div class="container">
 <ul>
 <li><a href="https://www.reddit.com/r/Ranma_Hentai/" target="_blank">r/Ranma_Hentai</a></li>

@@ -31,7 +31,6 @@ Various Social Groups and Pages hosted by our members
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/social/deviantart.jpg" />
 </div>
-<br />
 <div class="container">
 <ul>
 <li><a href="https://www.deviantart.com/the-back-room" target="_blank">The Back Room</a></li>
