@@ -91,7 +91,8 @@ You can find the original UI-X2 theme  here:
 </div>
 </span>
 <br />
-</div><br />
+</div>
+<br />
 <div class="card">
 <div class="responsive">
 <img src="https://the-back-room.info/assets/images/themes/nsfw/msstyle/ECCHI-UI-X2.png" />
@@ -214,10 +215,10 @@ You can find the original UI-X2 theme  here:
 <br />
 <div class="card">
 <div class="responsive">
-<img src="https://the-back-room.info/assets/images/themes/nsfw/msstyle/LEWD-GAMER-GIRLS-UI-X2.png" />
+<img src="https://the-back-room.info/assets/images/themes/nsfw/msstyle/LEWD-GAMER-WAIFUS-UI-X2.png" />
 </div>
 <div class="container">
-<h2 class="text-small" style="text-align:center">Lewd Gamer Girls UI-X2 Theme for Windows 10 19H1-22H1</h2>
+<h2 class="text-small" style="text-align:center">Lewd Gamer Waifus UI-X2 Theme for Windows 10 19H1-22H1</h2>
 <br />
 <p>
 This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a>.<br />
