@@ -28,7 +28,7 @@ Various Social Groups and Pages hosted by our members
 <div class="gallery">
 <div class="card">
 <div class="responsive">
-<img src="https://the-back-room.info/assets/images/social/deviantart-1-logo-svg-vector" />
+<img src="https://the-back-room.info/assets/images/social/deviantart-1-logo-svg-vector.svg" />
 </div>
 <div class="container">
 <span class="fs-3">
