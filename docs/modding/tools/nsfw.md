@@ -8,8 +8,8 @@ permalink: /modding/tools/nsfw
 
 <div class="card">
 <div class="container">
-<h2 class="text-small" style="text-align:center">NSFW Modding Tools</h2>
-<p class="text-small" style="text-align:center">NSFW modding tools for various different games</p>
+<h2 class="text-small" style="text-align:center">NSFW Tools</h2>
+<p class="text-small" style="text-align:center">Various NSFW tools for your modding needs</p>
 </div>
 </div>
 <br />

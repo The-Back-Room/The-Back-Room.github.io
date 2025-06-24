@@ -8,7 +8,7 @@ permalink: /themes/windows/msstyle/nsfw
 <div class="card">
 <div class="container">
 <h2 class="text-small" style="text-align:center">NSFW MSSTYLE Themes</h2>
-<p class="text-small" style="text-align:center">Various NSFW MSSTYLE themes for Windows 11</p>
+<p class="text-small" style="text-align:center">Various NSFW MSSTYLE themes for Windows</p>
 </div>
 </div>
 <br />
@@ -79,8 +79,11 @@ You can find the original UI-X2 theme  here:
 <ul>
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
-<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+<li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
+<h4>Notes</h4>
+<p>This theme works Windows 11 as well. However it is recommended to have a way to refresh the file xplorer and kill the Safely Icon process due to a couple minor, yet annoying bugs that tend to pop up with Windows 10 themes on Windows 11.
+<br /><br />For those who want an easy method, you can use my <a href="https://github.com/The-Back-Room/Tools-and-Utilities-Menus-for-Windows-11-Desktop-Context-Menu" target="_blank">Tools and Utilities Menus for Windows 11 Desktop Context Menu</a> addon to obtain both.<br />There's also some other useful extras included in it should you desire them.</p>
 </div>
 <br />
 <span class="fs-3">
@@ -139,8 +142,11 @@ You can find the original UI-X2 theme  here:
 <ul>
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
-<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+<li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
+<h4>Notes</h4>
+<p>This theme works Windows 11 as well. However it is recommended to have a way to refresh the file xplorer and kill the Safely Icon process due to a couple minor, yet annoying bugs that tend to pop up with Windows 10 themes on Windows 11.
+<br /><br />For those who want an easy method, you can use my <a href="https://github.com/The-Back-Room/Tools-and-Utilities-Menus-for-Windows-11-Desktop-Context-Menu" target="_blank">Tools and Utilities Menus for Windows 11 Desktop Context Menu</a> addon to obtain both.<br />There's also some other useful extras included in it should you desire them.</p>
 </div>
 <br />
 <span class="fs-3">
@@ -199,8 +205,11 @@ You can find the original UI-X2 theme  here:
 <ul>
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
-<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+<li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
+<h4>Notes</h4>
+<p>This theme works Windows 11 as well. However it is recommended to have a way to refresh the file xplorer and kill the Safely Icon process due to a couple minor, yet annoying bugs that tend to pop up with Windows 10 themes on Windows 11.
+<br /><br />For those who want an easy method, you can use my <a href="https://github.com/The-Back-Room/Tools-and-Utilities-Menus-for-Windows-11-Desktop-Context-Menu" target="_blank">Tools and Utilities Menus for Windows 11 Desktop Context Menu</a> addon to obtain both.<br />There's also some other useful extras included in it should you desire them.</p>
 </div>
 <br />
 <span class="fs-3">
@@ -259,8 +268,11 @@ You can find the original UI-X2 theme  here:
 <ul>
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
-<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+<li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
+<h4>Notes</h4>
+<p>This theme works Windows 11 as well. However it is recommended to have a way to refresh the file xplorer and kill the Safely Icon process due to a couple minor, yet annoying bugs that tend to pop up with Windows 10 themes on Windows 11.
+<br /><br />For those who want an easy method, you can use my <a href="https://github.com/The-Back-Room/Tools-and-Utilities-Menus-for-Windows-11-Desktop-Context-Menu" target="_blank">Tools and Utilities Menus for Windows 11 Desktop Context Menu</a> addon to obtain both.<br />There's also some other useful extras included in it should you desire them.</p>
 </div>
 <br />
 <span class="fs-3">
@@ -319,8 +331,11 @@ You can find the original UI-X2 theme  here:
 <ul>
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
-<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+<li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
+<h4>Notes</h4>
+<p>This theme works Windows 11 as well. However it is recommended to have a way to refresh the file xplorer and kill the Safely Icon process due to a couple minor, yet annoying bugs that tend to pop up with Windows 10 themes on Windows 11.
+<br /><br />For those who want an easy method, you can use my <a href="https://github.com/The-Back-Room/Tools-and-Utilities-Menus-for-Windows-11-Desktop-Context-Menu" target="_blank">Tools and Utilities Menus for Windows 11 Desktop Context Menu</a> addon to obtain both.<br />There's also some other useful extras included in it should you desire them.</p>
 </div>
 <br />
 <span class="fs-3">
@@ -379,8 +394,11 @@ You can find the original UI-X2 theme  here:
 <ul>
 <li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
 <li><b>Custom Sounds</b>: Contains custom sounds</li>
-<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+<li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
 </ul>
+<h4>Notes</h4>
+<p>This theme works Windows 11 as well. However it is recommended to have a way to refresh the file xplorer and kill the Safely Icon process due to a couple minor, yet annoying bugs that tend to pop up with Windows 10 themes on Windows 11.
+<br /><br />For those who want an easy method, you can use my <a href="https://github.com/The-Back-Room/Tools-and-Utilities-Menus-for-Windows-11-Desktop-Context-Menu" target="_blank">Tools and Utilities Menus for Windows 11 Desktop Context Menu</a> addon to obtain both.<br />There's also some other useful extras included in it should you desire them.</p>
 </div>
 <br />
 <span class="fs-3">

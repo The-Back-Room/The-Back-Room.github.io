@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Game Mods
+title: Mods
 nav_order: 2
 has_toc: false
 parent: Modding
@@ -9,8 +9,8 @@ permalink: /modding/mods
 
 <div class="card">
 <div class="container">
-<h2 class="text-small" style="text-align:center">Game Mods</h2>
-<p class="text-small" style="text-align:center">Mods for various different games</p>
+<h2 class="text-small" style="text-align:center">Mods</h2>
+<p class="text-small" style="text-align:center">Various different mods</p>
 </div>
 </div>
 <br />
