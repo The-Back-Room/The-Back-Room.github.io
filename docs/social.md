@@ -29,7 +29,7 @@ permalink: /social
 <div class="gallery">
     <div class="card">
         <div class="responsive">
-            <img width="100%" src="https://the-back-room.inf/assets/images/social/deviantart.jpg" />
+            <img width="100%" src="https://the-back-room.info/assets/images/social/deviantart.jpg" />
         </div>
         <br />
         <div class="container">

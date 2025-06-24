@@ -26,7 +26,7 @@ permalink: /social/nsfw
     <br />
     <div class="card">
         <div class="responsive">
-            <img width="100%" src="https://the-back-room.inf/assets/images/social/reddit.png" />
+            <img width="100%" src="https://the-back-room.info/assets/images/social/reddit.png" />
         </div>
         <br />
         <div class="container">
