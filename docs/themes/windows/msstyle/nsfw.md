@@ -275,10 +275,10 @@ You can find the original UI-X2 theme  here:
 <br />
 <div class="card">
 <div class="responsive">
-<img src="https://the-back-room.info/assets/images/themes/nsfw/msstyle/BLEACH-HENTAI-UI-X2.png" />
+<img src="https://the-back-room.info/assets/images/themes/nsfw/msstyle/FINAL-FANTASY-XIV-WAIFUS-UI-X2.png" />
 </div>
 <div class="container">
-<h2 class="text-small" style="text-align:center">BLEACH Hentai UI-X2 Theme for Windows 10 19H1-22H1</h2>
+<h2 class="text-small" style="text-align:center">Final Fantasy XIV Waifus UI-X2 Theme for Windows 10 19H1-22H1</h2>
 <br />
 <p>
 This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a>.<br />
@@ -325,7 +325,7 @@ You can find the original UI-X2 theme  here:
 <br />
 <span class="fs-3">
 <div align="center" class="text-small">
-<a href="https://github.com/The-Back-Room/BLEACH-Hentai-UI-X2-Theme-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip" target="_blank">
+<a href="https://github.com/The-Back-Room/Final-Fantasy-XIV-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip" target="_blank">
 <button type="button" name="button" class="btn">Download</button>
 </a> 
 </div>
