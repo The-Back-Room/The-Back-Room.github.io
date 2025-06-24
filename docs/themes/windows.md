@@ -80,7 +80,7 @@ permalink: /themes/windows
             <img src="https://the-back-room.info/assets/images/themes/sfw/FLOWER_LIGHT.jpg" />
         </div>
         <div class="container">
-            <h2 class="text-small" style="text-align:center">EDU Themes</h2>
+            <h2 class="text-small" style="text-align:center">Windows 11 Hidden EDU Themes</h2>
         </div>
         <br />
         <span class="fs-3">
@@ -114,7 +114,7 @@ permalink: /themes/windows
             <img src="https://the-back-room.info/assets/images/themes/sfw/COPILOT.jpg" />
         </div>
         <div class="container">
-            <h2 class="text-small" style="text-align:center">Copilot</h2>
+            <h2 class="text-small" style="text-align:center">Microsoft Copilot Themes</h2>
         </div>
         <br />
         <span class="fs-3">
@@ -131,7 +131,7 @@ permalink: /themes/windows
             <img src="https://the-back-room.info/assets/images/themes/sfw/SURFACE-PRO.jpg" />
         </div>
         <div class="container">
-            <h2 class="text-small" style="text-align:center">Surface Pro</h2>
+            <h2 class="text-small" style="text-align:center">Microsoft Surface Pro Themes</h2>
         </div>
         <br />
         <span class="fs-3">
@@ -250,7 +250,7 @@ permalink: /themes/windows
             <img src="https://the-back-room.info/assets/images/themes/sfw/macos-themes-for-windows/BIGSUR_LIGHT.jpg" />
         </div>
         <div class="container">
-            <h2 class="text-small" style="text-align:center">MacOS Themes</h2>
+            <h2 class="text-small" style="text-align:center">MacOS Themes for Windows</h2>
         </div>
         <br />
         <span class="fs-3">
