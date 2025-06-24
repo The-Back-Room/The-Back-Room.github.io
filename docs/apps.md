@@ -15,10 +15,12 @@ permalink: /apps
 -->
 
 <div class="card">
-<div class="container">
-<h4 style="text-align:center">Table of Contents</h4>
-<ul>
-<li><a class="text-delta" href="/apps/yt-music-menu-player">YT Music Player</a></li>
-</ul>
-</div>
+    <div class="container">
+        <h4 style="text-align:center">Table of Contents</h4>
+        <ul>
+            <li>
+                <a class="text-delta" href="/apps/yt-music-menu-player">YT Music Player</a>
+            </li>
+        </ul>
+    </div>
 </div>

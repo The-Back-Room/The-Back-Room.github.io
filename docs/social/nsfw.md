@@ -21,11 +21,15 @@ permalink: /social/nsfw
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
 <div class="card">
-<div class="responsive">
-<h4 style="text-align:center">Subreddits</h4>
-<ul>
-    <li><a href="https://www.reddit.com/r/Ranma_Hentai/" target="_blank">r/Ranma_Hentai</a> </li>
-    <li><a href="https://www.reddit.com/r/NSFW_Hentai_AI/" target="_blank">r/NSFW_Hentai_AI</a></li>
-</ul>
-</div>
+    <div class="responsive">
+        <h4 style="text-align:center">Subreddits</h4>
+        <ul>
+            <li>
+                <a href="https://www.reddit.com/r/Ranma_Hentai/" target="_blank">r/Ranma_Hentai</a>
+            </li>
+            <li>
+                <a href="https://www.reddit.com/r/NSFW_Hentai_AI/" target="_blank">r/NSFW_Hentai_AI</a>
+            </li>
+        </ul>
+    </div>
 </div>

@@ -7,10 +7,10 @@ permalink: /icon-packs/mobile/icon-pack-studio
 ---
 
 <div class="card">
-<div class="container">
-<h2 class="text-small" style="text-align:center">Icon Pack Studio</h2>
-<p class="text-small" style="text-align:center">Icon packs for use with Icon Pack Studio</p>
-</div>
+    <div class="container">
+        <h2 class="text-small" style="text-align:center">Icon Pack Studio</h2>
+        <p class="text-small" style="text-align:center">Icon packs for use with Icon Pack Studio</p>
+    </div>
 </div>
 <br />
 
