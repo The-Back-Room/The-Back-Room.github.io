@@ -32,6 +32,359 @@ permalink: /themes/windows/msstyle/nsfw
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+<br />
+<div class="card">
+<div class="responsive">
+<img src="https://the-back-room.info/assets/images/themes/nsfw/msstyle/BLEACH-HENTAI-UI-X2.png" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">BLEACH Hentai UI-X2 Theme for Windows 10 19H1-22H1</h2>
+<br />
+<p>
+This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a>.<br />
+You can find the original UI-X2 theme  here: 
+<a href="https://virtualcustoms.net/showthread.php/88154-UI-X2-Theme-for-Windows-10-19H1-22H2" target="_blank">UI-X2 Theme for Windows 1019H2-22H2</a>
+</p>
+<h4>Requirements</h4>
+<ul>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/logon-logoff-shutdown-sounds" target="_blank">Plugin: Logon, Logoff & Shutdown Sounds Restored</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a>
+</li>
+<li>
+<a href="https://mhoefs.eu/software_uxtheme.php" target="_blank">UltraUxThemePatcher</a> | 
+<a href="https://github.com/namazso/SecureUxTheme" target="_blank">SecureUxTheme</a> | 
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/uxtheme-hook" target="_blank">UxThemeHook</a>
+</li>
+<li>
+<a href="https://www.startallback.com/" target="_blank">StartAllBack</a>
+</li>
+<li>
+<a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a>
+</li>
+<li>
+<a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a>
+</li>
+</ul>
+<h4>Features</h4>
+<ul>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Sounds</b>: Contains custom sounds</li>
+<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://github.com/The-Back-Room/BLEACH-Hentai-UI-X2-Theme-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip" target="_blank">
+<button type="button" name="button" class="btn">Download</button>
+</a> 
+</div>
+</span>
+<br />
+</div><br />
+<div class="card">
+<div class="responsive">
+<img src="https://the-back-room.info/assets/images/themes/nsfw/msstyle/ECCHI-UI-X2.png" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Ecchi UI-X2 Theme for Windows 10 19H1-22H1</h2>
+<br />
+<p>
+This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a>.<br />
+You can find the original UI-X2 theme  here: 
+<a href="https://virtualcustoms.net/showthread.php/88154-UI-X2-Theme-for-Windows-10-19H1-22H2" target="_blank">UI-X2 Theme for Windows 1019H2-22H2</a>
+</p>
+<h4>Requirements</h4>
+<ul>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/logon-logoff-shutdown-sounds" target="_blank">Plugin: Logon, Logoff & Shutdown Sounds Restored</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a>
+</li>
+<li>
+<a href="https://mhoefs.eu/software_uxtheme.php" target="_blank">UltraUxThemePatcher</a> | 
+<a href="https://github.com/namazso/SecureUxTheme" target="_blank">SecureUxTheme</a> | 
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/uxtheme-hook" target="_blank">UxThemeHook</a>
+</li>
+<li>
+<a href="https://www.startallback.com/" target="_blank">StartAllBack</a>
+</li>
+<li>
+<a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a>
+</li>
+<li>
+<a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a>
+</li>
+</ul>
+<h4>Features</h4>
+<ul>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Sounds</b>: Contains custom sounds</li>
+<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://github.com/The-Back-Room/Ecchi-UI-X2-Theme-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip" target="_blank">
+<button type="button" name="button" class="btn">Download</button>
+</a> 
+</div>
+</span>
+<br />
+</div>
+<br />
+<div class="card">
+<div class="responsive">
+<img src="https://the-back-room.info/assets/images/themes/nsfw/msstyle/RANMA-HENTAI-UI-X2.png" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Ranma Hentai UI-X2 Theme for Windows 10 19H1-22H1</h2>
+<br />
+<p>
+This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a>.<br />
+You can find the original UI-X2 theme  here: 
+<a href="https://virtualcustoms.net/showthread.php/88154-UI-X2-Theme-for-Windows-10-19H1-22H2" target="_blank">UI-X2 Theme for Windows 1019H2-22H2</a>
+</p>
+<h4>Requirements</h4>
+<ul>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/logon-logoff-shutdown-sounds" target="_blank">Plugin: Logon, Logoff & Shutdown Sounds Restored</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a>
+</li>
+<li>
+<a href="https://mhoefs.eu/software_uxtheme.php" target="_blank">UltraUxThemePatcher</a> | 
+<a href="https://github.com/namazso/SecureUxTheme" target="_blank">SecureUxTheme</a> | 
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/uxtheme-hook" target="_blank">UxThemeHook</a>
+</li>
+<li>
+<a href="https://www.startallback.com/" target="_blank">StartAllBack</a>
+</li>
+<li>
+<a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a>
+</li>
+<li>
+<a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a>
+</li>
+</ul>
+<h4>Features</h4>
+<ul>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Sounds</b>: Contains custom sounds</li>
+<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://github.com/The-Back-Room/Ranma-Hentai-UI-X2-Theme-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip" target="_blank">
+<button type="button" name="button" class="btn">Download</button>
+</a> 
+</div>
+</span>
+<br />
+</div>
+<br />
+<div class="card">
+<div class="responsive">
+<img src="https://the-back-room.info/assets/images/themes/nsfw/msstyle/LEWD-GAMER-GIRLS-UI-X2.png" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Lewd Gamer Girls UI-X2 Theme for Windows 10 19H1-22H1</h2>
+<br />
+<p>
+This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a>.<br />
+You can find the original UI-X2 theme  here: 
+<a href="https://virtualcustoms.net/showthread.php/88154-UI-X2-Theme-for-Windows-10-19H1-22H2" target="_blank">UI-X2 Theme for Windows 1019H2-22H2</a>
+</p>
+<h4>Requirements</h4>
+<ul>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/logon-logoff-shutdown-sounds" target="_blank">Plugin: Logon, Logoff & Shutdown Sounds Restored</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a>
+</li>
+<li>
+<a href="https://mhoefs.eu/software_uxtheme.php" target="_blank">UltraUxThemePatcher</a> | 
+<a href="https://github.com/namazso/SecureUxTheme" target="_blank">SecureUxTheme</a> | 
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/uxtheme-hook" target="_blank">UxThemeHook</a>
+</li>
+<li>
+<a href="https://www.startallback.com/" target="_blank">StartAllBack</a>
+</li>
+<li>
+<a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a>
+</li>
+<li>
+<a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a>
+</li>
+</ul>
+<h4>Features</h4>
+<ul>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Sounds</b>: Contains custom sounds</li>
+<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://github.com/The-Back-Room/Lewd-Gamer-Girls-UI-X2-Theme-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip" target="_blank">
+<button type="button" name="button" class="btn">Download</button>
+</a> 
+</div>
+</span>
+<br />
+</div>
+<br />
+<div class="card">
+<div class="responsive">
+<img src="https://the-back-room.info/assets/images/themes/nsfw/msstyle/BLEACH-HENTAI-UI-X2.png" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">BLEACH Hentai UI-X2 Theme for Windows 10 19H1-22H1</h2>
+<br />
+<p>
+This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a>.<br />
+You can find the original UI-X2 theme  here: 
+<a href="https://virtualcustoms.net/showthread.php/88154-UI-X2-Theme-for-Windows-10-19H1-22H2" target="_blank">UI-X2 Theme for Windows 1019H2-22H2</a>
+</p>
+<h4>Requirements</h4>
+<ul>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/logon-logoff-shutdown-sounds" target="_blank">Plugin: Logon, Logoff & Shutdown Sounds Restored</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a>
+</li>
+<li>
+<a href="https://mhoefs.eu/software_uxtheme.php" target="_blank">UltraUxThemePatcher</a> | 
+<a href="https://github.com/namazso/SecureUxTheme" target="_blank">SecureUxTheme</a> | 
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/uxtheme-hook" target="_blank">UxThemeHook</a>
+</li>
+<li>
+<a href="https://www.startallback.com/" target="_blank">StartAllBack</a>
+</li>
+<li>
+<a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a>
+</li>
+<li>
+<a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a>
+</li>
+</ul>
+<h4>Features</h4>
+<ul>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Sounds</b>: Contains custom sounds</li>
+<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://github.com/The-Back-Room/BLEACH-Hentai-UI-X2-Theme-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip" target="_blank">
+<button type="button" name="button" class="btn">Download</button>
+</a> 
+</div>
+</span>
+<br />
+</div>
+<br />
+<div class="card">
+<div class="responsive">
+<img src="https://the-back-room.info/assets/images/themes/nsfw/msstyle/SEXY-NARUTO-GIRLS-UI-X2.png" />
+</div>
+<div class="container">
+<h2 class="text-small" style="text-align:center">Sexy Naruto Girls UI-X2 Theme for Windows 10 19H1-22H1</h2>
+<br />
+<p>
+This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a>.<br />
+You can find the original UI-X2 theme  here: 
+<a href="https://virtualcustoms.net/showthread.php/88154-UI-X2-Theme-for-Windows-10-19H1-22H2" target="_blank">UI-X2 Theme for Windows 1019H2-22H2</a>
+</p>
+<h4>Requirements</h4>
+<ul>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/logon-logoff-shutdown-sounds" target="_blank">Plugin: Logon, Logoff & Shutdown Sounds Restored</a>
+</li>
+<li>
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
+<a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a>
+</li>
+<li>
+<a href="https://mhoefs.eu/software_uxtheme.php" target="_blank">UltraUxThemePatcher</a> | 
+<a href="https://github.com/namazso/SecureUxTheme" target="_blank">SecureUxTheme</a> | 
+<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
+<a href="https://windhawk.net/mods/uxtheme-hook" target="_blank">UxThemeHook</a>
+</li>
+<li>
+<a href="https://www.startallback.com/" target="_blank">StartAllBack</a>
+</li>
+<li>
+<a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a>
+</li>
+<li>
+<a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a>
+</li>
+</ul>
+<h4>Features</h4>
+<ul>
+<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="" target="_blank"></a></li>
+<li><b>Custom Sounds</b>: Contains custom sounds</li>
+<li><b>Custom Icons</b>: Contains Gen2 Plasmu Blue V2 Icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
+</div>
+<br />
+<span class="fs-3">
+<div align="center" class="text-small">
+<a href="https://github.com/The-Back-Room/Sexy-Naruto-Girls-UI-X2-Theme-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip" target="_blank">
+<button type="button" name="button" class="btn">Download</button>
+</a> 
+</div>
+</span>
+<br />
+</div>
 <br /><br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
