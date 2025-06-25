@@ -22,9 +22,7 @@ permalink: /themes/windows/msstyle/nsfw/windows-10-themes
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
 
-Windows 10 19H1-22H2
-=================================
-
+### Windows 10 19H1-22H2
 
 * [Ecchi UI-X2][ECCHI_UIX2]
 * [BLEACH Hentai UI-X2][BLEACH_HENTAI_UIX2]

@@ -7,16 +7,16 @@ parent: Apps
 permalink: /apps/yt-music-menu-player
 ---
 
-{: .note }
+{: .important }
 > {: .opaque }
 > 🧑‍⚖️ This is an unofficial application and not published or supported by YouTube or Google. Intended for personal and educational purposes. I am liable for nothing.
 
-{: .important }
+{: .note }
 > {: .opaque }
 > To close the app, stop any playing music and use the keyboard shortcut `Command+X` or `Control+X` depending on your platform.
 
-YT Music Player
-===============================
+
+### YT Music Player
 
 ![][PREVIEW]
 
