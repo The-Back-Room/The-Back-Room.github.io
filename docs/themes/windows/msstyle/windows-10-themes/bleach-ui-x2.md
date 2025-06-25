@@ -25,7 +25,6 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 
 #### Requirements
 
-*   [WindHawk][WINDHAWK] Plugin: [Bring Back the Borders!][BRING_BACK_THE_BORDERS]
 *   [WindHawk][WINDHAWK] Plugin: [Logon, Logoff & Shutdown Sounds Restored][LOGON_LOGOFF_SHUTDOWN_SOUNDS_RESTORED]
 *   [WindHawk][WINDHAWK] Plugin: [Resource Redirect][RESOURCE_REDIRECT]
 *   [UltraUxThemePatcher][ULTRA_UX_THEME_PATCHER] \| [SecureUxTheme][SECURE_UX_THEME] \| [WindHawk][WINDHAWK] Plugin: [UxThemeHook][UX_THEME_HOOK]
@@ -33,6 +32,7 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 *   [OldNewExplorer][OLD_NEW_EXPLORER]
 *   [DWMBlurGlass][DWM_BLUR_GLASS]
 *   [OpenGlass][OPEN_GLASS]
+
 #### Features
 
 *   **Custom Cursors**: Contains X-Steel \[BLUE\] cursors by [anblues][ANBLUES]
