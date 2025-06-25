@@ -3,7 +3,7 @@ layout: default
 title: NSFW Themes
 parent: MSSTYLE Themes
 grand_parent: Windows Themes
-nav_order: 1
+nav_order: 2
 permalink: /themes/windows/msstyle/nsfw
 ---
 
