@@ -7,24 +7,39 @@ parent: Apps
 permalink: /apps/yt-music-menu-player
 ---
 
+{: .note }
+> {: .opaque }
+> 🧑‍⚖️ This is an unofficial application and not published or supported by YouTube or Google. Intended for personal and educational purposes. I am liable for nothing.
+
 {: .important }
 > {: .opaque }
-> This is an unofficial application and not published or supported by YouTube or Google. It is intended for personal and educational purposes. I am liable for nothing.
+> This app is designed to be bare minimal and run in your system tray. As such there is no context menu or navigation buttons.  To close the app, stop any playing music and use the keyboard shortcut `Command+X` or `Control+X` depending on your platform.
 
-<div class="card">
-<img width="100%" height="auto" class="block" src="https://the-back-room.info/assets/images/yt-music.png" />
-<br />
-<div class="container">
-<h2 class="text-small" style="text-align:center">YT Music Menu Player</h2>
-<p class="text-small" style="text-align:center">Menu bar app for <a href="https://music.youtube.com/" target="_blank">YouTube Music</a></p>
-<br />
-<span class="fs-3">
-<div align="center" class="text-small">
-<a href="https://github.com/The-Back-Room/YT-Music-Menu-Player" target="_blank">
-<button type="button" name="button" class="btn">GitHub</button>
-</a>
-</div>
-</span>
-<br />
-</div>
-</div>
+YT Music Player
+===============================
+
+![][PREVIEW]
+
+#### Requirements
+
+*   NodeJS
+*   Yarn
+
+#### Installation
+
+*   Download and install the latest LTS version of [NodeJS][NODEJS]
+*   Once NodeJS is finished installing, open Command Prompt or Terminal, type `npm install -g yarn` and pres enter
+*   Download this zip file linked below and extract it to a location of your choosing
+*   Open the folder in Command Prompt or Terminal
+*   Type `yarn install && yarn package` and press enter
+*   Wait for the script to finish, then check the out folder for the packaged YT Music Menu Player app to run
+
+**Dowanlod**: [Download Zip][DOWNLOAD_ZIP]
+
+[PREVIEW]: https://the-back-room.info/assets/images/yt-music.png
+
+[SOURCE]: https://music.youtube.com
+
+[NODEJS]: https://nodejs.org/
+
+[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/YT-Music-Menu-Player/archive/refs/heads/main.zip

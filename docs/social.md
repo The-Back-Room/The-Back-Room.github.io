@@ -6,14 +6,6 @@ has_toc: false
 permalink: /social
 ---
 
-<div class="card">
-<div class="container">
-<h2 class="text-small" style="text-align:center">Social</h2>
-<p class="text-small" style="text-align:center">Check out our social groups and pages</p>
-</div>
-</div>
-<br />
-
 <!-- 
 {: .note }
 > {: .opaque }

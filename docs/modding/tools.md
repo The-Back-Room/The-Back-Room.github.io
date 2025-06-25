@@ -7,14 +7,6 @@ parent: Modding
 permalink: /modding/tools
 ---
 
-<div class="card">
-<div class="container">
-<h2 class="text-small" style="text-align:center">Modding Tools</h2>
-<p class="text-small" style="text-align:center">Various tools for your modding needs</p>
-</div>
-</div>
-<br />
-
 <!-- 
 {: .note }
 > {: .opaque }

@@ -7,14 +7,6 @@ parent: Modding
 permalink: /modding/mods
 ---
 
-<div class="card">
-<div class="container">
-<h2 class="text-small" style="text-align:center">Mods</h2>
-<p class="text-small" style="text-align:center">Various different mods</p>
-</div>
-</div>
-<br />
-
 <!-- 
 {: .note }
 > {: .opaque }

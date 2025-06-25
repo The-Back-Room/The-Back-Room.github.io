@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLEACH
+title: Windows 7
 parent: Windows 11 23H2+
 grand_parent: SFW Themes
 has_toc: false
