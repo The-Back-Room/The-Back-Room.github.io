@@ -21,11 +21,7 @@ permalink: /themes/windows/msstyle/nsfw/windows-10-themes/bleach-hentai-ui-x2
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-<div align="center">
-
-## BLEACH Hentai UI-X2
-
-</div>
+<h2 align="center">BLEACH Hentai UI-X2</h2>
 
 ![][PREVIEW]
 

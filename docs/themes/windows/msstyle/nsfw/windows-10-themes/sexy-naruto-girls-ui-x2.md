@@ -21,11 +21,7 @@ permalink: /themes/windows/msstyle/nsfw/windows-10-themes/sexy-naruto-girls-ui-x
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-<div align="center">
-
-## Sexy Naruto Girls UI-X2
-
-</div>
+<h2 align="center">Sexy Naruto Girls UI-X2</h2>
 
 
 

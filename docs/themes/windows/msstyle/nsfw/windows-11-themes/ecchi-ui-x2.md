@@ -22,11 +22,7 @@ published: false
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-<div align="center">
-
-## Ecchi UI-X2
-
-</div>
+<h2 align="center">Ecchi UI-X2</h2>
 
 ![][PREVIEW]
 
