@@ -22,8 +22,11 @@ published: false
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+<div align="center">
 
-### Final Fantasy XIV Waifus UI-X2 Themes for Windows 11 23H2+
+## Final Fantasy XIV Waifus UI-X2
+
+</div>
 
 ![][PREVIEW]
 

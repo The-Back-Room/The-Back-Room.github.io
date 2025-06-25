@@ -22,8 +22,12 @@ published: false
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+<div align="center">
 
-### Sexy Naruto Girls UI-X2 Themes for Windows 10 19H1-22H2
+## Sexy Naruto Girls UI-X2
+
+</div>
+
 
 ![][PREVIEW]
 

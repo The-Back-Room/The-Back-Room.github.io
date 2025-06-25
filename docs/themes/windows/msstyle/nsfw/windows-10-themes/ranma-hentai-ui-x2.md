@@ -21,8 +21,11 @@ permalink: /themes/windows/msstyle/nsfw/windows-10-themes/ranma-hentai-ui-x2
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+<div align="center">
 
-### Ranma Hentai UI-X2 Themes for Windows 10 19H1-22H2
+## Ranma Hentai UI-X2
+
+</div>
 
 ![][PREVIEW]
 

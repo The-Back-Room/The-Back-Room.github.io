@@ -22,8 +22,11 @@ published: false
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+<div align="center">
 
-### Windows 11 23H2+
+## Windows 11 23H2+
+
+</div>
 
 * [Ecchi UI-X2][ECCHI_UIX2]
 * [BLEACH Hentai UI-X2][BLEACH_HENTAI_UIX2]
