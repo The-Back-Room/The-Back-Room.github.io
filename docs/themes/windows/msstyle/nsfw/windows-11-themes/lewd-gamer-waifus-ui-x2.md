@@ -44,7 +44,7 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 11 23H2+][ORIGINAL]
 #### Features
 
 *   **Custom Cursors**: Contains X-Steel \[BLUE\] cursors by [anblues][ANBLUES]
-*   **Custom Sounds**: Contains custom Logon and Logoff sounds
+*   **Custom Sounds**: Contains custom sounds
 *   **Custom Icons**: Contains [Gen2 Plasma Blue V2][ICONS] icons ported to [Resource Redirect][RESOURCE_REDIRECT]
 *   **Windows 11 DWM Fix**: The theme has been fixed for proper Windows 11 support
 
