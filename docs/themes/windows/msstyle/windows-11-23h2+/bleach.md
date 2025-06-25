@@ -1,6 +1,6 @@
 ---
 layout: default
-title: BLEACH
+title: BLEACH for Windows 11 23H2+
 parent: Windows 11 Themes
 grand_parent: MSSTYLE Themes
 has_toc: false
@@ -16,7 +16,7 @@ permalink: /themes/windows/msstyle/windows-11-themes/bleach
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
 
-### BLEACH Themes for Windows 11 23H2+
+## BLEACH for Windows 11 23H2+
 
 ![][PREVIEW]
 

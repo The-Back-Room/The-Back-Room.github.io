@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ranma Hentai UI-X2
+title: Ranma Hentai UI-X2 for Windows 10 19H1-22H2
 nav_exclude: true
 has_toc: false
 permalink: /themes/windows/msstyle/nsfw/windows-10-themes/ranma-hentai-ui-x2
@@ -21,7 +21,7 @@ permalink: /themes/windows/msstyle/nsfw/windows-10-themes/ranma-hentai-ui-x2
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-<h2 align="center">Ranma Hentai UI-X2</h2>
+## Ranma Hentai UI-X2 for Windows 10 19H1-22H2
 
 ![][PREVIEW]
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lewd Gamer Waifus UI-X2
+title: Lewd Gamer Waifus UI-X2 for Windows 10 19H1-22H2
 nav_exclude: true
 has_toc: false
 permalink: /themes/windows/msstyle/nsfw/windows-10-themes/lewd-gamer-waifus-ui-x2
@@ -21,7 +21,7 @@ permalink: /themes/windows/msstyle/nsfw/windows-10-themes/lewd-gamer-waifus-ui-x
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-<h2 align="center">Lewd Gamer Waifus UI-X2</h2>
+## Lewd Gamer Waifus UI-X2 for Windows 10 19H1-22H2
 
 ![][PREVIEW]
 

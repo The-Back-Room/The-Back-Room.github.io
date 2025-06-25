@@ -1,6 +1,6 @@
 ---
 layout: default
-title: FFXIV Waifus UI-X2
+title: FFXIV Waifus UI-X2 for Windows 10 19H1-22H2
 nav_exclude: true
 has_toc: false
 permalink: /themes/windows/msstyle/nsfw/windows-10-themes/final-fantasy-xiv-waifus-ui-x2
@@ -21,7 +21,7 @@ permalink: /themes/windows/msstyle/nsfw/windows-10-themes/final-fantasy-xiv-waif
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-<h2 align="center">Final Fantasy XIV Waifus UI-X2</h2>
+## Final Fantasy XIV Waifus UI-X2 for Windows 10 19H1-22H2
 
 ![][PREVIEW]
 

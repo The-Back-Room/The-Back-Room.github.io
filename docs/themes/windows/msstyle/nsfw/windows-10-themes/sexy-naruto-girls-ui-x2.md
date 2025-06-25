@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sexy Naruto Girls UI-X2
+title: Sexy Naruto Girls UI-X2 for Windows 10 19H1-22H2
 nav_exclude: true
 has_toc: false
 permalink: /themes/windows/msstyle/nsfw/windows-10-themes/sexy-naruto-girls-ui-x2
@@ -21,11 +21,7 @@ permalink: /themes/windows/msstyle/nsfw/windows-10-themes/sexy-naruto-girls-ui-x
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-<h2 align="center">Sexy Naruto Girls UI-X2</h2>
-
-
-
-### Sexy Naruto Girls UI-X2 Themes for Windows 10 19H1-22H2
+## Sexy Naruto Girls UI-X2 for Windows 10 19H1-22H2
 
 ![][PREVIEW]
 

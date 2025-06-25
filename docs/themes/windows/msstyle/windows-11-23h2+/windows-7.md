@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Windows 7
+title: Windows 7 for Windows 11 23H2+
 parent: Windows 11 Themes
 grand_parent: MSSTYLE Themes
 has_toc: false
@@ -16,7 +16,7 @@ permalink: /themes/windows/msstyle/windows-11-themes/windows-7
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
 
-### Windows 7 Themes for Windows 11 23H2+
+## Windows 7 for Windows 11 23H2+
 
 ![][PREVIEW]
 

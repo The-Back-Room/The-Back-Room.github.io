@@ -15,7 +15,7 @@ permalink: /apps/yt-music-menu-player
 > {: .opaque }
 > To close the app, stop any playing music and use the keyboard shortcut `Command+X` or `Control+X` depending on your platform.
 
-<h2 align="center">YT Music Player</h2>
+## YT Music Player
 
 ![][PREVIEW]
 

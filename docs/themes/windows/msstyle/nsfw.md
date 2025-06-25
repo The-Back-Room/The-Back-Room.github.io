@@ -23,15 +23,7 @@ permalink: /themes/windows/msstyle/nsfw
 
 *   [Windows 10 Themes][WINDOWS_10_THEMES]
 
-<!-- 
-*   [Windows 11 Themes][WINDOWS_11_THEMES]
--->
-
 [WINDOWS_10_THEMES]: /themes/windows/msstyle/nsfw/windows-10-themes
-
-<!--
-[WINDOWS_11_THEMES]: /themes/windows/msstyle/nsfw/windows-11-themes
--->
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />

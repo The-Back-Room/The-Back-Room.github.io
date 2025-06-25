@@ -22,14 +22,12 @@ published: false
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-<h2 align="center">Windows 11 23H2+</h2>
-
-* [Ecchi UI-X2][ECCHI_UIX2]
-* [BLEACH Hentai UI-X2][BLEACH_HENTAI_UIX2]
-* [Ranma Hentai UI-X2][RANMA_HENTAI_UIX2]
-* [Final Fantasy XIV Waifus UI-X2][FINAL_FANTASY_XIV_WAIFUS_UIX2]
-* [Lewd Gamer Waifus UI-X2][LEWD_GAMER_WAIFUS_UIX2]
-* [Sexy Naruto Girls UI-X2][SEXY_NARUTO_GIRLS_UIX2]  
+* [Ecchi UI-X2 for Windows 11 23H2+][ECCHI_UIX2]
+* [BLEACH Hentai UI-X2 for Windows 11 23H2+][BLEACH_HENTAI_UIX2]
+* [Ranma Hentai UI-X2 for Windows 11 23H2+][RANMA_HENTAI_UIX2]
+* [Final Fantasy XIV Waifus UI-X2 for Windows 11 23H2+][FINAL_FANTASY_XIV_WAIFUS_UIX2]
+* [Lewd Gamer Waifus UI-X2 for Windows 11 23H2+][LEWD_GAMER_WAIFUS_UIX2]
+* [Sexy Naruto Girls UI-X2 for Windows 11 23H2+][SEXY_NARUTO_GIRLS_UIX2]  
 
 [ECCHI_UIX2]: /themes/windows/msstyle/nsfw/windows-11-themes/ecchi-ui-x2
 [BLEACH_HENTAI_UIX2]: /themes/windows/msstyle/nsfw/windows-11-themes/bleach-hentai-ui-x2

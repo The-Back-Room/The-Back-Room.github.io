@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sexy Naruto Girls UI-X2
+title: Sexy Naruto Girls UI-X2 for Windows 11 23H2+
 nav_exclude: true
 has_toc: false
 permalink: /themes/windows/msstyle/nsfw/windows-11-themes/sexy-naruto-girls-ui-x2
@@ -22,8 +22,7 @@ published: false
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-<h2 align="center">Sexy Naruto Girls UI-X2</h2>
-
+## Sexy Naruto Girls UI-X2 for Windows 11 23H2+
 
 ![][PREVIEW]
 
