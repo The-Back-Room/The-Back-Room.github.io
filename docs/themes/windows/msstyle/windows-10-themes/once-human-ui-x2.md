@@ -39,11 +39,6 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 *   **Custom Sounds**: Contains custom Logon and Logoff sounds
 *   **Custom Icons**: Contains [Gen2 Plasma Blue V2][ICONS] icons ported to [Resource Redirect][RESOURCE_REDIRECT]
 
-#### Included Themes
-
-*   BLEACH \[UI-X2\]
-*   BLEACH: Thousand Year Blood War \[UI-X2\]
-
 **Download**: [Download ZIP][DOWNLOAD_ZIP]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
