@@ -10,9 +10,7 @@ favicon_ico: "/favicon.ico"
 
 remote_theme: just-the-docs/just-the-docs
 
-color_scheme: nil
-# enable this to place buttons in the footer to toggle between light and dark mode
-enable_color_scheme_toggle: true
+color_scheme: dark
 
 mermaid:
   version: "9.1.3"
