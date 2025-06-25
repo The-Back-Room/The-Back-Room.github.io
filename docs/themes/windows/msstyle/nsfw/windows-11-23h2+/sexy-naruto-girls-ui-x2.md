@@ -2,7 +2,7 @@
 layout: default
 title: Sexy Naruto Girls
 parent: Windows 11 23H2+ NSFW Themes
-grand_parent: NSFW MSSTYLE Themes
+grand_parent: NSFW Themes
 has_toc: false
 nav_order: 3
 permalink: /themes/windows/msstyle/nsfw/windows-11-23h2+/sexy-naruto-girls-ui-x2

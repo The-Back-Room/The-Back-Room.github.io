@@ -2,7 +2,7 @@
 layout: default
 title: Final Fantasy XIV Waifus UI-X2
 parent: Windows 11 23H2+ NSFW Themes
-grand_parent: NSFW MSSTYLE Themes
+grand_parent: NSFW Themes
 has_toc: false
 nav_order: 4
 permalink: /themes/windows/msstyle/nsfw/windows-11-23h2+/final-fantasy-xiv-waifus-ui-x2
