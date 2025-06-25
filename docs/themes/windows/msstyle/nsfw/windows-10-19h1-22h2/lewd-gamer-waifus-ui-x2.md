@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Lewd Gamer Waifus UI-X2
 parent: Windows 10 19H1-22H2 NSFW Themes
 grand_parent: NSFW MSSTYLE Themes

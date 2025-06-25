@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Ranma Hentai UI-X2
 parent: Windows 11 23H2+ NSFW Themes
 grand_parent: NSFW MSSTYLE Themes

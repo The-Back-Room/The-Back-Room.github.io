@@ -1,5 +1,6 @@
 ---
-title:
+layout: default
+title: Ecchi UI-X2
 parent: NSFW MSSTYLE Themes
 has_toc: false
 nav_order: 1
