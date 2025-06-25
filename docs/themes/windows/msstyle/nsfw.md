@@ -26,11 +26,3 @@ permalink: /themes/windows/msstyle/nsfw
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
-
-<br />
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-<br />
-<a href="/themes/windows/msstyle">
-<button type="button" name="button" class="btn">Back</button></a>
-<br />
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
