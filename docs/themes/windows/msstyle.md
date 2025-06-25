@@ -2,7 +2,6 @@
 layout: default
 title: MSSTYLE Themes
 nav_order: 1
-has_toc: false
 parent: Windows Themes
 grand_parent: Themes
 permalink: /themes/windows/msstyle
@@ -178,126 +177,6 @@ You can find the original source code here:
 <span class="fs-3">
 <div align="center" class="text-small">
 <a href="https://github.com/The-Back-Room/Windows-7-Themes-for-Windows-11/archive/refs/heads/main.zip" target="_blank">
-<button type="button" name="button" class="btn">Download</button>
-</a> 
-</div>
-</span>
-<br />
-</div>
-<br />
-<div class="card">
-<div class="responsive">
-<img src="https://the-back-room.info/assets/images/themes/sfw/msstyle/ONCE-HUMAN-UI-X2.png" />
-</div>
-<div class="container">
-<h2 class="text-small" style="text-align:center">Once Human UI-X2 Theme for Windows 10 19H1-22H1</h2>
-<br />
-<p>
-This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a><br />
-You can find the original UI-X2 theme  here: 
-<a href="https://virtualcustoms.net/showthread.php/88154-UI-X2-Theme-for-Windows-10-19H1-22H2" target="_blank">UI-X2 Theme for Windows 1019H2-22H2</a>
-</p>
-<h4>Requirements</h4>
-<ul>
-<li>
-<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
-<a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a>
-</li>
-<li>
-<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
-<a href="https://windhawk.net/mods/logon-logoff-shutdown-sounds" target="_blank">Plugin: Logon, Logoff & Shutdown Sounds Restored</a>
-</li>
-<li>
-<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
-<a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a>
-</li>
-<li>
-<a href="https://mhoefs.eu/software_uxtheme.php" target="_blank">UltraUxThemePatcher</a> | 
-<a href="https://github.com/namazso/SecureUxTheme" target="_blank">SecureUxTheme</a> | 
-<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
-<a href="https://windhawk.net/mods/uxtheme-hook" target="_blank">UxThemeHook</a>
-</li>
-<li>
-<a href="https://www.startallback.com/" target="_blank">StartAllBack</a>
-</li>
-<li>
-<a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a>
-</li>
-<li>
-<a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a>
-</li>
-</ul>
-<h4>Features</h4>
-<ul>
-<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="https://www.deviantart.com/anblues" target="_blank">anblues</a></li>
-<li><b>Custom Sounds</b>: Contains custom sounds</li>
-<li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
-</ul>
-</div>
-<br />
-<span class="fs-3">
-<div align="center" class="text-small">
-<a href="https://github.com/The-Back-Room/Once-Human-UI-X2-Theme-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip" target="_blank">
-<button type="button" name="button" class="btn">Download</button>
-</a> 
-</div>
-</span>
-<br />
-</div>
-<br />
-<div class="card">
-<div class="responsive">
-<img src="https://the-back-room.info/assets/images/themes/sfw/msstyle/BLEACH-TYBW-UI-X2.png" />
-</div>
-<div class="container">
-<h2 class="text-small" style="text-align:center">BLEACH UI-X2 Themes for Windows 10 19H1-22H1</h2>
-<br />
-<p>
-This theme was built using the UI-X2 MSSTYLES bu <a href="https://virtualcustoms.net/member.php/228009-devillnside" target="_blank">devillnside</a><br />
-You can find the original UI-X2 theme  here: 
-<a href="https://virtualcustoms.net/showthread.php/88154-UI-X2-Theme-for-Windows-10-19H1-22H2" target="_blank">UI-X2 Theme for Windows 1019H2-22H2</a>
-</p>
-<h4>Requirements</h4>
-<ul>
-<li>
-<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
-<a href="https://windhawk.net/mods/w11-dwm-fix" target="_blank">Bring Back the Borders!</a>
-</li>
-<li>
-<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
-<a href="https://windhawk.net/mods/logon-logoff-shutdown-sounds" target="_blank">Plugin: Logon, Logoff & Shutdown Sounds Restored</a>
-</li>
-<li>
-<a href="https://windhawk.net/" target="_blank">WindHawk</a> 
-<a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a>
-</li>
-<li>
-<a href="https://mhoefs.eu/software_uxtheme.php" target="_blank">UltraUxThemePatcher</a> | 
-<a href="https://github.com/namazso/SecureUxTheme" target="_blank">SecureUxTheme</a> | 
-<a href="https://windhawk.net/" target="_blank">WindHawk</a> Plugin: 
-<a href="https://windhawk.net/mods/uxtheme-hook" target="_blank">UxThemeHook</a>
-</li>
-<li>
-<a href="https://www.startallback.com/" target="_blank">StartAllBack</a>
-</li>
-<li>
-<a href="https://msfn.org/board/topic/170375-oldnewexplorer-119/" target="_blank">OldNewExplorer</a>
-</li>
-<li>
-<a href="https://github.com/Maplespe/DWMBlurGlass" target="_blank">DWMBlurGlass</a>
-</li>
-</ul>
-<h4>Features</h4>
-<ul>
-<li><b>Custom Cursors</b>: Contains X-Steel [Blue] Small cursors by <a href="https://www.deviantart.com/anblues" target="_blank">anblues</a></li>
-<li><b>Custom Sounds</b>: Contains custom sounds</li>
-<li><b>Custom Icons</b>: Contains <a href="https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1" target="_blank">Gen2 Plasma Blue V2</a> icons ported to <a href="https://windhawk.net/mods/icon-resource-redirect" target="_blank">Plugin: Resource Redirect</a></li>
-</ul>
-</div>
-<br />
-<span class="fs-3">
-<div align="center" class="text-small">
-<a href="https://github.com/The-Back-Room/BLEACH-UI-X2-Themes-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip" target="_blank">
 <button type="button" name="button" class="btn">Download</button>
 </a> 
 </div>
