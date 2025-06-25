@@ -4,7 +4,7 @@ button {
 
 .card {
   display: block;
-  background-color: $sidebar-color;
+  background-color: rgb(42, 89, 133);
   box-shadow: 0 4px 8px 0 darken($sidebar-color, 3%);
   transition: 0.3s;
   border-radius: 5px;
@@ -15,7 +15,7 @@ button {
 }
 
 .container {
-  background-color: $sidebar-color;
+  background-color: rgb(42, 89, 133);
   padding: 2px 16px;
 }
 
