@@ -27,11 +27,13 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 *   [OldNewExplorer][OLD_NEW_EXPLORER]
 *   [DWMBlurGlass][DWM_BLUR_GLASS]
 *   [OpenGlass][OPEN_GLASS]
+
 #### Features
 
 *   **Custom Cursors**: Contains X-Steel \[BLUE\] cursors by [anblues][ANBLUES]
 *   **Custom Sounds**: Contains custom Logon and Logoff sounds
 *   **Custom Icons**: Contains [Gen2 Plasma Blue V2][ICONS] icons ported to [Resource Redirect][RESOURCE_REDIRECT]
+*   **Windows 11 DWM Fix**: Themes have been updated for use with Windows 11
 
 #### Included Themes
 
