@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Lewd Gamer Waifus UI-X2
-parent: NSFW Windows 11 Themes
-grand_parent: NSFW Themes
+nav_exclude: true
 has_toc: false
 permalink: /themes/windows/msstyle/nsfw/windows-11-themes/lewd-gamer-waifus-ui-x2
 published: false

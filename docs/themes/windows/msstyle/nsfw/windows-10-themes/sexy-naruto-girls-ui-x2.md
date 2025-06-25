@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Sexy Naruto Girls UI-X2
-parent: NSFW Windows 10 Themes
-grand_parent: NSFW Themes
+nav_exclude: true
 has_toc: false
 permalink: /themes/windows/msstyle/nsfw/windows-10-themes/sexy-naruto-girls-ui-x2
 ---

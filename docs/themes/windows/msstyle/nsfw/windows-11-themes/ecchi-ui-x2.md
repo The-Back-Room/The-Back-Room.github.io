@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Ecchi UI-X2
-parent: NSFW Windows 11 Themes
-grand_parent: NSFW Themes
+nav_exclude: true
 has_toc: false
 permalink: /themes/windows/msstyle/nsfw/windows-11-themes/ecchi-ui-x2
 published: false
