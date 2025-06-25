@@ -21,7 +21,8 @@ permalink: /themes/windows/msstyle/nsfw/windows-10-themes/final-fantasy-xiv-waif
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-## Final Fantasy XIV Waifus UI-X2 for Windows 10 19H1-22H2
+
+## Final Fantasy XIV Waifus UI-X2 for Windows 10 19H1-22H2   
 
 ![][PREVIEW]
 

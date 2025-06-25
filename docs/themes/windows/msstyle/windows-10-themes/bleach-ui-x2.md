@@ -16,7 +16,7 @@ permalink: /themes/windows/msstyle/windows-10-themes/bleach-ui-x2
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
 
-## BLEACH UI-X2 for Windows 10 19H1-22H2
+## BLEACH UI-X2 for Windows 10 19H1-22H2   
 
 ![][PREVIEW]
 

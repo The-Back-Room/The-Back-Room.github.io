@@ -22,7 +22,8 @@ published: false
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-## Sexy Naruto Girls UI-X2 for Windows 11 23H2+
+
+## Sexy Naruto Girls UI-X2 for Windows 11 23H2+   
 
 ![][PREVIEW]
 

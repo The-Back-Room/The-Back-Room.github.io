@@ -17,7 +17,7 @@ published: false
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
 
-## Once Human UI-X2 for Windows 11 23H2+
+## Once Human UI-X2 for Windows 11 23H2+   
 
 ![][PREVIEW]
 

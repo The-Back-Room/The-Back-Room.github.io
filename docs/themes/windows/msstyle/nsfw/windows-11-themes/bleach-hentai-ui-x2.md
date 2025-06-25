@@ -22,7 +22,8 @@ published: false
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-## BLEACH Hentai UI-X2 for Windows 11 23H2+
+
+## BLEACH Hentai UI-X2 for Windows 11 23H2+   
 
 ![][PREVIEW]
 

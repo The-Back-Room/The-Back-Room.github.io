@@ -16,7 +16,7 @@ permalink: /themes/windows/msstyle/windows-11-themes/bleach
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
 
-## BLEACH for Windows 11 23H2+
+## BLEACH for Windows 11 23H2+   
 
 ![][PREVIEW]
 

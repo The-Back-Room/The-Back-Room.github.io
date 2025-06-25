@@ -16,7 +16,7 @@ permalink: /themes/windows/msstyle/windows-11-themes/windows-7
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
 
-## Windows 7 for Windows 11 23H2+
+## Windows 7 for Windows 11 23H2+   
 
 ![][PREVIEW]
 
@@ -40,11 +40,10 @@ You can find the original source code here: [LittleFox2024/Aero7-11: Aero 7 them
 *   **Custom Sounds**: Contains the original sounds for each theme
 *   **Custom Icons**: Contains a Windows 7 system icon pack
 *   **Alternate Styles**: Contains 4 different styles
-
-*   Round
-*   Square
-*   Round - Small Title
-*   Square - Small Title
+    *   Round
+    *   Square
+    *   Round - Small Title
+    *   Square - Small Title
 
 #### Included Themes
 

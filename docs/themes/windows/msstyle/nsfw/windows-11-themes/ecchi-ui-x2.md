@@ -22,7 +22,8 @@ published: false
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-## Ecchi UI-X2 for Windows 11 23H2+
+
+## Ecchi UI-X2 for Windows 11 23H2+   
 
 ![][PREVIEW]
 
