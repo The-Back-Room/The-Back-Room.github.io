@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Ranma Hentai UI-X2
-parent: Windows 10 Theemes
+title: Sexy Naruto Girls UI-X2
+parent: NSFW Windows 10 Themes
 grand_parent: NSFW Themes
 has_toc: false
-permalink: /themes/windows/msstyle/nsfw/windows-10-themes/ranma-hentai-ui-x2
+permalink: /themes/windows/msstyle/nsfw/windows-10-themes/sexy-naruto-girls-ui-x2
 ---
 
-Ranma Hentai UI-X2 Themes for Windows 10 19H1-22H2
+Sexy Naruto Girls UI-X2 Themes for Windows 10 19H1-22H2
 ===============================
 
 ![][PREVIEW]
@@ -40,7 +40,7 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[PREVIEW]: https://the-back-room.info/assets/images/themes/nsfw/msstyle/RANMA-HENTAI-UI-X2.png
+[PREVIEW]: https://the-back-room.info/assets/images/themes/nsfw/msstyle/SEXY-NARUTO-GIRLS-UI-X2.png
 
 [WINDHAWK]: https://windhawk.net/
 
@@ -70,6 +70,6 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 
 [ICONS]: https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1
 
-[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/Ranma-Hentai-UI-X2-Themes-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip
+[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-UI-X2-Themes-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

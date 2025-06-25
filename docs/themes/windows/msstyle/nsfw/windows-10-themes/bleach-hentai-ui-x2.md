@@ -1,28 +1,26 @@
 ---
 layout: default
-title: Sexy Naruto Girls UI-X2
-parent: Windows 11 Themes
+title: BLEACH Hentai UI-X2
+parent: NSFW Windows 10 Themes
 grand_parent: NSFW Themes
 has_toc: false
-permalink: /themes/windows/msstyle/nsfw/windows-11-themes/sexy-naruto-girls-ui-x2
-published: false
+permalink: /themes/windows/msstyle/nsfw/windows-10-themes/bleach-hentai-ui-x2
 ---
 
-Sexy Naruto Girls UI-X2 Themes for Windows 11 23H2+
+BLEACH Hentai UI-X2 Themes for Windows 10 19H1-22H2
 ===============================
 
 ![][PREVIEW]
 
-This theme was built using the UI-X2 MSSTYLES for Windows 11 23H2+ by [devillnside][DEVILLNSIDE]   
-You can find the UI-X2 theme here: [UI-X2 Theme for Windows 11 23H2+][ORIGINAL]
+This theme was built using the UI-X2 MSSTYLES for Windows 10 19H1-22H2 by [devillnside][DEVILLNSIDE]   
+You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGINAL]
 
 #### Requirements
 
-*   [WindHawk][WINDHAWK] Plugin: [Bring Back the Borders!][BRING_BACK_THE_BORDERS]
 *   [WindHawk][WINDHAWK] Plugin: [Logon, Logoff & Shutdown Sounds Restored][LOGON_LOGOFF_SHUTDOWN_SOUNDS_RESTORED]
 *   [WindHawk][WINDHAWK] Plugin: [Resource Redirect][RESOURCE_REDIRECT]
 *   [UltraUxThemePatcher][ULTRA_UX_THEME_PATCHER] \| [SecureUxTheme][SECURE_UX_THEME] \| [WindHawk][WINDHAWK] Plugin: [UxThemeHook][UX_THEME_HOOK]
-*   [StartAllBack][STARTALLBACK]
+*   [StartIsBack][STARTISBACK]
 *   [OldNewExplorer][OLD_NEW_EXPLORER]
 *   [DWMBlurGlass][DWM_BLUR_GLASS]
 *   [OpenGlass][OPEN_GLASS]
@@ -32,7 +30,6 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 11 23H2+][ORIGINAL]
 *   **Custom Cursors**: Contains X-Steel \[BLUE\] cursors by [anblues][ANBLUES]
 *   **Custom Sounds**: Contains custom Logon and Logoff sounds
 *   **Custom Icons**: Contains [Gen2 Plasma Blue V2][ICONS] icons ported to [Resource Redirect][RESOURCE_REDIRECT]
-*   **Windows 11 DWM Fix**: The theme has been fixed for proper Windows 11 support
 
 #### Included Themes
 
@@ -43,15 +40,13 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 11 23H2+][ORIGINAL]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[PREVIEW]: https://the-back-room.info/assets/images/themes/nsfw/msstyle/SEXY-NARUTO-GIRLS-UI-X2.png
+[PREVIEW]: https://the-back-room.info/assets/images/themes/nsfw/msstyle/BLEACH-HENTAI-UI-X2.png
 
 [WINDHAWK]: https://windhawk.net/
 
-[BRING_BACK_THE_BORDERS]: https://windhawk.net/mods/w11-dwm-fix
-
 [RESOURCE_REDIRECT]: https://windhawk.net/mods/icon-resource-redirect
 
-[STARTALLBACK]: https://www.startallback.com/
+[STARTISBACK]: https://www.startisback.com/
 
 [OLD_NEW_EXPLORER]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 
@@ -75,6 +70,6 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 11 23H2+][ORIGINAL]
 
 [ICONS]: https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1
 
-[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-UI-X2-Themes-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip
+[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/BLEACH-Hentai-UI-X2-Themes-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

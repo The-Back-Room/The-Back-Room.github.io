@@ -1,13 +1,13 @@
 ---
 layout: default
-title: FFXIV Waifus UI-X2
-parent: Windows 10 Theemes
+title: Ecchi UI-X2
+parent: NSFW Windows 10 Themes
 grand_parent: NSFW Themes
 has_toc: false
-permalink: /themes/windows/msstyle/nsfw/windows-10-themes/final-fantasy-xiv-waifus-ui-x2
+permalink: /themes/windows/msstyle/nsfw/windows-10-themes/ecchi-ui-x2
 ---
 
-Final Fantasy XIV Waifus UI-X2 Themes for Windows 10 19H1-22H2
+Ecchi UI-X2 Themes for Windows 10 19H1-22H2
 ===============================
 
 ![][PREVIEW]
@@ -40,7 +40,7 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[PREVIEW]: https://the-back-room.info/assets/images/themes/nsfw/msstyle/FINAL-FANTASY-XIV-WAIFUS-UI-X2.png
+[PREVIEW]: https://the-back-room.info/assets/images/themes/nsfw/msstyle/ECCHI-UI-X2.png
 
 [WINDHAWK]: https://windhawk.net/
 
@@ -70,6 +70,6 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 
 [ICONS]: https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1
 
-[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/Final-Fantasy-XIV-Waifus-UI-X2-Themes-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip
+[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/Ecchi-UI-X2-Themes-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
