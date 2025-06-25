@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BLEACH Hentai UI-X2
-parent: Windows 11 23H2+ NSFW Themes
+parent: Windows 11 23H2+
 grand_parent: NSFW Themes
 has_toc: false
 nav_order: 5

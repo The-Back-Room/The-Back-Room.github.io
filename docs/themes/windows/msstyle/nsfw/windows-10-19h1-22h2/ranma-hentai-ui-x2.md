@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ranma Hentai UI-X2
-parent: Windows 10 19H1-22H2 NSFW Themes
+parent: Windows 10 19H1-22H2
 grand_parent: NSFW Themes
 has_toc: false
 nav_order: 6
