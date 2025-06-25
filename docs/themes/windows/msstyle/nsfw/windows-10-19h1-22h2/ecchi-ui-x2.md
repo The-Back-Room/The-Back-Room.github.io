@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Ecchi UI-X2
-parent: Windows 10 19H1-22H2
+parent: Windows 10 Theemes
 grand_parent: NSFW Themes
 has_toc: false
-nav_order: 1
-permalink: /themes/windows/msstyle/nsfw/windows-10-19h1-22h2/ecchi-ui-x2
+permalink: /themes/windows/msstyle/nsfw/windows-10-themes/ecchi-ui-x2
 ---
 
 Ecchi UI-X2 Themes for Windows 10 19H1-22H2

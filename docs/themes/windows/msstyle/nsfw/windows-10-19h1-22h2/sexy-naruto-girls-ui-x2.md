@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Sexy Naruto Girls
-parent: Windows 10 19H1-22H2
+title: Sexy Naruto Girls UI-X2
+parent: Windows 10 Theemes
 grand_parent: NSFW Themes
 has_toc: false
-nav_order: 3
-permalink: /themes/windows/msstyle/nsfw/windows-10-19h1-22h2/sexy-naruto-girls-ui-x2
+permalink: /themes/windows/msstyle/nsfw/windows-10-themes/sexy-naruto-girls-ui-x2
 ---
 
 Sexy Naruto Girls UI-X2 Themes for Windows 10 19H1-22H2

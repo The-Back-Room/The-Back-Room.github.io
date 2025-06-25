@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Windows 11 23H2+
+title: Windows 11 Themes
 parent: NSFW Themes
 grand_parent: MSSTYLE Themes
 nav_order: 1

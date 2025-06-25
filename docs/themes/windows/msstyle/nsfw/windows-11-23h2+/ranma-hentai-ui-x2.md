@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Ranma Hentai UI-X2
-parent: Windows 11 23H2+
+parent: Windows 11 Themes
 grand_parent: NSFW Themes
 has_toc: false
-nav_order: 6
-permalink: /themes/windows/msstyle/nsfw/windows-11-23h2+/ranma-hentai-ui-x2
+permalink: /themes/windows/msstyle/nsfw/windows-11-themes/ranma-hentai-ui-x2
 published: false
 ---
 

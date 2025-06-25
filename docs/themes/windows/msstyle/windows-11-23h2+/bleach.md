@@ -1,11 +1,10 @@
 ---
 layout: default
 title: BLEACH
-parent: Windows 11 23H2+
-grand_parent: SFW Themes
+parent: Windows 11 Themes
+grand_parent: MSSTYLE Themes
 has_toc: false
-nav_order: 1
-permalink: /themes/windows/msstyle/sfw/windows-11-23h2+/bleach
+permalink: /themes/windows/msstyle/windows-11-themes/bleach
 ---
 
 BLEACH Themes for Windows 11 23H2+

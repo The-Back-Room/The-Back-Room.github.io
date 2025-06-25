@@ -3,7 +3,7 @@ layout: default
 title: NSFW Themes
 parent: MSSTYLE Themes
 grand_parent: Windows Themes
-nav_order: 2
+nav_exclude: true
 permalink: /themes/windows/msstyle/nsfw
 ---
 
@@ -26,3 +26,18 @@ permalink: /themes/windows/msstyle/nsfw
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
+
+
+<ul class="text-delta">
+<li><a href="/themes/windows/msstyle/nsfw/windows-10-19h2-22h2"></a></li>
+<li><a href="/themes/windows/msstyle/nsfw/windows-11-23h2+"></a></li>
+</ul>
+
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<br />
+<a href="/themes/windows/msstyle">
+<button type="button" name="button" class="btn">Back</button>
+</a>
+<br />
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

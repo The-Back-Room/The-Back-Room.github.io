@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Windows 10 19H1-22H2
+title: Windows 10 Themes
 parent: NSFW Themes
 grand_parent: MSSTYLE Themes
 nav_order: 1
-permalink: /themes/windows/msstyle/nsfw/windows-10-19h1-22h2
+permalink: /themes/windows/msstyle/nsfw/windows-10-themes
 ---
 
 <!-- >
@@ -26,3 +26,6 @@ permalink: /themes/windows/msstyle/nsfw/windows-10-19h1-22h2
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
+
+
+

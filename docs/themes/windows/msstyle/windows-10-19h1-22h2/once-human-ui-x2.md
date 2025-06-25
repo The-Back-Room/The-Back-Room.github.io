@@ -1,14 +1,13 @@
 ---
 layout: default
-title: BLEACH UI-X2
-parent: Windows 10 19H1-22H2
-grand_parent: SFW Themes
+title: Once Human UI-X2
+parent: Windows 10 Themes
+grand_parent: MSSTYLE Themes
 has_toc: false
-nav_order: 2
-permalink: /themes/windows/msstyle/sfw/windows-10-19h1-22h2/bleach-ui-x2
+permalink: /themes/windows/msstyle/windows-10-themes/once-human-ui-x2
 ---
 
-BLEACH UI-X2 Themes for Windows 10 19H1-22H2
+Once Human UI-X2 Theme for Windows 10 19H1-22H2
 ===============================
 
 ![][PREVIEW]
@@ -26,6 +25,7 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 *   [OldNewExplorer][OLD_NEW_EXPLORER]
 *   [DWMBlurGlass][DWM_BLUR_GLASS]
 *   [OpenGlass][OPEN_GLASS]
+
 #### Features
 
 *   **Custom Cursors**: Contains X-Steel \[BLUE\] cursors by [anblues][ANBLUES]
@@ -41,7 +41,7 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[PREVIEW]: https://the-back-room.info/assets/images/themes/sfw/msstyle/BLEACH-TYBW-UI-X2.png
+[PREVIEW]: https://the-back-room.info/assets/images/themes/sfw/msstyle/ONCE-HUMAN-UI-X2.png
 
 [WINDHAWK]: https://windhawk.net/
 
@@ -71,6 +71,6 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 
 [ICONS]: https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1
 
-[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/BLEACH-UI-X2-Themes-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip
+[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/Once-Human-UI-X2-Theme-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

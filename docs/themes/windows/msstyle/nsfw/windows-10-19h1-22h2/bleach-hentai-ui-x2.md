@@ -1,11 +1,10 @@
 ---
 layout: default
 title: BLEACH Hentai UI-X2
-parent: Windows 10 19H1-22H2
+parent: Windows 10 Theemes
 grand_parent: NSFW Themes
 has_toc: false
-nav_order: 5
-permalink: /themes/windows/msstyle/nsfw/windows-10-19h1-22h2/bleach-hentai-ui-x2
+permalink: /themes/windows/msstyle/nsfw/windows-10-themes/bleach-hentai-ui-x2
 ---
 
 BLEACH Hentai UI-X2 Themes for Windows 10 19H1-22H2

@@ -1,11 +1,10 @@
 ---
 layout: default
 title: FFXIV Waifus UI-X2
-parent: Windows 10 19H1-22H2
+parent: Windows 10 Theemes
 grand_parent: NSFW Themes
 has_toc: false
-nav_order: 4
-permalink: /themes/windows/msstyle/nsfw/windows-10-19h1-22h2/final-fantasy-xiv-waifus-ui-x2
+permalink: /themes/windows/msstyle/nsfw/windows-10-themes/final-fantasy-xiv-waifus-ui-x2
 ---
 
 Final Fantasy XIV Waifus UI-X2 Themes for Windows 10 19H1-22H2
