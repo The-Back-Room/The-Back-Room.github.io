@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Final Fantasy XIV Waifus UI-X2
+title: FFXIV Waifus UI-X2
 parent: Windows 11 23H2+
 grand_parent: NSFW Themes
 has_toc: false
