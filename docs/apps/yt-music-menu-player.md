@@ -13,7 +13,7 @@ permalink: /apps/yt-music-menu-player
 
 {: .important }
 > {: .opaque }
-> This app is designed to be bare minimal and run in your system tray. As such there is no context menu or navigation buttons.  To close the app, stop any playing music and use the keyboard shortcut `Command+X` or `Control+X` depending on your platform.
+> To close the app, stop any playing music and use the keyboard shortcut `Command+X` or `Control+X` depending on your platform.
 
 YT Music Player
 ===============================
