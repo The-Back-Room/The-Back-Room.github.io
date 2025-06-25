@@ -36,7 +36,7 @@ YT Music Player
 
 **Dowanlod**: [Download Zip][DOWNLOAD_ZIP]
 
-[PREVIEW]: https://the-back-room.info/assets/images/yt-music.png
+[PREVIEW]: https://the-back-room.info/assets/images/apps/yt-music-menu-player.png
 
 [SOURCE]: https://music.youtube.com
 
