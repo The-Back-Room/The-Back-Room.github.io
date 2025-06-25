@@ -8,8 +8,16 @@ permalink: /themes/windows/msstyle/windows-11-themes/once-human-ui-x2
 published: false
 ---
 
-Once Human UI-X2 Theme for Windows 11 23H2+
-===============================
+{: .note }
+> {: .opaque }
+> {: .warning }
+> These themes are for advanced users who know how to properly patch their system files to run unsigned themes. 
+> Patching your system files **CAN** and **WILL** brick your system if done wrong.
+>
+> We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
+
+
+### Once Human UI-X2 Theme for Windows 11 23H2+
 
 ![][PREVIEW]
 

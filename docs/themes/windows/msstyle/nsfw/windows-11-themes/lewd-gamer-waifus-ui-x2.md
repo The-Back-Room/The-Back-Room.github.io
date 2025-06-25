@@ -22,8 +22,8 @@ published: false
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-Lewd Gamer Waifus UI-X2 Themes for Windows 11 23H2+
-===============================
+
+### Lewd Gamer Waifus UI-X2 Themes for Windows 11 23H2+
 
 ![][PREVIEW]
 
