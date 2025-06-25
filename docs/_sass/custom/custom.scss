@@ -1,4 +1,18 @@
-$card-background-color: $grey-dk-200;
+$body-background-color: $grey-dk-200;
+// $body-heading-color: $grey-lt-000;
+// $body-text-color: $grey-lt-300;
+// $link-color: $blue-000;
+// $nav-child-link-color: $grey-dk-000;
+$sidebar-color: $grey-dk-300;
+// $base-button-color: $grey-dk-250;
+// $btn-primary-color: $blue-200;
+// $code-background-color: #31343f;
+// $code-linenumber-color: #dee2f7;
+// $feedback-color: darken($sidebar-color, 3%);
+// $table-background-color: $grey-dk-250;
+// $search-background-color: $grey-dk-250;
+// $search-result-preview-color: $grey-dk-000;
+// $border-color: $grey-dk-200;
 
 button {
   padding: 2px 16px;
@@ -6,18 +20,18 @@ button {
 
 .card {
   display: block;
-  background-color: $card-background-color;
-  box-shadow: 0 4px 8px 0 darken($card-background-color, 3%);
+  background-color: $sidebar-color;
+  box-shadow: 0 4px 8px 0 darken($sidebar-color, 3%);
   transition: 0.3s;
   border-radius: 5px;
 }
 
 .card:hover {
-  box-shadow: 0 8px 16px 0 darken($card-background-color, 3%);
+  box-shadow: 0 8px 16px 0 darken($sidebar-color, 3%);
 }
 
 .container {
-  background-color: $card-background-color;
+  background-color: $sidebar-color;
   padding: 2px 16px;
 }
 
