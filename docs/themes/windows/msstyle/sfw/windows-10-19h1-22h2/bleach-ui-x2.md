@@ -2,10 +2,10 @@
 layout: default
 title: BLEACH UI-X2
 parent: Windows 10 19H1-22H2
-grand_parent: MSSTYLE Themes
+grand_parent: SFW Themes
 has_toc: false
 nav_order: 2
-permalink: /themes/windows/msstyle/windows-10-19h1-22h2/bleach-ui-x2
+permalink: /themes/windows/msstyle/sfw/windows-10-19h1-22h2/bleach-ui-x2
 ---
 
 BLEACH UI-X2 Themes for Windows 10 19H1-22H2
