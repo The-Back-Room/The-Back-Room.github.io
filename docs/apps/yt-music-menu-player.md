@@ -28,7 +28,7 @@ YT Music Player
 #### Installation
 
 *   Download and install the latest LTS version of [NodeJS][NODEJS]
-*   Once NodeJS is finished installing, open Command Prompt or Terminal, type `npm install -g yarn` and pres enter
+*   Once NodeJS is finished installing, open Command Prompt or Terminal, type `npm install -g yarn` and press enter
 *   Download this zip file linked below and extract it to a location of your choosing
 *   Open the folder in Command Prompt or Terminal
 *   Type `yarn install && yarn package` and press enter
