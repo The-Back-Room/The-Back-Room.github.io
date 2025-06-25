@@ -21,9 +21,9 @@ You can find the original source code here: [LittleFox2024/Aero7-11: Aero 7 them
 *   [WindHawk][WINDHAWK] Plugin: [Bring Back the Borders!][BRING_BACK_THE_BORDERS]
 *   [WindHawk][WINDHAWK] [Plugin: Logon, Logoff & Shutdown Sounds Restored][LOGON_LOGOFF_SHUTDOWN_SOUNDS_RESTORED]
 *   [WindHawk][WINDHAWK] [Plugin: Resource Redirect][RESOURCE_REDIRECT]
-*   [UltraUxThemePatcher][ULTRA_UX_THEME_PATCHER] | [SecureUxTheme][SECURE_UX_THEME] | [WindHawk][WINDHAWK] Plugin: [UxThemeHook][UX_THEME_HOOK]
-*   [StartAllBack][STARTALLBACK] | [Explorer7][OLD_NEW_EXPLORER]
-*   [OldNewExplorer][OLD_NEW_EXPLORER] | [WindHawk][WINDHAWK] Plugin: [Aerexplorer][AEREXPLORER]
+*   [UltraUxThemePatcher][ULTRA_UX_THEME_PATCHER] \| [SecureUxTheme][SECURE_UX_THEME] \| [WindHawk][WINDHAWK] Plugin: [UxThemeHook][UX_THEME_HOOK]
+*   [StartAllBack][STARTALLBACK] \| [Explorer7][OLD_NEW_EXPLORER]
+*   [OldNewExplorer][OLD_NEW_EXPLORER] \| [WindHawk][WINDHAWK] Plugin: [Aerexplorer][AEREXPLORER]
 *   [DWMBlurGlass][DWM_BLUR_GLASS]
 *   [Mica For Everyone][MICA_FOR_EVERYONE]
 
