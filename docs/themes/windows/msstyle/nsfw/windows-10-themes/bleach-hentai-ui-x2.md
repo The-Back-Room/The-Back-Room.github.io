@@ -41,9 +41,9 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 10 19H1-22H2][ORIGIN
 
 #### Features
 
-*   **Custom Cursors**: Contains X-Steel \[BLUE\] cursors by [anblues][ANBLUES]
-*   **Custom Sounds**: Contains custom sounds
-*   **Custom Icons**: Contains [Gen2 Plasma Blue V2][ICONS] icons ported to [Resource Redirect][RESOURCE_REDIRECT]
+*   X-Steel \[BLUE\] cursors by [anblues][ANBLUES]
+*   Custom sounds
+*   Contains [Gen2 Plasma Blue V2][ICONS] icons ported to [Resource Redirect][RESOURCE_REDIRECT]
 
 #### Included Themes
 

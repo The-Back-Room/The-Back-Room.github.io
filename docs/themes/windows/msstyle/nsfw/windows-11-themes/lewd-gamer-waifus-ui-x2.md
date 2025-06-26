@@ -4,7 +4,6 @@ title: Lewd Gamer Waifus UI-X2 for Windows 11 23H2+
 nav_exclude: true
 has_toc: false
 permalink: /themes/windows/msstyle/nsfw/windows-11-themes/lewd-gamer-waifus-ui-x2
-published: false
 ---
 
 {: .important }
@@ -30,6 +29,8 @@ published: false
 This theme was built using the UI-X2 MSSTYLES for Windows 11 23H2+ by [devillnside][DEVILLNSIDE]   
 You can find the UI-X2 theme here: [UI-X2 Theme for Windows 11 23H2+][ORIGINAL]
 
+Big thanks to [J4M3SX019][J4M3SX019] for providing the Windows 11 DWM fix needed to get this updated to Windows 11!
+
 #### Requirements
 
 *   [WindHawk][WINDHAWK] Plugin: [Bring Back the Borders][BRING_BACK_THE_BORDERS]
@@ -43,15 +44,9 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 11 23H2+][ORIGINAL]
 
 #### Features
 
-*   **Custom Cursors**: Contains X-Steel \[BLUE\] cursors by [anblues][ANBLUES]
-*   **Custom Sounds**: Contains custom sounds
-*   **Custom Icons**: Contains [Gen2 Plasma Blue V2][ICONS] icons ported to [Resource Redirect][RESOURCE_REDIRECT]
-*   **Windows 11 DWM Fix**: The theme has been fixed for proper Windows 11 support
-
-#### Included Themes
-
-*   BLEACH \[UI-X2\]
-*   BLEACH: Thousand Year Blood War \[UI-X2\]
+*   X-Steel \[BLUE\] cursors by [anblues][ANBLUES]
+*   Custom sounds
+*   Contains [Gen2 Plasma Blue V2][ICONS] icons ported to [Resource Redirect][RESOURCE_REDIRECT]
 
 **Download**: [Download ZIP][DOWNLOAD_ZIP]
 
@@ -89,6 +84,8 @@ You can find the UI-X2 theme here: [UI-X2 Theme for Windows 11 23H2+][ORIGINAL]
 
 [ICONS]: https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1
 
-[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-UI-X2-Themes-for-Windows-10-19H1-22H2/archive/refs/heads/main.zip
+[J4M3SX019]: https://virtualcustoms.net/member.php/332654-J4M3SX019
+
+[DOWNLOAD_ZIP]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-UI-X2-Theme-for-Windows-11-23H2/archive/refs/heads/main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
