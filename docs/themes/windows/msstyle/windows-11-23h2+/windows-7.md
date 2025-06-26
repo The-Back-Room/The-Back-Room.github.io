@@ -53,7 +53,7 @@ You can find the original source code here: [LittleFox2024/Aero7-11: Aero 7 them
 *   **Community Showcase**: Aqua, Cityscapes
 *   **Others**: Beach Sunsets, Glowing Beaches, Waterscapes
 
-[Download][DOWNLOAD_ZIP]
+**Download**: [Download][DOWNLOAD_ZIP]
 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

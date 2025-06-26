@@ -45,9 +45,7 @@ You can find the original source code here: [LittleFox2024/Aero7-11: Aero 7 them
 *   **BLEACH**: Thousand Year Blood War - Small Title
 *   **BLEACH**: Thousand Year Blood War - Square - Small Title
 
-  
-
-[Download](https://github.com/The-Back-Room/BLEACH-Themes-for-Windows-11/archive/refs/heads/main.zip)
+**Download**: [Download][DOWNLOAD_ZIP]
 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
