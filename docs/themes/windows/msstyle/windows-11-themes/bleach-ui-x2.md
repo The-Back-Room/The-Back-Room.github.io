@@ -55,6 +55,8 @@ Big thanks to [J4M3SX019][J4M3SX019] for providing the Windows 11 DWM fix needed
 
 [WINDHAWK]: https://windhawk.net/
 
+[BRING_BACK_THE_BORDERS]: https://windhawk.net/mods/w11-dwm-fix
+
 [RESOURCE_REDIRECT]: https://windhawk.net/mods/icon-resource-redirect
 
 [STARTALLBACK]: https://www.startallback.com/
