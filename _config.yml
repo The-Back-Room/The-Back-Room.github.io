@@ -1,9 +1,71 @@
 title: The Back Room
 description: Open-Source Development and Customization
+baseurl: ""
+url: "https://the-back-room.github.io"
+author:
+  name: The Back Room
+  email: "Darkwater409@gmail.com"
+  url: "https://the-back-room.github.io"
+theme: jekyll-theme-minimal
+theme_color: "#333333"
+lang: en
+timezone: "America/Phoenix"
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+    inline:
+      line_numbers: false
+  math_engine: mathjax
+mathjax:
+  macros:
+    "\\R": "\\mathbb{R}"
+    "\\Z": "\\mathbb{Z}"
+    "\\N": "\\mathbb{N}"
+    "\\C": "\\mathbb{C}"
+    "\\Q": "\\mathbb{Q}"
+  options:
+    ignoreHtmlClass: ".*"
+    processHtmlClass: "tex2jax_process|mathjax_ignore"
+    texHints: true
+    asciimath: false
+  displayAlign: "center"
+  displayIndent: "0em"
+permalink: /:path/
+permalink_defaults:
+  pretty: true
+  trailing: false
+  format: html
+  index: false
+  date: false
+  collection: false
+  locale: false
+permalink_style: pretty
+permalink_safe: true
 
-permalink: pretty
+plugins_dir: ["_plugins", "_vendor/plugins"]
+include: ["_plugins", "_vendor/plugins", "_data", "_includes", "_layouts", "_posts", "_themes", "_articles", "README.md"]
+exclude: ["_site", "node_modules", "vendor", "Gemfile.lock", ".DS_Store", "Thumbs.db", "README.md", "LICENSE", "CHANGELOG.md", "CONTRIBUTING.md", "CODE_OF_CONDUCT.md"]
+collections:
+  themes:
+    output: true
+    permalink: /themes/:name/
+  articles:
+    output: true
+    permalink: /articles/:name/
+  posts:
+    output: true
+    permalink: /posts/:year/:month/:day/:title/
+  data:
+    output: false
+
 
 favicon_ico: "/favicon.ico"
+
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p" 
@@ -15,3 +77,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-last-modified-at
+  - jekyll-redirect-from
+  - jekyll-archives
+  - jekyll-paginate
