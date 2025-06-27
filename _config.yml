@@ -1,74 +1,56 @@
+
+# File: _config.yml
+# --- a/file:///c%3A/Users/User/Projects/The-Back-Room.github.io/_config.yml
+# +++ b/file:///c%3A/Users/User/Projects/The-Back-Room.github.io/_config.yml
+# @@ -1,6 +1,6 @@
+# ---
+#  title: The Back Room
+#  description: Open-Source Development and Customization
+#  baseurl: ""
+#  url: "https://the-back-room.info"
+#  remote_theme: "cotes2020/jekyll-theme-chirpy"
+#  theme_mode: dark
+#  favicon_ico: "/favicon.ico"
+#  social_preview_image: "/assets/images/social-preview.jpg"
+#  last_edit_timestamp: true
+#  last_edit_time_format: "%b %e %Y at %I:%M %p"
+#  last_edit_time_zone: "UTC"
+#  last_edit_author: true
+#  last_edit_author_format: "%a, %b %e %I:%M %p %Z"
+#  defaults:
+#    - scope:
+#  plugins: 
+#    - jekyll-seo-tag
+#    - jekyll-github-metadata 
+#    - jekyll-include-cache
+#    - jekyll-sitemap 
+#    - jekyll-feed
+#    - jekyll-last-modified-at  
+#    - jekyll-redirect-from
+#    - jekyll-archives  
+#    - jekyll-paginate
+# --- IGNORE --- 
+
+
 title: The Back Room
 description: Open-Source Development and Customization
 baseurl: ""
-url: "https://the-back-room.github.io"
-author:
-  name: The Back Room
-  email: "Darkwater409@gmail.com"
-  url: "https://the-back-room.github.io"
-theme: jekyll-theme-minimal
-theme_color: "#333333"
-lang: en
-timezone: "America/Phoenix"
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-  syntax_highlighter: rouge
-  syntax_highlighter_opts:
-    block:
-      line_numbers: true
-    inline:
-      line_numbers: false
-  math_engine: mathjax
-mathjax:
-  macros:
-    "\\R": "\\mathbb{R}"
-    "\\Z": "\\mathbb{Z}"
-    "\\N": "\\mathbb{N}"
-    "\\C": "\\mathbb{C}"
-    "\\Q": "\\mathbb{Q}"
-  options:
-    ignoreHtmlClass: ".*"
-    processHtmlClass: "tex2jax_process|mathjax_ignore"
-    texHints: true
-    asciimath: false
-  displayAlign: "center"
-  displayIndent: "0em"
-permalink: /:path/
-permalink_defaults:
-  pretty: true
-  trailing: false
-  format: html
-  index: false
-  date: false
-  collection: false
-  locale: false
-permalink_style: pretty
-permalink_safe: true
+url: "https://the-back-room.info"
 
-plugins_dir: ["_plugins", "_vendor/plugins"]
-include: ["_plugins", "_vendor/plugins", "_data", "_includes", "_layouts", "_posts", "_themes", "_articles", "README.md"]
-exclude: ["_site", "node_modules", "vendor", "Gemfile.lock", ".DS_Store", "Thumbs.db", "README.md", "LICENSE", "CHANGELOG.md", "CONTRIBUTING.md", "CODE_OF_CONDUCT.md"]
-collections:
-  themes:
-    output: true
-    permalink: /themes/:name/
-  articles:
-    output: true
-    permalink: /articles/:name/
-  posts:
-    output: true
-    permalink: /posts/:year/:month/:day/:title/
-  data:
-    output: false
-
+remote_theme: "cotes2020/jekyll-theme-chirpy"
+theme_mode: dark
 
 favicon_ico: "/favicon.ico"
 
+social_preview_image: "/assets/images/social-preview.jpg"
 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p" 
+last_edit_time_zone: "UTC"
+last_edit_author: true
+last_edit_author_format: "%a, %b %e %I:%M %p %Z"
+defaults:
+  - scope:
 
 plugins:
   - jekyll-seo-tag
@@ -80,3 +62,64 @@ plugins:
   - jekyll-redirect-from
   - jekyll-archives
   - jekyll-paginate
+paginate: 10
+paginate_path: "/page/:num"
+collections:
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:title/
+    archive:
+      type: monthly
+      format: "%Y-%m"
+      permalink: /archive/:path/
+  themes:
+    output: true
+    permalink: /themes/:name/
+  pages:
+    output: true
+    permalink: /:name/
+  snippets:
+    output: true
+    permalink: /snippets/:name/
+  images:
+    output: true
+    permalink: /images/:name/
+  videos:
+    output: true
+    permalink: /videos/:name/
+  audio:
+    output: true
+    permalink: /audio/:name/
+  downloads:
+    output: true
+    permalink: /downloads/:name/
+  links:
+    output: true
+    permalink: /links/:name/
+  projects:
+    output: true
+    permalink: /projects/:name/
+  articles:
+    output: true
+    permalink: /articles/:name/
+  tutorials:
+    output: true
+    permalink: /tutorials/:name/
+  guides:
+    output: true
+    permalink: /guides/:name/
+  news:
+    output: true
+    permalink: /news/:name/
+  announcements:
+    output: true
+    permalink: /announcements/:name/
+  updates:
+    output: true
+    permalink: /updates/:name/
+  changelogs:
+    output: true
+    permalink: /changelogs/:name/
+  releases:
+    output: true
+    permalink: /releases/:name/
