@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The Back Room</title>
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/github.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/just-the-docs/0.2.0/just-the-docs-dark.min.css">
+  
+  <link rel="stylesheet" href="stylesheet.css">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/just-the-docs/0.2.0/just-the-docs.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/just-the-docs/0.2.0/just-the-docs-print.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/just-the-docs/0.2.0/just-the-docs-dark.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/just-the-docs/0.2.0/just-the-docs-dark-print.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/just-the-docs/0.2.0/just-the-docs-light.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/just-the-docs/0.2.0/just-the-docs-light-print.min.css">
+</head>
+<body>
+  <header>
+    <h1>{{ site.header_content | default: "The Back Room" }}</h1>
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer>
+    <hr />
+    {{ site.footer_content | default: "Copyright &copy; 2025 Joshua Lewis" }}
+  </footer>
