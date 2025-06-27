@@ -6,14 +6,11 @@ url: "https://the-back-room.info"
 
 remote_theme: "just-the-docs/just-the-docs"
 
-color_scheme: light
+color_scheme: nil
 
 favicon_ico: "/favicon.ico"
 
 permalink: pretty
-
-toc_enabled: false
-nav_enabled: false
 
 defaults:
   - scope:

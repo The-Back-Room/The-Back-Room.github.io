@@ -1,6 +1,5 @@
 ---
-title: The Back Room
-description: Open-Source Development and Customization
+title: Home
 permalink: /
 ---
 
