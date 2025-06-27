@@ -1,6 +1,5 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
-<article class="markdown-body">
+<link rel="stylesheet" href="stylesheet.css">
 
 The Back Room
 -------------
@@ -143,5 +142,3 @@ Open-Source Development and Customization
 [Bleach Hentai]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/NSFW/Bleach-Hentai
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-</article>
