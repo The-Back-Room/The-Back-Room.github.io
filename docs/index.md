@@ -81,7 +81,7 @@ Open-Source Development and Customization
 [BANNER]: https://the-back-room.info/assets/images/Banner.jpg
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br /><br />
-<a align="right" href="https://the-back-room.info/nsfw"><button type="button" name="button" class="btn">NSFW</button></a>
+<a href="https://the-back-room.info/nsfw"><button type="button" name="button" class="btn">NSFW</button></a>
 <br /><br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
