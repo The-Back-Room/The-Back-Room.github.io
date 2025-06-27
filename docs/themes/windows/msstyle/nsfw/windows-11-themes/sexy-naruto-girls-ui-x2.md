@@ -48,6 +48,14 @@ Big thanks to [J4M3SX019][J4M3SX019] for providing the Windows 11 DWM fix needed
 *   Custom sounds
 *   Contains [Gen2 Plasma Blue V2][ICONS] icons ported to [Resource Redirect][RESOURCE_REDIRECT]
 
+#### Optional Extras
+
+*   **Live Wallpaper**: For those interested, there is a pretty nice Live Wallpaper for [Wallpaper Engine][WALLPAPER_ENGINE] that goes really well with this theme. You can find it [here][LIVE_WALLPAPER].
+
+Here is a preview of it in use alongside this theme.
+
+![][SCREENSHOT]
+
 **Download**: [Download ZIP][DOWNLOAD_ZIP]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
@@ -85,6 +93,10 @@ Big thanks to [J4M3SX019][J4M3SX019] for providing the Windows 11 DWM fix needed
 [ICONS]: https://virtualcustoms.net/showthread.php/83689-7tsp-Gen-2-Complete-Icon-Pack-Collection-for-w10-19h1
 
 [J4M3SX019]: https://virtualcustoms.net/member.php/332654-J4M3SX019
+
+[WALLPAPER_ENGINE]: https://store.steampowered.com/app/431960/Wallpaper_Engine/
+
+[LIVE_WALLPAPER]: https://steamcommunity.com/sharedfiles/filedetails/?id=2568150829
 
 [DOWNLOAD_ZIP]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-UI-X2-Theme-for-Windows-11-23H2/archive/refs/heads/main.zip
 
