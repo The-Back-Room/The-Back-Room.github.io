@@ -23,18 +23,27 @@ has_toc: false
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+<h4 class="text-small">Windows 10 19H1-22H2</h4>
 
-*   [Windows 10 Themes][WINDOWS_10_THEMES]
-*   [Windows 11 Themes][WINDOWS_11_THEMES]
+<li><a href="https://github.com/The-Back-Room/BLEACH-UI-X2-Themes-for-Windows-10-19H1-22H2/" target="_blank">BLEACH UI-X2 Themes for Windows 10 19H1-22H2</a></li>
+<li><a href="https://github.com/The-Back-Room/Once-Human-UI-X2-Themes-for-Windows-10-19H1-22H2/" target="_blank">Once Human UI-X2 Themes for Windows 10 19H1-22H2</a></li>
+</ul>
 
-[WINDOWS_10_THEMES]: /themes/windows/msstyle/windows-10-themes
-[WINDOWS_11_THEMES]: /themes/windows/msstyle/windows-11-themes
+<h4 class="text-small">Windows 11 23H2+</h4>
 
+<ul class="text-delta">
+<li><a href="https://github.com/The-Back-Room//BLEACH-UI-X2-Themes-for-Windows-11-23h2/" target="_blank">BLEACH UI-X2 Themes for Windows 11</a></li>
+<li><a href="https://github.com/The-Back-Room/BLEACH-Themes-for-Windows-11/" target="_blank">BLEACH Themes for Windows 11</a></li>
+<li><a href="https://github.com/The-Back-Room/Once-Human-UI-X2-Theme-for-Windows-11-23H2/" target="_blank">Once Human UI-X2 Theme for Windows 11</a></li>
+<li><a href="https://github.com/The-Back-Room/Windows-7-Themes-for-Windows-11/ " target="_blank">Windows 7 Themes for Windows 11</a></li>
+</ul>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
 <br />
 <a href="/themes/windows/msstyle/nsfw">
 <button type="button" name="button" class="btn">NSFW</button>
 </a>
 <br />
+
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
