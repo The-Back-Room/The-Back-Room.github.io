@@ -4,6 +4,7 @@ title: NSFW Windows 11 Themes
 nav_exclude: true
 has_toc: false
 permalink: /themes/windows/msstyle/nsfw/windows-11-themes
+published: false
 ---
 
 {: .important }
@@ -29,12 +30,12 @@ permalink: /themes/windows/msstyle/nsfw/windows-11-themes
 * [Lewd Gamer Waifus UI-X2 for Windows 11 23H2+][LEWD_GAMER_WAIFUS_UIX2]
 * [Sexy Naruto Girls UI-X2 for Windows 11 23H2+][SEXY_NARUTO_GIRLS_UIX2]  
 
-[ECCHI_UIX2]: /themes/windows/msstyle/nsfw/windows-11-themes/ecchi-ui-x2
-[BLEACH_HENTAI_UIX2]: /themes/windows/msstyle/nsfw/windows-11-themes/bleach-hentai-ui-x2
-[RANMA_HENTAI_UIX2]: /themes/windows/msstyle/nsfw/windows-11-themes/ranma-hentai-ui-x2
-[FINAL_FANTASY_XIV_WAIFUS_UIX2]: /themes/windows/msstyle/nsfw/windows-11-themes/final-fantasy-xiv-waifus-ui-x2
-[LEWD_GAMER_WAIFUS_UIX2]: /themes/windows/msstyle/nsfw/windows-11-themes/lewd-gamer-waifus-ui-x2
-[SEXY_NARUTO_GIRLS_UIX2]: /themes/windows/msstyle/nsfw/windows-11-themes/sexy-naruto-girls-ui-x2
+[ECCHI_UIX2]: /ecchi-ui-x2
+[BLEACH_HENTAI_UIX2]: /bleach-hentai-ui-x2
+[RANMA_HENTAI_UIX2]: /ranma-hentai-ui-x2
+[FINAL_FANTASY_XIV_WAIFUS_UIX2]: /final-fantasy-xiv-waifus-ui-x2
+[LEWD_GAMER_WAIFUS_UIX2]: /lewd-gamer-waifus-ui-x2
+[SEXY_NARUTO_GIRLS_UIX2]: /sexy-naruto-girls-ui-x2
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br />
