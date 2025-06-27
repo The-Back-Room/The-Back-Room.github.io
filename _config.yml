@@ -8,6 +8,8 @@ remote_theme: "just-the-docs/just-the-docs"
 
 color_scheme: light
 
+social_image: "/assets/images/social-image.jpg"
+
 favicon_ico: "/favicon.ico"
 
 permalink: pretty
