@@ -6,7 +6,7 @@ url: "https://the-back-room.info"
 
 remote_theme: "just-the-docs/just-the-docs"
 
-color_scheme: dark
+color_scheme: light
 
 favicon_ico: "/favicon.ico"
 
@@ -72,6 +72,23 @@ last_edit_time_format: "%b %e %Y at %I:%M %p"
 last_edit_time_zone: "UTC"
 last_edit_author: true
 last_edit_author_format: "%a, %b %e %I:%M %p %Z"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
 
 plugins:
   - jekyll-seo-tag
