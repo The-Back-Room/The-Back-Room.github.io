@@ -12,7 +12,7 @@ description: NSFW Deskthemepacks and Visual Styles
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
 
-## Deskthemepacks
+### Deskthemepacks
 
 *   [Lewd Gamer Waifus][Lewd Gamer Waifus]
 *   [Final Fantasy XIV Waifus][Final Fantasy XIV Waifus]
@@ -22,7 +22,7 @@ description: NSFW Deskthemepacks and Visual Styles
 *   [Bleach Hentai][Bleach Hentai]
 
 
-## Custom Visual Styles
+### Custom Visual Styles
 
 {: .important }
 > {: .opaque }

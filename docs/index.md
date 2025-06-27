@@ -10,10 +10,8 @@ The Back Room
 
 Open-Source Development and Customization
 
-![BANNER][BANNER]
 
-
-## Deskthemepacks
+### Deskthemepacks
 
 *   [Windows 7 RTM Themes][Windows 7 RTM Themes]
 *   [Windows 7 MCT Themes][Windows 7 MCT Themes]
@@ -30,7 +28,7 @@ Open-Source Development and Customization
 *   [Howl's Moving Castle][Howl's Moving Castle]
 *   [Studio Ghibli][Studio Ghibli]
 
-## Custom Visual Styles
+### Custom Visual Styles
 
 {: .important }
 > {: .opaque }
@@ -77,8 +75,6 @@ Open-Source Development and Customization
 [Courage TCD]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Courage-TCD
 [Howl's Moving Castle]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Howls-Moving-Castle
 [Studio Ghibli]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Studio-Ghibli
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-[BANNER]: https://the-back-room.info/assets/images/Banner.jpg
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br /><br />
 <a href="https://the-back-room.info/nsfw"><button type="button" name="button" class="btn">NSFW</button></a>
