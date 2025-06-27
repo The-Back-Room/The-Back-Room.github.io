@@ -73,6 +73,6 @@ description: NSFW Deskthemepacks and Visual Styles
 [Bleach Hentai]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/NSFW/Bleach-Hentai
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 <br /><br />
-<a href="https://the-back-room.info/"><button type="button" name="button" class="btn">Back</button></a>
+<a align="right" href="https://the-back-room.info/"><button type="button" name="button" class="btn">Back</button></a>
 <br /><br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
