@@ -55,17 +55,14 @@ Open-Source Development and Customization
 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
 [BLEACH UI-X2 Themes for Windows 10 19H1-22H2]:https://github.com/The-Back-Room/BLEACH-UI-X2-Themes-for-Windows-10-19H1-22H2/
 [Once Human UI-X2 Themes for Windows 10 19H1-22H2]: https://github.com/The-Back-Room/Once-Human-UI-X2-Themes-for-Windows-10-19H1-22H2/
-
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 [BLEACH UI-X2 Themes for Windows 11]: https://github.com/The-Back-Room//BLEACH-UI-X2-Themes-for-Windows-11-23h2/
 [BLEACH Themes for Windows 11]: https://github.com/The-Back-Room/BLEACH-Themes-for-Windows-11/
 [Once Human UI-X2 Theme for Windows 11]: https://github.com/The-Back-Room/Once-Human-UI-X2-Theme-for-Windows-11-23H2/
 [Windows 7 Themes for Windows 11]: https://github.com/The-Back-Room/Windows-7-Themes-for-Windows-11/
-
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
 [Windows 7 RTM Themes]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-7-RTM-Themes
 [Windows 7 MCT Themes]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-7-MCT-Themes
 [Classic 11]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Classic-11
@@ -80,14 +77,11 @@ Open-Source Development and Customization
 [Courage TCD]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Courage-TCD
 [Howl's Moving Castle]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Howls-Moving-Castle
 [Studio Ghibli]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Studio-Ghibli
-
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
 [BANNER]: https://the-back-room.info/assets/images/Banner.jpg
-
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-<a href="https://the-back-room.info/nsfw"><button type="button" name="button" class="btn">NSFW</button></a>
-
+<br /><br />
+<a align="right" href="https://the-back-room.info/nsfw"><button type="button" name="button" class="btn">NSFW</button></a>
+<br /><br />
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
