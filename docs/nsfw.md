@@ -2,7 +2,6 @@
 layout: default
 title: NSFW Themes
 description: NSFW Deskthemepacks and Visual Styles
-nav_exclude: true
 ---
 
 {: .note }
