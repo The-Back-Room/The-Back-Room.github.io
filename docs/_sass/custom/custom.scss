@@ -3,45 +3,6 @@ button {
   padding: 2px 16px;
 }
 
-.card {
-  display: block;
-  background-color: $sidebar-color;
-  box-shadow: 0 4px 8px 0 darken($sidebar-color, 3%);
-  transition: 0.3s;
-  border-radius: 5px;
-}
-
-.card:hover {
-  box-shadow: 0 8px 16px 0 darken($sidebar-color, 3%);
-}
-
-.container {
-  background-color: $sidebar-color;
-  padding: 2px 16px;
-}
-
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 10px;
-  padding: 10px;
-}
-
-.gallery img {
-  width: 100%;
-  height: auto;
-}
-
-.responsive {
-  padding: 10px;
-  width: fit-content;
-  position: relative;
-}
-
-.white-background {
-  background-color: rgba(230, 230, 230, 0.25);
-}
-
 .side-bar {
   z-index: 0;
   display: flex;
