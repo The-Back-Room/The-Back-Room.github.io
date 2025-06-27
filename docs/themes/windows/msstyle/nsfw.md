@@ -21,7 +21,7 @@ permalink: /themes/windows/msstyle/nsfw
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-<h4 class="text-small">Windows 10 19H1-22H2</h4>
+<h4 class="text-delta">Windows 10 19H1-22H2</h4>
 
 <ul class="text-delta">
 <li><a href="https://github.com/The-Back-Room//Ecchi-UI-X2-Theme-for-Windows-10-19H1-22H2/" target="_blank">Ecchi UI-X2 for Windows 10 19H1-22H2</a></li>
@@ -32,7 +32,7 @@ permalink: /themes/windows/msstyle/nsfw
 <li><a href="https://github.com/The-Back-Room/Sexy-Naruto-Girls-UI-X2-Theme-for-Windows-10-19H1-22H2/ " target="_blank">Sexy Naruto Girls UI-X2 for Windows 10 19H1-22H2</a></li>
 </ul>
 
-<h4 class="text-small">Windows 11 23H2+</h4>
+<h4 class="text-delta">Windows 11 23H2+</h4>
 
 <ul class="text-delta">
 <li><a href="https://github.com/The-Back-Room//Ecchi-UI-X2-Theme-for-windows-11-23h2/" target="_blank">Ecchi UI-X2 for Windows 11</a></li>
