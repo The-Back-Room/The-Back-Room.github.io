@@ -5,6 +5,7 @@ parent: Windows 11 Themes
 grand_parent: MSSTYLE Themes
 has_toc: false
 permalink: /themes/windows/msstyle/windows-11-themes/windows-7
+published: false
 ---
 
 {: .note }
