@@ -4,6 +4,7 @@ title: FFXIV Waifus UI-X2 for Windows 11 23H2+
 nav_exclude: true
 has_toc: false
 permalink: /themes/windows/msstyle/nsfw/windows-11-themes/final-fantasy-xiv-waifus-ui-x2
+published: false
 ---
 
 {: .important }
