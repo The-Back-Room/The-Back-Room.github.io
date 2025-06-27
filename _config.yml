@@ -12,6 +12,9 @@ favicon_ico: "/favicon.ico"
 
 permalink: pretty
 
+toc_enabled: false
+nav_enabled: false
+
 defaults:
   - scope:
       path: "" # an empty string here means all files in the project
