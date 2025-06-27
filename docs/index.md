@@ -34,6 +34,7 @@ Open-Source Development and Customization
 
 {: .important }
 > {: .opaque }
+> {: .warning }
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
