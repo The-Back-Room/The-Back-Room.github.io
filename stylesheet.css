@@ -1,125 +1,77 @@
-main {
-    background-color: rgb(36, 36, 36);
-    color: whitesmoke;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+/* File: stylesheet.css */
+/* This is the main stylesheet for The Back Room website */
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+header {
+    background-color: #282c34;
+    color: white;
     padding: 20px;
-    max-width: 800px;
-    margin: auto;
+    text-align: center;
+}
+main {
+    font-family: Arial, sans-serif;
     line-height: 1.6;
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 20px;
 }
 h1, h2, h3 {
-    color: #f0f0f0;
+    color: #333;
+}
+p {
+    color: #555;
 }
 a {
-    color: #1e90ff;
+    color: #1a0dab;
     text-decoration: none;
 }
 a:hover {
     text-decoration: underline;
 }
-p {
-    margin-bottom: 1em;
-}
-ul, ol {
-    margin-left: 20px;
-}
-pre {
-    background-color: #2c2c2c;
-    padding: 10px;
-    border-radius: 5px;
-    overflow-x: auto;
-}
-code {
-    background-color: #2c2c2c;
-    padding: 2px 4px;
-    border-radius: 3px;
-    color: #dcdcdc;
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 0.9em;
+    color: #777;
 }
 blockquote {
-    border-left: 4px solid #1e90ff;
+    border-left: 4px solid #ccc;
     padding-left: 20px;
-    color: #b0c4de;
-    margin: 1em 0;
+    color: #666;
+    margin: 20px 0;
+}
+code {
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 3px;
+    overflow-x: auto;
+}
+ul, ol {
+    margin: 10px 0;
+    padding-left: 20px;
 }
 img {
     max-width: 100%;
     height: auto;
-    border-radius: 5px;
 }
-footer {
-    text-align: center;
-    margin-top: 20px;
-    color: #888;
-}
-/* Add any additional styles here */
+/* Responsive styles */
 @media (max-width: 600px) {
     main {
         padding: 10px;
     }
-    h1 {
+    h1, h2, h3 {
         font-size: 1.5em;
     }
-    h2 {
-        font-size: 1.3em;
+    p, a {
+        font-size: 1em;
     }
-    h3 {
-        font-size: 1.2em;
-    }
-}
-/* Responsive styles for smaller screens */
-@media (max-width: 768px) { 
-    main {
-        padding: 15px;
-    }
-    h1 {
-        font-size: 1.8em;
-    }
-    h2 {
-        font-size: 1.5em;
-    }
-    h3 {
-        font-size: 1.4em;
-    }
-}
-@media (max-width: 480px) {
-    main {
-        padding: 10px;
-    }
-    h1 {
-        font-size: 1.6em;
-    }
-    h2 {
-        font-size: 1.4em;
-    }
-    h3 {
-        font-size: 1.3em;
-    }
-}
-/* Additional styles for code blocks */
-pre code {
-    background-color: #2c2c2c;
-    color: #dcdcdc;
-    padding: 10px;
-    border-radius: 5px;
-    display: block;
-}
-/* Style for inline code */
-code {  
-    background-color: #2c2c2c;
-    color: #dcdcdc;
-    padding: 2px 4px;
-    border-radius: 3px;
-}
-/* Style for blockquotes */
-blockquote {
-    border-left: 4px solid #1e90ff;
-    padding-left: 20px;
-    color: #b0c4de;
-    margin: 1em 0;
-}
-/* Style for images */
-img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 5px;
 }
