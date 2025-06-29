@@ -37,8 +37,7 @@ permalink: /
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
 #### Windows 10 19H1-22H2
-
-| Theme | Download |  
+ 
 | --- | --- |  
 | BLEACH UI-X2 Themes for Windows 10 19H1-22H2 | [Download][BLEACH UI-X2 Themes for Windows 10 19H1-22H2] |  
 | Once Human UI-X2 Themes for Windows 10 19H1-22H2 | [Download][Once Human UI-X2 Themes for Windows 10 19H1-22H2] |  
@@ -51,7 +50,6 @@ permalink: /
 
 #### Windows 11 23H2+
 
-| Theme | Download |  
 | --- | --- |  
 | BLEACH UI-X2 Themes for Windows 11 | [Download][BLEACH UI-X2 Themes for Windows 11] |  
 | BLEACH Themes for Windows 11 | [Download][BLEACH Themes for Windows 11] |  
