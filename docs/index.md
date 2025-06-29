@@ -47,7 +47,6 @@ permalink: /
 | Ranma Hentai UI-X2 for Windows 10 19H1-22H2 | [Download][Ranma Hentai UI-X2 for Windows 10 19H1-22H2] |  
 | Final Fantasy XIV Waifus UI-X2 for Windows 10 19H1-22H2 | [Download][Final Fantasy XIV Waifus UI-X2 for Windows 10 19H1-22H2] |  
 | Lewd Gamer Waifus UI-X2 for Windows 10 19H1-22H2 | [Download][Lewd Gamer Waifus UI-X2 for Windows 10 19H1-22H2] |
-<!-- | Sexy Naruto Girls for Windows 10 19H1-22H2 | [Download][Sexy Naruto Girls for Windows 10 19H1-22H2] | -->
 
 
 #### Windows 11 23H2+
