@@ -16,27 +16,15 @@ permalink: pretty
 
 defaults:
   - scope:
-      path: "docs" # an empty string here means all files in the project
+      path: "docs"
       type: "pages"
     values:
       layout: "default"
-      
-nnav_enabled: false
-toc_enabled: false
+
 search_enabled: false
 
 mermaid:
-  # Version of mermaid library
-  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
   version: "9.1.6"
-  # Put any additional configuration, such as setting the theme, in _includes/mermaid_config.js
-  # See also docs/ui-components/code
-  # To load mermaid from a local library, also use the `path` key to specify the location of the library; e.g.
-  # for (v10+):
-  # path: "/assets/js/mermaid.esm.min.mjs"
-  # for (<v10):
-  # path: "/assets/js/mermaid.min.js"
-  # Note: copy both `mermaid.esm.min.mjs` (v10+) or `mermaid.min.js` (<v10) and the associated `.map` file from the specified version of `mermaid/dist` to `/assets/js/`.
 
 liquid:
   error_mode: strict
@@ -48,7 +36,7 @@ last_edit_time_zone: "UTC"
 last_edit_author: true
 last_edit_author_format: "%a, %b %e %I:%M %p %Z"
 
-callouts_level: quiet # or loud
+callouts_level: quiet
 callouts:
   highlight:
     color: yellow
