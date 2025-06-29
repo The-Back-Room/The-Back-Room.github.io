@@ -40,40 +40,39 @@ permalink: /
 #### Windows 10 19H1-22H2
  
 | --- | --- |  
-| BLEACH UI-X2 Themes for Windows 10 19H1-22H2 | [Download][BLEACH UI-X2 Themes for Windows 10 19H1-22H2] |  
-| Once Human UI-X2 Themes for Windows 10 19H1-22H2 | [Download][Once Human UI-X2 Themes for Windows 10 19H1-22H2] |  
-| Ecchi UI-X2 for Windows 10 19H1-22H2 | [Download][Ecchi UI-X2 for Windows 10 19H1-22H2] |  
-| Bleach Hentai UI-X2 for Windows 10 19H1-22H2 | [Download][Bleach Hentai UI-X2 for Windows 10 19H1-22H2] |  
-| Ranma Hentai UI-X2 for Windows 10 19H1-22H2 | [Download][Ranma Hentai UI-X2 for Windows 10 19H1-22H2] |  
-| Final Fantasy XIV Waifus UI-X2 for Windows 10 19H1-22H2 | [Download][Final Fantasy XIV Waifus UI-X2 for Windows 10 19H1-22H2] |  
-| Lewd Gamer Waifus UI-X2 for Windows 10 19H1-22H2 | [Download][Lewd Gamer Waifus UI-X2 for Windows 10 19H1-22H2] |
+| BLEACH | [Download][BLEACH Themes for Windows 10 19H1-22H2] |  
+| Once Human | [Download][Once Human Themes for Windows 10 19H1-22H2] |  
+| Ecchi | [Download][Ecchi for Windows 10 19H1-22H2] |  
+| Bleach Hentai | [Download][Bleach Hentai for Windows 10 19H1-22H2] |  
+| Ranma Hentai | [Download][Ranma Hentai for Windows 10 19H1-22H2] |  
+| Final Fantasy XIV Waifus | [Download][Final Fantasy XIV Waifus for Windows 10 19H1-22H2] |  
+| Lewd Gamer Waifus | [Download][Lewd Gamer Waifus for Windows 10 19H1-22H2] |  
 
 
 #### Windows 11 23H2+
 
 | --- | --- |  
-| BLEACH UI-X2 Themes for Windows 11 | [Download][BLEACH UI-X2 Themes for Windows 11] |  
-| BLEACH Themes for Windows 11 | [Download][BLEACH Themes for Windows 11] |  
-| Once Human UI-X2 Theme for Windows 11 | [Download][Once Human UI-X2 Theme for Windows 11] |  
-| Windows 7 Themes for Windows 11 | [Download][Windows 7 Themes for Windows 11] |  
-| Ecchi UI-X2 for Windows 11 | [Download][Ecchi UI-X2 for Windows 11] |  
-| Bleach Hentai UI-X2 for Windows 11 | [Download][Bleach Hentai UI-X2 for Windows 11] |  
-| Ranma Hentai UI-X2 for Windows 11 | [Download][Ranma Hentai UI-X2 for Windows 11] |  
-| Final Fantasy XIV Waifus UI-X2 for Windows 11 | [Download][Final Fantasy XIV Waifus UI-X2 for Windows 11] |  
-| Lewd Gamer Waifus UI-X2 for Windows 11 | [Download][Lewd Gamer Waifus UI-X2 for Windows 11] |  
-| Sexy Naruto Girls for Windows 11 | [Download][Sexy Naruto Girls for Windows 11] |  
+| BLEACH | [Download][BLEACH Themes for Windows 11] |  
+| Once Human | [Download][Once Human Theme for Windows 11] |  
+| Windows 7 | [Download][Windows 7 Themes for Windows 11] |  
+| Ecchi | [Download][Ecchi for Windows 11] |  
+| Bleach Hentai | [Download][Bleach Hentai for Windows 11] |  
+| Ranma Hentai | [Download][Ranma Hentai for Windows 11] |  
+| Final Fantasy XIV Waifus | [Download][Final Fantasy XIV Waifus for Windows 11] |  
+| Lewd Gamer Waifus | [Download][Lewd Gamer Waifus for Windows 11] |  
+| Sexy Naruto Girls | [Download][Sexy Naruto Girls for Windows 11] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[BLEACH UI-X2 Themes for Windows 10 19H1-22H2]:https://github.com/The-Back-Room/BLEACH-UI-X2-Themes-for-Windows-10-19H1-22H2/
+[BLEACH Themes for Windows 10 19H1-22H2]:https://github.com/The-Back-Room/BLEACH-UI-X2-Themes-for-Windows-10-19H1-22H2/
 
-[Once Human UI-X2 Themes for Windows 10 19H1-22H2]: https://github.com/The-Back-Room/Once-Human-UI-X2-Themes-for-Windows-10-19H1-22H2/
+[Once Human Themes for Windows 10 19H1-22H2]: https://github.com/The-Back-Room/Once-Human-UI-X2-Themes-for-Windows-10-19H1-22H2/
 
-[BLEACH UI-X2 Themes for Windows 11]: https://github.com/The-Back-Room//BLEACH-UI-X2-Themes-for-Windows-11-23h2/
+[BLEACH Themes for Windows 11]: https://github.com/The-Back-Room//BLEACH-UI-X2-Themes-for-Windows-11-23h2/
 
 [BLEACH Themes for Windows 11]: https://github.com/The-Back-Room/BLEACH-Themes-for-Windows-11/
 
-[Once Human UI-X2 Theme for Windows 11]: https://github.com/The-Back-Room/Once-Human-UI-X2-Theme-for-Windows-11-23H2/
+[Once Human Theme for Windows 11]: https://github.com/The-Back-Room/Once-Human-UI-X2-Theme-for-Windows-11-23H2/
 
 [Windows 7 Themes for Windows 11]: https://github.com/The-Back-Room/Windows-7-Themes-for-Windows-11/
 
@@ -105,27 +104,27 @@ permalink: /
 
 [Studio Ghibli]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Studio-Ghibli
 
-[Ecchi UI-X2 for Windows 10 19H1-22H2]: https://github.com/The-Back-Room//Ecchi-UI-X2-Theme-for-Windows-10-19H1-22H2/
+[Ecchi for Windows 10 19H1-22H2]: https://github.com/The-Back-Room//Ecchi-UI-X2-Theme-for-Windows-10-19H1-22H2/
 
-[Bleach Hentai UI-X2 for Windows 10 19H1-22H2]: https://github.com/The-Back-Room//Bleach-Hentai-UI-X2-Themes-for-Windows-10-19H1-22H2/
+[Bleach Hentai for Windows 10 19H1-22H2]: https://github.com/The-Back-Room//Bleach-Hentai-UI-X2-Themes-for-Windows-10-19H1-22H2/
 
-[Ranma Hentai UI-X2 for Windows 10 19H1-22H2]: https://github.com/The-Back-Room//Ranma-Hentai-UI-X2-Theme-for-Windows-10-19H1-22H2/
+[Ranma Hentai for Windows 10 19H1-22H2]: https://github.com/The-Back-Room//Ranma-Hentai-UI-X2-Theme-for-Windows-10-19H1-22H2/
 
-[Final Fantasy XIV Waifus UI-X2 for Windows 10 19H1-22H2]: https://github.com/The-Back-Room//Final-Fantasy-XIV-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2/
+[Final Fantasy XIV Waifus for Windows 10 19H1-22H2]: https://github.com/The-Back-Room//Final-Fantasy-XIV-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2/
 
-[Lewd Gamer Waifus UI-X2 for Windows 10 19H1-22H2]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2/
+[Lewd Gamer Waifus for Windows 10 19H1-22H2]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2/
 
 [Sexy Naruto Girls for Windows 10 19H1-22H2]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-Theme-for-Windows-10-19H1-22H2/
 
-[Ecchi UI-X2 for Windows 11]: https://github.com/The-Back-Room//Ecchi-UI-X2-Theme-for-Windows-11-23H2/
+[Ecchi for Windows 11]: https://github.com/The-Back-Room//Ecchi-UI-X2-Theme-for-Windows-11-23H2/
 
-[Bleach Hentai UI-X2 for Windows 11]: https://github.com/The-Back-Room//Bleach-Hentai-UI-X2-Themes-for-Windows-11-23H2/
+[Bleach Hentai for Windows 11]: https://github.com/The-Back-Room//Bleach-Hentai-UI-X2-Themes-for-Windows-11-23H2/
 
-[Ranma Hentai UI-X2 for Windows 11]: https://github.com/The-Back-Room//Ranma-Hentai-UI-X2-Theme-for-Windows-11-23H2/
+[Ranma Hentai for Windows 11]: https://github.com/The-Back-Room//Ranma-Hentai-UI-X2-Theme-for-Windows-11-23H2/
 
-[Final Fantasy XIV Waifus UI-X2 for Windows 11]: https://github.com/The-Back-Room//Final-Fantasy-XIV-Waifus-UI-X2-Theme-for-Windows-11-23H2/
+[Final Fantasy XIV Waifus for Windows 11]: https://github.com/The-Back-Room//Final-Fantasy-XIV-Waifus-UI-X2-Theme-for-Windows-11-23H2/
 
-[Lewd Gamer Waifus UI-X2 for Windows 11]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-UI-X2-Theme-for-Windows-11-23H2/
+[Lewd Gamer Waifus for Windows 11]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-UI-X2-Theme-for-Windows-11-23H2/
 
 [Sexy Naruto Girls for Windows 11]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-Theme-for-Windows-11-23H2/
 
