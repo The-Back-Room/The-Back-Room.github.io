@@ -45,7 +45,7 @@ permalink: /
 *   [Ranma Hentai UI-X2 for Windows 10 19H1-22H2][Ranma Hentai UI-X2 for Windows 10 19H1-22H2]
 *   [Final Fantasy XIV Waifus UI-X2 for Windows 10 19H1-22H2][Final Fantasy XIV Waifus UI-X2 for Windows 10 19H1-22H2]
 *   [Lewd Gamer Waifus UI-X2 for Windows 10 19H1-22H2][Lewd Gamer Waifus UI-X2 for Windows 10 19H1-22H2]
-*   [Sexy Naruto Girls UI-X2 for Windows 10 19H1-22H2][Sexy Naruto Girls UI-X2 for Windows 10 19H1-22H2]
+<!-- *   [Sexy Naruto Girls for Windows 10 19H1-22H2][Sexy Naruto Girls for Windows 10 19H1-22H2] -->
 
 
 #### Windows 11 23H2+
@@ -59,7 +59,7 @@ permalink: /
 *   [Ranma Hentai UI-X2 for Windows 11][Ranma Hentai UI-X2 for Windows 11]
 *   [Final Fantasy XIV Waifus UI-X2 for Windows 11][Final Fantasy XIV Waifus UI-X2 for Windows 11]
 *   [Lewd Gamer Waifus UI-X2 for Windows 11][Lewd Gamer Waifus UI-X2 for Windows 11]
-*   [Sexy Naruto Girls UI-X2 for Windows 11][Sexy Naruto Girls UI-X2 for Windows 11]
+*   [Sexy Naruto Girls for Windows 11][Sexy Naruto Girls for Windows 11]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -113,7 +113,7 @@ permalink: /
 
 [Lewd Gamer Waifus UI-X2 for Windows 10 19H1-22H2]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2/
 
-[Sexy Naruto Girls UI-X2 for Windows 10 19H1-22H2]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-UI-X2-Theme-for-Windows-10-19H1-22H2/
+[Sexy Naruto Girls for Windows 10 19H1-22H2]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-Theme-for-Windows-10-19H1-22H2/
 
 [Ecchi UI-X2 for Windows 11]: https://github.com/The-Back-Room//Ecchi-UI-X2-Theme-for-Windows-11-23H2/
 
@@ -125,7 +125,7 @@ permalink: /
 
 [Lewd Gamer Waifus UI-X2 for Windows 11]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-UI-X2-Theme-for-Windows-11-23H2/
 
-[Sexy Naruto Girls UI-X2 for Windows 11]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-UI-X2-Theme-for-Windows-11-23H2/
+[Sexy Naruto Girls for Windows 11]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-Theme-for-Windows-11-23H2/
 
 [Lewd Gamer Waifus]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/NSFW/Lewd-Gamer-Waifus
 
