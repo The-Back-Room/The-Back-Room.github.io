@@ -4,27 +4,28 @@ permalink: /
 ---
 
 ### Deskthemepacks
-
-| [Windows 7 RTM Themes][Windows 7 RTM Themes]
-| [Windows 7 MCT Themes][Windows 7 MCT Themes]
-| [Classic 11][Classic 11]
-| [Microsoft Copilot Themes][Microsoft Copilot Themes]
-| [Microsoft Surface Pro Themes][Microsoft Surface Pro Themes]
-| [Windows 11 Hidden EDU Themes][Windows 11 Hidden EDU Themes]
-| [MacOS Themes for Windows][MacOS Themes for Windows]
-| [Once Human][Once Human]
-| [Final Fantasy XIV][Final Fantasy XIV]
-| [BLEACH][BLEACH]
-| [BLEACH: Thousand Year Blood War][BLEACH: Thousand Year Blood War]
-| [Courage TCD][Courage TCD]
-| [Howl's Moving Castle][Howl's Moving Castle]
-| [Studio Ghibli][Studio Ghibli]
-| [Lewd Gamer Waifus][Lewd Gamer Waifus]
-| [Final Fantasy XIV Waifus][Final Fantasy XIV Waifus]
-| [Sexy Naruto Girls][Sexy Naruto Girls]
-| [Ecchi][Ecchi]
-| [Ranma Hentai][Ranma Hentai]
-| [Bleach Hentai][Bleach Hentai]
+ 
+| --- | --- |  
+| Windows 7 RTM Themes | [Download][Windows 7 RTM Themes] |  
+| Windows 7 MCT Themes | [Download][Windows 7 MCT Themes] |  
+| Classic 11 | [Download][Classic 11] |  
+| Microsoft Copilot Themes | [Download][Microsoft Copilot Themes] |  
+| Microsoft Surface Pro Themes | [Download][Microsoft Surface Pro Themes] |  
+| Windows 11 Hidden EDU Themes | [Download][Windows 11 Hidden EDU Themes] |  
+| MacOS Themes for Windows | [Download][MacOS Themes for Windows] |  
+| Once Human | [Download][Once Human] |  
+| Final Fantasy XIV | [Download][Final Fantasy XIV] |  
+| BLEACH | [Download][BLEACH] |  
+| BLEACH: Thousand Year Blood War | [Download][BLEACH: Thousand Year Blood War] |  
+| Courage TCD | [Download][Courage TCD] |  
+| Howl's Moving Castle | [Download][Howl's Moving Castle] |  
+| Studio Ghibli | [Download][Studio Ghibli] |  
+| Lewd Gamer Waifus | [Download][Lewd Gamer Waifus] |  
+| Final Fantasy XIV Waifus | [Download][Final Fantasy XIV Waifus] |  
+| Sexy Naruto Girls| [Download][Sexy Naruto Girls] |  
+| Ecchi | [Download][Ecchi] |  
+| Ranma Hentai | [Download][Ranma Hentai] |  
+| Bleach Hentai | [Download][Bleach Hentai] |  
 
 ### Custom Visual Styles
 
