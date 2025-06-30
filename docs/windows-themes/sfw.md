@@ -44,7 +44,7 @@ permalink: /windows-themes/sfw
  
 | --- | --- |  
 | BLEACH | [Download][Win10BLEACH] |  
-| Once Human | [Download][Win10OnceHuman] |  
+| Once Human | [Download][Win10OnceHuman] |   
 
 
 #### Windows 11 23H2+
