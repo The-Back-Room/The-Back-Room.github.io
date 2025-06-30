@@ -57,8 +57,6 @@ permalink: /
 [Win11OnceHuman]: https://github.com/The-Back-Room/Once-Human-UI-X2-Theme-for-Windows-11-23H2/
 [Win11Aero7]: https://github.com/The-Back-Room/Windows-7-Themes-for-Windows-11/
 
-[W11BLEACHZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLESD/windows-11/SFW/BLEACH-Themes-for-Windows-11
-
 [RTM]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-7-RTM-Themes
 [MCT]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-7-MCT-Themes
 [Classic11]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Classic-11
