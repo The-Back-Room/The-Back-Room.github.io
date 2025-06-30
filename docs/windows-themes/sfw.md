@@ -25,7 +25,6 @@ permalink: /windows-themes/sfw
 | Once Human | [Download][OnceHuman] |  
 | Final Fantasy XIV | [Download][FFXIV] |  
 | BLEACH | [Download][BLEACH] |  
-| BLEACH: Thousand Year Blood War | [Download][BLEACH_TYBW] |  
 | Courage TCD | [Download][CourageTCD] |  
 | Howl's Moving Castle | [Download][HMC] |  
 | Studio Ghibli | [Download][StudioGhibli] | 
@@ -71,7 +70,6 @@ permalink: /windows-themes/sfw
 [EDU]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-11-Hidden-EDU-Themes
 [FFXIV]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/FFXIV
 [BLEACH]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/BLEACH
-[BLEACH_TYBW]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/BLEACH-TYBW
 [CourageTCD]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Courage-TCD
 [HMC]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Howls-Moving-Castle
 [StudioGhibli]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Studio-Ghibli
