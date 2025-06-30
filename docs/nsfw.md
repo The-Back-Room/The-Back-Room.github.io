@@ -12,6 +12,12 @@ permalink: /nsfw
 > 
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
+{: .note }
+> {: .opaque }
+> I'm in the proces of moving my themes over to my [GitLab](https://gitlab.com/the-back-room/Themes) repo for ease of management. For this reason, a large number of my themes are currently not listed here. If any theme is not listed here, you can check my [GitHub](https://github.com/The-Back-Room/repositories) repo for the current version of them.
+> 
+> Otherwise, please be patient as I get them all moved over and readded.
+
 ### Deskthemepacks
  
 | --- | --- |   
@@ -31,12 +37,6 @@ permalink: /nsfw
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
-
-{: .note }
-> {: .opaque }
-> I'm in the proces of moving my themes over to my GitLab repo for ease of management. For this reason, a large number of my themes are currently not listed here.
-> 
-> Please be patient as I get them all moved over and readded.
 
 #### Windows 10 19H1-22H2
  
