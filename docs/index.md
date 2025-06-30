@@ -57,19 +57,19 @@ permalink: /
 [Win11OnceHuman]: https://github.com/The-Back-Room/Once-Human-UI-X2-Theme-for-Windows-11-23H2/
 [Win11Aero7]: https://github.com/The-Back-Room/Windows-7-Themes-for-Windows-11/
 
-[RTM]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-7-RTM-Themes
-[MCT]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-7-MCT-Themes
-[Classic11]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Classic-11
-[MSCopilot]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Microsoft-Copilot
-[MSSurfacePro]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Microsoft-Surface-Pro
-[MacOS]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/MacOS-Themes-for-Windows
-[OnceHuman]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Once-Human
-[EDU]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Windows-11-Hidden-EDU-Themes
-[FFXIV]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/FFXIV
-[BLEACH]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/BLEACH
-[BLEACH_TYBW]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/BLEACH-TYBW
-[CourageTCD]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Courage-TCD
-[HMC]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Howls-Moving-Castle
-[StudioGhibli]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Windows/SFW/Studio-Ghibli
+[RTM]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-7-RTM-Themes
+[MCT]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-7-MCT-Themes
+[Classic11]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Classic-11
+[MSCopilot]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Microsoft-Copilot
+[MSSurfacePro]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Microsoft-Surface-Pro
+[MacOS]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/MacOS-Themes-for-Windows
+[OnceHuman]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Once-Human
+[EDU]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-11-Hidden-EDU-Themes
+[FFXIV]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/FFXIV
+[BLEACH]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/BLEACH
+[BLEACH_TYBW]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/BLEACH-TYBW
+[CourageTCD]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Courage-TCD
+[HMC]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Howls-Moving-Castle
+[StudioGhibli]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Studio-Ghibli
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

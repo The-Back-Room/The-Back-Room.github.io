@@ -34,38 +34,38 @@ permalink: /nsfw
 
 #### Windows 10 19H1-22H2
  
-| --- | --- | --- |
-| Ecchi for Windows 10 19H1-22H2 |  [Instructions][Win10Ecchi] | [Download][W10EcchiZIP] |  
-| Bleach Hentai for Windows 10 19H1-22H2 | [Instructions][Win10BLEACHHentai] | [Download][W10BLEACHHentaiZIP] |  
-| Ranma Hentai for Windows 10 19H1-22H2 | [Instructions][Win10RanmaHentai] | [Download][W10RanmaHentaiZIP] |  
-| Final Fantasy XIV Waifus for Windows 10 19H1-22H2 | [Instructions][Win10FFXIVWaifus] | [Download][W10FFXIVWaifusZIP] |  
-| Lewd Gamer Waifus for Windows 10 19H1-22H2 | [Instructions][Win10LewdGamerWaifus] | [Download][W10LewdGamerWaifusZIP] |  
+| --- | --- |
+| Ecchi for Windows 10 19H1-22H2 |  [Download][Win10Ecchi] | 
+| Bleach Hentai for Windows 10 19H1-22H2 | [Download][Win10BLEACHHentai] |  
+| Ranma Hentai for Windows 10 19H1-22H2 | [Download][Win10RanmaHentai] | 
+| Final Fantasy XIV Waifus for Windows 10 19H1-22H2 | [Download][Win10FFXIVWaifus] | 
+| Lewd Gamer Waifus for Windows 10 19H1-22H2 | [Download][Win10LewdGamerWaifus] |
 
 
 #### Windows 11 23H2+
 
-| --- | --- |  
-| Ecchi for Windows 11 | [Instructions][Win11Ecchi] | [Download][W11EcchiZIP] |  
+| --- | --- | --- |
+| Ecchi for Windows 11 | [Instructions][Win11Ecchi] | [Download][Win11Ecchi] |  
 | Bleach Hentai for Windows 11 | [Instructions][Win11BLEACHHentai] | [Download][W11BLEACHHentaiZIP] |   
-| Ranma Hentai for Windows 11 | [Instructions][Win11RanmaHentai] | [Download][W11RanmaHentaiZIP] |  
-| Final Fantasy XIV Waifus for Windows 11 | [Instructions][Win11FFXIVWaifus] | [Download][W11FFXIVWaifusZIP] |  
-| Lewd Gamer Waifus for Windows 11 | [Instructions][Win11LewdGamerWaifus] | [Download][W11LewdGamerGirlsZIP] |  
+| Ranma Hentai for Windows 11 | [Instructions][Win11RanmaHentai] | [Download][Win11RanmaHentai]  |  
+| Final Fantasy XIV Waifus for Windows 11 | [Instructions][Win11FFXIVWaifus] | [Download][Win11FFXIVWaifus] |  
+| Lewd Gamer Waifus for Windows 11 | [Instructions][Win11LewdGamerWaifus] | [Download][Win11LewdGamerWaifus] |  
 | Sexy Naruto Girls for Windows 11 | [Instructions][Win11SexyNarutoGirls] | [Download][W11SexyNarutoGirlsZIP] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win10Ecchi]: https://github.com/The-Back-Room//Ecchi-UI-X2-Theme-for-Windows-10-19H1-22H2/README.md
-[Win10BLEACHHentai]: https://github.com/The-Back-Room//Bleach-Hentai-UI-X2-Themes-for-Windows-10-19H1-22H2/README.md
-[Win10RanmaHentai]: https://github.com/The-Back-Room//Ranma-Hentai-UI-X2-Theme-for-Windows-10-19H1-22H2/README.md
-[Win10FFXIVWaifus]: https://github.com/The-Back-Room//Final-Fantasy-XIV-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2/README.md
-[Win10LewdGamerWaifus]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2/README.md
+[Win10Ecchi]: https://github.com/The-Back-Room//Ecchi-UI-X2-Theme-for-Windows-10-19H1-22H2
+[Win10BLEACHHentai]: https://github.com/The-Back-Room//Bleach-Hentai-UI-X2-Themes-for-Windows-10-19H1-22H2
+[Win10RanmaHentai]: https://github.com/The-Back-Room//Ranma-Hentai-UI-X2-Theme-for-Windows-10-19H1-22H2
+[Win10FFXIVWaifus]: https://github.com/The-Back-Room//Final-Fantasy-XIV-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2
+[Win10LewdGamerWaifus]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2
 
-[Win11Ecchi]: https://github.com/The-Back-Room//Ecchi-Themes-for-Windows-11/README.md
-[Win11BLEACHHentai]: https://github.com/The-Back-Room//Bleach-Hentai-Themes-for-Windows-11/README.md
-[Win11RanmaHentai]: https://github.com/The-Back-Room//Ranma-Hentai-Themes-for-Windows-11/README.md
-[Win11FFXIVWaifus]: https://github.com/The-Back-Room//Final-Fantasy-XIV-Waifus-Themes-for-Windows-11/README.md
-[Win11LewdGamerWaifus]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-Themes-for-Windows-11/README.md
-[Win11SexyNarutoGirls]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-Themes-for-Windows-11/README.md
+[Win11Ecchi]: https://github.com/The-Back-Room//Ecchi-Themes-for-Windows-11
+[Win11BLEACHHentai]: https://github.com/The-Back-Room//Bleach-Hentai-Themes-for-Windows-11
+[Win11RanmaHentai]: https://github.com/The-Back-Room//Ranma-Hentai-Themes-for-Windows-11
+[Win11FFXIVWaifus]: https://github.com/The-Back-Room//Final-Fantasy-XIV-Waifus-Themes-for-Windows-11
+[Win11LewdGamerWaifus]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-Themes-for-Windows-11
+[Win11SexyNarutoGirls]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-Themes-for-Windows-11
 
 [W10EcchiZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/Ecchi-Theme-for-Windows-10-19H1-22H2
 [W10BLEACHHentaiZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/BLEACH-Hentai-Themes-for-Windows-10-19H1-22H2
