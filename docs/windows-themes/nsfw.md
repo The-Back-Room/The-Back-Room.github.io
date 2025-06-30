@@ -56,13 +56,13 @@ permalink: /windows-themes/nsfw
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win10Ecchi]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Ecchi-Theme-for-Windows-10-19H1-22H2
-[Win10BLEACHHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/BLEACH-Hentai-Themes-for-Windows-10-19H1-22H2
-[Win10RanmaHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Ranma-Hentai-Theme-for-Windows-10-19H1-22H2
-[Win10FFXIVWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Final-Fantasy-XIV-Waifus-Theme-for-Windows-10-19H1-22H2
+[Win10Ecchi]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Ecchi-for-Windows-10-19H1-22H2
+[Win10BLEACHHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/BLEACH-Hentai-for-Windows-10-19H1-22H2
+[Win10RanmaHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Ranma-Hentai-for-Windows-10-19H1-22H2
+[Win10FFXIVWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Final-Fantasy-XIV-Waifus-for-Windows-10-19H1-22H2
 
-[Win11BLEACHHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/BLEACH-Hentai-Themes-for-Windows-11
-[Win11SexyNarutoGirls]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Sexy-Naruto-Girls-Themes-for-Windows-11
+[Win11BLEACHHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/BLEACH-Hentai-for-Windows-11
+[Win11SexyNarutoGirls]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Sexy-Naruto-Girls-for-Windows-11
 
 [LewdGamerWaifus]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/NSFW/Lewd-Gamer-Waifus
 [FFXIVWaifus]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/NSFW/Final-Fantasy-XIV-Waifus
