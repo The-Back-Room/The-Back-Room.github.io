@@ -16,7 +16,7 @@ permalink: /windows-themes/nsfw
 
 {: .note }
 > {: .opaque }
-> I'm in the proces of moving my themes over to my [GitLab](https://gitlab.com/the-back-room/Themes) repo for ease of management. For this reason, a large number of my themes are currently not listed here. If any theme is not listed here, you can check my [GitHub](https://github.com/The-Back-Room/repositories) repo for the current version of them.
+> I'm in the proces of moving my themes over to my [GitLab](https://gitlab.com/the-back-room/Themes) repo for ease of management. For this reason, a large number of my themes are currently not listed here. If a themeyou are looking for  is not listed here, you can check my [GitHub](https://github.com/The-Back-Room/repositories) repo for the current version of them.
 > 
 > Otherwise, please be patient as I get them all moved over and readded.
 
