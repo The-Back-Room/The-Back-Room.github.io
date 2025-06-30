@@ -22,12 +22,12 @@ permalink: /windows-themes/nsfw
 ### Deskthemepacks
  
 | --- | --- |   
-| Lewd Gamer Waifus | [Download][LewdGamerWaifus] |  
-| Final Fantasy XIV Waifus | [Download][FFXIVWaifus] |  
-| Sexy Naruto Girls| [Download][SexyNarutoGirls] |  
 | Ecchi | [Download][Ecchi] |  
-| Ranma Hentai | [Download][RanmaHentai] |  
 | Bleach Hentai | [Download][BLEACHHentai] |  
+| Ranma Hentai | [Download][RanmaHentai] |  
+| Final Fantasy XIV Waifus | [Download][FFXIVWaifus] |  
+| Lewd Gamer Waifus | [Download][LewdGamerWaifus] |  
+| Sexy Naruto Girls| [Download][SexyNarutoGirls] |  
 
 ### Custom Visual Styles
 

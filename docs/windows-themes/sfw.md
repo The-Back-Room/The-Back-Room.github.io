@@ -15,6 +15,12 @@ permalink: /windows-themes/sfw
 ### Deskthemepacks
  
 | --- | --- |  
+| BLEACH | [Download][BLEACH] |  
+| Courage TCD | [Download][CourageTCD] |  
+| Howl's Moving Castle | [Download][HMC] |  
+| Studio Ghibli | [Download][StudioGhibli] |  
+| Once Human | [Download][OnceHuman] |  
+| Final Fantasy XIV | [Download][FFXIV] |  
 | Windows 7 RTM Themes | [Download][RTM] |  
 | Windows 7 MCT Themes | [Download][MCT] |  
 | Classic 11 | [Download][Classic11] |  
@@ -22,12 +28,6 @@ permalink: /windows-themes/sfw
 | Microsoft Surface Pro Themes | [Download][MSSurfacePro] |  
 | Windows 11 Hidden EDU Themes | [Download][EDU] |  
 | MacOS Themes for Windows | [Download][MacOS] |  
-| Once Human | [Download][OnceHuman] |  
-| Final Fantasy XIV | [Download][FFXIV] |  
-| BLEACH | [Download][BLEACH] |  
-| Courage TCD | [Download][CourageTCD] |  
-| Howl's Moving Castle | [Download][HMC] |  
-| Studio Ghibli | [Download][StudioGhibli] | 
 
 ### Custom Visual Styles
 
