@@ -1,6 +1,6 @@
 ---
 title: Home
-nav_exlude: true
+nav_order: 1
 permalink: /
 ---
 

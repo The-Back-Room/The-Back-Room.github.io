@@ -2,7 +2,8 @@
 title: SFW Themes
 nav_order: 1
 has_toc: false
-parent: Windows themes
+parent: Windows Themes
+grand_parent: Home
 permalink: /windows-themes/sfw
 ---
 
