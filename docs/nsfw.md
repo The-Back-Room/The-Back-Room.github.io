@@ -55,17 +55,17 @@ permalink: /nsfw
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [Win10Ecchi]: https://github.com/The-Back-Room//Ecchi-UI-X2-Theme-for-Windows-10-19H1-22H2
-[Win10BLEACHHentai]: https://github.com/The-Back-Room//Bleach-Hentai-UI-X2-Themes-for-Windows-10-19H1-22H2
+[Win10BLEACHHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/BLEACH-Hentai-Themes-for-Windows-10-19H1-22H2
 [Win10RanmaHentai]: https://github.com/The-Back-Room//Ranma-Hentai-UI-X2-Theme-for-Windows-10-19H1-22H2
 [Win10FFXIVWaifus]: https://github.com/The-Back-Room//Final-Fantasy-XIV-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2
 [Win10LewdGamerWaifus]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-UI-X2-Theme-for-Windows-10-19H1-22H2
 
 [Win11Ecchi]: https://github.com/The-Back-Room//Ecchi-Themes-for-Windows-11
-[Win11BLEACHHentai]: https://github.com/The-Back-Room//Bleach-Hentai-Themes-for-Windows-11
+[Win11BLEACHHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/BLEACH-Hentai-Themes-for-Windows-11
 [Win11RanmaHentai]: https://github.com/The-Back-Room//Ranma-Hentai-Themes-for-Windows-11
 [Win11FFXIVWaifus]: https://github.com/The-Back-Room//Final-Fantasy-XIV-Waifus-Themes-for-Windows-11
 [Win11LewdGamerWaifus]: https://github.com/The-Back-Room/Lewd-Gamer-Waifus-Themes-for-Windows-11
-[Win11SexyNarutoGirls]: https://github.com/The-Back-Room/Sexy-Naruto-Girls-Themes-for-Windows-11
+[Win11SexyNarutoGirls]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Sexy-Naruto-Girls-Themes-for-Windows-11
 
 [LewdGamerWaifus]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/NSFW/Lewd-Gamer-Waifus
 [FFXIVWaifus]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/NSFW/Final-Fantasy-XIV-Waifus
