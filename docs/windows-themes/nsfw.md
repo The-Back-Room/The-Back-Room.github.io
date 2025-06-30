@@ -71,7 +71,7 @@ permalink: /windows-themes/nsfw
 
 [Win11Ecchi]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Ecchi-for-Windows-11
 [Win11BLEACHHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/BLEACH-Hentai-for-Windows-11
-[Win11RanmaHenta]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Ranma-Hentai-for-Windows-11
+[Win11RanmaHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Ranma-Hentai-for-Windows-11
 [Win11LewdGamerWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Lewd-Gamer-Waifus-for-Windows-11
 [Win11FFXIVWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Final-Fantasy-XIV-Waifus-for-Windows-11
 [Win11SexyNarutoGirls]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Sexy-Naruto-Girls-for-Windows-11
