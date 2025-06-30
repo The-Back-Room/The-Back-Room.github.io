@@ -45,16 +45,14 @@ permalink: /
 | --- | --- |  
 | BLEACH | [Download][Win11BLEACH] |  
 | Once Human | [Download][Win11OnceHuman] |  
-| Windows 7 | [Download][Win11Aero7] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win10BLEACH]:https://github.com/The-Back-Room/BLEACH-UI-X2-Themes-for-Windows-10-19H1-22H2/
+[Win10BLEACH]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-10/BLEACH-Themes-for-Windows-10-19H1-22H2
 [Win10OnceHuman]: https://github.com/The-Back-Room/Once-Human-UI-X2-Themes-for-Windows-10-19H1-22H2/
 
 [Win11BLEACH]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-11/BLEACH-Themes-for-Windows-11
 [Win11OnceHuman]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-11/Once-Human-Themes-for-Windows-11
-[Win11Aero7]: https://github.com/The-Back-Room/Windows-7-Themes-for-Windows-11/
 
 [RTM]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-7-RTM-Themes
 [MCT]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-7-MCT-Themes
