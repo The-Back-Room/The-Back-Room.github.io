@@ -32,6 +32,12 @@ permalink: /nsfw
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+{: .note }
+> {: .opaque }
+> I'm in the proces of moving my themes over to my GitLab repo for ease of management. For this reason, a large number of my themes are currently not listed here.
+> 
+> Please be patient as I get them all moved over and readded.
+
 #### Windows 10 19H1-22H2
  
 | --- | --- |
