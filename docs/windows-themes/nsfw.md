@@ -2,7 +2,8 @@
 title: NSFW Themes
 nav_order: 2
 has_toc: false
-permalink: /nsfw
+parent: Windows themes
+permalink: /windows-themes/nsfw
 ---
 
 {: .important }
