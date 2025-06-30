@@ -45,6 +45,8 @@ permalink: /windows-themes/nsfw
 | --- | --- |
 | Ecchi for Windows 10 19H1-22H2 |  [Download][Win10Ecchi] |  
 | Bleach Hentai for Windows 10 19H1-22H2 | [Download][Win10BLEACHHentai] |  
+| Ranma Hentai for Windows 10 19H1-22H2 | [Download][Win10RanmaHentai] |  
+| Final Fantasy XIV Waifus for Windows 10 19H1-22H2 | [Download][Win10FFXIVWaifus]  
 
 
 #### Windows 11 23H2+
@@ -57,6 +59,8 @@ permalink: /windows-themes/nsfw
 
 [Win10Ecchi]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Ecchi-Theme-for-Windows-10-19H1-22H2
 [Win10BLEACHHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/BLEACH-Hentai-Themes-for-Windows-10-19H1-22H2
+[Win10RanmaHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Ranma-Hentai-Theme-for-Windows-10-19H1-22H2
+[Win10FFXIVWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Final-Fantasy-XIV-Waifus-Theme-for-Windows-10-19H1-22H2
 
 [Win11BLEACHHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/BLEACH-Hentai-Themes-for-Windows-11
 [Win11SexyNarutoGirls]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Sexy-Naruto-Girls-Themes-for-Windows-11
