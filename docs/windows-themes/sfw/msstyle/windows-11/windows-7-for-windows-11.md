@@ -10,11 +10,24 @@ permalink: /windows-themes/sfw/msstyle/windows-11/windows-7-for-windows-11
 Windows 7 Themes for Windows 11
 ===============================
 
-> [!NOTE]
+{: .important }
+> {: .opaque }
+> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
+> Patching your system files **CAN** and **WILL** brick your system if done wrong.
+>
+> We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
+
+{: .important }
+> {: .opaque }
+> The following tools are required to use this theme:
+
+{: .note }
+> {: .opaque }
 > This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.  
 > You can find the original source code here: [LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+][Original]
 
-> [!NOTE]
+{: .note }
+> {: .opaque } 
 > A Windows 7 Icon Pack for [Resource Redirect][ResourceRedirect] is available for this theme.  
 > You can download that from the Icon Packs page on our website: [The Back Room][Website]
 

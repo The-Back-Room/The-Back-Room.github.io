@@ -6,12 +6,6 @@ parent: Windows Themes
 permalink: /windows-themes/sfw
 ---
 
-{: .note }
-> {: .opaque }
-> I'm in the proces of moving my themes over to my [GitLab](https://gitlab.com/the-back-room/Themes) repo for ease of management. For this reason, a large number of my themes are currently not listed here. If a themeyou are looking for  is not listed here, you can check my [GitHub](/windows-themes/sfw/msstyle/windows-10/19h1-22h2/repositories) repo for the current version of them.
-> 
-> Otherwise, please be patient as I get them all moved over and readded.
-
 ### Deskthemepacks
  
 | --- | --- |  

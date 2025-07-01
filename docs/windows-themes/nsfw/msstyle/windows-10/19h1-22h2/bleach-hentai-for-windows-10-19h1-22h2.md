@@ -8,13 +8,15 @@ permalink: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/bleach-hentai-for-w
 BLEACH Hentai Theme for Windows 10 19H1-22H2
 ===============================
 
-> [!IMPORTANT]
+{: .important }
+> {: .opaque }
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-> [!IMPORTANT]
+{: .important }
+> {: .opaque }
 > The following tools are required to use this theme:
 > 
 > - [SecureUXTheme Patcher][SecureUXTheme]

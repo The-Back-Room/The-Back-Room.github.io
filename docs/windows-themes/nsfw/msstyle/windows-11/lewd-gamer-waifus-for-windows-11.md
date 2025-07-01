@@ -10,13 +10,15 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/
 Lewd Gamer Waifus Themes for Windows 11
 ===============================
 
-> [!IMPORTANT]
+{: .important }
+> {: .opaque }
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-> [!IMPORTANT]
+{: .important }
+> {: .opaque }
 > The following tools are required to use this theme:
 > 
 > - [SecureUXTheme Patcher][SecureUXTheme]
