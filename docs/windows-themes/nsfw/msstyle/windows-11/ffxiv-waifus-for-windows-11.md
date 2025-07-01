@@ -2,6 +2,7 @@
 title: Final Fantasy XIV Waifus for Windows 11
 parent: NSFW Themes
 grand_parent: Windows Themes
+nav_enabled: false
 permalink: /windows-themes/nsfw/msstyle/windows-11/
 ---
 

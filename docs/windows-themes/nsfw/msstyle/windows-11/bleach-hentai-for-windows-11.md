@@ -2,6 +2,7 @@
 title: BLEACH Hentai for Windows 11
 parent: NSFW Themes
 grand_parent: Windows Themes
+nav_enabled: false
 permalink: /windows-themes/nsfw/msstyle/windows-11/bleach-hentai-for-windows-11
 ---
 

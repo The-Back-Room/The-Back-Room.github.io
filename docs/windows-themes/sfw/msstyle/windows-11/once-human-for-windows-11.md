@@ -2,6 +2,7 @@
 title: Once Human for Windows 11
 parent: SFW Themes
 grand_parent: Windows Themes
+nav_enabled: false
 permalink: /windows-themes/sfw/msstyle/windows-11/once-human-for-windows-11
 ---
 
