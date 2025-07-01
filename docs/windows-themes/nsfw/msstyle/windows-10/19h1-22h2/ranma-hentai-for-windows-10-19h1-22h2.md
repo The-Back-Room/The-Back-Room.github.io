@@ -18,19 +18,23 @@ Ranma Hentai Theme for Windows 10 19H1-22H2
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-{: .important }
-> {: .opaque }
-> The following tools are required to use this theme:
-> 
-> - [SecureUXTheme Patcher][SecureUXTheme]
-> - [WindHawk][WindHawk]
-> - [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect]
-> - [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
-> - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
-> - [Old New Explorer][OldNewExplorer]
-> - [StartIsBack][StartIsBack]
-> - [DWMBlurGlass][DWMBlurGlass]
-> - [OpenGlass][OpenGlass]
+#### Instructions
+
+*   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
+*   Apply the theme via `Settings > Personalization > Themes`
+
+#### Requirements
+The following tools are required to use this theme:
+
+ - [SecureUXTheme Patcher][SecureUXTheme]
+ - [WindHawk][WindHawk]
+ - [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect]
+ - [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
+ - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
+ - [Old New Explorer][OldNewExplorer]
+ - [StartIsBack][StartIsBack]
+ - [DWMBlurGlass][DWMBlurGlass]
+ - [OpenGlass][OpenGlass]
 
 #### Features
 
