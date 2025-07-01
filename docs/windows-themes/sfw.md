@@ -55,8 +55,8 @@ permalink: /windows-themes/sfw
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win10BLEACH]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-10/BLEACH-for-Windows-10-19H1-22H2
-[Win10OnceHuman]: /windows-themes/sfw/msstyle/windows-10/19h1-22h2/Once-Human-for-Windows-10-19H1-22H2/
+[Win10BLEACH]: /windows-themes/sfw/msstyle/windows-10/19h1-22h2/BLEACH-for-Windows-10-19H1-22H2
+[Win10OnceHuman]: /windows-themes/sfw/msstyle/windows-10/19h1-22h2/Once-Human-for-Windows-10-19H1-22H2
 
 [Win11BLEACH]: /windows-themes/sfw/msstyle/windows-11/BLEACH-for-Windows-11
 [Win11OnceHuman]: /windows-themes/sfw/msstyle/windows-11/Once-Human-for-Windows-11
