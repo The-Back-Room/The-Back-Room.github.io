@@ -3,7 +3,7 @@ title: Once Human for Windows 10 19H1-22H2
 parent: SFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
-permalink: /windows-themes/sfw/windows-10/once-human
+permalink: /windows-themes/sfw/msstyle/windows-10/once-human
 ---
 
 ![][Preview]
