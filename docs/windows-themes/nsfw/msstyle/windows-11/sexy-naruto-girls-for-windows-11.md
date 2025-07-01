@@ -2,7 +2,7 @@
 title: Sexy Naruto Girls for Windows 11
 parent: NSFW Themes
 grand_parent: Windows Themes
-nav_enabled: false
+nav_exclude: true
 permalink: /windows-themes/nsfw/msstyle/windows-11/sexy-naruto-girls-for-windows-11
 ---
 

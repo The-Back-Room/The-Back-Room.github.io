@@ -2,7 +2,7 @@
 title: BLEACH for Windows 10 19H!-22H2
 parent: SFW Themes
 grand_parent: Windows Themes
-nav_enabled: false
+nav_exclude: true
 permalink: /windows-themes/sfw/windows-10/19h1-22h2/bleach-for-windows-10-19h1-22h2
 ---
 

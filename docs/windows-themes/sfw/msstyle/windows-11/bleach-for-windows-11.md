@@ -2,7 +2,7 @@
 title: BLEACH for Windows 11
 parent: SFW Themes
 grand_parent: Windows Themes
-nav_enabled: false
+nav_exclude: true
 permalink: /windows-themes/sfw/msstyle/windows-11/bleach-for-windows-11
 ---
 

@@ -2,7 +2,7 @@
 title: Windows 7 for Windows 11
 parent: SFW Themes
 grand_parent: Windows Themes
-nav_enabled: false
+nav_exclude: true
 permalink: /windows-themes/sfw/msstyle/windows-11/windows-7-for-windows-11
 ---
 
