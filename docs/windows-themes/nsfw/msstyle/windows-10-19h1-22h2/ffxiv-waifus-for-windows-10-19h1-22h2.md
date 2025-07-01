@@ -1,14 +1,12 @@
 ---
-title: Lewd Gamer Waifus for Windows 10 19H1-22H2
+title: Final Fantasy XIV Waifus for Windows 10 19H1-22H2
 parent: NSFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
-permalink: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/lewd-gamer-waifus-for-windows-10-19h1-22h2
+permalink: /windows-themes/nsfw/msstyle/windows-10-19h1-22h2/ffxiv-waifus-for-windows-10-19h1-22h2
 ---
 
-![][Preview]
-
-Lewd Gamer Waifus Themes for Windows 10 19H1-22H2
+Final Fantasy XIV Waifus Theme for Windows 10 19H1-22H2
 ===============================
 
 {: .important }
@@ -58,6 +56,7 @@ The following tools are required to use this theme:
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/Windows-10/19H1-22H2/Lewd-Gamer-Waifus-for-Windows-10-19H1-22H2
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/windows-10-19h1-22h2/Final-Fantasy-XIV-Waifus-for-Windows-10-19H1-22H2
+
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

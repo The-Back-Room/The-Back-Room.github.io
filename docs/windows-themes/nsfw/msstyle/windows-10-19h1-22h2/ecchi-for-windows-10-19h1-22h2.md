@@ -1,14 +1,12 @@
 ---
-title: Sexy Naruto Girls for Windows 10 19H1-22H2
+title: Ecchi for Windows 10 19H1-22H2
 parent: NSFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
-permalink: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/sexy-naruto-girls-for-windows-10-19h1-22h2
+permalink: /windows-themes/nsfw/msstyle/windows-10-19h1-22h2/ecchi-for-windows-10-19h1-22h2
 ---
 
-![][Preview]
-
-Sexy Naruto Girls for Windows 10 19H1-22H2
+Ecchi Theme for Windows 10 19H1-22H2
 ===============================
 
 {: .important }
@@ -58,6 +56,6 @@ The following tools are required to use this theme:
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/Windows-10/19H1-22H2/Sexy-Naruto-Girls-for-Windows-10-19H2-22H2
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/windows-10-19h1-22h2/Ecchi-for-Windows-10-19H1-22H2
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

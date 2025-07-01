@@ -1,14 +1,12 @@
 ---
-title: Once Human for Windows 10 19H!-22H2
-parent: SFW Themes
+title: BLEACH Hentai for Windows 10 19H1-22H2
+parent: NSFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
-permalink: /windows-themes/sfw/windows-10/19h1-22h2/once-human-for-windows-10-19h1-22h2
+permalink: /windows-themes/nsfw/msstyle/windows-10-19h1-22h2/bleach-hentai-for-windows-10-19h1-22h2
 ---
 
-![][Preview]
-
-Once Human Theme for Windows 10 19H1-22H2  
+BLEACH Hentai Theme for Windows 10 19H1-22H2
 ===============================
 
 {: .important }
@@ -28,6 +26,7 @@ The following tools are required to use this theme:
 
  - [SecureUXTheme Patcher][SecureUXTheme]
  - [WindHawk][WindHawk]
+ - [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect]
  - [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
  - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
  - [Old New Explorer][OldNewExplorer]
@@ -57,6 +56,6 @@ The following tools are required to use this theme:
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/SFW/Windows-10/19H1-22H2/Once-Human-for-Windows-10-19H1-22H2
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/windows-10-19h1-22h2/BLEACH-Hentai-for-Windows-10-19H1-22H2
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
