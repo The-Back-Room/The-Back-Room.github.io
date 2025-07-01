@@ -56,11 +56,11 @@ permalink: /windows-themes/nsfw
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win10Ecchi]: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/ecchi-for-windows-10-19H1-22H2
-[Win10BLEACHHentai]: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/bleach-hentai-for-windows-10-19H1-22H2
-[Win10RanmaHentai]: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/ranma-hentai-for-windows-10-19H1-22H2
-[Win10FFXIVWaifus]: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/ffxiv-waifus-for-windows-10-19H1-22H2
-[Win10LewdGamerWaifus]: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/lewd-gamer-waifus-for-windows-10-19H1-22H2
+[Win10Ecchi]: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/ecchi-for-windows-10-19h1-22h2
+[Win10BLEACHHentai]: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/bleach-hentai-for-windows-10-19h1-22h2
+[Win10RanmaHentai]: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/ranma-hentai-for-windows-10-19h1-22h2
+[Win10FFXIVWaifus]: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/ffxiv-waifus-for-windows-10-19h1-22h2
+[Win10LewdGamerWaifus]: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/lewd-gamer-waifus-for-windows-10-19h1-22h2
 [Win10SexyNarutoGirls]: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2/sexy-naruto-girls-for-windows-10-19H2-22H2
 
 [Win11Ecchi]: /windows-themes/nsfw/msstyle/windows-11/ecchi-for-windows-11

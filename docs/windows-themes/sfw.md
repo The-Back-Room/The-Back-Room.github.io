@@ -49,8 +49,8 @@ permalink: /windows-themes/sfw
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win10BLEACH]: /windows-themes/sfw/msstyle/windows-10/19h1-22h2/bleach-for-windows-10-19H1-22H2
-[Win10OnceHuman]: /windows-themes/sfw/msstyle/windows-10/19h1-22h2/once-human-for-windows-10-19H1-22H2
+[Win10BLEACH]: /windows-themes/sfw/msstyle/windows-10/19h1-22h2/bleach-for-windows-10-19h1-22h2
+[Win10OnceHuman]: /windows-themes/sfw/msstyle/windows-10/19h1-22h2/once-human-for-windows-10-19h1-22h2
 
 [Win11BLEACH]: /windows-themes/sfw/msstyle/windows-11/bleach-for-windows-11
 [Win11OnceHuman]: /windows-themes/sfw/msstyle/windows-11/once-human-for-windows-11
