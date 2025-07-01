@@ -1,9 +1,9 @@
 ---
-title: Once Human for Windows 10 19H!-22H2
+title: Once Human for Windows 10 19H1-22H2
 parent: SFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
-permalink: /windows-themes/sfw/windows-10-19h1-22h2/once-human-for-windows-10-19h1-22h2
+permalink: /windows-themes/sfw/windows-10/once-human
 ---
 
 ![][Preview]
@@ -55,8 +55,8 @@ The following tools are required to use this theme:
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartIsBack]: https://www.startisback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/SFW/windows-10-19h1-22h2/Once-Human-for-Windows-10-19H1-22H2
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/SFW/windows-10/Once-Human
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

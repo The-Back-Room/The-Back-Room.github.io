@@ -56,19 +56,19 @@ permalink: /windows-themes/nsfw
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win10Ecchi]: /windows-themes/nsfw/msstyle/windows-10-19h1-22h2/ecchi-for-windows-10-19h1-22h2
-[Win10BLEACHHentai]: /windows-themes/nsfw/msstyle/windows-10-19h1-22h2/bleach-hentai-for-windows-10-19h1-22h2
-[Win10RanmaHentai]: /windows-themes/nsfw/msstyle/windows-10-19h1-22h2/ranma-hentai-for-windows-10-19h1-22h2
-[Win10FFXIVWaifus]: /windows-themes/nsfw/msstyle/windows-10-19h1-22h2/ffxiv-waifus-for-windows-10-19h1-22h2
-[Win10LewdGamerWaifus]: /windows-themes/nsfw/msstyle/windows-10-19h1-22h2/lewd-gamer-waifus-for-windows-10-19h1-22h2
-[Win10SexyNarutoGirls]: /windows-themes/nsfw/msstyle/windows-10-19h1-22h2/sexy-naruto-girls-for-windows-10-19H2-22H2
+[Win10Ecchi]: /windows-themes/nsfw/msstyle/windows-10/ecchi
+[Win10BLEACHHentai]: /windows-themes/nsfw/msstyle/windows-10/bleach-hentai
+[Win10RanmaHentai]: /windows-themes/nsfw/msstyle/windows-10/ranma-hentai
+[Win10FFXIVWaifus]: /windows-themes/nsfw/msstyle/windows-10/ffxiv-waifus
+[Win10LewdGamerWaifus]: /windows-themes/nsfw/msstyle/windows-10/lewd-gamer-waifus
+[Win10SexyNarutoGirls]: /windows-themes/nsfw/msstyle/windows-10/sexy-naruto-girls
 
-[Win11Ecchi]: /windows-themes/nsfw/msstyle/windows-11/ecchi-for-windows-11
-[Win11BLEACHHentai]: /windows-themes/nsfw/msstyle/windows-11/bleach-hentai-for-windows-11
-[Win11RanmaHentai]: /windows-themes/nsfw/msstyle/windows-11/ranma-hentai-for-windows-11
-[Win11LewdGamerWaifus]: /windows-themes/nsfw/msstyle/windows-11/lewd-gamer-waifus-for-windows-11
-[Win11FFXIVWaifus]: /windows-themes/nsfw/msstyle/windows-11/ffxiv-waifus-for-windows-11
-[Win11SexyNarutoGirls]: /windows-themes/nsfw/msstyle/windows-11/sexy-naruto-girls-for-windows-11
+[Win11Ecchi]: /windows-themes/nsfw/msstyle/windows-11/ecchi
+[Win11BLEACHHentai]: /windows-themes/nsfw/msstyle/windows-11/bleach-hentai
+[Win11RanmaHentai]: /windows-themes/nsfw/msstyle/windows-11/ranma-hentai
+[Win11LewdGamerWaifus]: /windows-themes/nsfw/msstyle/windows-11/lewd-gamer-waifus
+[Win11FFXIVWaifus]: /windows-themes/nsfw/msstyle/windows-11/ffxiv-waifus
+[Win11SexyNarutoGirls]: /windows-themes/nsfw/msstyle/windows-11/sexy-naruto-girls
 
 [LewdGamerWaifus]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/NSFW/lewd-gamer-Waifus
 [FFXIVWaifus]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/NSFW/Final-Fantasy-XIV-Waifus

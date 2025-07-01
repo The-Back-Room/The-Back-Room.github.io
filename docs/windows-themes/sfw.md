@@ -49,12 +49,12 @@ permalink: /windows-themes/sfw
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win10BLEACH]: /windows-themes/sfw/msstyle/windows-10-19h1-22h2/bleach-for-windows-10-19h1-22h2
-[Win10OnceHuman]: /windows-themes/sfw/msstyle/windows-10-19h1-22h2/once-human-for-windows-10-19h1-22h2
+[Win10BLEACH]: /windows-themes/sfw/msstyle/windows-10/bleach
+[Win10OnceHuman]: /windows-themes/sfw/msstyle/windows-10/once-human
 
-[Win11BLEACH]: /windows-themes/sfw/msstyle/windows-11/bleach-for-windows-11
-[Win11OnceHuman]: /windows-themes/sfw/msstyle/windows-11/once-human-for-windows-11
-[Win11Win7]: /windows-themes/sfw/msstyle/windows-11/windows-7-for-windows-11
+[Win11BLEACH]: /windows-themes/sfw/msstyle/windows-11/bleach
+[Win11OnceHuman]: /windows-themes/sfw/msstyle/windows-11/once-human
+[Win11Win7]: /windows-themes/sfw/msstyle/windows-11/windows-7
 
 [RTM]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-7-RTM-Themes
 [MCT]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-7-MCT-Themes

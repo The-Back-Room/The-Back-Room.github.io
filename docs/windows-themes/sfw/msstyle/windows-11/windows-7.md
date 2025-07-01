@@ -3,7 +3,7 @@ title: Windows 7 for Windows 11
 parent: SFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
-permalink: /windows-themes/sfw/msstyle/windows-11/windows-7-for-windows-11
+permalink: /windows-themes/sfw/msstyle/windows-11/windows-7
 ---
 
 ![][Preview]
@@ -70,12 +70,12 @@ The following tools are required to use this theme:
 [SecureUxTheme]: https://github.com/namazso/SecureUxTheme
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 [StartAllBack]: https://www.startallback.com/
 [Explorer7]: https://winclassic.net/thread/2588/explorer7-windows-explorer-10-11
 
 [Original]: https://github.com/LittleFox2024/Aero7-11
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/SFW/Windows-11/Windows-7-for-Windows-11
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/SFW/Windows-11/Windows-7
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

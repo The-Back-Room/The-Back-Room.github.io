@@ -1,15 +1,15 @@
 ---
-title: BLEACH for Windows 11
-parent: SFW Themes
+title: BLEACH Hentai for Windows 11
+parent: NSFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
-permalink: /windows-themes/sfw/msstyle/windows-11/bleach-for-windows-11
+permalink: /windows-themes/nsfw/msstyle/windows-11/bleach-hentai
 ---
 
 ![][Preview]
 
-BLEACH Themes for Windows 11
-============================
+BLEACH Hentai Themes for Windows 11
+===============================
 
 
 {: .important }
@@ -29,6 +29,7 @@ The following tools are required to use this theme:
 
  - [SecureUXTheme Patcher][SecureUXTheme]
  - [WindHawk][WindHawk]
+ - [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect]
  - [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
  - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
  - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
@@ -47,10 +48,8 @@ The following tools are required to use this theme:
 
 #### Included Themes
 
-*   **BLEACH**: /[Aero7-11/]
-*   **BLEACH**: /[UI-X2/]
-*   **BLEACH**: Thousand Year Blood War /[Aero7-11/]
-*   **BLEACH**: Thousand Year Blood War /[UI-X2/]
+*   **BLEACH**: Hentai \[Aero7-11\]
+*   **BLEACH**: Hentai \[UI-X2\]
 
 **Download**: [Download ZIP][DownloadZIP]
 
@@ -67,8 +66,8 @@ The following tools are required to use this theme:
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartAllBack]: https://www.startallback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/SFW/Windows-11/BLEACH-for-Windows-11
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/Windows-11/BLEACH-Hentai
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

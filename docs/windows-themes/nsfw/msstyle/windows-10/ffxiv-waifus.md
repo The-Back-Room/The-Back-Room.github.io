@@ -1,16 +1,13 @@
 ---
-title: Once Human for Windows 11
-parent: SFW Themes
+title: Final Fantasy XIV Waifus for Windows 10 19H1-22H2
+parent: NSFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
-permalink: /windows-themes/sfw/msstyle/windows-11/once-human-for-windows-11
+permalink: /windows-themes/nsfw/msstyle/windows-10/ffxiv-waifus
 ---
 
-![][Preview]
-
-Once Human Themes for Windows 11   
-============================
-
+Final Fantasy XIV Waifus Theme for Windows 10 19H1-22H2
+===============================
 
 {: .important }
 > {: .opaque }
@@ -29,20 +26,18 @@ The following tools are required to use this theme:
 
  - [SecureUXTheme Patcher][SecureUXTheme]
  - [WindHawk][WindHawk]
+ - [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect]
  - [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
- - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
  - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
  - [Old New Explorer][OldNewExplorer]
- - [StartAllBack][StartAllBack]
+ - [StartIsBack][StartIsBack]
  - [DWMBlurGlass][DWMBlurGlass]
  - [OpenGlass][OpenGlass]
 
 #### Features
 
-*   Multiple Backgrounds
-*   Multiple Styles
-*   Custom Cursors
-*   Custom Sounds
+*   Custom cursors
+*   Custom sounds
 
 
 **Download**: [Download ZIP][DownloadZIP]
@@ -52,16 +47,16 @@ The following tools are required to use this theme:
 [Preview]: /assets/images/themes/
 
 [WindHawk]: https://windhawk.net/
-[BringBackTheBorders]: https://windhawk.net/mods/w11-dwm-fix
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect/
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
 [SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
 [UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
-[StartAllBack]: https://www.startallback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[StartIsBack]: https://www.startisback.com/
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/SFW/Windows-11/Once-Human-for-Windows-11
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/windows-10/Final-Fantasy-XIV-Waifus
+
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

@@ -1,14 +1,12 @@
 ---
-title: Ranma Hentai for Windows 10 19H1-22H2
+title: Ecchi for Windows 10 19H1-22H2
 parent: NSFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
-permalink: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2-ranma-hentai-for-windows-10-19h1-22h2
+permalink: /windows-themes/nsfw/msstyle/windows-10/ecchi
 ---
 
-![][Preview]
-
-Ranma Hentai Theme for Windows 10 19H1-22H2
+Ecchi Theme for Windows 10 19H1-22H2
 ===============================
 
 {: .important }
@@ -56,8 +54,8 @@ The following tools are required to use this theme:
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartIsBack]: https://www.startisback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/windows-10-19h1-22h2/Ranma-Hentai-for-Windows-10-19H1-22H2
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/windows-10/Ecchi
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

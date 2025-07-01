@@ -1,15 +1,16 @@
 ---
-title: Sexy Naruto Girls for Windows 11
-parent: NSFW Themes
+title: Once Human for Windows 11
+parent: SFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
-permalink: /windows-themes/nsfw/msstyle/windows-11/sexy-naruto-girls-for-windows-11
+permalink: /windows-themes/sfw/msstyle/windows-11/once-human
 ---
 
 ![][Preview]
 
-Sexy Naruto Girls for Windows 11
-===============================
+Once Human Themes for Windows 11   
+============================
+
 
 {: .important }
 > {: .opaque }
@@ -28,7 +29,6 @@ The following tools are required to use this theme:
 
  - [SecureUXTheme Patcher][SecureUXTheme]
  - [WindHawk][WindHawk]
- - [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect]
  - [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
  - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
  - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
@@ -39,19 +39,11 @@ The following tools are required to use this theme:
 
 #### Features
 
+*   Multiple Backgrounds
 *   Multiple Styles
-*   Custom cursors
-*   Custom sounds
+*   Custom Cursors
+*   Custom Sounds
 
-
-#### Included Themes
-
-*   **Sexy Naruto Girls**: [Aero7-11]
-*   **Sexy Naruto Girls**: [Aero7-11] (Nude)
-*   **Sexy Naruto Girls**: [Aero7-11] (Nude) (Alt)
-*   **Sexy Naruto Girls**: [UI-X2]
-*   **Sexy Naruto Girls**: [UI-X2] (Nude)
-*   **Sexy Naruto Girls**: [UI-X2] (Nude) (Alt)
 
 **Download**: [Download ZIP][DownloadZIP]
 
@@ -68,8 +60,8 @@ The following tools are required to use this theme:
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartAllBack]: https://www.startallback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/Windows-11/Sexy-Naruto-Girls-Themes-for-Windows-11
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/SFW/Windows-11/Once-Human
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

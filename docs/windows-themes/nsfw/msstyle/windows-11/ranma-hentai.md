@@ -1,5 +1,5 @@
 ---
-title: Lewd Gamer Waifus for Windows 11
+title: Ranma Hentai for Windows 11
 parent: NSFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
@@ -8,7 +8,7 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/
 
 ![][Preview]
 
-Lewd Gamer Waifus Themes for Windows 11
+Ranma Hentai Themes for Windows 11
 ===============================
 
 {: .important }
@@ -46,10 +46,8 @@ The following tools are required to use this theme:
 
 #### Included Themes
 
-#### Included Themes
-
-*   **Lewd Gamer Waifus**: [Aero7-11]
-*   **Lewd Gamer Waifus**: [UI-X2]
+*   **Ranma Hentai**: [Aero7-11]
+*   **Ranma Hentai**: [UI-X2]
 
 **Download**: [Download ZIP][DownloadZIP]
 
@@ -66,8 +64,8 @@ The following tools are required to use this theme:
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartAllBack]: https://www.startallback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/Windows-11/Lewd-Gamer-Waifus-for-Windows-10-19H1-22H2
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/Windows-11/Ranma-Hentai
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

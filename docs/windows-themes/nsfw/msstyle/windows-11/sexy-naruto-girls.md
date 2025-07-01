@@ -1,12 +1,14 @@
 ---
-title: Final Fantasy XIV Waifus for Windows 10 19H1-22H2
+title: Sexy Naruto Girls for Windows 11
 parent: NSFW Themes
 grand_parent: Windows Themes
 nav_exclude: true
-permalink: /windows-themes/nsfw/msstyle/windows-10-19h1-22h2/ffxiv-waifus-for-windows-10-19h1-22h2
+permalink: /windows-themes/nsfw/msstyle/windows-11/sexy-naruto-girls
 ---
 
-Final Fantasy XIV Waifus Theme for Windows 10 19H1-22H2
+![][Preview]
+
+Sexy Naruto Girls for Windows 11
 ===============================
 
 {: .important }
@@ -28,17 +30,28 @@ The following tools are required to use this theme:
  - [WindHawk][WindHawk]
  - [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect]
  - [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
+ - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
  - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
  - [Old New Explorer][OldNewExplorer]
- - [StartIsBack][StartIsBack]
+ - [StartAllBack][StartAllBack]
  - [DWMBlurGlass][DWMBlurGlass]
  - [OpenGlass][OpenGlass]
 
 #### Features
 
+*   Multiple Styles
 *   Custom cursors
 *   Custom sounds
 
+
+#### Included Themes
+
+*   **Sexy Naruto Girls**: [Aero7-11]
+*   **Sexy Naruto Girls**: [Aero7-11] (Nude)
+*   **Sexy Naruto Girls**: [Aero7-11] (Nude) (Alt)
+*   **Sexy Naruto Girls**: [UI-X2]
+*   **Sexy Naruto Girls**: [UI-X2] (Nude)
+*   **Sexy Naruto Girls**: [UI-X2] (Nude) (Alt)
 
 **Download**: [Download ZIP][DownloadZIP]
 
@@ -47,16 +60,16 @@ The following tools are required to use this theme:
 [Preview]: /assets/images/themes/
 
 [WindHawk]: https://windhawk.net/
+[BringBackTheBorders]: https://windhawk.net/mods/w11-dwm-fix
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect/
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
 [SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
 [UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
-[StartIsBack]: https://www.startisback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[StartAllBack]: https://www.startallback.com/
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/windows-10-19h1-22h2/Final-Fantasy-XIV-Waifus-for-Windows-10-19H1-22H2
-
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/Windows-11/Sexy-Naruto-Girls-Themes
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
