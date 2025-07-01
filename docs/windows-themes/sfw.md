@@ -51,6 +51,7 @@ permalink: /windows-themes/sfw
 | --- | --- |  
 | BLEACH | [Download][Win11BLEACH] |  
 | Once Human | [Download][Win11OnceHuman] |  
+| Windows 7 | [Download][Win11Win7] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -59,6 +60,7 @@ permalink: /windows-themes/sfw
 
 [Win11BLEACH]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-11/BLEACH-for-Windows-11
 [Win11OnceHuman]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-11/Once-Human-for-Windows-11
+[Win11Win7]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-11/Windows-7-for-Windows-11
 
 [RTM]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-7-RTM-Themes
 [MCT]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=Deskthemepacks/SFW/Windows-7-MCT-Themes
