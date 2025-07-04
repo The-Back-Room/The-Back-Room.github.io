@@ -13,7 +13,7 @@ Icon Packs for [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect
 | Hud Machine Red | [Download][HudMachineRed] |  
 | Jarvis | [Download][Jarvis] |  
 | Gen2 Plasma Blue V1 | [Download][PlasmaBlueV1] |  
-| Gen2 Plasnma Blue V2 | [Download][PlasmaBlueV2] |  
+| Gen2 Plasma Blue V2 | [Download][PlasmaBlueV2] |  
 | Windows 7 | [Download][Win7] |  
 | Windows Vista | [Download][WinVista] |  
 | Windows XP | [Download][WinXP] |  
