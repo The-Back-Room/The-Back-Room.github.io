@@ -7,10 +7,14 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2-ranma-hentai
 ---
 
-![][Preview]
+{: .note }
+> {: .opaque }
+> We have yet to create a preview image for this page. We will get one uploaded as soon as we have it created.
 
 Ranma Hentai Theme for Windows 10 19H1-22H2
 ===============================
+
+![][Preview]
 
 {: .important }
 > {: .opaque }

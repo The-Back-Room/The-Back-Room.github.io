@@ -7,10 +7,14 @@ grand_parent: SFW Themes
 permalink: /windows-themes/sfw/msstyle/windows-10/once-human
 ---
 
-![][Preview]
+{: .note }
+> {: .opaque }
+> We have yet to create a preview image for this page. We will get one uploaded as soon as we have it created.
 
 Once Human Theme for Windows 10 19H1-22H2  
 ===============================
+
+![][Preview]
 
 {: .important }
 > {: .opaque }

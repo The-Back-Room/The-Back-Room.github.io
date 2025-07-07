@@ -7,11 +7,14 @@ grand_parent: SFW Themes
 permalink: /windows-themes/sfw/msstyle/windows-11/bleach
 ---
 
-![][Preview]
+{: .note }
+> {: .opaque }
+> We have yet to create a preview image for this page. We will get one uploaded as soon as we have it created.
 
 BLEACH Themes for Windows 11
 ============================
 
+![][Preview]
 
 {: .important }
 > {: .opaque }

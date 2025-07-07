@@ -7,10 +7,14 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/msstyle/windows-10/lewd-gamer-waifus
 ---
 
-![][Preview]
+{: .note }
+> {: .opaque }
+> We have yet to create a preview image for this page. We will get one uploaded as soon as we have it created.
 
 Lewd Gamer Waifus Themes for Windows 10 19H1-22H2
 ===============================
+
+![][Preview]
 
 {: .important }
 > {: .opaque }
