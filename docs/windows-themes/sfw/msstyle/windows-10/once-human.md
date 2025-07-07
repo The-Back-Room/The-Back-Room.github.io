@@ -57,6 +57,6 @@ The following tools are required to use this theme:
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/SFW/windows-10/Once-Human
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-10/19H2-22H2/Once-Human-for-Windows-10-19H1-22H2
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

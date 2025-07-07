@@ -68,6 +68,6 @@ The following tools are required to use this theme:
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/Windows-11/BLEACH-Hentai
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/BLEACH-Hentai-for-Windows-11
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

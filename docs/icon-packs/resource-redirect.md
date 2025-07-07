@@ -21,14 +21,14 @@ Icon Packs for [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[HudMachineRed]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?path=icon-packs/HUD-Machine-Red
-[Jarvis]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?path=icon-packs/Jarvis
-[MagnumDark]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?path=icon-packs/Magnum-Dark
-[PlasmaBlueV1]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?path=icon-packs/Plasma-Blue-V1
-[PlasmaBlueV2]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?path=icon-packs/Plasma-Blue-V2
+[HudMachineRed]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/HUD-Machine-Red
+[Jarvis]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Jarvis
+[MagnumDark]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Magnum-Dark
+[PlasmaBlueV1]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Plasma-Blue-V1
+[PlasmaBlueV2]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Plasma-Blue-V2
 [Windows7]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-7
-[WindowsVista]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?path=icon-packs/Windows-Vista
-[WindowsXP]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?path=icon-packs/Windows-XP
+[WindowsVista]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-Vista
+[WindowsXP]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-XP
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect

@@ -76,6 +76,6 @@ The following tools are required to use this theme:
 
 [Original]: https://github.com/LittleFox2024/Aero7-11
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/SFW/Windows-11/Windows-7
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-11/Windows-7-for-Windows-11
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

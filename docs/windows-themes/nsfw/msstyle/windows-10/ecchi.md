@@ -56,6 +56,6 @@ The following tools are required to use this theme:
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/archive/main/Themes-main.zip?path=MSSTYLE/NSFW/windows-10/Ecchi
+[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Ecchi-for-Windows-10-19H1-22H2
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
