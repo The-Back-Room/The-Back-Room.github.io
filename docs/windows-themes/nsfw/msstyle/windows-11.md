@@ -10,22 +10,30 @@ permalink: /windows-themes/nsfw/msstyle/windows-11
 NSFW Visual Styles for Windows 11
 =======================================
 
+{: .important }
+> {: .opaque }
+> {: .warning }
+> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
+> Patching your system files **CAN** and **WILL** brick your system if done wrong.
+>
+> We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
+
 | --- | --- |  
-| Ecchi for Windows 11 | [View][Win11EcchiThemePage] |  
-| Bleach Hentai for Windows 11 | [View][Win11BLEACHHentaiThemePage] |   
-| Ranma Hentai for Windows 11 | [View][Win11RanmaHentaiThemePage] |  
-| Final Fantasy XIV Waifus for Windows 11 | [View][Win11FFXIVWaifusThemePage] |  
-| Lewd Gamer Waifus for Windows 11 | [View][Win11LewdGamerWaifusThemePage] |   
-| Sexy Naruto Girls for Windows 11  | [View][Win11SexyNarutoGirlsThemePage] |  
+| Ecchi for Windows 11 | [View][ECCHI] |  
+| Bleach Hentai for Windows 11 | [View][BLEACHHentai] |   
+| Ranma Hentai for Windows 11 | [View][RanmaHentai] |  
+| Final Fantasy XIV Waifus for Windows 11 | [View][FFXIVWaifus] |  
+| Lewd Gamer Waifus for Windows 11 | [View][LewdGamerWaifus] |   
+| Sexy Naruto Girls for Windows 11  | [View][SexyNarutoGirls] |  
 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win11EcchiThemePage]: /windows-themes/nsfw/msstyle/windows-11/ecchi
-[Win11BLEACHHentaiThemePage]: /windows-themes/nsfw/msstyle/windows-11/bleach-hentai
-[Win11RanmaHentaiThemePage]: /windows-themes/nsfw/msstyle/windows-11/ranma-hentai
-[Win11LewdGamerWaifusThemePage]: /windows-themes/nsfw/msstyle/windows-11/lewd-gamer-waifus
-[Win11FFXIVWaifusThemePage]: /windows-themes/nsfw/msstyle/windows-11/ffxiv-waifus
-[Win11SexyNarutoGirlsThemePage]: /windows-themes/nsfw/msstyle/windows-11/sexy-naruto-girls
+[ECCHI]: /windows-themes/nsfw/msstyle/windows-11/ecchi
+[BLEACHHentai]: /windows-themes/nsfw/msstyle/windows-11/bleach-hentai
+[RanmaHentai]: /windows-themes/nsfw/msstyle/windows-11/ranma-hentai
+[LewdGamerWaifus]: /windows-themes/nsfw/msstyle/windows-11/lewd-gamer-waifus
+[FFXIVWaifus]: /windows-themes/nsfw/msstyle/windows-11/ffxiv-waifus
+[SexyNarutoGirls]: /windows-themes/nsfw/msstyle/windows-11/sexy-naruto-girls
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

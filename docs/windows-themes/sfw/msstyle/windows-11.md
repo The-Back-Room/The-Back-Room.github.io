@@ -10,6 +10,23 @@ permalink: /windows-themes/sfw/msstyle/windows-11
 SFW Visual Styles for Windows 11
 =======================================
 
-{: .note }
+{: .important }
 > {: .opaque }
-> This page is a stand-in to create proper navigation in our nav bar. As such it is left blank.
+> {: .warning }
+> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
+> Patching your system files **CAN** and **WILL** brick your system if done wrong.
+>
+> We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
+
+| --- | --- |
+| BLEACH | [View][BLEACH] |  
+| Once Human | [View][ONCEHUMAN] |  
+| Windows 7 | [View][WINDOWS7] |  
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[BLEACH]: /windows-themes/sfw/windows-11/bleach
+[ONCEHUMAN]: /windows-themes/sfw/windows-11/once-human
+[WINDOWS7]: /windows-themes/sfw/windows-11/windows-7
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
