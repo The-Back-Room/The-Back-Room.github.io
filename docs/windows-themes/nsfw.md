@@ -34,15 +34,13 @@ permalink: /windows-themes/nsfw
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
  
 | --- | --- | 
-| Windows 10 | [View][Windows10ThemesNSFWThemesPage] |  
-| Windows 11 | [View][Windows11ThemesNSFWThemesPage] |    
+| Windows 10 | [View][Windows10Themes] |  
+| Windows 11 | [View][Windows11Themes] |    
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Windows10ThemesSFWThemesPage]: /windows-themes/sfw/mstyle/windows-10
-[Windows10ThemesNSFWThemesPage]: /windows-themes/nsfw/mstyle/windows-10
-[Windows11ThemesSFWThemesPage]: /windows-themes/sfw/mstyle/windows-11
-[Windows11ThemesNSFWThemesPage]: /windows-themes/nsfw/mstyle/windows-11
+[Windows10Themes]: /windows-themes/nsfw/mstyle/windows-10
+[Windows11Themes]: /windows-themes/nsfw/mstyle/windows-11
 
 [LewdGamerWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/lewd-gamer-Waifus
 [FFXIVWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/Final-Fantasy-XIV-Waifus

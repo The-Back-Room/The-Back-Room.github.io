@@ -34,13 +34,13 @@ permalink: /windows-themes/sfw
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
  
 | --- | --- | 
-| Windows 10 | [View][Windows10ThemesSFWThemesPage] |  
-| Windows 11 | [View][Windows11ThemesSFWThemesPage] |    
+| Windows 10 | [View][Windows10Themes] |  
+| Windows 11 | [View][Windows11Themes] |    
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Windows10ThemesSFWThemesPage]: /windows-themes/sfw/mstyle/windows-10
-[Windows11ThemesSFWThemesPage]: /windows-themes/sfw/mstyle/windows-11
+[Windows10Themes]: /windows-themes/sfw/mstyle/windows-10
+[Windows11Themes]: /windows-themes/sfw/mstyle/windows-11
 
 [RTM]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Windows-7-RTM-Themes
 [MCT]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Windows-7-MCT-Themes
