@@ -27,7 +27,7 @@ Jarvis
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Jarvis/Extras/Preview.bmp 
+[Preview]: https://gitlab.com/the-back-room/resource-redirect/-/raw/main/icon-packs/Jarvis/Extras/Preview.bmp 
 
 [GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Jarvis
 

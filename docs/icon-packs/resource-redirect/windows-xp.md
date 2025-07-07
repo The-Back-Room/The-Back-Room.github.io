@@ -27,7 +27,7 @@ Windows XP
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-XP/Extras/Preview.bmp 
+[Preview]: https://gitlab.com/the-back-room/resource-redirect/-/raw/main/icon-packs/Windows-XP/Extras/Preview.bmp 
 
 [GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-XP
 
