@@ -1,0 +1,20 @@
+---
+title: WindHawk Mods
+description: A collection of mods for WindHawk
+has_toc: false
+nav_order: 4
+permalink: /windhawk-mods
+---
+
+WindHawk Mods
+=======================================
+
+
+| --- | --- | --- |
+| File Explorer Styler | Mods for use with Windows 11 File Explorer Styler | [View Page][FileExplorerStyler]
+
+<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[FileExplorerStyler]: /windhawk-mods/windows-11/file-explorer-styler
+
+<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
