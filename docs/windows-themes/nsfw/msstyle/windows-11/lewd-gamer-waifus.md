@@ -54,13 +54,10 @@ The following tools are required to use this theme:
 *   Custom cursors
 *   Custom sounds
 
-
 #### Included Themes
 
-#### Included Themes
-
-*   **Lewd Gamer Waifus**: [Aero7-11]
-*   **Lewd Gamer Waifus**: [UI-X2]
+*   Lewd Gamer Waifus (Aero7-11)
+*   Lewd Gamer Waifus (UI-X2)
 
 **Download**: [GitLab][GitLab]
 

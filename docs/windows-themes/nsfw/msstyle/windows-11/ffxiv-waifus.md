@@ -54,13 +54,10 @@ The following tools are required to use this theme:
 *   Custom cursors
 *   Custom sounds
 
-
 #### Included Themes
 
-#### Included Themes
-
-*   **RFinal Fantasy XIV Waifus**: [Aero7-11]
-*   **Final Fantasy XIV Waifus**: [UI-X2]
+*   Final Fantasy XIV Waifus (Aero7-11)
+*   Final Fantasy XIV Waifus (UI-X2)
 
 **Download**: [GitLab][GitLab]
 

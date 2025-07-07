@@ -67,7 +67,6 @@ The following tools are required to use this theme:
 *   **Community Showcase Themes**: Aqua, Cityscapes
 *   **Other Themes**: Beach Sunsets, Glowing Beaches, Waterscapes
   
-  
 **Download**: [GitLab][GitLab]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

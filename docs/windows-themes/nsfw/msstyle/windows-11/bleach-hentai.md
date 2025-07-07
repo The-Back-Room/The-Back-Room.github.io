@@ -55,11 +55,10 @@ The following tools are required to use this theme:
 *   Custom Cursors
 *   Custom Sounds
 
-
 #### Included Themes
 
-*   **BLEACH**: Hentai \[Aero7-11\]
-*   **BLEACH**: Hentai \[UI-X2\]
+*   Bleach Hentai (Aero7-11)
+*   Bleach Hentai (UI-X2)
 
 **Download**: [GitLab][GitLab]
 

@@ -55,8 +55,8 @@ The following tools are required to use this theme:
 
 #### Included Themes
 
-*   BLEACH [UI-X2]
-*   BLEACH: Thousand Year Blood War [UI-X2]
+*   Bleach (UI-X2)
+*   Bleach - Thousand Year Blood War (UI-X2)
 
 **Download**: [GitLab][GitLab]
 

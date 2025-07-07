@@ -57,8 +57,8 @@ The following tools are required to use this theme:
 
 #### Included Themes
 
-*   **Ranma Hentai**: [Aero7-11]
-*   **Ranma Hentai**: [UI-X2]
+*   Ranma Hentai (Aero7-11)
+*   Ranma Hentai (UI-X2)
 
 **Download**: [GitLab][GitLab]
 

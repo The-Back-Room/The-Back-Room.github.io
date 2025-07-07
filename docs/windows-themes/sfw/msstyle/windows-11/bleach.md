@@ -60,8 +60,8 @@ The following tools are required to use this theme:
 
 *   Bleach (Aero7-11)
 *   Bleach (UI-X2)
-*   Bleach*   Thousand Year Blood War (Aero7-11)
-*   Bleach*   Thousand Year Blood War (UI-X2)
+*   Bleach - housand Year Blood War (Aero7-11)
+*   Bleach - Thousand Year Blood War (UI-X2)
 
 **Download**: [GitLab][DownloadZIP]
 

@@ -54,13 +54,10 @@ The following tools are required to use this theme:
 *   Custom cursors
 *   Custom sounds
 
-
 #### Included Themes
 
-#### Included Themes
-
-*   **Ecchi**: [Aero7-11]
-*   **Ecchi**: [UI-X2]
+*   Ecchi (Aero7-11)
+*   Ecchi (UI-X2)
 
 **Download**: [GitLab][GitLab]
 

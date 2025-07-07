@@ -57,12 +57,12 @@ The following tools are required to use this theme:
 
 #### Included Themes
 
-*   **Sexy Naruto Girls**: [Aero7-11]
-*   **Sexy Naruto Girls**: [Aero7-11] (Nude)
-*   **Sexy Naruto Girls**: [Aero7-11] (Nude) (Alt)
-*   **Sexy Naruto Girls**: [UI-X2]
-*   **Sexy Naruto Girls**: [UI-X2] (Nude)
-*   **Sexy Naruto Girls**: [UI-X2] (Nude) (Alt)
+*   Sexy Naruto Girls (Aero7-11)
+*   Sexy Naruto Girls (Aero7-11) (Nude)
+*   Sexy Naruto Girls (Aero7-11) (Nude) (Alt)
+*   Sexy Naruto Girls (UI-X2)
+*   Sexy Naruto Girls (UI-X2) (Nude)
+*   Sexy Naruto Girls (UI-X2) (Nude) (Alt)
 
 **Download**: [GitLab][GitLab]
 
