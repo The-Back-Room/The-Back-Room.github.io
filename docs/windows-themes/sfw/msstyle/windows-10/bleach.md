@@ -1,10 +1,9 @@
 ---
-title: BLEACH for Windows 10
+title: BLEACH
 description: BLEACH Theme for Windows 10 19H1-22H2
 has_toc: false
-nav_order: 1
-parent: SFW Themes
-grand_parent: Windows Themes
+parent: SFW Visual Styles for Windows 10
+grand_parent: SFW Themes
 permalink: /windows-themes/sfw/msstyle/windows-10/bleach
 ---
 
