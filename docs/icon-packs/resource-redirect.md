@@ -1,7 +1,7 @@
 ---
 title: Resource Redirect
 has_toc: false
-nav_exclude: true
+nav_order: 1
 parent: Icon Packs
 permalink: /icon-packs/resource-redirect
 ---

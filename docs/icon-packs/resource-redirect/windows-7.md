@@ -1,10 +1,10 @@
 ---
 title: Windows 7
+description: Windows 7 icon pack for Resource Redirect
 has_toc: false
-nav_exclude: true
 parent: Resource Redirect
 grand_parent: Icon Packs
-permalink: /icon-packs/-resource-redirect/windows-7
+permalink: /icon-packs/resource-redirect/windows-7
 ---
 
 {: .note }

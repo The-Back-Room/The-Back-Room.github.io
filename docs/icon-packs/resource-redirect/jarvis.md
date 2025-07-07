@@ -1,10 +1,10 @@
 ---
 title: Jarvis
+description: Jarvis icon pack for Resource Redirect
 has_toc: false
-nav_exclude: true
 parent: Resource Redirect
 grand_parent: Icon Packs
-permalink: /icon-packs/-resource-redirect/jarvis
+permalink: /icon-packs/resource-redirect/jarvis
 ---
 
 {: .note }

@@ -1,10 +1,10 @@
 ---
 title: Windows XP
+description: Windows XP icon pack for Resource Redirect
 has_toc: false
-nav_exclude: true
 parent: Resource Redirect
 grand_parent: Icon Packs
-permalink: /icon-packs/-resource-redirect/windows-xp
+permalink: /icon-packs/resource-redirect/windows-xp
 ---
 
 {: .note }

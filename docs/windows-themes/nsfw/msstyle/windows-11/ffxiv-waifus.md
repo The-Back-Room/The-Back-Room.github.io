@@ -1,7 +1,7 @@
 ---
-title: Final Fantasy XIV Waifus for Windows 11
+title: FFXIV Waifus
+desription: Final Fantasy XIV Waifus Themes for Windows 11
 has_toc: false
-nav_exclude: true
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /windows-themes/nsfw/msstyle/windows-11/

@@ -1,7 +1,7 @@
 ---
-title: BLEACH Hentai for Windows 10 19H1-22H2
+title: BLEACH Hentai
+description: BLEACH Hentai Theme for Windows 10 19H1-22H2
 has_toc: false
-nav_exclude: true
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /windows-themes/nsfw/msstyle/windows-10/bleach-hentai

@@ -1,7 +1,7 @@
 ---
 title: SFW Themes
 has_toc: false
-nav_exclude: true
+nav_order: 1
 parent: Windows Themes
 permalink: /windows-themes/sfw
 ---

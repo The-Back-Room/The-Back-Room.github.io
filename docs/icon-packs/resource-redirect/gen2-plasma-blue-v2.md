@@ -1,10 +1,10 @@
 ---
-title: Gen2 Plasma Blue V2
+title: Plasma Blue V2
+description: Gen2 Plasma Blue V2 icon pack for Resource Redirect
 has_toc: false
-nav_exclude: true
 parent: Resource Redirect
 grand_parent: Icon Packs
-permalink: /icon-packs/-resource-redirect/gen2-plasma-blue-v2
+permalink: /icon-packs/resource-redirect/gen2-plasma-blue-v2
 ---
 
 {: .note }
