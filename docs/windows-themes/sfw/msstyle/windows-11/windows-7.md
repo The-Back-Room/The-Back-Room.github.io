@@ -1,8 +1,9 @@
 ---
 title: Windows 7 for Windows 11
+has_toc: false
+nav_exclude: true
 parent: SFW Themes
 grand_parent: Windows Themes
-nav_exclude: true
 permalink: /windows-themes/sfw/msstyle/windows-11/windows-7
 ---
 

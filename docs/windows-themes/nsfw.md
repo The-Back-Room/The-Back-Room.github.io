@@ -16,12 +16,12 @@ permalink: /windows-themes/nsfw
 ### Deskthemepacks
  
 | --- | --- |   
-| Ecchi | [Download][Ecchi] |  
-| Bleach Hentai | [Download][BLEACHHentai] |  
-| Ranma Hentai | [Download][RanmaHentai] |  
-| Final Fantasy XIV Waifus | [Download][FFXIVWaifus] |  
-| Lewd Gamer Waifus | [Download][LewdGamerWaifus] |  
-| Sexy Naruto Girls| [Download][SexyNarutoGirls] |  
+| Ecchi | [View][Ecchi] |  
+| Bleach Hentai | [View][BLEACHHentai] |  
+| Ranma Hentai | [View][RanmaHentai] |  
+| Final Fantasy XIV Waifus | [View][FFXIVWaifus] |  
+| Lewd Gamer Waifus | [View][LewdGamerWaifus] |  
+| Sexy Naruto Girls| [View][SexyNarutoGirls] |  
 
 ### Custom Visual Styles
 
@@ -39,7 +39,7 @@ permalink: /windows-themes/nsfw
 | Ecchi for Windows 10 19H1-22H2 |  [View][Win10Ecchi] |  
 | Bleach Hentai for Windows 10 19H1-22H2 | [View][Win10BLEACHHentai] |  
 | Ranma Hentai for Windows 10 19H1-22H2 | [View][Win10RanmaHentai] |  
-| Final Fantasy XIV Waifus for Windows 10 19H1-22H2 | [Download][Win10FFXIVWaifus]  
+| Final Fantasy XIV Waifus for Windows 10 19H1-22H2 | [View][Win10FFXIVWaifus] |  
 | Lewd Gamer Waifus for Windows 10 19H1-22H2 | [View][Win10LewdGamerWaifus] |   
 | Sexy Naruto Girls for Windows 10 19H1-22H2  | [View][Win10SexyNarutoGirls] |  
 

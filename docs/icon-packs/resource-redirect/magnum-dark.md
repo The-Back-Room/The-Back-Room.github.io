@@ -1,6 +1,7 @@
 ---
 title: Magnum Dark
-toc_enabled: false
+has_toc: false
+nav_exclude: true
 parent: Resource Redirect
 grand_parent: Icon Packs
 permalink: /icon-packs/-resource-redirect/magnum-dark

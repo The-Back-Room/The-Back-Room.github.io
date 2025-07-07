@@ -1,6 +1,7 @@
 ---
 title: Gen2 Plasma Blue V2
-toc_enabled: false
+has_toc: false
+nav_exclude: true
 parent: Resource Redirect
 grand_parent: Icon Packs
 permalink: /icon-packs/-resource-redirect/gen2-plasma-blue-v2

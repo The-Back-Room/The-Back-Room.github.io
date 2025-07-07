@@ -9,19 +9,19 @@ permalink: /windows-themes/sfw
 ### Deskthemepacks
  
 | --- | --- |  
-| BLEACH | [Download][BLEACH] |  
-| Courage TCD | [Download][CourageTCD] |  
-| Howl's Moving Castle | [Download][HMC] |  
-| Studio Ghibli | [Download][StudioGhibli] |  
-| Once Human | [Download][OnceHuman] |  
-| Final Fantasy XIV | [Download][FFXIV] |  
-| Windows 7 RTM Themes | [Download][RTM] |  
-| Windows 7 MCT Themes | [Download][MCT] |  
-| Classic 11 | [Download][Classic11] |  
-| Microsoft Copilot Themes | [Download][MSCopilot] |  
-| Microsoft Surface Pro Themes | [Download][MSSurfacePro] |  
-| Windows 11 Hidden EDU Themes | [Download][EDU] |  
-| MacOS Themes for Windows | [Download][MacOS] |  
+| BLEACH | [View][BLEACH] |  
+| Courage TCD | [View][CourageTCD] |  
+| Howl's Moving Castle | [View][HMC] |  
+| Studio Ghibli | [View][StudioGhibli] |  
+| Once Human | [View][OnceHuman] |  
+| Final Fantasy XIV | [View][FFXIV] |  
+| Windows 7 RTM Themes | [View][RTM] |  
+| Windows 7 MCT Themes | [View][MCT] |  
+| Classic 11 | [View][Classic11] |  
+| Microsoft Copilot Themes | [View][MSCopilot] |  
+| Microsoft Surface Pro Themes | [View][MSSurfacePro] |  
+| Windows 11 Hidden EDU Themes | [View][EDU] |  
+| MacOS Themes for Windows | [View][MacOS] |  
 
 ### Custom Visual Styles
 
@@ -36,16 +36,16 @@ permalink: /windows-themes/sfw
 #### Windows 10 19H1-22H2
  
 | --- | --- |  
-| BLEACH | [Download][Win10BLEACH] |  
-| Once Human | [Download][Win10OnceHuman] |   
+| BLEACH | [View][Win10BLEACH] |  
+| Once Human | [View][Win10OnceHuman] |   
 
 
 #### Windows 11 23H2+
 
 | --- | --- |  
-| BLEACH | [Download][Win11BLEACH] |  
-| Once Human | [Download][Win11OnceHuman] |  
-| Windows 7 | [Download][Win11Win7] |  
+| BLEACH | [View][Win11BLEACH] |  
+| Once Human | [View][Win11OnceHuman] |  
+| Windows 7 | [View][Win11Win7] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
