@@ -53,6 +53,11 @@ The following tools are required to use this theme:
 *   [StartAllBack][StartAllBack]
 *   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
+#### Instructions
+
+*   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
+*   Apply the theme via `Settings > Personalization > Themes`
+
 #### Features
 
 *   Multiple Styles
@@ -61,11 +66,11 @@ The following tools are required to use this theme:
 
 #### Included Themes
 
-*   **RTM Themes**: Windows, Architecture, Nature, Characters, Landscapes, Scenes
-*   **Regional Themes**: Australia, Brazil, Canada, China, France, Germany, India, Italy, Japan, Korea, Mexico, Poland, Russia, Spain, South Africa, Taiwan, United Kingdoms, United States
-*   **Panoramic Themes**: Panoramic Animals, Panoramic Beaches, Panoramic Deserts, Panoramic Rock Formations, Panoramic Glaciers, Panoramic Snow
-*   **Community Showcase Themes**: Aqua, Cityscapes
-*   **Other Themes**: Beach Sunsets, Glowing Beaches, Waterscapes
+*   **RTM Themes**: `Windows` `Architecture` `Nature` `Characters` `Landscapes` `Scenes`
+*   **Regional Themes**: `Australia` `Brazil` `Canada` `China` `France` `Germany` `India` `Italy` `Japan` `Korea` `Mexico` `Poland` `Russia` `Spain` `South Africa` `Taiwan` `United Kingdoms` `United States`
+*   **Panoramic Themes**: `Panoramic Animals` `Panoramic Beaches` `Panoramic Deserts` `Panoramic Rock Formations` `Panoramic Glaciers` `Panoramic Snow`
+*   **Community Showcase Themes**: `Aqua` `Cityscapes`
+*   **Other Themes**: `Beach Sunsets` `Glowing Beaches` `Waterscapes`
   
 **Download**: [GitLab][GitLab]
 

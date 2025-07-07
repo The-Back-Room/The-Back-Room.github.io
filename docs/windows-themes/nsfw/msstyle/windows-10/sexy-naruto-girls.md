@@ -24,11 +24,6 @@ Sexy Naruto Girls for Windows 10 19H1-22H2
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-### Instructions
-
-*   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
-*   Apply the theme via `Settings > Personalization > Themes`
-
 #### Requirements
 The following tools are required to use this theme:
 
@@ -46,6 +41,11 @@ The following tools are required to use this theme:
 *   [Old New Explorer][OldNewExplorer] or [WindHawk][WindHawk] Plugin: [Aerexplorer][Aerexplorer]
 *   [StartIsBack][StartIsBack]
 *   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
+
+#### Instructions
+
+*   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
+*   Apply the theme via `Settings > Personalization > Themes`
 
 #### Features
 
