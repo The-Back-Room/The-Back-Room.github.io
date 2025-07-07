@@ -9,7 +9,7 @@ permalink: /windows-themes/nsfw/msstyle/windows-10/bleach-hentai
 
 {: .note }
 > {: .opaque }
-> We have yet to create a preview image for this page.
+> We have yet to create a preview image for this page.  
 > We will get one uploaded as soon as we have it created.
 
 BLEACH Hentai Theme for Windows 10 19H1-22H2

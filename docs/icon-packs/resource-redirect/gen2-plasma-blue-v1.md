@@ -9,7 +9,7 @@ permalink: /icon-packs/resource-redirect/gen2-plasma-blue-v1
 
 {: .note }
 > {: .opaque }
-> We have yet to create a preview image for this page.
+> We have yet to create a preview image for this page.  
 > We will get one uploaded as soon as we have it created.
 
 Gen2 Plasma Blue V1
