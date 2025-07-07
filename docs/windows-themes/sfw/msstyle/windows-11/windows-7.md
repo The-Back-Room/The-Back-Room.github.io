@@ -30,7 +30,7 @@ Windows 7 Themes for Windows 11
 > You can find the original source code here: [LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+][Original]
 
 
-#### Requirements
+### Requirements
 The following tools are required to use this theme:
 
 {: .note }
@@ -50,20 +50,20 @@ The following tools are required to use this theme:
 *   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
 
-#### Instructions
+### Instructions
 
 *   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 *   Apply the theme via `Settings > Personalization > Themes`
 
 
-#### Features
+### Features
 
 *   Multiple Styles
 *   Custom Cursors
 *   Custom Sounds
 
 
-#### Included Themes
+### Included Themes
 
 *   **RTM Themes**: `Windows` `Architecture` `Nature` `Characters` `Landscapes` `Scenes`
 *   **MCT Themes**: `Australia` `Brazil` `Canada` `China` `France` `Germany` `India` `Italy` `Japan` `Korea` `Mexico` `Poland` `Russia` `Spain` `South Africa` `Taiwan` `United Kingdoms` `United States`

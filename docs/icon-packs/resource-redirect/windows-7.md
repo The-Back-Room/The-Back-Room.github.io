@@ -17,10 +17,11 @@ Windows 7
 
 ![][Preview]
 
-#### Requirements
+### Requirements
 
 *   **WindHawk**: [Download][WindHawk]
 *   **Resource Redirect**: [Download][ResourceRedirect]
+
 
 **Download**: [GitLab][GitLab]
 

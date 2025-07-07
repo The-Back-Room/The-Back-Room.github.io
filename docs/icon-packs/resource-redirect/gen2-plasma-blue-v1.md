@@ -17,10 +17,11 @@ Gen2 Plasma Blue V1
 
 ![][Preview]
 
-#### Requirements
+### Requirements
 
 *   **WindHawk**: [Download][WindHawk]
 *   **Resource Redirect**: [Download][ResourceRedirect]
+
 
 **Download**: [GitLab][GitLab]
 

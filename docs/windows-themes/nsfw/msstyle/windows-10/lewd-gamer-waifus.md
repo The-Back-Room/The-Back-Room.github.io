@@ -24,7 +24,7 @@ Lewd Gamer Waifus Themes for Windows 10 19H1-22H2
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-#### Requirements
+### Requirements
 The following tools are required to use this theme:
 
 {: .note }
@@ -36,7 +36,7 @@ The following tools are required to use this theme:
 > Requirements with the word `or` in them require one or the other, but cannot be used together.
 
 
-#### Requirements
+### Requirements
 The following tools are required to use this theme:
 
 {: .note }
@@ -55,13 +55,13 @@ The following tools are required to use this theme:
 *   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
 
-#### Instructions
+### Instructions
 
 *   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 *   Apply the theme via `Settings > Personalization > Themes`
 
 
-#### Features
+### Features
 
 *   Custom cursors
 *   Custom sounds
