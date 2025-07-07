@@ -34,8 +34,8 @@ permalink: /windows-themes/nsfw
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
  
 | --- | --- | 
-| Windows 10 | [View][Windows10Themes] |  
-| Windows 11 | [View][Windows11Themes] |    
+| [Windows 10][Windows10Themes] | Custom Visual Styles for Windows 10 19H1-22H2 |  
+| [Windows 11][Windows11Themes]  | Custom Visual Styles for Windows 11 23H1+ |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
