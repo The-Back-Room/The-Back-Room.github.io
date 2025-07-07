@@ -18,10 +18,10 @@ SFW Visual Styles for Windows 11
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-| --- | --- |
-| BLEACH | [View][BLEACH] |  
-| Once Human | [View][ONCEHUMAN] |  
-| Windows 7 | [View][WINDOWS7] |  
+| --- | --- | --- |  
+| BLEACH | Custom Visual Styles for Windows 11 23H1+ | [View][BLEACH] |  
+| Once Human | Custom Visual Styles for Windows 11 23H1+ | [View][ONCEHUMAN] |  
+| Windows 7 | Custom Visual Styles for Windows 11 23H1+ | [View][WINDOWS7] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

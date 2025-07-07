@@ -18,9 +18,9 @@ SFW Visual Styles for Windows 10
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-| --- | --- |
-| BLEACH | [View][BLEACH] |  
-| Once Human | [View][ONCEHUMAN] |  
+| --- | --- | --- |  
+| BLEACH | Custom Visual Style for Windows 10 19H1-22H2 | [View Page][BLEACH] |  
+| Once Human | Custom Visual Style for Windows 10 19H1-22H2 | [View Page][ONCEHUMAN] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

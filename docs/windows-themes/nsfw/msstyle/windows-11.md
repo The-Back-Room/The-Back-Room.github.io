@@ -18,13 +18,13 @@ NSFW Visual Styles for Windows 11
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-| --- | --- |  
-| Ecchi for Windows 11 | [View][ECCHI] |  
-| Bleach Hentai for Windows 11 | [View][BLEACHHentai] |   
-| Ranma Hentai for Windows 11 | [View][RanmaHentai] |  
-| Final Fantasy XIV Waifus for Windows 11 | [View][FFXIVWaifus] |  
-| Lewd Gamer Waifus for Windows 11 | [View][LewdGamerWaifus] |   
-| Sexy Naruto Girls for Windows 11  | [View][SexyNarutoGirls] |  
+| --- | --- | --- |  
+| Ecchi | Custom Visual Style for Windows 11 23H1+ | [View Page][ECCHI] |  
+| Bleach Hentai | Custom Visual Style for Windows 11 23H1+ | [View Page][BLEACHHentai] |   
+| Ranma Hentai | Custom Visual Style for Windows 11 23H1+ | [View Page][RanmaHentai] |  
+| Final Fantasy XIV Waifus | Custom Visual Style for Windows 11 23H1+ | [View Page][FFXIVWaifus] |  
+| Lewd Gamer Waifus | Custom Visual Style for Windows 11 23H1+ | [View Page][LewdGamerWaifus] |   
+| Sexy Naruto Girls | Custom Visual Style for Windows 11 23H1+ | [View Page][SexyNarutoGirls] |  
 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

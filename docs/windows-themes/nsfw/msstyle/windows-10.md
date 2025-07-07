@@ -18,13 +18,13 @@ NSFW Visual Styles for Windows 10
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-| --- | --- |
-| Ecchi for Windows 10 19H1-22H2 |  [View][ECCHI] |  
-| Bleach Hentai for Windows 10 19H1-22H2 | [View][BLEACHHentai] |  
-| Ranma Hentai for Windows 10 19H1-22H2 | [View][RanmaHentai] |  
-| Final Fantasy XIV Waifus for Windows 10 19H1-22H2 | [View][FFXIVWaifus] |  
-| Lewd Gamer Waifus for Windows 10 19H1-22H2 | [View][LewdGamerWaifus] |   
-| Sexy Naruto Girls for Windows 10 19H1-22H2  | [View][SexyNarutoGirls] |  
+| --- | --- | --- |  
+| Ecchi | Custom Visual Style for Windows 10 19H1-22H2 | [View Page][ECCHI] |  
+| Bleach Hentai | Custom Visual Style for Windows 10 19H1-22H2 | [View Page][BLEACHHentai] |  
+| Ranma Hentai | Custom Visual Style for Windows 10 19H1-22H2 | [View Page][RanmaHentai] |  
+| Final Fantasy XIV Waifus | Custom Visual Style for Windows 10 19H1-22H2 | [View Page][FFXIVWaifus] |  
+| Lewd Gamer Waifus | Custom Visual Style for Windows 10 19H1-22H2 | [View Page][LewdGamerWaifus] |   
+| Sexy Naruto Girls | Custom Visual Style for Windows 10 19H1-22H2  | [View Page][SexyNarutoGirls] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
