@@ -1,7 +1,7 @@
 ---
 title: NSFW Themes
 has_toc: false
-nav_order: 2
+nav_exclude: true
 parent: Windows Themes
 permalink: /windows-themes/nsfw
 ---
