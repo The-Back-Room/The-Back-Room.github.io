@@ -1,10 +1,10 @@
 ---
-title: Windows XP
-description: Windows XP icon pack for Resource Redirect
+title: Windows Vista
+description: Windows Vista icon pack for Resource Redirect
 has_toc: false
-parent: Resource Redirect
-grand_parent: Icon Packs
-permalink: /icon-packs/resource-redirect/windows-xp
+parent: Windows Icon Packs
+grand_parent: Resource Redirect
+permalink: /icon-packs/resource-redirect/windows-series/windows-vista
 ---
 
 {: .note }
@@ -12,7 +12,7 @@ permalink: /icon-packs/resource-redirect/windows-xp
 > We have yet to create a preview image for this page.  
 > We will get one uploaded as soon as we have it created.
 
-Windows XP
+Windows Vista
 ===========================
 
 ![][Preview]
@@ -27,9 +27,9 @@ Windows XP
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/resource-redirect/-/raw/main/icon-packs/Windows-XP/Extras/Preview.bmp 
+[Preview]: https://gitlab.com/the-back-room/resource-redirect/-/raw/main/icon-packs/Windows-Vista/Extras/Preview.bmp 
 
-[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-XP
+[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-Vista
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect

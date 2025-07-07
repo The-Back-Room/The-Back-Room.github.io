@@ -2,6 +2,7 @@
 title: HUD Icon Packs
 description: HUD Icon Packs for Resource Redirect
 has_toc: false
+nav_order: 1
 parent: Resource Redirect
 grand_parent: Icon Packs
 permalink: /icon-packs/resource-redirect/hud-series
@@ -10,11 +11,21 @@ permalink: /icon-packs/resource-redirect/hud-series
 HUD Icon Packs for Resource Redirect
 ===========================
 
-| --- | --- |
-| Hud Machine Red | [View Page][HudMachineRed] |
+| --- | --- | --- |  
+| HUD Machine Red | HUD Machine Red icons and resources for Resource Redirect | [View Page][Red] |  
+| HUD Machine Blue | HUD Machine Blue icons and resources for Resource Redirect | [W.I.P][WIP] |  
+| HUD Machine White | HUD Machine White icons and resources for Resource Redirect | [W.I.P][WIP] |  
+| HUD Machine Green | HUD Machine Green icons and resources for Resource Redirect | [W.I.P][WIP] |  
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[HudMachineRed]: /icon-packs/resource-redirect/hud-series/hud-machine-red
+[Red]: /icon-packs/resource-redirect/hud-series/hud-machine-red
+[Blue]: /icon-packs/resource-redirect/hud-series/hud-machine-blue
+[White]: /icon-packs/resource-redirect/hud-series/hud-machine-white
+[Green]: /icon-packs/resource-redirect/hud-series/hud-machine-green
 
-<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[WIP]: /WIP
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
