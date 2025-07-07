@@ -25,8 +25,8 @@ SFW Visual Styles for Windows 11
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[BLEACH]: /windows-themes/sfw/windows-11/bleach
-[ONCEHUMAN]: /windows-themes/sfw/windows-11/once-human
-[WINDOWS7]: /windows-themes/sfw/windows-11/windows-7
+[BLEACH]: /windows-themes/sfw/msstyle/windows-11/bleach
+[ONCEHUMAN]: /windows-themes/sfw/msstyle/windows-11/once-human
+[WINDOWS7]: /windows-themes/sfw/msstyle/windows-11/windows-7
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
