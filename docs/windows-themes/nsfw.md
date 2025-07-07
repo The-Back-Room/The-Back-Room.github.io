@@ -16,12 +16,12 @@ permalink: /windows-themes/nsfw
 ### Deskthemepacks
  
 | --- | --- |   
-| Ecchi | [View][Ecchi] |  
-| Bleach Hentai | [View][BLEACHHentai] |  
-| Ranma Hentai | [View][RanmaHentai] |  
-| Final Fantasy XIV Waifus | [View][FFXIVWaifus] |  
-| Lewd Gamer Waifus | [View][LewdGamerWaifus] |  
-| Sexy Naruto Girls| [View][SexyNarutoGirls] |  
+| Ecchi | [Download on GitLab][Ecchi] |  
+| Bleach Hentai | [Download on GitLab][BLEACHHentai] |  
+| Ranma Hentai | [Download on GitLab][RanmaHentai] |  
+| Final Fantasy XIV Waifus | [Download on GitLab][FFXIVWaifus] |  
+| Lewd Gamer Waifus | [Download on GitLab][LewdGamerWaifus] |  
+| Sexy Naruto Girls| [Download on GitLab][SexyNarutoGirls] |  
 
 ### Custom Visual Styles
 
@@ -49,7 +49,7 @@ permalink: /windows-themes/nsfw
 | --- | --- |  
 | Ecchi for Windows 11 | [View][Win11EcchiThemePage] |  
 | Bleach Hentai for Windows 11 | [View][Win11BLEACHHentaiThemePage] |   
-| Ranma Hentai for Windows 11 | [View][Win11RanmaHentai]Page |  
+| Ranma Hentai for Windows 11 | [View][Win11RanmaHentaiThemePage] |  
 | Final Fantasy XIV Waifus for Windows 11 | [View][Win11FFXIVWaifusThemePage] |  
 | Lewd Gamer Waifus for Windows 11 | [View][Win11LewdGamerWaifusThemePage] |   
 | Sexy Naruto Girls for Windows 11  | [View][Win11SexyNarutoGirlsThemePage] |  

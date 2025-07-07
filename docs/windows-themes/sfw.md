@@ -9,19 +9,19 @@ permalink: /windows-themes/sfw
 ### Deskthemepacks
  
 | --- | --- |  
-| BLEACH | [View][BLEACH] |  
-| Courage TCD | [View][CourageTCD] |  
-| Howl's Moving Castle | [View][HMC] |  
-| Studio Ghibli | [View][StudioGhibli] |  
-| Once Human | [View][OnceHuman] |  
-| Final Fantasy XIV | [View][FFXIV] |  
-| Windows 7 RTM Themes | [View][RTM] |  
-| Windows 7 MCT Themes | [View][MCT] |  
-| Classic 11 | [View][Classic11] |  
-| Microsoft Copilot Themes | [View][MSCopilot] |  
-| Microsoft Surface Pro Themes | [View][MSSurfacePro] |  
-| Windows 11 Hidden EDU Themes | [View][EDU] |  
-| MacOS Themes for Windows | [View][MacOS] |  
+| BLEACH | [Download on GitLab][BLEACH] |  
+| Courage TCD | [Download on GitLab][CourageTCD] |  
+| Howl's Moving Castle | [Download on GitLab][HMC] |  
+| Studio Ghibli | [Download on GitLab][StudioGhibli] |  
+| Once Human | [Download on GitLab][OnceHuman] |  
+| Final Fantasy XIV | [Download on GitLab][FFXIV] |  
+| Windows 7 RTM Themes | [Download on GitLab][RTM] |  
+| Windows 7 MCT Themes | [Download on GitLab][MCT] |  
+| Classic 11 | [Download on GitLab][Classic11] |  
+| Microsoft Copilot Themes | [Download on GitLab][MSCopilot] |  
+| Microsoft Surface Pro Themes | [Download on GitLab][MSSurfacePro] |  
+| Windows 11 Hidden EDU Themes | [Download on GitLab][EDU] |  
+| MacOS Themes for Windows | [Download on GitLab][MacOS] |  
 
 ### Custom Visual Styles
 
