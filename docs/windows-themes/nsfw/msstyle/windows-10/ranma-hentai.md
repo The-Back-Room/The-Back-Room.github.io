@@ -32,15 +32,18 @@ Ranma Hentai Theme for Windows 10 19H1-22H2
 #### Requirements
 The following tools are required to use this theme:
 
- - [SecureUXTheme Patcher][SecureUXTheme]
- - [WindHawk][WindHawk]
- - [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect]
- - [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
- - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
- - [Old New Explorer][OldNewExplorer]
- - [StartIsBack][StartIsBack]
- - [DWMBlurGlass][DWMBlurGlass]
- - [OpenGlass][OpenGlass]
+{: .note }
+> {: .opaque }
+> Any requirement with the qords `and` in them must be used together. Else they worn't work correctly.  
+> Any requirements with the words `and/or` in them require one or the other, but can optionally be used together.  
+> Any requirements with the word `or` in them require one or the other, but cannot be used together.
+
+*   [WindHawk][WindHawk]
+*   [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
+*   [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
+*   [Old New Explorer][OldNewExplorer] or [WindHawk][WindHawk] Plugin: [Aerexplorer][Aerexplorer]
+*   [StartIsBack][StartIsBack]
+*   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
 #### Features
 
@@ -57,6 +60,7 @@ The following tools are required to use this theme:
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect/
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
+[Aerexplorer]: https://windhawk.net/mods/aerexplorer
 [SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
 [UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/

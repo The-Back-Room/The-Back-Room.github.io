@@ -37,14 +37,19 @@ Windows 7 Themes for Windows 11
 #### Requirements
 The following tools are required to use this theme:
 
-*   [WindHawk][WindHawk] Plugin: [Bring Back the Borders!][BringBackTheBorders]
-*   [WindHawk][WindHawk] Plugin: [Logon, Logoff & Shutdown Sounds Restored][SoundsRestored]
-*   [WindHawk][WindHawk] Plugin: [UxThemeHook][UxThemeHook]
-*   [SecureUxTheme][SecureUXTheme]
-*   [StartAllBack][StartAllBack] | [Explorer 7][Explorer7]
-*   [OldNewExplorer][OldNewExplorer] | [WindHawk Plugin][WindHawk]: [Aerexplorer][AerExplorer]
-*   [DWMBlurGlass][DWMBlurGlass]
-*   [OpenGlass][OpenGlass]
+{: .note }
+> {: .opaque }
+> Any requirement with the qords `and` in them must be used together. Else they worn't work correctly.  
+> Any requirements with the words `and/or` in them require one or the other, but can optionally be used together.  
+> Any requirements with the word `or` in them require one or the other, but cannot be used together.
+
+*   [WindHawk][WindHawk]
+*   [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
+*   [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
+*   [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
+*   [Old New Explorer][OldNewExplorer]
+*   [StartAllBack][StartAllBack]
+*   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
 #### Features
 
@@ -71,14 +76,12 @@ The following tools are required to use this theme:
 [BringBackTheBorders]: https://windhawk.net/mods/w11-dwm-fix/
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect
-[AerExplorer]: https://windhawk.net/mods/aerexplorer
 [UxThemeHook]: https://windhawk.net/mods/uxtheme-hook
 [SecureUxTheme]: https://github.com/namazso/SecureUxTheme
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 [StartAllBack]: https://www.startallback.com/
-[Explorer7]: https://winclassic.net/thread/2588/explorer7-windows-explorer-10-11
 
 [Original]: https://github.com/LittleFox2024/Aero7-11
 

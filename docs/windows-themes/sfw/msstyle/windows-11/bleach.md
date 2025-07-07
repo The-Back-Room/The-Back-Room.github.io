@@ -32,15 +32,19 @@ BLEACH Themes for Windows 11
 #### Requirements
 The following tools are required to use this theme:
 
- - [SecureUXTheme Patcher][SecureUXTheme]
- - [WindHawk][WindHawk]
- - [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
- - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
- - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
- - [Old New Explorer][OldNewExplorer]
- - [StartAllBack][StartAllBack]
- - [DWMBlurGlass][DWMBlurGlass]
- - [OpenGlass][OpenGlass]
+{: .note }
+> {: .opaque }
+> Any requirement with the qords `and` in them must be used together. Else they worn't work correctly.  
+> Any requirements with the words `and/or` in them require one or the other, but can optionally be used together.  
+> Any requirements with the word `or` in them require one or the other, but cannot be used together.
+
+*   [WindHawk][WindHawk]
+*   [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
+*   [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
+*   [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
+*   [Old New Explorer][OldNewExplorer]
+*   [StartAllBack][StartAllBack]
+*   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
 #### Features
 
@@ -54,8 +58,8 @@ The following tools are required to use this theme:
 
 *   Bleach (Aero7-11)
 *   Bleach (UI-X2)
-*   Bleach - Thousand Year Blood War (Aero7-11)
-*   Bleach - Thousand Year Blood War (UI-X2)
+*   Bleach*   Thousand Year Blood War (Aero7-11)
+*   Bleach*   Thousand Year Blood War (UI-X2)
 
 **Download**: [GitLab][DownloadZIP]
 
