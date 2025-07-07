@@ -10,25 +10,25 @@ Resource Redirect
 Icon Packs for [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect]
 
 | --- | --- |
-| Hud Machine Red | [Download][HudMachineRed] |  
-| Jarvis | [Download][Jarvis] |  
-| Magnum Dark | [Download][MagnumDark] |  
-| Gen2 Plasnma Blue V1 | [Download][PlasmaBlueV1] |  
-| Gen2 Plasnma Blue V2 | [Download][PlasmaBlueV2] |  
-| Windows 7 | [Download][Windows7] | 
-| Windows Vista | [Download][WindowsVista] |  
-| Windows XP | [Download][WindowsXP] |  
+| Hud Machine Red | [View][HudMachineRed] |  
+| Jarvis | [View][Jarvis] |  
+| Magnum Dark | [View][MagnumDark] |  
+| Gen2 Plasnma Blue V1 | [View][PlasmaBlueV1] |  
+| Gen2 Plasnma Blue V2 | [View][PlasmaBlueV2] |  
+| Windows 7 | [View][Windows7] | 
+| Windows Vista | [View][WindowsVista] |  
+| Windows XP | [View][WindowsXP] |  
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[HudMachineRed]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/HUD-Machine-Red
-[Jarvis]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Jarvis
-[MagnumDark]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Magnum-Dark
-[PlasmaBlueV1]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Plasma-Blue-V1
-[PlasmaBlueV2]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Plasma-Blue-V2
-[Windows7]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-7
-[WindowsVista]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-Vista
-[WindowsXP]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-XP
+[HudMachineRed]: /icon-packs/resource-redirect/hud-machine-red
+[Jarvis]: /icon-packs/resource-redirect/jarvis
+[MagnumDark]: /icon-packs/resource-redirect/magnum-dark
+[PlasmaBlueV1]: /icon-packs/resource-redirect/gen2-plasma-blue-v1
+[PlasmaBlueV2]: /icon-packs/resource-redirect/gen2-plasma-blue-v2
+[Windows7]: /icon-packs/resource-redirect/windows-7
+[WindowsVista]: /icon-packs/resource-redirect/windows-vista
+[WindowsXP]: /icon-packs/resource-redirect/windows-xp
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect
