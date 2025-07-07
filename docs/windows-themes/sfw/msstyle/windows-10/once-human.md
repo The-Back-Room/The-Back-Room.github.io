@@ -2,7 +2,7 @@
 title: Once Human
 description: Once Human Theme for Windows 10 19H1-22H2
 has_toc: false
-parent: SFW Visual Styles for Windows 10
+parent: Windows 10
 grand_parent: SFW Themes
 permalink: /windows-themes/sfw/msstyle/windows-10/once-human
 ---

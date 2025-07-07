@@ -2,7 +2,7 @@
 title: Once Human
 description: Once Human Themes for Windows 11 23H2+
 has_toc: false
-parent: SFW Visual Styles for Windows 11
+parent: Windows 11
 grand_parent: SFW Themes
 permalink: /windows-themes/sfw/msstyle/windows-11/once-human
 ---

@@ -2,7 +2,7 @@
 title: Ranma Hentai
 description: Ranma Hentai Theme for Windows 10 19H1-22H2
 has_toc: false
-parent: NSFW Visual Styles for Windows 10
+parent: Windows 10
 grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/msstyle/windows-10/19h1-22h2-ranma-hentai
 ---

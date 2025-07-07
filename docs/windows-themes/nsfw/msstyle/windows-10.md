@@ -1,5 +1,5 @@
 ---
-title: NSFW Visual Styles for Windows 10
+title: Windows 10
 has_toc: false
 nav_order: 1
 parent: NSFW Themes

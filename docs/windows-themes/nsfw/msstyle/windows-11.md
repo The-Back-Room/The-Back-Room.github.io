@@ -1,5 +1,5 @@
 ---
-title: NSFW Visual Styles for Windows 11
+title: Windows 11
 has_toc: false
 nav_order: 2
 parent: NSFW Themes
