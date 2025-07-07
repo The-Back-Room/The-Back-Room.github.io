@@ -32,29 +32,15 @@ permalink: /windows-themes/sfw
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
-
-#### Windows 10 19H1-22H2
  
-| --- | --- |  
-| BLEACH | [View][Win10BLEACHThemePage] |  
-| Once Human | [View][Win10OnceHumanThemePage] |   
-
-
-#### Windows 11 23H2+
-
-| --- | --- |  
-| BLEACH | [View][Win11BLEACHThemePage] |  
-| Once Human | [View][Win11OnceHumanThemePage] |  
-| Windows 7 | [View][Win11Win7ThemePage] |  
+| --- | --- | 
+| Windows 10 | [View][Windows10ThemesSFWThemesPage] |  
+| Windows 11 | [View][Windows11ThemesSFWThemesPage] |    
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win10BLEACHThemePage]: /windows-themes/sfw/msstyle/windows-10/bleach
-[Win10OnceHumanThemePage]: /windows-themes/sfw/msstyle/windows-10/once-human
-
-[Win11BLEACHThemePage]: /windows-themes/sfw/msstyle/windows-11/bleach
-[Win11OnceHumanThemePage]: /windows-themes/sfw/msstyle/windows-11/once-human
-[Win11Win7ThemePage]: /windows-themes/sfw/msstyle/windows-11/windows-7
+[Windows10ThemesSFWThemesPage]: /windows-themes/sfw/mstyle/windows-10
+[Windows11ThemesSFWThemesPage]: /windows-themes/sfw/mstyle/windows-11
 
 [RTM]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Windows-7-RTM-Themes
 [MCT]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Windows-7-MCT-Themes

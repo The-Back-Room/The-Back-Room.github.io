@@ -32,43 +32,17 @@ permalink: /windows-themes/nsfw
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
-
-#### Windows 10 19H1-22H2
  
-| --- | --- |
-| Ecchi for Windows 10 19H1-22H2 |  [View][Win10EcchiThemePage] |  
-| Bleach Hentai for Windows 10 19H1-22H2 | [View][Win10BLEACHHentaiThemePage] |  
-| Ranma Hentai for Windows 10 19H1-22H2 | [View][Win10RanmaHentaiThemePage] |  
-| Final Fantasy XIV Waifus for Windows 10 19H1-22H2 | [View][Win10FFXIVWaifusThemePage] |  
-| Lewd Gamer Waifus for Windows 10 19H1-22H2 | [View][Win10LewdGamerWaifusThemePage] |   
-| Sexy Naruto Girls for Windows 10 19H1-22H2  | [View][Win10SexyNarutoGirlsThemePage] |  
-
-
-#### Windows 11 23H2+
-
-| --- | --- |  
-| Ecchi for Windows 11 | [View][Win11EcchiThemePage] |  
-| Bleach Hentai for Windows 11 | [View][Win11BLEACHHentaiThemePage] |   
-| Ranma Hentai for Windows 11 | [View][Win11RanmaHentaiThemePage] |  
-| Final Fantasy XIV Waifus for Windows 11 | [View][Win11FFXIVWaifusThemePage] |  
-| Lewd Gamer Waifus for Windows 11 | [View][Win11LewdGamerWaifusThemePage] |   
-| Sexy Naruto Girls for Windows 11  | [View][Win11SexyNarutoGirlsThemePage] |  
+| --- | --- | 
+| Windows 10 | [View][Windows10ThemesNSFWThemesPage] |  
+| Windows 11 | [View][Windows11ThemesNSFWThemesPage] |    
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win10EcchiThemePage]: /windows-themes/nsfw/msstyle/windows-10/ecchi
-[Win10BLEACHHentaiThemePage]: /windows-themes/nsfw/msstyle/windows-10/bleach-hentai
-[Win10RanmaHentaiThemePage]: /windows-themes/nsfw/msstyle/windows-10/ranma-hentai
-[Win10FFXIVWaifusThemePage]: /windows-themes/nsfw/msstyle/windows-10/ffxiv-waifus
-[Win10LewdGamerWaifusThemePage]: /windows-themes/nsfw/msstyle/windows-10/lewd-gamer-waifus
-[Win10SexyNarutoGirlsThemePage]: /windows-themes/nsfw/msstyle/windows-10/sexy-naruto-girls
-
-[Win11EcchiThemePage]: /windows-themes/nsfw/msstyle/windows-11/ecchi
-[Win11BLEACHHentaiThemePage]: /windows-themes/nsfw/msstyle/windows-11/bleach-hentai
-[Win11RanmaHentaiThemePage]: /windows-themes/nsfw/msstyle/windows-11/ranma-hentai
-[Win11LewdGamerWaifusThemePage]: /windows-themes/nsfw/msstyle/windows-11/lewd-gamer-waifus
-[Win11FFXIVWaifusThemePage]: /windows-themes/nsfw/msstyle/windows-11/ffxiv-waifus
-[Win11SexyNarutoGirlsThemePage]: /windows-themes/nsfw/msstyle/windows-11/sexy-naruto-girls
+[Windows10ThemesSFWThemesPage]: /windows-themes/sfw/mstyle/windows-10
+[Windows10ThemesNSFWThemesPage]: /windows-themes/nsfw/mstyle/windows-10
+[Windows11ThemesSFWThemesPage]: /windows-themes/sfw/mstyle/windows-11
+[Windows11ThemesNSFWThemesPage]: /windows-themes/nsfw/mstyle/windows-11
 
 [LewdGamerWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/lewd-gamer-Waifus
 [FFXIVWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/Final-Fantasy-XIV-Waifus

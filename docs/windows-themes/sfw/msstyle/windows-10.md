@@ -7,6 +7,8 @@ grand_parent: Windows Themes
 permalink: /windows-themes/sfw/msstyle/windows-10
 ---
 
+SFW Visual Styles for Windows 10
+=======================================
 
 {: .note }
 > {: .opaque }
