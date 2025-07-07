@@ -1,7 +1,8 @@
 ---
-title: Sexy Naruto Girls
+title: Sexy Naruto Girls for Windows 10
 description: Sexy Naruto Girls Theme for Windows 10 19H1-22H2
 has_toc: false
+nav_order: 1
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /windows-themes/nsfw/msstyle/windows-10/sexy-naruto-girls

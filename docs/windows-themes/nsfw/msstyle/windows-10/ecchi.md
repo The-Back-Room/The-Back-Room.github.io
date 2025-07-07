@@ -1,7 +1,8 @@
 ---
-title: Ecchi
+title: Ecchi for Windows 10
 description: Ecchi Theme for Windows 10 19H1-22H2
 has_toc: false
+nav_order: 1
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /windows-themes/nsfw/msstyle/windows-10/ecchi

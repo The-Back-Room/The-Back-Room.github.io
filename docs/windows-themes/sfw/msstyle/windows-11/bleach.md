@@ -1,7 +1,8 @@
 ---
 title: BLEACH for Windows 11
+description: BLEACH Themes for Windows 11 23H2+
 has_toc: false
-nav_exclude: true
+nav_order: 2
 parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /windows-themes/sfw/msstyle/windows-11/bleach

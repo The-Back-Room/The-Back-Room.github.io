@@ -1,7 +1,8 @@
 ---
-title: Ecchi
-description: Ecchi Themes for Windows 11
+title: Ecchi for Windows 11
+description: Ecchi Themes for Windows 11 23H2+
 has_toc: false
+nav_order: 2
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /windows-themes/nsfw/msstyle/windows-11/ecchi

@@ -1,7 +1,8 @@
 ---
-title: Lewd Gamer Waifus
+title: Lewd Gamer Waifus for Windows 10
 description: Lewd Gamer Waifus Theme for Windows 10 19H1-22H2
 has_toc: false
+nav_order: 1
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /windows-themes/nsfw/msstyle/windows-10/lewd-gamer-waifus
