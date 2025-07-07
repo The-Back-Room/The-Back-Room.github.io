@@ -8,20 +8,20 @@ permalink: /windows-themes/sfw
 
 ### Deskthemepacks
  
-| --- | --- |  
-| BLEACH | [Download on GitLab][BLEACH] |  
-| Courage TCD | [Download on GitLab][CourageTCD] |  
-| Howl's Moving Castle | [Download on GitLab][HMC] |  
-| Studio Ghibli | [Download on GitLab][StudioGhibli] |  
-| Once Human | [Download on GitLab][OnceHuman] |  
-| Final Fantasy XIV | [Download on GitLab][FFXIV] |  
-| Windows 7 RTM Themes | [Download on GitLab][RTM] |  
-| Windows 7 MCT Themes | [Download on GitLab][MCT] |  
-| Classic 11 | [Download on GitLab][Classic11] |  
-| Microsoft Copilot Themes | [Download on GitLab][MSCopilot] |  
-| Microsoft Surface Pro Themes | [Download on GitLab][MSSurfacePro] |  
-| Windows 11 Hidden EDU Themes | [Download on GitLab][EDU] |  
-| MacOS Themes for Windows | [Download on GitLab][MacOS] |  
+| --- | --- | --- |  
+| BLEACH | Theme for Windows 10 and 11 | [View on GitLab][BLEACH] |  
+| Courage TCD | Theme for Windows 10 and 11 | [View on GitLab][CourageTCD] |  
+| Howl's Moving Castle | Theme for Windows 10 and 11 | [View on GitLab][HMC] |  
+| Studio Ghibli | Theme for Windows 10 and 11 | [View on GitLab][StudioGhibli] |  
+| Once Human | Theme for Windows 10 and 11 | [View on GitLab][OnceHuman] |  
+| Final Fantasy XIV | Theme for Windows 10 and 11 | [View on GitLab][FFXIV] |  
+| Classic 11 | Theme for Windows 10 and 11 | [View on GitLab][Classic11] |  
+| Windows 7 RTM Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][RTM] |  
+| Windows 7 MCT Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][MCT] |  
+| Microsoft Copilot Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][MSCopilot] |  
+| Microsoft Surface Pro Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][MSSurfacePro] |  
+| Windows 11 Hidden EDU Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][EDU] |  
+| MacOS Themes for Windows | Collection of themes for Windows 10 and 11 | [View on GitLab][MacOS] |  
 
 ### Custom Visual Styles
 
@@ -33,9 +33,9 @@ permalink: /windows-themes/sfw
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
  
-| --- | --- | 
-| [Windows 10][Windows10Themes] | Custom Visual Styles for Windows 10 19H1-22H2 |  
-| [Windows 11][Windows11Themes]  | Custom Visual Styles for Windows 11 23H1+ |  
+| --- | --- | --- |
+| Windows 10 | Custom Visual Styles for Windows 10 19H1-22H2 | [View Page][Windows10Themes] |   
+| Windows 11 | Custom Visual Styles for Windows 11 23H1+ | [View Page][Windows11Themes] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

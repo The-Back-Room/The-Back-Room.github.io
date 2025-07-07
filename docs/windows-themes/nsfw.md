@@ -15,13 +15,13 @@ permalink: /windows-themes/nsfw
 
 ### Deskthemepacks
  
-| --- | --- |   
-| Ecchi | [Download on GitLab][Ecchi] |  
-| Bleach Hentai | [Download on GitLab][BLEACHHentai] |  
-| Ranma Hentai | [Download on GitLab][RanmaHentai] |  
-| Final Fantasy XIV Waifus | [Download on GitLab][FFXIVWaifus] |  
-| Lewd Gamer Waifus | [Download on GitLab][LewdGamerWaifus] |  
-| Sexy Naruto Girls| [Download on GitLab][SexyNarutoGirls] |  
+| --- | --- | --- |  
+| Ecchi | Theme for Windows 10 and 11 | [View on GitLab][Ecchi] |  
+| Bleach Hentai | Theme for Windows 10 and 11 | [View on GitLab][BLEACHHentai] |  
+| Ranma Hentai | Theme for Windows 10 and 11 | [View on GitLab][RanmaHentai] |  
+| Final Fantasy XIV Waifus | Theme for Windows 10 and 11 | [View on GitLab][FFXIVWaifus] |  
+| Lewd Gamer Waifus | Theme for Windows 10 and 11 | [View on GitLab][LewdGamerWaifus] |  
+| Sexy Naruto Girls | Theme for Windows 10 and 11 | [View on GitLab][SexyNarutoGirls] |  
 
 ### Custom Visual Styles
 
@@ -33,9 +33,9 @@ permalink: /windows-themes/nsfw
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
  
-| --- | --- | 
-| [Windows 10][Windows10Themes] | Custom Visual Styles for Windows 10 19H1-22H2 |  
-| [Windows 11][Windows11Themes]  | Custom Visual Styles for Windows 11 23H1+ |  
+| --- | --- | --- |
+| Windows 10 | Custom Visual Styles for Windows 10 19H1-22H2 | [View Page][Windows10Themes] |   
+| Windows 11 | Custom Visual Styles for Windows 11 23H1+ | [View Page][Windows11Themes] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
