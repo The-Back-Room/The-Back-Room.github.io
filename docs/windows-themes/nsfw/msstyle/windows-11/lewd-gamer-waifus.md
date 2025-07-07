@@ -51,7 +51,7 @@ The following tools are required to use this theme:
 *   **Lewd Gamer Waifus**: [Aero7-11]
 *   **Lewd Gamer Waifus**: [UI-X2]
 
-**Download**: [Download ZIP][DownloadZIP]
+**Download**: [GitLab][GitLab]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -68,6 +68,6 @@ The following tools are required to use this theme:
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Lewd-Gamer-Waifus
+[GitLab]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Lewd-Gamer-Waifus
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

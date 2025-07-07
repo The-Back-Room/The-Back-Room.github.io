@@ -52,7 +52,7 @@ The following tools are required to use this theme:
 *   **BLEACH**: Thousand Year Blood War /[Aero7-11/]
 *   **BLEACH**: Thousand Year Blood War /[UI-X2/]
 
-**Download**: [Download ZIP][DownloadZIP]
+**Download**: [GitLab][DownloadZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
