@@ -26,7 +26,7 @@ permalink: /windows-themes/sfw
 ### Custom Visual Styles
 
 {: .important }
-> {: opaque }
+> {: .opaque }
 > {: .warning }
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
@@ -36,25 +36,25 @@ permalink: /windows-themes/sfw
 #### Windows 10 19H1-22H2
  
 | --- | --- |  
-| BLEACH | [View][Win10BLEACH] |  
-| Once Human | [View][Win10OnceHuman] |   
+| BLEACH | [View][Win10BLEACHThemePage] |  
+| Once Human | [View][Win10OnceHumanThemePage] |   
 
 
 #### Windows 11 23H2+
 
 | --- | --- |  
-| BLEACH | [View][Win11BLEACH] |  
-| Once Human | [View][Win11OnceHuman] |  
-| Windows 7 | [View][Win11Win7] |  
+| BLEACH | [View][Win11BLEACHThemePage] |  
+| Once Human | [View][Win11OnceHumanThemePage] |  
+| Windows 7 | [View][Win11Win7ThemePage] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Win10BLEACH]: /windows-themes/sfw/msstyle/windows-10/bleach
-[Win10OnceHuman]: /windows-themes/sfw/msstyle/windows-10/once-human
+[Win10BLEACHThemePage]: /windows-themes/sfw/msstyle/windows-10/bleach
+[Win10OnceHumanThemePage]: /windows-themes/sfw/msstyle/windows-10/once-human
 
-[Win11BLEACH]: /windows-themes/sfw/msstyle/windows-11/bleach
-[Win11OnceHuman]: /windows-themes/sfw/msstyle/windows-11/once-human
-[Win11Win7]: /windows-themes/sfw/msstyle/windows-11/windows-7
+[Win11BLEACHThemePage]: /windows-themes/sfw/msstyle/windows-11/bleach
+[Win11OnceHumanThemePage]: /windows-themes/sfw/msstyle/windows-11/once-human
+[Win11Win7ThemePage]: /windows-themes/sfw/msstyle/windows-11/windows-7
 
 [RTM]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Windows-7-RTM-Themes
 [MCT]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Windows-7-MCT-Themes

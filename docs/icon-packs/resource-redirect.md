@@ -1,6 +1,7 @@
 ---
 title: Resource Redirect
 has_toc: false
+nav_exclude: true
 parent: Icon Packs
 permalink: /icon-packs/resource-redirect
 ---
