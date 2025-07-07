@@ -2,9 +2,9 @@
 title: HUD Machine Red
 description: HUD Machine Red icon pack for Resource Redirect
 has_toc: false
-parent: Resource Redirect
-grand_parent: Icon Packs
-permalink: /icon-packs/resource-redirect/hud-machine-red
+parent: HUD Icon Packs
+grand_parent: Resource Redirect
+permalink: /icon-packs/resource-redirect/hud-series/hud-machine-red
 ---
 
 {: .note }

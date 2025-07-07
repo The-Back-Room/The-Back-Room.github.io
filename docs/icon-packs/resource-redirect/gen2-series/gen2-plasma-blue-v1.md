@@ -2,9 +2,9 @@
 title: Plasma Blue V1
 description: Gen2 Plasma Blue V1 icon pack for Resource Redirect
 has_toc: false
-parent: Resource Redirect
-grand_parent: Icon Packs
-permalink: /icon-packs/resource-redirect/gen2-plasma-blue-v1
+parent: Gen2 Icon Packs
+grand_parent: Resource Redirect
+permalink: /icon-packs/resource-redirect/gen2-series/gen2-plasma-blue-v1
 ---
 
 {: .note }
