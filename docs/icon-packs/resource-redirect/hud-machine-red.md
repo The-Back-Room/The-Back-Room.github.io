@@ -19,8 +19,8 @@ HUD Machine Red
 
 ### Requirements
 
-*   **WindHawk**: [Download][WindHawk]
-*   **Resource Redirect**: [Download][ResourceRedirect]
+*   [WindHawk][WindHawk]
+*   [Resource Redirect][ResourceRedirect]
 
 
 **Download**: [GitLab][GitLab]

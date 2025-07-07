@@ -14,8 +14,8 @@ Magnum Dark
 
 ### Requirements
 
-*   **WindHawk**: [Download][WindHawk]
-*   **Resource Redirect**: [Download][ResourceRedirect]
+*   [WindHawk][WindHawk]
+*   [Resource Redirect][ResourceRedirect]
 
 
 **Download**: [GitLab][GitLab]
