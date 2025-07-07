@@ -47,6 +47,7 @@ The following tools are required to use this theme:
 *   [Old New Explorer][OldNewExplorer]
 *   [StartAllBack][StartAllBack]
 *   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
+
 #### Features
 
 *   Multiple Backgrounds
