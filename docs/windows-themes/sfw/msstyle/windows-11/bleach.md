@@ -24,6 +24,7 @@ BLEACH Themes for Windows 11
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+
 #### Requirements
 The following tools are required to use this theme:
 
@@ -43,10 +44,12 @@ The following tools are required to use this theme:
 *   [StartAllBack][StartAllBack]
 *   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
+
 #### Instructions
 
 *   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 *   Apply the theme via `Settings > Personalization > Themes`
+
 
 #### Features
 
@@ -63,7 +66,8 @@ The following tools are required to use this theme:
 *   Bleach - housand Year Blood War (Aero7-11)
 *   Bleach - Thousand Year Blood War (UI-X2)
 
-**Download**: [GitLab][DownloadZIP]
+
+**Download**: [GitLab][GitLab]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -80,6 +84,6 @@ The following tools are required to use this theme:
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-11/BLEACH-for-Windows-11
+[GitLab]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-11/BLEACH-for-Windows-11
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

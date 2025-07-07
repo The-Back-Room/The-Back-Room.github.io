@@ -24,6 +24,7 @@ Lewd Gamer Waifus Themes for Windows 11
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+
 #### Requirements
 The following tools are required to use this theme:
 
@@ -43,10 +44,12 @@ The following tools are required to use this theme:
 *   [StartAllBack][StartAllBack]
 *   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
+
 #### Instructions
 
 *   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 *   Apply the theme via `Settings > Personalization > Themes`
+
 
 #### Features
 
@@ -54,10 +57,12 @@ The following tools are required to use this theme:
 *   Custom cursors
 *   Custom sounds
 
+
 #### Included Themes
 
 *   Lewd Gamer Waifus (Aero7-11)
 *   Lewd Gamer Waifus (UI-X2)
+
 
 **Download**: [GitLab][GitLab]
 

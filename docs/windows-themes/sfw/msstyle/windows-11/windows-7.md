@@ -29,10 +29,6 @@ Windows 7 Themes for Windows 11
 > This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.  
 > You can find the original source code here: [LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+][Original]
 
-### Instructions
-
-*   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
-*   Apply the theme via `Settings > Personalization > Themes`
 
 #### Requirements
 The following tools are required to use this theme:
@@ -53,16 +49,19 @@ The following tools are required to use this theme:
 *   [StartAllBack][StartAllBack]
 *   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
+
 #### Instructions
 
 *   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 *   Apply the theme via `Settings > Personalization > Themes`
+
 
 #### Features
 
 *   Multiple Styles
 *   Custom Cursors
 *   Custom Sounds
+
 
 #### Included Themes
 
@@ -71,7 +70,8 @@ The following tools are required to use this theme:
 *   **Panoramic Themes**: `Panoramic Animals` `Panoramic Beaches` `Panoramic Deserts` `Panoramic Rock Formations` `Panoramic Glaciers` `Panoramic Snow`
 *   **Community Showcase Themes**: `Aqua` `Cityscapes`
 *   **Other Themes**: `Beach Sunsets` `Glowing Beaches` `Waterscapes`
-  
+
+
 **Download**: [GitLab][GitLab]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

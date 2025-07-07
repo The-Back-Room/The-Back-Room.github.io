@@ -35,6 +35,18 @@ The following tools are required to use this theme:
 > 
 > Requirements with the word `or` in them require one or the other, but cannot be used together.
 
+
+#### Requirements
+The following tools are required to use this theme:
+
+{: .note }
+> {: .opaque }
+> Requirement with the qords `and` in them must be used together. Else they worn't work correctly.
+> 
+> Requirements with the words `and/or` in them require one or the other, but can optionally be used together.
+> 
+> Requirements with the word `or` in them require one or the other, but cannot be used together.
+
 *   [WindHawk][WindHawk]
 *   [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
 *   [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
@@ -42,18 +54,20 @@ The following tools are required to use this theme:
 *   [StartIsBack][StartIsBack]
 *   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
+
 #### Instructions
 
 *   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 *   Apply the theme via `Settings > Personalization > Themes`
+
 
 #### Features
 
 *   Custom cursors
 *   Custom sounds
 
-**Download**: [GitLab][DownloadZIP]
 
+**Download**: [GitLab][GitLab]
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [Preview]: /assets/images/themes/
@@ -69,6 +83,6 @@ The following tools are required to use this theme:
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Lewd-Gamer-Waifus-for-Windows-10-19H1-22H2
+[GitLab]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Lewd-Gamer-Waifus-for-Windows-10-19H1-22H2
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

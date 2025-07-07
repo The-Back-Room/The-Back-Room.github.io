@@ -24,6 +24,7 @@ BLEACH Themes for Windows 10 19H1-22H2
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+
 #### Requirements
 The following tools are required to use this theme:
 
@@ -42,10 +43,12 @@ The following tools are required to use this theme:
 *   [StartIsBack][StartIsBack]
 *   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
+
 #### Instructions
 
 *   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 *   Apply the theme via `Settings > Personalization > Themes`
+
 
 #### Features
 
@@ -57,6 +60,7 @@ The following tools are required to use this theme:
 
 *   Bleach (UI-X2)
 *   Bleach - Thousand Year Blood War (UI-X2)
+
 
 **Download**: [GitLab][GitLab]
 
