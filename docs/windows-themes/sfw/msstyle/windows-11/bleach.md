@@ -9,7 +9,8 @@ permalink: /windows-themes/sfw/msstyle/windows-11/bleach
 
 {: .note }
 > {: .opaque }
-> We have yet to create a preview image for this page. We will get one uploaded as soon as we have it created.
+> We have yet to create a preview image for this page.
+> We will get one uploaded as soon as we have it created.
 
 BLEACH Themes for Windows 11
 ============================
@@ -51,10 +52,10 @@ The following tools are required to use this theme:
 
 #### Included Themes
 
-*   **BLEACH**: /[Aero7-11/]
-*   **BLEACH**: /[UI-X2/]
-*   **BLEACH**: Thousand Year Blood War /[Aero7-11/]
-*   **BLEACH**: Thousand Year Blood War /[UI-X2/]
+*   Bleach (Aero7-11)
+*   Bleach (UI-X2)
+*   Bleach - Thousand Year Blood War (Aero7-11)
+*   Bleach - Thousand Year Blood War (UI-X2)
 
 **Download**: [GitLab][DownloadZIP]
 

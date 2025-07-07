@@ -9,7 +9,8 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/
 
 {: .note }
 > {: .opaque }
-> We have yet to create a preview image for this page. We will get one uploaded as soon as we have it created.
+> We have yet to create a preview image for this page.
+> We will get one uploaded as soon as we have it created.
 
 Ranma Hentai Themes for Windows 11
 ===============================
