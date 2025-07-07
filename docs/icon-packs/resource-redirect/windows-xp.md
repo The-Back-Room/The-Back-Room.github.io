@@ -9,7 +9,7 @@ permalink: /icon-packs/resource-redirect/windows-xp
 
 {: .note }
 > {: .opaque }
-> If there is no preview image visible, then we have yet to create one. We will get one uploaded as soon as we have it created.
+> We have yet to create a preview image for this page. We will get one uploaded as soon as we have it created.
 
 Windows XP
 ===========================
