@@ -39,8 +39,8 @@ permalink: /windows-themes/nsfw
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Windows10Themes]: /windows-themes/nsfw/mstyle/windows-10
-[Windows11Themes]: /windows-themes/nsfw/mstyle/windows-11
+[Windows10Themes]: /windows-themes/nsfw/msstyle/windows-10
+[Windows11Themes]: /windows-themes/nsfw/msstyle/windows-11
 
 [LewdGamerWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/lewd-gamer-Waifus
 [FFXIVWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/Final-Fantasy-XIV-Waifus

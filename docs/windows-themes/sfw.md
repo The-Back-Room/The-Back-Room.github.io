@@ -39,8 +39,8 @@ permalink: /windows-themes/sfw
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Windows10Themes]: /windows-themes/sfw/mstyle/windows-10
-[Windows11Themes]: /windows-themes/sfw/mstyle/windows-11
+[Windows10Themes]: /windows-themes/sfw/msstyle/windows-10
+[Windows11Themes]: /windows-themes/sfw/msstyle/windows-11
 
 [RTM]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Windows-7-RTM-Themes
 [MCT]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Windows-7-MCT-Themes
