@@ -24,7 +24,7 @@ BLEACH Hentai Theme for Windows 10 19H1-22H2
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-#### Instructions
+### Instructions
 
 *   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 *   Apply the theme via `Settings > Personalization > Themes`
@@ -34,9 +34,11 @@ The following tools are required to use this theme:
 
 {: .note }
 > {: .opaque }
-> Any requirement with the qords `and` in them must be used together. Else they worn't work correctly.  
-> Any requirements with the words `and/or` in them require one or the other, but can optionally be used together.  
-> Any requirements with the word `or` in them require one or the other, but cannot be used together.
+> Requirement with the qords `and` in them must be used together. Else they worn't work correctly.
+> 
+> Requirements with the words `and/or` in them require one or the other, but can optionally be used together.
+> 
+> Requirements with the word `or` in them require one or the other, but cannot be used together.
 
 *   [WindHawk][WindHawk]
 *   [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]

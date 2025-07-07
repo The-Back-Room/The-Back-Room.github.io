@@ -29,7 +29,7 @@ Windows 7 Themes for Windows 11
 > This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.  
 > You can find the original source code here: [LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+][Original]
 
-#### Instructions
+### Instructions
 
 *   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 *   Apply the theme via `Settings > Personalization > Themes`
@@ -39,9 +39,11 @@ The following tools are required to use this theme:
 
 {: .note }
 > {: .opaque }
-> Any requirement with the qords `and` in them must be used together. Else they worn't work correctly.  
-> Any requirements with the words `and/or` in them require one or the other, but can optionally be used together.  
-> Any requirements with the word `or` in them require one or the other, but cannot be used together.
+> Requirement with the qords `and` in them must be used together. Else they worn't work correctly.
+> 
+> Requirements with the words `and/or` in them require one or the other, but can optionally be used together.
+> 
+> Requirements with the word `or` in them require one or the other, but cannot be used together.
 
 *   [WindHawk][WindHawk]
 *   [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
