@@ -64,7 +64,7 @@ The following tools are required to use this theme:
 *   Ecchi (UI-X2)
 
 
-**Download**: [GitLab][GitLab]
+**Download**: [Download][Download]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -81,6 +81,6 @@ The following tools are required to use this theme:
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[GitLab]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Ecchi
+[Download]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/ecchi/-/archive/main/ecchi-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

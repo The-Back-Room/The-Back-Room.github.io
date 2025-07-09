@@ -68,7 +68,7 @@ The following tools are required to use this theme:
 *   Sexy Naruto Girls (UI-X2) (Nude) (Alt)
 
 
-**Download**: [GitLab][GitLab]
+**Download**: [Download][Download]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -85,6 +85,6 @@ The following tools are required to use this theme:
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[GitLab]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-11/Sexy-Naruto-Girls-Themes
+[Download]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/sexy-naruto-girls/-/archive/main/sexy-naruto-girls-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

@@ -56,7 +56,7 @@ The following tools are required to use this theme:
 *   Custom sounds
 
 
-**Download**: [GitLab][GitLab]
+**Download**: [Download][Download]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -73,6 +73,6 @@ The following tools are required to use this theme:
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[GitLab]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Ecchi-for-Windows-10-19H1-22H2
+[Download]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/ecchi/-/archive/main/ecchi-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

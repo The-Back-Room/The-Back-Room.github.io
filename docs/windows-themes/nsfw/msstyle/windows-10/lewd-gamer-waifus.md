@@ -67,7 +67,7 @@ The following tools are required to use this theme:
 *   Custom sounds
 
 
-**Download**: [GitLab][GitLab]
+**Download**: [Download][Download]
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [Preview]: /assets/images/themes/
@@ -83,6 +83,6 @@ The following tools are required to use this theme:
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[GitLab]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/NSFW/Windows-10/19H1-22H2/Lewd-Gamer-Waifus-for-Windows-10-19H1-22H2
+[Download]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/lewd-gamer-waifus/-/archive/main/lewd-gamer-waifus-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
