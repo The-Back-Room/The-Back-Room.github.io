@@ -17,7 +17,7 @@ Ecchi Theme for Windows 10 19H1-22H2
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-{: .important}
+{: .note }
 > {: .opaque }
 > The following tools are required to use this theme:
 > 

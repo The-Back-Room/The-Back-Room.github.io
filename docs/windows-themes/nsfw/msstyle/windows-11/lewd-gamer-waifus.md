@@ -17,7 +17,7 @@ Lewd Gamer Waifus Themes for Windows 11 23H1+
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-{: .important}
+{: .note }
 > {: .opaque }
 > The following tools are required to use this theme:
 > 

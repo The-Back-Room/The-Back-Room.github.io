@@ -16,13 +16,12 @@ BLEACH Themes for Windows 10 19H1-22H2
 ===============================
 
 
-{: .important }
+{: .important}
 > {: .opaque }
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
-
 
 {: .note }
 > {: .opaque }
