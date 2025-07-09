@@ -20,11 +20,6 @@ Windows 7 Themes for Windows 11 23H1+
 
 {: .note }
 > {: .opaque }
-> A Windows 7 Icon Pack for [Resource Redirect][ResourceRedirect] is available for this theme.  
-> You can download that from the Icon Packs page on our website: [The Back Room][Website]
-
-{: .important }
-> {: .opaque }
 > The following tools are required to use this theme:
 > 
 > - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]

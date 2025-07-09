@@ -18,8 +18,9 @@ Once Human Themes for Windows 11 23H1+
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-{: .important }
-> {: .opaque }ools are required to use this theme:
+{: .note }
+> {: .opaque }
+> The following tools are required to use this theme:
 > 
 > - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
 > - [WindHawk][WindHawk]

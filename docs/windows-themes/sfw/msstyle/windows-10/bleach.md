@@ -24,23 +24,16 @@ BLEACH Themes for Windows 10 19H1-22H2
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
 
-### Requirements
-The following tools are required to use this theme:
-
 {: .note }
 > {: .opaque }
-> Requirement with the qords `and` in them must be used together. Else they worn't work correctly.
+> The following tools are required to use this theme:
 > 
-> Requirements with the words `and/or` in them require one or the other, but can optionally be used together.
-> 
-> Requirements with the word `or` in them require one or the other, but cannot be used together.
-
-*   [WindHawk][WindHawk]
-*   [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
-*   [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
-*   [Old New Explorer][OldNewExplorer] or [WindHawk][WindHawk] Plugin: [Aerexplorer][Aerexplorer]
-*   [StartIsBack][StartIsBack]
-*   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
+> - [WindHawk][WindHawk]
+> - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
+> - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
+> - [Old New Explorer][OldNewExplorer] or [WindHawk][WindHawk] Plugin: [Aerexplorer][Aerexplorer]
+> - [StartIsBack][StartIsBack]
+> - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
 
 ### Instructions
@@ -76,7 +69,7 @@ The following tools are required to use this theme:
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[GitLab]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-10/19H2-22H2/BLEACH-for-Windows-10-19H1-22H2
+[GitLab]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/bleach/-/archive/main/bleach-main.zip
 
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
