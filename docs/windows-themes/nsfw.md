@@ -42,12 +42,12 @@ permalink: /windows-themes/nsfw
 [Windows10Themes]: /windows-themes/nsfw/msstyle/windows-10
 [Windows11Themes]: /windows-themes/nsfw/msstyle/windows-11
 
-[LewdGamerWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/lewd-gamer-Waifus
-[FFXIVWaifus]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/Final-Fantasy-XIV-Waifus
-[SexyNarutoGirls]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/sexy-naruto-Girls
-[Ecchi]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/Ecchi
-[RanmaHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/Ranma-Hentai
-[BLEACHHentai]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/NSFW/Bleach-Hentai
+[LewdGamerWaifus]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus
+[FFXIVWaifus]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus
+[SexyNarutoGirls]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/sexy-naruto-girls
+[Ecchi]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi
+[RanmaHentai]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai
+[BLEACHHentai]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
