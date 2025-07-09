@@ -1,13 +1,13 @@
 ---
-title: Minimal Tabbed
-description: Tabbed version of the Minimal Explorer11 theme
+title: Minimal Nav
+description: Nav bar edit of the Minimal Explorer11 theme
 has_toc: false
 parent: Themes
 grand_parent: File Explorer Styler
-permalink: /windhawk-mods/windows-11/file-explorer-styler/themes/minimal-tabbed
+permalink: /windhawk-mods/windows-11/file-explorer-styler/themes/minimal-nav
 ---
 
-Minimal Tabbed
+Minimal Nav
 ======================
 
 ![][Preview]
