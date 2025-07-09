@@ -50,8 +50,8 @@ BLEACH Themes for Windows 10 19H1-22H2
 
 ### Included Themes
 
-*   Bleach (UI-X2)
-*   Bleach - Thousand Year Blood War (UI-X2)
+*   Bleach
+*   Bleach - Thousand Year Blood War
 
 
 **Download**: [GitLab][GitLab]
