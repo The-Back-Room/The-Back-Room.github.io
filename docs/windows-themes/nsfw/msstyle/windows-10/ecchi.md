@@ -7,41 +7,26 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/msstyle/windows-10/ecchi
 ---
 
-{: .note }
-> {: .opaque }
-> We have yet to create a preview image for this page.  
-> We will get one uploaded as soon as we have it created.
-
 Ecchi Theme for Windows 10 19H1-22H2
 ===============================
 
-![][Preview]
-
-{: .important }
+{: .important}
 > {: .opaque }
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-
-### Requirements
-The following tools are required to use this theme:
-
-{: .note }
+{: .important}
 > {: .opaque }
-> Requirement with the qords `and` in them must be used together. Else they worn't work correctly.
+> The following tools are required to use this theme:
 > 
-> Requirements with the words `and/or` in them require one or the other, but can optionally be used together.
-> 
-> Requirements with the word `or` in them require one or the other, but cannot be used together.
-
-*   [WindHawk][WindHawk]
-*   [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
-*   [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
-*   [Old New Explorer][OldNewExplorer] or [WindHawk][WindHawk] Plugin: [Aerexplorer][Aerexplorer]
-*   [StartIsBack][StartIsBack]
-*   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
+> - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
+> - [WindHawk][WindHawk]
+> - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
+> - [Old New Explorer][OldNewExplorer]
+> - [StartIsBack][StartIsBack]
+> - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
 
 ### Instructions
@@ -56,23 +41,19 @@ The following tools are required to use this theme:
 *   Custom sounds
 
 
-**Download**: [Download][Download]
+**Download**: [Download ZIP][DownloadZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: /assets/images/themes/
-
 [WindHawk]: https://windhawk.net/
-[ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect/
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
-[Aerexplorer]: https://windhawk.net/mods/aerexplorer
 [SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
 [UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartIsBack]: https://www.startisback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[Download]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/ecchi/-/archive/main/ecchi-main.zip
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/ecchi/-/archive/main/ecchi-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

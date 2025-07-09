@@ -15,7 +15,6 @@ permalink: /windows-themes/sfw/msstyle/windows-10/bleach
 BLEACH Themes for Windows 10 19H1-22H2
 ===============================
 
-![][Preview]
 
 {: .important }
 > {: .opaque }
@@ -65,8 +64,6 @@ The following tools are required to use this theme:
 **Download**: [GitLab][GitLab]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[Preview]: /assets/images/themes/
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect/

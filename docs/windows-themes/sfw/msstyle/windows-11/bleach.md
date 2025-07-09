@@ -1,13 +1,13 @@
 ---
 title: Bleach
-description: Bleach Themes for Windows 11 23H2+
+description: Bleach Themes for Windows 11 23H1+
 has_toc: false
 parent: Windows 11
 grand_parent: SFW Themes
 permalink: /windows-themes/sfw/msstyle/windows-11/bleach
 ---
 
-Bleach Themes for Windows 11 23H2+  
+Bleach Themes for Windows 11 23H1+ 
 ===============================
 
 
