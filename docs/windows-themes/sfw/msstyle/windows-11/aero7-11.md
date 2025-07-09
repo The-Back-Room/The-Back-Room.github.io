@@ -1,21 +1,14 @@
 ---
-title: Windows 7
+title: Aero7-11
 description: Windows 7 Themes for Windows 11 23H2+
 has_toc: false
 parent: Windows 11
 grand_parent: SFW Themes
-permalink: /windows-themes/sfw/msstyle/windows-11/windows-7
+permalink: /windows-themes/sfw/msstyle/windows-11/aero7-11
 ---
 
-{: .note }
-> {: .opaque }
-> We have yet to create a preview image for this page.  
-> We will get one uploaded as soon as we have it created.
-
-Windows 7 Themes for Windows 11
+Windows 7 Themes for Windows 11 23H2+  
 ===============================
-
-![][Preview]
 
 {: .important }
 > {: .opaque }
@@ -26,28 +19,20 @@ Windows 7 Themes for Windows 11
 
 {: .note }
 > {: .opaque }
-> This suite was built using the Open-Source Aero7-11 MSSTYLES for Windows 11.  
-> You can find the original source code here: [LittleFox2024/Aero7-11: Aero 7 theme for Windows 11 23H2+][Original]
+> A Windows 7 Icon Pack for [Resource Redirect][ResourceRedirect] is available for this theme.  
+> You can download that from the Icon Packs page on our website: [The Back Room][Website]
 
-
-### Requirements
-The following tools are required to use this theme:
-
-{: .note }
+{: .important }
 > {: .opaque }
-> Requirement with the qords `and` in them must be used together. Else they worn't work correctly.
+> The following tools are required to use this theme:
 > 
-> Requirements with the words `and/or` in them require one or the other, but can optionally be used together.
-> 
-> Requirements with the word `or` in them require one or the other, but cannot be used together.
-
-*   [WindHawk][WindHawk]
-*   [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
-*   [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
-*   [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
-*   [Old New Explorer][OldNewExplorer]
-*   [StartAllBack][StartAllBack]
-*   [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
+> - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
+> - [WindHawk][WindHawk]
+> - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
+> - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
+> - [Old New Explorer][OldNewExplorer]
+> - [StartAllBack][StartAllBack]
+> - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
 
 ### Instructions
@@ -66,17 +51,15 @@ The following tools are required to use this theme:
 ### Included Themes
 
 *   **RTM Themes**: `Windows` `Architecture` `Nature` `Characters` `Landscapes` `Scenes`
-*   **MCT Themes**: `Australia` `Brazil` `Canada` `China` `France` `Germany` `India` `Italy` `Japan` `Korea` `Mexico` `Poland` `Russia` `Spain` `South Africa` `Taiwan` `United Kingdoms` `United States`
+*   **Regional Themes**: `Australia` `Brazil` `Canada` `China` `France` `Germany` `India` `Italy` `Japan` `Korea` `Mexico` `Poland` `Russia` `Spain` `South Africa` `Taiwan` `United Kingdoms` `United States`
 *   **Panoramic Themes**: `Panoramic Animals` `Panoramic Beaches` `Panoramic Deserts` `Panoramic Rock Formations` `Panoramic Glaciers` `Panoramic Snow`
 *   **Community Showcase Themes**: `Aqua` `Cityscapes`
 *   **Other Themes**: `Beach Sunsets` `Glowing Beaches` `Waterscapes`
-
-
-**Download**: [GitLab][GitLab]
+  
+  
+**Download**: [Download ZIP][DownloadZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[Preview]: /assets/images/themes/
 
 [WindHawk]: https://windhawk.net/
 [BringBackTheBorders]: https://windhawk.net/mods/w11-dwm-fix/
@@ -86,11 +69,13 @@ The following tools are required to use this theme:
 [SecureUxTheme]: https://github.com/namazso/SecureUxTheme
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 [StartAllBack]: https://www.startallback.com/
+[Explorer7]: https://winclassic.net/thread/2588/explorer7-windows-explorer-10-11
 
+[Website]: https://the-back-room.info
 [Original]: https://github.com/LittleFox2024/Aero7-11
 
-[GitLab]: https://gitlab.com/the-back-room/Themes/-/tree/main/MSSTYLE/SFW/Windows-11/Windows-7-for-Windows-11
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/aero7-11/-/archive/main/aero7-11-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
