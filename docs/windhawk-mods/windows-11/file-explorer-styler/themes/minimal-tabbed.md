@@ -14,7 +14,7 @@ Minimal Tabbed
 
 ### Installation
 
-*   Copy the code below file into `WindHawk >> Windows 11 File Explorer Styler >> Advanced >> Mod Settings`
+*   Copy the code below into `WindHawk >> Windows 11 File Explorer Styler >> Advanced >> Mod Settings`
 *   Click `Save`, then click `Load`
 
 ```json
