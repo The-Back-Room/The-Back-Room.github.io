@@ -11,10 +11,10 @@ Windows 11 File Explorer Styler Themes
 
 
 | --- | --- | --- |
-| Minimal Nav | Nav bar edit of the Minimal Explorer11 theme | [View Page][MinimalTabbed] |  
+| Minimal Nav | Nav bar edit of the Minimal Explorer11 theme | [View Page][MinimalNav] |  
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[MinimalTabbed]: /windhawk-mods/windows-11-file-explorer-styler/themes/minimal-tabbed
+[MinimalNav]: /windhawk-mods/windows-11-file-explorer-styler/minimal-nav
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
