@@ -2,8 +2,7 @@
 title: Minimal Nav
 description: Nav bar edit of the Minimal Explorer11 theme
 has_toc: false
-parent: Themes
-grand_parent: File Explorer Styler
+nav_exclude: true
 permalink: /windhawk-mods/windows-11/file-explorer-styler/themes/minimal-nav
 ---
 

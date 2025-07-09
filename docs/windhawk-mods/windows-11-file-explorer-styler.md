@@ -1,20 +1,20 @@
 ---
-title: File Explorer Styler
+title: Windows 11 File Explorer Styler
 description: Mods for use with Windows 11 File Explorer Styler
 has_toc: false
-parent: Windows 11
-grand_parent: WindHawk Mods
-permalink: /windhawk-mods/windows-11/file-explorer-styler
+nav_exclude: true
+permalink: /windhawk-mods/windows-11-file-explorer-styler
 ---
 
-Windows 11 File Explorer Styler
+Windows 11 File Explorer Styler Themes
 =======================================
 
+
 | --- | --- | --- |
-| Themes | Themes for use with Windows 11 File Explorer Styler | [View Page][Themes] |  
+| Minimal Nav | Nav bar edit of the Minimal Explorer11 theme | [View Page][MinimalTabbed] |  
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Themes]: /windhawk-mods/windows-11/file-explorer-styler/themes
+[MinimalTabbed]: /windhawk-mods/windows-11-file-explorer-styler/themes/minimal-tabbed
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
