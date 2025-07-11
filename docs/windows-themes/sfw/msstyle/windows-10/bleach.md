@@ -45,7 +45,6 @@ permalink: /windows-themes/sfw/msstyle/windows-10/bleach
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [WindHawk]: https://windhawk.net/
-[ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect/
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
 [Aerexplorer]: https://windhawk.net/mods/aerexplorer
 [SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
@@ -56,6 +55,5 @@ permalink: /windows-themes/sfw/msstyle/windows-10/bleach
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
 [GitLab]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/bleach/-/archive/main/bleach-main.zip
-
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

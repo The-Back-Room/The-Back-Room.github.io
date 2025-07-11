@@ -50,5 +50,4 @@ permalink: /windows-themes/nsfw/msstyle/windows-10/ffxiv-waifus
 
 [DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/final-fantasy-xiv-waifus/-/archive/main/final-fantasy-xiv-waifus-main.zip
 
-
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

@@ -39,10 +39,7 @@ permalink: /windows-themes/sfw/msstyle/windows-10/once-human
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: /assets/images/themes/
-
 [WindHawk]: https://windhawk.net/
-[ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect/
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
 [Aerexplorer]: https://windhawk.net/mods/aerexplorer
 [SecureUXTheme]: https://github.com/namazso/SecureUxTheme/

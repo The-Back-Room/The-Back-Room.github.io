@@ -26,12 +26,10 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/ffxiv-waifus
 > - [StartAllBack][StartAllBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
-
 ### Instructions
 
 - Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 - Apply the theme via `Settings > Personalization > Themes`
-
 
 ### Features
 
@@ -39,12 +37,10 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/ffxiv-waifus
 - Custom cursors
 - Custom sounds
 
-
 ### Included Themes
 
 - Final Fantasy XIV Waifus (Aero7-11)
 - Final Fantasy XIV Waifus (UI-X2)
-
 
 **Download**: [Download ZIP][DownloadZIP]
 
@@ -61,6 +57,5 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/ffxiv-waifus
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
 [DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/final-fantasy-xiv-waifus/-/archive/main/final-fantasy-xiv-waifus-main.zip
-
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

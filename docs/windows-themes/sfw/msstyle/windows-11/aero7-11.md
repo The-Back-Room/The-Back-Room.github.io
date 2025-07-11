@@ -44,8 +44,7 @@ permalink: /windows-themes/sfw/msstyle/windows-11/aero7-11
 - **Panoramic Themes**: `Panoramic Animals` `Panoramic Beaches` `Panoramic Deserts` `Panoramic Rock Formations` `Panoramic Glaciers` `Panoramic Snow`
 - **Community Showcase Themes**: `Aqua` `Cityscapes`
 - **Other Themes**: `Beach Sunsets` `Glowing Beaches` `Waterscapes`
-  
-  
+
 **Download**: [Download ZIP][DownloadZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
@@ -53,17 +52,12 @@ permalink: /windows-themes/sfw/msstyle/windows-11/aero7-11
 [WindHawk]: https://windhawk.net/
 [BringBackTheBorders]: https://windhawk.net/mods/w11-dwm-fix/
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds
-[ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect
 [UxThemeHook]: https://windhawk.net/mods/uxtheme-hook
 [SecureUxTheme]: https://github.com/namazso/SecureUxTheme
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 [StartAllBack]: https://www.startallback.com/
-[Explorer7]: https://winclassic.net/thread/2588/explorer7-windows-explorer-10-11
-
-[Website]: https://the-back-room.info
-[Original]: https://github.com/LittleFox2024/Aero7-11
 
 [DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/aero7-11/-/archive/main/aero7-11-main.zip
 
