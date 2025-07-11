@@ -7,12 +7,9 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/msstyle/windows-11/sexy-naruto-girls
 ---
 
-Sexy Naruto Girls for Windows 11 23H1+  
-===============================
-
 {: .important}
 > {: .opaque }
-> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
+> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
@@ -20,7 +17,7 @@ Sexy Naruto Girls for Windows 11 23H1+
 {: .note }
 > {: .opaque }
 > The following tools are required to use this theme:
-> 
+>
 > - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
 > - [WindHawk][WindHawk]
 > - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
@@ -29,29 +26,25 @@ Sexy Naruto Girls for Windows 11 23H1+
 > - [StartAllBack][StartAllBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
-
 ### Instructions
 
-*   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
-*   Apply the theme via `Settings > Personalization > Themes`
-
+- Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
+- Apply the theme via `Settings > Personalization > Themes`
 
 ### Features
 
-*   Multiple Styles
-*   Custom cursors
-*   Custom sounds
-
+- Multiple Styles
+- Custom cursors
+- Custom sounds
 
 ### Included Themes
 
-*   Sexy Naruto Girls (Aero7-11)
-*   Sexy Naruto Girls (Aero7-11) (Nude)
-*   Sexy Naruto Girls (Aero7-11) (Nude) (Alt)
-*   Sexy Naruto Girls (UI-X2)
-*   Sexy Naruto Girls (UI-X2) (Nude)
-*   Sexy Naruto Girls (UI-X2) (Nude) (Alt)
-
+- Sexy Naruto Girls (Aero7-11)
+- Sexy Naruto Girls (Aero7-11) (Nude)
+- Sexy Naruto Girls (Aero7-11) (Nude) (Alt)
+- Sexy Naruto Girls (UI-X2)
+- Sexy Naruto Girls (UI-X2) (Nude)
+- Sexy Naruto Girls (UI-X2) (Nude) (Alt)
 
 **Download**: [Download ZIP][DownloadZIP]
 

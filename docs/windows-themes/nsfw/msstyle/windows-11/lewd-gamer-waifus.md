@@ -7,12 +7,9 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/msstyle/windows-11/lewd-gamer-waifus
 ---
 
-Lewd Gamer Waifus Themes for Windows 11 23H1+   
-===============================
-
 {: .important}
 > {: .opaque }
-> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
+> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
@@ -20,7 +17,7 @@ Lewd Gamer Waifus Themes for Windows 11 23H1+
 {: .note }
 > {: .opaque }
 > The following tools are required to use this theme:
-> 
+>
 > - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
 > - [WindHawk][WindHawk]
 > - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
@@ -29,25 +26,21 @@ Lewd Gamer Waifus Themes for Windows 11 23H1+
 > - [StartAllBack][StartAllBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
-
 ### Instructions
 
-*   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
-*   Apply the theme via `Settings > Personalization > Themes`
-
+- Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
+- Apply the theme via `Settings > Personalization > Themes`
 
 ### Features
 
-*   Multiple Styles
-*   Custom cursors
-*   Custom sounds
-
+- Multiple Styles
+- Custom cursors
+- Custom sounds
 
 ### Included Themes
 
-*   Lewd Gamer Waifus (Aero7-11)
-*   Lewd Gamer Waifus (UI-X2)
-
+- Lewd Gamer Waifus (Aero7-11)
+- Lewd Gamer Waifus (UI-X2)
 
 **Download**: [Download ZIP][DownloadZIP]
 

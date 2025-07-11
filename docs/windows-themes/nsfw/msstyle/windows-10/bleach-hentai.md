@@ -7,12 +7,9 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/msstyle/windows-10/bleach-hentai
 ---
 
-Bleach Hentai Theme for Windows 10 19H1-22H2
-===============================
-
 {: .important}
 > {: .opaque }
-> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
+> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
@@ -20,7 +17,7 @@ Bleach Hentai Theme for Windows 10 19H1-22H2
 {: .note }
 > {: .opaque }
 > The following tools are required to use this theme:
-> 
+>
 > - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
 > - [WindHawk][WindHawk]
 > - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
@@ -28,18 +25,15 @@ Bleach Hentai Theme for Windows 10 19H1-22H2
 > - [StartIsBack][StartIsBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
-
 ### Instructions
 
-*   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
-*   Apply the theme via `Settings > Personalization > Themes`
-
+- Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
+- Apply the theme via `Settings > Personalization > Themes`
 
 ### Features
 
-*   Custom cursors
-*   Custom sounds
-
+- Custom cursors
+- Custom sounds
 
 **Download**: [Download ZIP][DownloadZIP]
 

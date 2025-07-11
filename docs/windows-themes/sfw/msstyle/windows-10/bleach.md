@@ -7,18 +7,9 @@ grand_parent: SFW Themes
 permalink: /windows-themes/sfw/msstyle/windows-10/bleach
 ---
 
-{: .note }
-> {: .opaque }
-> We have yet to create a preview image for this page.  
-> We will get one uploaded as soon as we have it created.
-
-Bleach Themes for Windows 10 19H1-22H2
-===============================
-
-
 {: .important}
 > {: .opaque }
-> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes. 
+> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
@@ -26,7 +17,7 @@ Bleach Themes for Windows 10 19H1-22H2
 {: .note }
 > {: .opaque }
 > The following tools are required to use this theme:
-> 
+>
 > - [WindHawk][WindHawk]
 > - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
 > - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
@@ -34,24 +25,20 @@ Bleach Themes for Windows 10 19H1-22H2
 > - [StartIsBack][StartIsBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
-
 ### Instructions
 
-*   Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
-*   Apply the theme via `Settings > Personalization > Themes`
-
+- Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
+- Apply the theme via `Settings > Personalization > Themes`
 
 ### Features
 
-*   Custom cursors
-*   Custom sounds
-
+- Custom cursors
+- Custom sounds
 
 ### Included Themes
 
-*   Bleach
-*   Bleach - Thousand Year Blood War
-
+- Bleach
+- Bleach - Thousand Year Blood War
 
 **Download**: [GitLab][GitLab]
 
