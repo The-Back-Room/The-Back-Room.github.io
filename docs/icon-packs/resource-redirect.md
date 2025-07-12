@@ -9,12 +9,12 @@ permalink: /icon-packs/resource-redirect
 ## Resource Redirect
 
 | --- | --- | --- |
-| HUD Series | HUD icon packs and resources for Resource Redirect | [View][HUDSeries] |
-| Gen2 Series | Gen2 icon packs and resources for Resource Redirect | [View][Gen2Series] |
-| Unity Series | Unity icon packs and resources for Resource Redirect | [View][UnitySeries] |
+| HUD Icon Packs | HUD icon packs and resources for Resource Redirect | [View][HUDSeries] |
+| Gen2 Icon Packs | Gen2 icon packs and resources for Resource Redirect | [View][Gen2Series] |
+| Unity Icon Packs | Unity icon packs and resources for Resource Redirect | [View][UnitySeries] |
 | Windows Icon Packs | Windows icon packs and resources for Resource Redirect | [View][WindowsSeries] |
-| Jarvis | Jarvis icon packs and resources for Resource Redirect | [View][Jarvis] |
-| Magnum Dark | Magnum Dark icon packs and resources for Resource Redirect | [View][MagnumDark] |  
+| Jarvis | Jarvis icon pack for Resource Redirect | [View][Jarvis] |
+| Magnum Dark | Magnum Dark icon pack for Resource Redirect | [View][MagnumDark] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
