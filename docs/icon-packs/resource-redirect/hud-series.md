@@ -11,7 +11,7 @@ permalink: /icon-packs/resource-redirect/hud-series
 ## HUD Icon Packs for Resource Redirect
 
 | --- | --- | --- |  
-| HUD Machine Red | HUD Machine Red icons and resources for Resource Redirect | [View Page][Red] |  
+| HUD Machine Red | HUD Machine Red icons and resources for Resource Redirect | [View][Red] |  
 | HUD Machine Blue | HUD Machine Blue icons and resources for Resource Redirect | [W.I.P][WIP] |  
 | HUD Machine White | HUD Machine White icons and resources for Resource Redirect | [W.I.P][WIP] |  
 | HUD Machine Green | HUD Machine Green icons and resources for Resource Redirect | [W.I.P][WIP] |  

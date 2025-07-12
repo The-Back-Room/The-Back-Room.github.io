@@ -16,8 +16,8 @@ permalink: /windows-themes/sfw/msstyle/windows-10
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
 | --- | --- | --- |  
-| BLEACH | Custom Visual Style for Windows 10 19H1-22H2 | [View Page][BLEACH] |  
-| Once Human | Custom Visual Style for Windows 10 19H1-22H2 | [View Page][ONCEHUMAN] |  
+| BLEACH | Custom Visual Style for Windows 10 19H1-22H2 | [View][BLEACH] |  
+| Once Human | Custom Visual Style for Windows 10 19H1-22H2 | [View][ONCEHUMAN] |  
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

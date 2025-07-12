@@ -11,11 +11,11 @@ Resource Redirect
 Icon Packs for [WindHawk][WindHawk] Plugin: [Resource Redirect][ResourceRedirect]
 
 | --- | --- |
-| HUD Series | [View Page][HUDSeries] |  
-| Gen2 Series | [View Page][Gen2Series] |  
-| Windows Icon Packs | [View Page][WindowsSeries] | 
-| Jarvis | [View Page][Jarvis] |  
-| Magnum Dark | [View Page][MagnumDark] |  
+| HUD Series | [View][HUDSeries] |  
+| Gen2 Series | [View][Gen2Series] |  
+| Windows Icon Packs | [View][WindowsSeries] | 
+| Jarvis | [View][Jarvis] |  
+| Magnum Dark | [View][MagnumDark] |  
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

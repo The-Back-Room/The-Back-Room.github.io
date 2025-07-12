@@ -11,7 +11,7 @@ WindHawk Mods
 
 
 | --- | --- | --- |
-| Windows 11 File Explorer Styler | Themes for use with Windows 11 File Explorer Styler | [View Page][Windows11FileExplorerStyler] |  
+| Windows 11 File Explorer Styler | Themes for use with Windows 11 File Explorer Styler | [View][Windows11FileExplorerStyler] |  
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

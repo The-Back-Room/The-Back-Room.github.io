@@ -11,7 +11,7 @@ Windows 11 File Explorer Styler Themes
 
 
 | --- | --- | --- |
-| Minimal Nav | Nav bar edit of the Minimal Explorer11 theme | [View Page][MinimalNav] |  
+| Minimal Nav | Nav bar edit of the Minimal Explorer11 theme | [View][MinimalNav] |  
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

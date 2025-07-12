@@ -11,8 +11,8 @@ permalink: /icon-packs/resource-redirect/gen2-series
 ## Gen2 Icon Packs for Resource Redirect
 
 | --- | --- | --- |  
-| Gen2 Plasnma Blue V1 | Gen2 Plasma Blue V1 icons and resources for Resource Redirect | [View Page][PlasmaBlueV1] |  
-| Gen2 Plasnma Blue V2 | Gen2 Plasma Blue V2 icons and resources for Resource Redirect | [View Page][PlasmaBlueV2] |  
+| Gen2 Plasnma Blue V1 | Gen2 Plasma Blue V1 icons and resources for Resource Redirect | [View][PlasmaBlueV1] |  
+| Gen2 Plasnma Blue V2 | Gen2 Plasma Blue V2 icons and resources for Resource Redirect | [View][PlasmaBlueV2] |  
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
