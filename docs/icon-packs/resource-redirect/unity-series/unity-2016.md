@@ -3,7 +3,7 @@ title: Unity 2016
 description: Unity 2016 Icons for Resource Redirect
 parent: Unity Icon Packs
 grand_parent: Resource Redirect
-permalink: /icon-packs/resource-redirect/unity-series/unity2016
+permalink: /icon-packs/resource-redirect/unity-series/unity-2016
 ---
 
 ## Unity 2016

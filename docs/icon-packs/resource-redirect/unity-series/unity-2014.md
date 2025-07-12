@@ -3,7 +3,7 @@ title: Unity 2014
 description: Unity 2014 Icons for Resource Redirect
 parent: Unity Icon Packs
 grand_parent: Resource Redirect
-permalink: /icon-packs/resource-redirect/unity-series/unity2014
+permalink: /icon-packs/resource-redirect/unity-series/unity-2014
 ---
 
 ## Unity 2014
