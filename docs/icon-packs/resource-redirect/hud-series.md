@@ -8,8 +8,7 @@ grand_parent: Icon Packs
 permalink: /icon-packs/resource-redirect/hud-series
 ---
 
-HUD Icon Packs for Resource Redirect
-===========================
+## HUD Icon Packs for Resource Redirect
 
 | --- | --- | --- |  
 | HUD Machine Red | HUD Machine Red icons and resources for Resource Redirect | [View Page][Red] |  

@@ -2,14 +2,13 @@
 title: Windows Icon Packs
 description: Windows icon packs for Resource Redirect
 has_toc: false
-nav_order: 3
+nav_order: 4
 parent: Resource Redirect
 grand_parent: Icon Packs
 permalink: /icon-packs/resource-redirect/windows-series
 ---
 
-Windows Icon Packs for Resource Redirect
-===========================
+## Windows Icon Packs for Resource Redirect
 
 | --- | --- | --- |  
 | Windows 7 | Windows 7 icons and resources for Resource Redirect | [View Page][Windows7] | 

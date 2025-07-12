@@ -12,22 +12,16 @@ permalink: /icon-packs/resource-redirect/hud-series/hud-machine-red
 > We have yet to create a preview image for this page.  
 > We will get one uploaded as soon as we have it created.
 
-HUD Machine Red
-===========================
-
-![][Preview]
+## HUD Machine Red
 
 ### Requirements
 
-*   [WindHawk][WindHawk]
-*   [Resource Redirect][ResourceRedirect]
-
+- [WindHawk][WindHawk]
+- [Resource Redirect][ResourceRedirect]
 
 **Download**: [GitLab][GitLab]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[Preview]: https://gitlab.com/the-back-room/resource-redirect/-/raw/main/icon-packs/HUD-Machine-Red/Extras/Preview.bmp 
 
 [GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/HUD-Machine-Red
 

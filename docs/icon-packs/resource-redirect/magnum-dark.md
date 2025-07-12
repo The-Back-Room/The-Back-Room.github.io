@@ -7,16 +7,14 @@ grand_parent: Icon Packs
 permalink: /icon-packs/resource-redirect/magnum-dark
 ---
 
-Magnum Dark
-===========================
+## Magnum Dark
 
-![][Preview]
+![Preview][Preview]
 
 ### Requirements
 
-*   [WindHawk][WindHawk]
-*   [Resource Redirect][ResourceRedirect]
-
+- [WindHawk][WindHawk]
+- [Resource Redirect][ResourceRedirect]
 
 **Download**: [GitLab][GitLab]
 
