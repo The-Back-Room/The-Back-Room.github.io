@@ -11,9 +11,9 @@ permalink: /icon-packs/resource-redirect/windows-series
 ## Windows Icon Packs for Resource Redirect
 
 | --- | --- | --- |  
-| Windows 7 | Windows 7 icons and resources for Resource Redirect | [View][Windows7] | 
-| Windows Vista | Windows Vista icons and resources for Resource Redirect | [View][WindowsVista] |  
-| Windows XP | Windows XP icons and resources for Resource Redirect | [View][WindowsXP] |  
+| Windows 7 | Windows 7 icons and resources for Resource Redirect | [View][Windows7] |
+| Windows Vista | Windows Vista icons and resources for Resource Redirect | [View][WindowsVista] |
+| Windows XP | Windows XP icons and resources for Resource Redirect | [View][WindowsXP] |
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

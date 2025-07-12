@@ -7,11 +7,6 @@ grand_parent: Resource Redirect
 permalink: /icon-packs/resource-redirect/hud-series/hud-machine-red
 ---
 
-{: .note }
-> {: .opaque }
-> We have yet to create a preview image for this page.  
-> We will get one uploaded as soon as we have it created.
-
 ## HUD Machine Red
 
 ### Requirements
@@ -19,11 +14,11 @@ permalink: /icon-packs/resource-redirect/hud-series/hud-machine-red
 - [WindHawk][WindHawk]
 - [Resource Redirect][ResourceRedirect]
 
-**Download**: [GitLab][GitLab]
+**Download**: [Download ZIP][DownloadZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/HUD-Machine-Red
+[DownloadZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-machine-red/-/archive/main/hud-machine-red-main.zip
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect

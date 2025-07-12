@@ -14,7 +14,7 @@ permalink: /icon-packs/resource-redirect
 | Unity Icon Packs | Unity icon packs and resources for Resource Redirect | [View][UnitySeries] |
 | Windows Icon Packs | Windows icon packs and resources for Resource Redirect | [View][WindowsSeries] |
 | Jarvis | Jarvis icon pack for Resource Redirect | [View][Jarvis] |
-| Magnum Dark | Magnum Dark icon pack for Resource Redirect | [View][MagnumDark] |  
+| Magnum Dark | Magnum Dark icon pack for Resource Redirect | [View][MagnumDark] |
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
