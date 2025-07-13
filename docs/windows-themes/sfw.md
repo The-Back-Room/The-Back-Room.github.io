@@ -34,10 +34,10 @@ permalink: /windows-themes/sfw
 > Patching your system files **CAN** and **WILL** brick your system if done wrong.
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
- 
+
 | --- | --- | --- |
-| Windows 10 | Custom Visual Styles for Windows 10 19H1-22H2 | [View][Windows10Themes] |  
-| Windows 11 | Custom Visual Styles for Windows 11 23H1+ | [View][Windows11Themes] |  
+| Windows 10 | Custom Visual Styles for Windows 10 19H1-22H2 | [View][Windows10Themes] |
+| Windows 11 | Custom Visual Styles for Windows 11 23H1+ | [View][Windows11Themes] |
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
