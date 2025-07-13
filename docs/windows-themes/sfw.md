@@ -15,6 +15,7 @@ permalink: /windows-themes/sfw
 | Studio Ghibli | Theme for Windows 10 and 11 | [View on GitLab][StudioGhibli] |  
 | Once Human | Theme for Windows 10 and 11 | [View on GitLab][OnceHuman] |  
 | Final Fantasy XIV | Theme for Windows 10 and 11 | [View on GitLab][FFXIV] |  
+| Unity 2016 | Theme for Windows 10 and 11 | [View on GitLab][UNITY2016] |  
 | Classic 11 | Theme for Windows 10 and 11 | [View on GitLab][Classic11] |  
 | Windows 7 RTM Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][RTM] |  
 | Windows 7 MCT Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][MCT] |  
@@ -44,6 +45,7 @@ permalink: /windows-themes/sfw
 
 [RTM]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Windows-7-RTM-Themes
 [MCT]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Windows-7-MCT-Themes
+[UNITY2016]: https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2016
 [Classic11]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Classic-11
 [MSCopilot]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Microsoft-Copilot
 [MSSurfacePro]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Microsoft-Surface-Pro
