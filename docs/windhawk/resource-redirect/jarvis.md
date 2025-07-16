@@ -2,7 +2,7 @@
 title: Jarvis
 description: Jarvis icon pack for Resource Redirect
 parent: Resource Redirect
-grand_parent: Icon Packs
+grand_parent: WindHawk
 permalink: /windhawk/resource-redirect/jarvis
 ---
 

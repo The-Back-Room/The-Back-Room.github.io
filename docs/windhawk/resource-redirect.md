@@ -1,6 +1,5 @@
 ---
 title: Resource Redirect
-nav_order: 1
-parent: Icon Packs
+parent: WindHawk
 permalink: /windhawk/resource-redirect
 ---
