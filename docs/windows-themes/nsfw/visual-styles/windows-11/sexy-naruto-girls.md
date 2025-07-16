@@ -1,6 +1,7 @@
 ---
 title: Sexy Naruto Girls
-description: Sexy Naruto Girls Themes for Windows 11 23H1+
+summary: Theme(s) for Windows 11 23H1+
+description: Theme(s) for Windows 11 23H1+
 parent: Windows 11
 grand_parent: Visual Styles
 permalink: /windows-themes/nsfw/visual-styles/windows-11/sexy-naruto-girls

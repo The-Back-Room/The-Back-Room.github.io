@@ -1,5 +1,7 @@
 ---
 title: Windows 11
+summary: Custom MSSTYLE Themes for Windows 11 23H1+
+description: Custom MSSTYLE Themes for Windows 11 23H1+
 nav_order: 2
 parent: Visual Styles
 grand_parent: NSFW Themes

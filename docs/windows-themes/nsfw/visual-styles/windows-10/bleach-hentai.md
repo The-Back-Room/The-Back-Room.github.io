@@ -1,6 +1,7 @@
 ---
 title: Bleach Hentai
-description: Bleach Hentai Theme for Windows 10 19H1-22H2
+summary: Theme(s) for Windows 10 19H1-22H2
+description: Theme(s) for Windows 10 19H1-22H2
 parent: Windows 10
 grand_parent: Visual Styles
 permalink: /windows-themes/nsfw/visual-styles/windows-10/bleach-hentai
