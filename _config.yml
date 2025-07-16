@@ -21,7 +21,7 @@ defaults:
     values:
       layout: "default"
 
-search_enabled: false
+search_enabled: true
 
 mermaid:
   version: "9.1.6"
@@ -29,12 +29,6 @@ mermaid:
 liquid:
   error_mode: strict
   strict_filters: true
-
-last_edit_timestamp: true
-last_edit_time_format: "%b %e %Y at %I:%M %p" 
-last_edit_time_zone: "UTC"
-last_edit_author: true
-last_edit_author_format: "%a, %b %e %I:%M %p %Z"
 
 callouts_level: quiet
 callouts:

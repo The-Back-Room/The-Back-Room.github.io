@@ -30,7 +30,7 @@ permalink: /windows-themes/sfw/deskthemepacks/unity-2016
 ### SFX Instructions
 
 - Download the SFX Installer from the `SFX` link below.
-- Double-Click the downloaded exe file and follow the prompts. 
+- Double-Click the downloaded exe file and follow the prompts.
 - Apply the theme via `Settings >> Personlization >> Themes`
 
 **Download**: [ZIP][ZIP] [SFX][SFX]
