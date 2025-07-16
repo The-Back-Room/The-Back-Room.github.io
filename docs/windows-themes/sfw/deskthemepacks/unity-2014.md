@@ -1,8 +1,8 @@
 ---
 title: Unity 2014
 description: Windows deskthemepack tribute to the classic Unity 2014 Visual Stlye suite created by neiio
-parent: SFW Themes
-grand_parent: Windows Themes
+parent: Deskthemepacks
+grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/unity-2014
 ---
 

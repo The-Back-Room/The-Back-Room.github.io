@@ -1,10 +1,9 @@
 ---
-title: FFXIV Waifus
-desription: Final Fantasy XIV Waifus Themes for Windows 11 23H1+
-
+title: Once Human
+description: Once Human Themes for Windows 11 23H1+
 parent: Windows 11
-grand_parent: NSFW Themes
-permalink: /windows-themes/nsfw/msstyle/windows-11/ffxiv-waifus
+grand_parent: Visual Styles
+permalink: /windows-themes/sfw/visual-styles/windows-11/once-human
 ---
 
 {: .important}
@@ -31,16 +30,17 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/ffxiv-waifus
 - Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 - Apply the theme via `Settings > Personalization > Themes`
 
-### Features
+#### Features
 
+- Multiple Backgrounds
 - Multiple Styles
-- Custom cursors
-- Custom sounds
+- Custom Cursors
+- Custom Sounds
 
 ### Included Themes
 
-- Final Fantasy XIV Waifus (Aero7-11)
-- Final Fantasy XIV Waifus (UI-X2)
+- Once Human (Aero7-11)
+- Once Human (UI-X2)
 
 **Download**: [Download ZIP][DownloadZIP]
 
@@ -56,6 +56,6 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/ffxiv-waifus
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/final-fantasy-xiv-waifus/-/archive/main/final-fantasy-xiv-waifus-main.zip
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/once-human/-/archive/main/once-human-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

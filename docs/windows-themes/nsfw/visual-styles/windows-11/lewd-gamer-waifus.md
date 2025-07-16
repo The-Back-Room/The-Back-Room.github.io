@@ -1,10 +1,9 @@
 ---
-title: Bleach Hentai
-description: Bleach Hentai Themes for Windows 11 23H1+
-
+title: Lewd Gamer Waifus
+description: Lewd Gamer Waifus Themes for Windows 11 23H1+
 parent: Windows 11
-grand_parent: NSFW Themes
-permalink: /windows-themes/nsfw/msstyle/windows-11/bleach-hentai
+grand_parent: Visual Styles
+permalink: /windows-themes/nsfw/visual-styles/windows-11/lewd-gamer-waifus
 ---
 
 {: .important}
@@ -33,15 +32,14 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/bleach-hentai
 
 ### Features
 
-- Multiple Backgrounds
 - Multiple Styles
-- Custom Cursors
-- Custom Sounds
+- Custom cursors
+- Custom sounds
 
 ### Included Themes
 
-- Bleach Hentai (Aero7-11)
-- Bleach Hentai (UI-X2)
+- Lewd Gamer Waifus (Aero7-11)
+- Lewd Gamer Waifus (UI-X2)
 
 **Download**: [Download ZIP][DownloadZIP]
 
@@ -57,6 +55,6 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/bleach-hentai
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/bleach-hentai/-/archive/main/bleach-hentai-main.zip
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/lewd-gamer-waifus/-/archive/main/lewd-gamer-waifus-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

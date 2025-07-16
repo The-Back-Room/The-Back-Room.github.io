@@ -1,9 +1,9 @@
 ---
-title: Once Human
-description: Once Human Themes for Windows 11 23H1+
-parent: Windows 11
-grand_parent: SFW Themes
-permalink: /windows-themes/sfw/msstyle/windows-11/once-human
+title: FFXIV Waifus
+description: Final Fantasy XIV Waifus Theme for Windows 10 19H1-22H2
+parent: Windows 10
+grand_parent: Visual Styles
+permalink: /windows-themes/nsfw/visual-styles/windows-10/ffxiv-waifus
 ---
 
 {: .important}
@@ -19,10 +19,9 @@ permalink: /windows-themes/sfw/msstyle/windows-11/once-human
 >
 > - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
 > - [WindHawk][WindHawk]
-> - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
 > - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
 > - [Old New Explorer][OldNewExplorer]
-> - [StartAllBack][StartAllBack]
+> - [StartIsBack][StartIsBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
 ### Instructions
@@ -30,32 +29,24 @@ permalink: /windows-themes/sfw/msstyle/windows-11/once-human
 - Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 - Apply the theme via `Settings > Personalization > Themes`
 
-#### Features
+### Features
 
-- Multiple Backgrounds
-- Multiple Styles
-- Custom Cursors
-- Custom Sounds
-
-### Included Themes
-
-- Once Human (Aero7-11)
-- Once Human (UI-X2)
+- Custom cursors
+- Custom sounds
 
 **Download**: [Download ZIP][DownloadZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [WindHawk]: https://windhawk.net/
-[BringBackTheBorders]: https://windhawk.net/mods/w11-dwm-fix
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
 [SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
 [UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
-[StartAllBack]: https://www.startallback.com/
+[StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/once-human/-/archive/main/once-human-main.zip
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/final-fantasy-xiv-waifus/-/archive/main/final-fantasy-xiv-waifus-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

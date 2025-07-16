@@ -1,10 +1,9 @@
 ---
-title: Lewd Gamer Waifus
-description: Lewd Gamer Waifus Themes for Windows 11 23H1+
-
+title: Aero7-11
+description: Windows 7 Themes for Windows 11 23H1+
 parent: Windows 11
-grand_parent: NSFW Themes
-permalink: /windows-themes/nsfw/msstyle/windows-11/lewd-gamer-waifus
+grand_parent: Visual Styles
+permalink: /windows-themes/sfw/visual-styles/windows-11/aero7-11
 ---
 
 {: .important}
@@ -34,28 +33,31 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/lewd-gamer-waifus
 ### Features
 
 - Multiple Styles
-- Custom cursors
-- Custom sounds
+- Custom Cursors
+- Custom Sounds
 
 ### Included Themes
 
-- Lewd Gamer Waifus (Aero7-11)
-- Lewd Gamer Waifus (UI-X2)
+- **RTM Themes**: `Windows` `Architecture` `Nature` `Characters` `Landscapes` `Scenes`
+- **Regional Themes**: `Australia` `Brazil` `Canada` `China` `France` `Germany` `India` `Italy` `Japan` `Korea` `Mexico` `Poland` `Russia` `Spain` `South Africa` `Taiwan` `United Kingdoms` `United States`
+- **Panoramic Themes**: `Panoramic Animals` `Panoramic Beaches` `Panoramic Deserts` `Panoramic Rock Formations` `Panoramic Glaciers` `Panoramic Snow`
+- **Community Showcase Themes**: `Aqua` `Cityscapes`
+- **Other Themes**: `Beach Sunsets` `Glowing Beaches` `Waterscapes`
 
 **Download**: [Download ZIP][DownloadZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [WindHawk]: https://windhawk.net/
-[BringBackTheBorders]: https://windhawk.net/mods/w11-dwm-fix
-[SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
-[SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
-[UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
+[BringBackTheBorders]: https://windhawk.net/mods/w11-dwm-fix/
+[SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds
+[UxThemeHook]: https://windhawk.net/mods/uxtheme-hook
+[SecureUxTheme]: https://github.com/namazso/SecureUxTheme
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
-[StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[StartAllBack]: https://www.startallback.com/
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/lewd-gamer-waifus/-/archive/main/lewd-gamer-waifus-main.zip
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/aero7-11/-/archive/main/aero7-11-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

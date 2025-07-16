@@ -1,9 +1,9 @@
 ---
-title: Aero7-11
-description: Windows 7 Themes for Windows 11 23H1+
-parent: Windows 11
-grand_parent: SFW Themes
-permalink: /windows-themes/sfw/msstyle/windows-11/aero7-11
+title: Sexy Naruto Girls
+description: Sexy Naruto Girls Theme for Windows 10 19H1-22H2
+parent: Windows 10
+grand_parent: Visual Styles
+permalink: /windows-themes/nsfw/visual-styles/windows-10/sexy-naruto-girls
 ---
 
 {: .important}
@@ -19,10 +19,9 @@ permalink: /windows-themes/sfw/msstyle/windows-11/aero7-11
 >
 > - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
 > - [WindHawk][WindHawk]
-> - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
 > - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
 > - [Old New Explorer][OldNewExplorer]
-> - [StartAllBack][StartAllBack]
+> - [StartIsBack][StartIsBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
 ### Instructions
@@ -32,32 +31,22 @@ permalink: /windows-themes/sfw/msstyle/windows-11/aero7-11
 
 ### Features
 
-- Multiple Styles
-- Custom Cursors
-- Custom Sounds
-
-### Included Themes
-
-- **RTM Themes**: `Windows` `Architecture` `Nature` `Characters` `Landscapes` `Scenes`
-- **Regional Themes**: `Australia` `Brazil` `Canada` `China` `France` `Germany` `India` `Italy` `Japan` `Korea` `Mexico` `Poland` `Russia` `Spain` `South Africa` `Taiwan` `United Kingdoms` `United States`
-- **Panoramic Themes**: `Panoramic Animals` `Panoramic Beaches` `Panoramic Deserts` `Panoramic Rock Formations` `Panoramic Glaciers` `Panoramic Snow`
-- **Community Showcase Themes**: `Aqua` `Cityscapes`
-- **Other Themes**: `Beach Sunsets` `Glowing Beaches` `Waterscapes`
+- Custom cursors
+- Custom sounds
 
 **Download**: [Download ZIP][DownloadZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [WindHawk]: https://windhawk.net/
-[BringBackTheBorders]: https://windhawk.net/mods/w11-dwm-fix/
-[SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds
-[UxThemeHook]: https://windhawk.net/mods/uxtheme-hook
-[SecureUxTheme]: https://github.com/namazso/SecureUxTheme
+[SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
+[SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
+[UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
+[StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
-[StartAllBack]: https://www.startallback.com/
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/aero7-11/-/archive/main/aero7-11-main.zip
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/sexy-naruto-girls/-/archive/main/sexy-naruto-girls-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

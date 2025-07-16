@@ -1,10 +1,9 @@
 ---
-title: Ecchi
-description: Ecchi Theme for Windows 10 19H1-22H2
-
+title: Bleach
+description: Bleach Theme for Windows 10 19H1-22H2
 parent: Windows 10
-grand_parent: NSFW Themes
-permalink: /windows-themes/nsfw/msstyle/windows-10/ecchi
+grand_parent: SFW Themes
+permalink: /windows-themes/sfw/visual-styles/windows-10/bleach
 ---
 
 {: .important}
@@ -18,10 +17,10 @@ permalink: /windows-themes/nsfw/msstyle/windows-10/ecchi
 > {: .opaque }
 > The following tools are required to use this theme:
 >
-> - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
 > - [WindHawk][WindHawk]
+> - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
 > - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
-> - [Old New Explorer][OldNewExplorer]
+> - [Old New Explorer][OldNewExplorer] or [WindHawk][WindHawk] Plugin: [Aerexplorer][Aerexplorer]
 > - [StartIsBack][StartIsBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
@@ -35,19 +34,25 @@ permalink: /windows-themes/nsfw/msstyle/windows-10/ecchi
 - Custom cursors
 - Custom sounds
 
-**Download**: [Download ZIP][DownloadZIP]
+### Included Themes
+
+- Bleach
+- Bleach - Thousand Year Blood War
+
+**Download**: [GitLab][GitLab]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [WindHawk]: https://windhawk.net/
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
+[Aerexplorer]: https://windhawk.net/mods/aerexplorer
 [SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
 [UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartIsBack]: https://www.startisback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/ecchi/-/archive/main/ecchi-main.zip
+[GitLab]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/bleach/-/archive/main/bleach-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

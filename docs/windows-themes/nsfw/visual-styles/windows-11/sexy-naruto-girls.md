@@ -1,10 +1,9 @@
 ---
-title: Ecchi
-description: Ecchi Themes for Windows 11 23H1+
-
+title: Sexy Naruto Girls
+description: Sexy Naruto Girls Themes for Windows 11 23H1+
 parent: Windows 11
-grand_parent: NSFW Themes
-permalink: /windows-themes/nsfw/msstyle/windows-11/ecchi
+grand_parent: Visual Styles
+permalink: /windows-themes/nsfw/visual-styles/windows-11/sexy-naruto-girls
 ---
 
 {: .important}
@@ -39,8 +38,12 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/ecchi
 
 ### Included Themes
 
-- Ecchi (Aero7-11)
-- Ecchi (UI-X2)
+- Sexy Naruto Girls (Aero7-11)
+- Sexy Naruto Girls (Aero7-11) (Nude)
+- Sexy Naruto Girls (Aero7-11) (Nude) (Alt)
+- Sexy Naruto Girls (UI-X2)
+- Sexy Naruto Girls (UI-X2) (Nude)
+- Sexy Naruto Girls (UI-X2) (Nude) (Alt)
 
 **Download**: [Download ZIP][DownloadZIP]
 
@@ -56,6 +59,6 @@ permalink: /windows-themes/nsfw/msstyle/windows-11/ecchi
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/ecchi/-/archive/main/ecchi-main.zip
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/sexy-naruto-girls/-/archive/main/sexy-naruto-girls-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

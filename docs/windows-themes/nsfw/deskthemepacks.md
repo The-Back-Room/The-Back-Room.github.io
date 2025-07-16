@@ -1,5 +1,5 @@
 ---
-title: NSFW Deskthemepacks
+title: NDeskthemepacks
 description: Themes for Windows 10 and 11
 parent: NSFW Themes
 grand_parent: Windows Themes

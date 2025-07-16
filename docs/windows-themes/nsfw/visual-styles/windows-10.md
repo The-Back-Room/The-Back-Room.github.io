@@ -1,9 +1,9 @@
 ---
-title: Windows 11
-nav_order: 2
-parent: NSFW Themes
-grand_parent: Windows Themes
-permalink: /windows-themes/nsfw/msstyle/windows-11
+title: Windows 10
+nav_order: 1
+parent: Visual Styles
+grand_parent: NSFW Themes
+permalink: /windows-themes/nsfw/visual-styles/windows-10
 ---
 
 {: .important }

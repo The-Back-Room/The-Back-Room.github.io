@@ -1,10 +1,9 @@
 ---
-title: Bleach Hentai
-description: Bleach Hentai Theme for Windows 10 19H1-22H2
-
+title: Ecchi
+description: Ecchi Theme for Windows 10 19H1-22H2
 parent: Windows 10
-grand_parent: NSFW Themes
-permalink: /windows-themes/nsfw/msstyle/windows-10/bleach-hentai
+grand_parent: Visual Styles
+permalink: /windows-themes/nsfw/visual-styles/windows-10/ecchi
 ---
 
 {: .important}
@@ -48,6 +47,6 @@ permalink: /windows-themes/nsfw/msstyle/windows-10/bleach-hentai
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/bleach-hentai/-/archive/main/bleach-hentai-main.zip
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/ecchi/-/archive/main/ecchi-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

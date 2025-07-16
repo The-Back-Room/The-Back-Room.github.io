@@ -1,10 +1,9 @@
 ---
-title: Ranma Hentai
-description: Ranma Hentai Theme for Windows 10 19H1-22H2
-
-parent: Windows 10
-grand_parent: NSFW Themes
-permalink: /windows-themes/nsfw/msstyle/windows-10/ranma-hentai
+title: Bleach
+description: Bleach Themes for Windows 11 23H1+
+parent: Windows 11
+grand_parent: Visual Styles
+permalink: /windows-themes/sfw/visual-styles/windows-11/bleach
 ---
 
 {: .important}
@@ -20,9 +19,10 @@ permalink: /windows-themes/nsfw/msstyle/windows-10/ranma-hentai
 >
 > - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
 > - [WindHawk][WindHawk]
+> - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
 > - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
 > - [Old New Explorer][OldNewExplorer]
-> - [StartIsBack][StartIsBack]
+> - [StartAllBack][StartAllBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
 ### Instructions
@@ -32,22 +32,32 @@ permalink: /windows-themes/nsfw/msstyle/windows-10/ranma-hentai
 
 ### Features
 
-- Custom cursors
-- Custom sounds
+- Multiple Backgrounds
+- Multiple Styles
+- Custom Cursors
+- Custom Sounds
+
+### Included Themes
+
+- Bleach (Aero7-11)
+- Bleach (UI-X2)
+- Bleach Thousand Year Blood War (Aero7-11)
+- Bleach Thousand Year Blood War (UI-X2)
 
 **Download**: [Download ZIP][DownloadZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [WindHawk]: https://windhawk.net/
+[BringBackTheBorders]: https://windhawk.net/mods/w11-dwm-fix
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
 [SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
 [UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
-[StartIsBack]: https://www.startisback.com/
+[StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/ranma-hentai/-/archive/main/ranma-hentai-main.zip
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/bleach/-/archive/main/bleach-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

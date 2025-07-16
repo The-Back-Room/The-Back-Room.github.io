@@ -1,9 +1,9 @@
 ---
-title: Bleach
-description: Bleach Themes for Windows 11 23H1+
+title: Bleach Hentai
+description: Bleach Hentai Themes for Windows 11 23H1+
 parent: Windows 11
-grand_parent: SFW Themes
-permalink: /windows-themes/sfw/msstyle/windows-11/bleach
+grand_parent: Visual Styles
+permalink: /windows-themes/nsfw/visual-styles/windows-11/bleach-hentai
 ---
 
 {: .important}
@@ -39,10 +39,8 @@ permalink: /windows-themes/sfw/msstyle/windows-11/bleach
 
 ### Included Themes
 
-- Bleach (Aero7-11)
-- Bleach (UI-X2)
-- Bleach Thousand Year Blood War (Aero7-11)
-- Bleach Thousand Year Blood War (UI-X2)
+- Bleach Hentai (Aero7-11)
+- Bleach Hentai (UI-X2)
 
 **Download**: [Download ZIP][DownloadZIP]
 
@@ -58,6 +56,6 @@ permalink: /windows-themes/sfw/msstyle/windows-11/bleach
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/bleach/-/archive/main/bleach-main.zip
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/bleach-hentai/-/archive/main/bleach-hentai-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

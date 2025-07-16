@@ -1,9 +1,9 @@
 ---
-title: Bleach
-description: Bleach Theme for Windows 10 19H1-22H2
+title: Bleach Hentai
+description: Bleach Hentai Theme for Windows 10 19H1-22H2
 parent: Windows 10
-grand_parent: SFW Themes
-permalink: /windows-themes/sfw/msstyle/windows-10/bleach
+grand_parent: Visual Styles
+permalink: /windows-themes/nsfw/visual-styles/windows-10/bleach-hentai
 ---
 
 {: .important}
@@ -17,10 +17,10 @@ permalink: /windows-themes/sfw/msstyle/windows-10/bleach
 > {: .opaque }
 > The following tools are required to use this theme:
 >
-> - [WindHawk][WindHawk]
 > - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
+> - [WindHawk][WindHawk]
 > - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
-> - [Old New Explorer][OldNewExplorer] or [WindHawk][WindHawk] Plugin: [Aerexplorer][Aerexplorer]
+> - [Old New Explorer][OldNewExplorer]
 > - [StartIsBack][StartIsBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
@@ -34,25 +34,19 @@ permalink: /windows-themes/sfw/msstyle/windows-10/bleach
 - Custom cursors
 - Custom sounds
 
-### Included Themes
-
-- Bleach
-- Bleach - Thousand Year Blood War
-
-**Download**: [GitLab][GitLab]
+**Download**: [Download ZIP][DownloadZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [WindHawk]: https://windhawk.net/
 [SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
-[Aerexplorer]: https://windhawk.net/mods/aerexplorer
 [SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
 [UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
 [OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartIsBack]: https://www.startisback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[GitLab]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/bleach/-/archive/main/bleach-main.zip
+[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/bleach-hentai/-/archive/main/bleach-hentai-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
