@@ -1,7 +1,6 @@
 ---
 title: Aero7-11
 description: Windows 7 Themes for Windows 11 23H1+
-has_toc: false
 parent: Windows 11
 grand_parent: SFW Themes
 permalink: /windows-themes/sfw/msstyle/windows-11/aero7-11

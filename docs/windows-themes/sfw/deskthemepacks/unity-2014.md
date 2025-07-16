@@ -1,15 +1,10 @@
 ---
 title: Unity 2014
 description: Windows deskthemepack tribute to the classic Unity 2014 Visual Stlye suite created by neiio
-has_toc: false
 parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /windows-themes/sfw/deskthemepacks/unity-2014
 ---
-
-## Unity 2014
-
-Windows deskthemepack tribute to the classic Unity 2014 Visual Stlye suite created by neiio.
 
 > [!NOTE]
 > This theme uses a dark system mode and light app mode. As such it is advised to be on Windows 10 RS1 or later for full colorization support.  

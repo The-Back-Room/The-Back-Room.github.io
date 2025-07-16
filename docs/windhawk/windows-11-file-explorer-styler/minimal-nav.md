@@ -1,20 +1,16 @@
 ---
 title: Minimal Nav
 description: Nav bar edit of the Minimal Explorer11 theme
-has_toc: false
 nav_exclude: true
-permalink: /windhawk-mods/windows-11-file-explorer-styler/minimal-nav
+permalink: /windhawk/windows-11-file-explorer-styler/minimal-nav
 ---
 
-Minimal Nav
-======================
-
-![][Preview]
+![Preview][Preview]
 
 ### Installation
 
-*   Copy the code below into `WindHawk >> Windows 11 File Explorer Styler >> Advanced >> Mod Settings`
-*   Click `Save`, then click `Load`
+- Copy the code below into `WindHawk >> Windows 11 File Explorer Styler >> Advanced >> Mod Settings`
+- Click `Save`, then click `Load`
 
 ```json
 {
@@ -49,6 +45,6 @@ Minimal Nav
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/windhawk-mods/-/raw/main/Windows-11-File-Explorer-Styler/minimal-tabbed/Extras/Preview.png
+[Preview]: https://gitlab.com/the-back-room/windhawk/-/raw/main/Windows-11-File-Explorer-Styler/minimal-tabbed/Extras/Preview.png
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

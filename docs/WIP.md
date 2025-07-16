@@ -1,9 +1,9 @@
 ---
 title: WIP
 description: Work In Progress - Project Not Complete
-has_toc: false
+
 nav_exclude: true
-has_toc: false
+
 permalink: /WIP
 ---
 

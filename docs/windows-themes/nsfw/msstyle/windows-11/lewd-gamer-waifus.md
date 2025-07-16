@@ -1,15 +1,11 @@
 ---
 title: Lewd Gamer Waifus
 description: Lewd Gamer Waifus Themes for Windows 11 23H1+
-has_toc: false
+
 parent: Windows 11
 grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/msstyle/windows-11/lewd-gamer-waifus
 ---
-
-## Lewd Gamer Waifus
-
-for Windows 11
 
 {: .important}
 > {: .opaque }

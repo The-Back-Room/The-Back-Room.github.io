@@ -1,13 +1,10 @@
 ---
-title: Windows XP
-description: Windows XP icon pack for Resource Redirect
-has_toc: false
-parent: Windows Icon Packs
-grand_parent: Resource Redirect
-permalink: /icon-packs/resource-redirect/windows-series/windows-xp
+title: Jarvis
+description: Jarvis icon pack for Resource Redirect
+parent: Resource Redirect
+grand_parent: Icon Packs
+permalink: /windhawk/resource-redirect/jarvis
 ---
-
-## Windows XP
 
 ### Requirements
 
@@ -18,7 +15,7 @@ permalink: /icon-packs/resource-redirect/windows-series/windows-xp
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-XP
+[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Jarvis
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect

@@ -1,15 +1,10 @@
 ---
-title: Magnum Dark
-description: Magnum Dark icon pack for Resource Redirect
-has_toc: false
-parent: Resource Redirect
-grand_parent: Icon Packs
-permalink: /icon-packs/resource-redirect/magnum-dark
+title: Plasma Blue V2
+description: Gen2 Plasma Blue V2 icon pack for Resource Redirect
+parent: Gen2 Icon Packs
+grand_parent: Resource Redirect
+permalink: /windhawk/resource-redirect/gen2-series/gen2-plasma-blue-v2
 ---
-
-## Magnum Dark
-
-![Preview][Preview]
 
 ### Requirements
 
@@ -20,9 +15,7 @@ permalink: /icon-packs/resource-redirect/magnum-dark
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/resource-redirect/-/raw/main/icon-packs/Magnum-Dark/Extras/Preview.bmp 
-
-[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Magnum-Dark
+[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Plasma-Blue-V2
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect

@@ -1,18 +1,10 @@
 ---
-title: Windows 11
-nav_order: 2
+title: NSFW Deskthemepacks
+description: Themes for Windows 10 and 11
 parent: NSFW Themes
 grand_parent: Windows Themes
-permalink: /windows-themes/nsfw/msstyle/windows-11
+permalink: /windows-themes/nsfw/deskthemepacks
 ---
-
-{: .important }
-> {: .opaque }
-> {: .warning }
-> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  
-> Patching your system files **CAN** and **WILL** brick your system if done wrong.
->
-> We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
 {: .important }
 > {: .opaque }

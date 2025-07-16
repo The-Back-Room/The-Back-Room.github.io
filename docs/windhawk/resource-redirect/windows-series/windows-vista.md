@@ -1,13 +1,10 @@
 ---
-title: Plasma Blue V2
-description: Gen2 Plasma Blue V2 icon pack for Resource Redirect
-has_toc: false
-parent: Gen2 Icon Packs
+title: Windows Vista
+description: Windows Vista icon pack for Resource Redirect
+parent: Windows Icon Packs
 grand_parent: Resource Redirect
-permalink: /icon-packs/resource-redirect/gen2-series/gen2-plasma-blue-v2
+permalink: /windhawk/resource-redirect/windows-series/windows-vista
 ---
-
-## Gen2 Plasma Blue V2
 
 ### Requirements
 
@@ -18,7 +15,7 @@ permalink: /icon-packs/resource-redirect/gen2-series/gen2-plasma-blue-v2
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Plasma-Blue-V2
+[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-Vista
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect

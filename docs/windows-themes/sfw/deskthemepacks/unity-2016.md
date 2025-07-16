@@ -1,15 +1,10 @@
 ---
 title: Unity 2016
 description: Windows deskthemepack tribute to the classic Unity 2016 Visual Stlye suite created by neiio
-has_toc: false
 parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /windows-themes/sfw/deskthemepacks/unity-2016
 ---
-
-## Unity 2016
-
-Windows deskthemepack tribute to the classic Unity 2016 Visual Stlye suite created by neiio.
 
 > [!NOTE]
 > This theme uses a dark system mode and light app mode. As such it is advised to be on Windows 10 RS1 or later for full colorization support.  

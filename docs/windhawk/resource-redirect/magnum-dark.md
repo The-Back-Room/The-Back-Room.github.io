@@ -1,14 +1,12 @@
 ---
-title: Windows 7
-description: Windows 7 icon pack for Resource Redirect
-has_toc: false
-parent: Windows Icon Packs
-grand_parent: Resource Redirect
-permalink: /icon-packs/resource-redirect/windows-series/windows-7
+title: Magnum Dark
+description: Magnum Dark icon pack for Resource Redirect
+parent: Resource Redirect
+grand_parent: Icon Packs
+permalink: /windhawk/resource-redirect/magnum-dark
 ---
 
-## Windows 7
-
+![Preview][Preview]
 
 ### Requirements
 
@@ -19,7 +17,9 @@ permalink: /icon-packs/resource-redirect/windows-series/windows-7
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-7
+[Preview]: https://gitlab.com/the-back-room/resource-redirect/-/raw/main/icon-packs/Magnum-Dark/Extras/Preview.bmp 
+
+[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Magnum-Dark
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect

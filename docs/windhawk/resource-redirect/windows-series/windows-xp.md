@@ -1,13 +1,10 @@
 ---
-title: Plasma Blue V1
-description: Gen2 Plasma Blue V1 icon pack for Resource Redirect
-has_toc: false
-parent: Gen2 Icon Packs
+title: Windows XP
+description: Windows XP icon pack for Resource Redirect
+parent: Windows Icon Packs
 grand_parent: Resource Redirect
-permalink: /icon-packs/resource-redirect/gen2-series/gen2-plasma-blue-v1
+permalink: /windhawk/resource-redirect/windows-series/windows-xp
 ---
-
-## Gen2 Plasma Blue V1
 
 ### Requirements
 
@@ -18,7 +15,7 @@ permalink: /icon-packs/resource-redirect/gen2-series/gen2-plasma-blue-v1
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Plasma-Blue-V1
+[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-XP
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect

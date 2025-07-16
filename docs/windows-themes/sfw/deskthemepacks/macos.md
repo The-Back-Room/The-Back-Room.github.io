@@ -1,15 +1,10 @@
 ---
 title: MacOS
 description: MacOS themes ported to Windows 10 and 11
-has_toc: false
 parent: SFW Themes
 grand_parent: Windows Themes
 permalink: /windows-themes/sfw/deskthemepacks/macos
 ---
-
-## MacOS
-
-MacOS themes ported to Windows 10 and 11
 
 > [!NOTE]
 > These themes should work without problems on all versions of Windows from Windows 8 onwards.

@@ -1,29 +1,23 @@
 ---
-title: Unity 2014
-description: Unity 2014 Icons for Resource Redirect
-parent: Unity Icon Packs
+title: Plasma Blue V1
+description: Gen2 Plasma Blue V1 icon pack for Resource Redirect
+parent: Gen2 Icon Packs
 grand_parent: Resource Redirect
-permalink: /icon-packs/resource-redirect/unity-series/unity-2014
+permalink: /windhawk/resource-redirect/gen2-series/gen2-plasma-blue-v1
 ---
-
-## Unity 2014
-
-![Preview][Preview]
 
 ### Requirements
 
 - [WindHawk][WindHawk]
 - [Resource Redirect][ResourceRedirect]
 
-**Download**: [Download ZIP][DownloadZIP]
+**Download**: [GitLab][GitLab]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/raw/main/Extras/Preview.bmp
+[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Plasma-Blue-V1
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect
-
-[DownloadZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/archive/main/unity-2014-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

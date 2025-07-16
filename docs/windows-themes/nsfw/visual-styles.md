@@ -1,10 +1,11 @@
 ---
-title: Windows 11
-nav_order: 2
+title: NSFW Visual Styles
+description: Visual Styles for Windows 10 and 11
 parent: NSFW Themes
 grand_parent: Windows Themes
-permalink: /windows-themes/nsfw/msstyle/windows-11
+permalink: /windows-themes/nsfw/visual-styles
 ---
+### NSFW Visual Styles
 
 {: .important }
 > {: .opaque }

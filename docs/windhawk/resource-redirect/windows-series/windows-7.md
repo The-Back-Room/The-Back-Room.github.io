@@ -1,13 +1,10 @@
 ---
-title: Jarvis
-description: Jarvis icon pack for Resource Redirect
-has_toc: false
-parent: Resource Redirect
-grand_parent: Icon Packs
-permalink: /icon-packs/resource-redirect/jarvis
+title: Windows 7
+description: Windows 7 icon pack for Resource Redirect
+parent: Windows Icon Packs
+grand_parent: Resource Redirect
+permalink: /windhawk/resource-redirect/windows-series/windows-7
 ---
-
-## Jarvis
 
 ### Requirements
 
@@ -18,7 +15,7 @@ permalink: /icon-packs/resource-redirect/jarvis
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Jarvis
+[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-7
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect
