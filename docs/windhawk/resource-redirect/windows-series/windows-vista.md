@@ -1,6 +1,6 @@
 ---
 title: Windows Vista
-description: Windows Vista icon pack for Resource Redirect
+summary: Windows Vista icon pack for Resource Redirect
 parent: Windows Icon Packs
 grand_parent: Resource Redirect
 permalink: /windhawk/resource-redirect/windows-series/windows-vista

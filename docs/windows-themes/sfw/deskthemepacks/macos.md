@@ -1,14 +1,13 @@
 ---
 title: MacOS
 summary: MacOS themes ported to Windows 10 and 11
-description: MacOS themes ported to Windows 10 and 11
 parent: Deskthemepacks
 grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/macos
 ---
 
-{ .note }
-> { .opaque }
+{: .note }
+> {: .opaque }
 > These themes should work without problems on all versions of Windows from Windows 8 onwards.
 
 ![Preview][Preview]

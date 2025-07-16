@@ -1,7 +1,6 @@
 ---
 title: Ranma Hentai
 summary: Theme(s) for Windows 11 23H1+
-description: Theme(s) for Windows 11 23H1+
 parent: Windows 11
 grand_parent: Visual Styles
 permalink: /windows-themes/nsfw/visual-styles/windows-11/ranma-hentai

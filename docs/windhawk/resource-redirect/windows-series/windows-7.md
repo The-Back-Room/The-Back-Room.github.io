@@ -1,6 +1,6 @@
 ---
 title: Windows 7
-description: Windows 7 icon pack for Resource Redirect
+summary: Windows 7 icon pack for Resource Redirect
 parent: Windows Icon Packs
 grand_parent: Resource Redirect
 permalink: /windhawk/resource-redirect/windows-series/windows-7

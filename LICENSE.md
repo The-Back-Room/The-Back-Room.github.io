@@ -1,6 +1,6 @@
 ---
 title: LICENSE
-description: Creative Commons Attribution 4.0 International
+summary: Creative Commons Attribution 4.0 International
 published: false
 ---
 

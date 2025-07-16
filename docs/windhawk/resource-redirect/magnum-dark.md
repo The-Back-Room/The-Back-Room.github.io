@@ -1,6 +1,6 @@
 ---
 title: Magnum Dark
-description: Magnum Dark icon pack for Resource Redirect
+summary: Magnum Dark icon pack for Resource Redirect
 parent: Resource Redirect
 grand_parent: WindHawk
 permalink: /windhawk/resource-redirect/magnum-dark

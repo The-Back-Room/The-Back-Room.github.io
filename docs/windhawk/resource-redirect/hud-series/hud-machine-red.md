@@ -1,6 +1,6 @@
 ---
 title: HUD Machine Red
-description: HUD Machine Red icon pack for Resource Redirect
+summary: HUD Machine Red icon pack for Resource Redirect
 parent: HUD Icon Packs
 grand_parent: Resource Redirect
 permalink: /windhawk/resource-redirect/hud-series/hud-machine-red

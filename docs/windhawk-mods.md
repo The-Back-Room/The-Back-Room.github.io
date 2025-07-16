@@ -1,6 +1,6 @@
 ---
 title: WindHawk
-description: A collection of mods for WindHawk
+summary: A collection of mods for WindHawk
 nav_order: 4
 permalink: /windhawk-mods
 ---

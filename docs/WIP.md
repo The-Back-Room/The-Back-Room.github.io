@@ -1,6 +1,6 @@
 ---
 title: WIP
-description: Work In Progress - Project Not Complete
+summary: Work In Progress - Project Not Complete
 
 nav_exclude: true
 

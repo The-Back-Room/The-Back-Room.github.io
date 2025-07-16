@@ -1,6 +1,6 @@
 ---
 title: Plasma Blue V1
-description: Gen2 Plasma Blue V1 icon pack for Resource Redirect
+summary: Gen2 Plasma Blue V1 icon pack for Resource Redirect
 parent: Gen2 Icon Packs
 grand_parent: Resource Redirect
 permalink: /windhawk/resource-redirect/gen2-series/gen2-plasma-blue-v1

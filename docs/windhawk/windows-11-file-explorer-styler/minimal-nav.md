@@ -1,6 +1,6 @@
 ---
 title: Minimal Nav
-description: Nav bar edit of the Minimal Explorer11 theme
+summary: Nav bar edit of the Minimal Explorer11 theme
 parent: Windows 11 File Explorer Styler
 grand_parent: WindHawk
 permalink: /windhawk/windows-11-file-explorer-styler/minimal-nav

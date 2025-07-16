@@ -1,5 +1,6 @@
 ---
 title: NSFW Themes
+summary: NSFW Themes for Windows devices
 nav_order: 2
 parent: Windows Themes
 permalink: /windows-themes/nsfw

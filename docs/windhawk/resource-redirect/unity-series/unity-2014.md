@@ -1,6 +1,6 @@
 ---
 title: Unity 2014
-description: Unity 2014 Icons for Resource Redirect
+summary: Unity 2014 Icons for Resource Redirect
 parent: Unity Icon Packs
 grand_parent: Resource Redirect
 permalink: /windhawk/resource-redirect/unity-series/unity-2014

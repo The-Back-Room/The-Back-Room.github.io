@@ -1,7 +1,6 @@
 ---
 title: Windows 10
 summary: Custom MSSTYLE Themes for Windows 10 19H1-22H2
-description: Custom MSSTYLE Themes for Windows 10 18H1-22H2
 nav_order: 1
 parent: Visual Styles
 grand_parent: NSFW Themes
