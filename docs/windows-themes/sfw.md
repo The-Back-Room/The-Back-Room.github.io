@@ -9,21 +9,21 @@ permalink: /windows-themes/sfw
 ### Deskthemepacks
 
 | --- | --- | --- |
-| BLEACH | Theme for Windows 10 and 11 | [View on GitLab][BLEACH] |
-| Courage TCD | Theme for Windows 10 and 11 | [View on GitLab][CourageTCD] |
-| Howl's Moving Castle | Theme for Windows 10 and 11 | [View on GitLab][HMC] |
-| Studio Ghibli | Theme for Windows 10 and 11 | [View on GitLab][StudioGhibli] |
-| Once Human | Theme for Windows 10 and 11 | [View on GitLab][OnceHuman] |
-| Final Fantasy XIV | Theme for Windows 10 and 11 | [View on GitLab][FFXIV] |
-| Unity 2014 | Theme for Windows 10 and 11 | [View on GitLab][UNITY2014] |
-| Unity 2016 | Theme for Windows 10 and 11 | [View on GitLab][UNITY2016] |
-| Classic 11 | Theme for Windows 10 and 11 | [View on GitLab][Classic11] |
-| Windows 7 RTM Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][RTM] |
-| Windows 7 MCT Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][MCT] |
-| Microsoft Copilot Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][MSCopilot] |
-| Microsoft Surface Pro Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][MSSurfacePro] |
-| Windows 11 Hidden EDU Themes | Collection of themes for Windows 10 and 11 | [View on GitLab][EDU] |
-| MacOS Themes for Windows | Collection of themes for Windows 10 and 11 | [View on GitLab][MacOS] |
+| BLEACH | Theme for Windows 10 and 11 | [View][BLEACH] |
+| Courage TCD | Theme for Windows 10 and 11 | [View][CourageTCD] |
+| Howl's Moving Castle | Theme for Windows 10 and 11 | [View][HMC] |
+| Studio Ghibli | Theme for Windows 10 and 11 | [View][StudioGhibli] |
+| Once Human | Theme for Windows 10 and 11 | [View][OnceHuman] |
+| Final Fantasy XIV | Theme for Windows 10 and 11 | [View][FFXIV] |
+| Unity 2014 | Theme for Windows 10 and 11 | [View][UNITY2014] |
+| Unity 2016 | Theme for Windows 10 and 11 | [View][UNITY2016] |
+| Classic 11 | Theme for Windows 10 and 11 | [View][Classic11] |
+| Windows 7 RTM Themes | Collection of themes for Windows 10 and 11 | [View][RTM] |
+| Windows 7 MCT Themes | Collection of themes for Windows 10 and 11 | [View][MCT] |
+| Microsoft Copilot Themes | Collection of themes for Windows 10 and 11 | [View][MSCopilot] |
+| Microsoft Surface Pro Themes | Collection of themes for Windows 10 and 11 | [View][MSSurfacePro] |
+| Windows 11 Hidden EDU Themes | Collection of themes for Windows 10 and 11 | [View][EDU] |
+| MacOS Themes for Windows | Collection of themes for Windows 10 and 11 | [View][MacOS] |
 
 ### Custom Visual Styles
 
@@ -51,7 +51,6 @@ permalink: /windows-themes/sfw
 [Classic11]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Classic-11
 [MSCopilot]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Microsoft-Copilot
 [MSSurfacePro]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Microsoft-Surface-Pro
-[MacOS]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/MacOS
 [OnceHuman]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Once-Human
 [EDU]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Windows-11-Hidden-EDU-Themes
 [FFXIV]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/FFXIV
@@ -59,6 +58,8 @@ permalink: /windows-themes/sfw
 [CourageTCD]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Courage-TCD
 [HMC]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Howls-Moving-Castle
 [StudioGhibli]: https://gitlab.com/the-back-room/Themes/-/tree/main/Deskthemepacks/SFW/Studio-Ghibli
+
+[MacOS]: /windows-themes/sfw/deskthemepacks/macos
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

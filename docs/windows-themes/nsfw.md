@@ -16,12 +16,12 @@ permalink: /windows-themes/nsfw
 ### Deskthemepacks
 
 | --- | --- | --- |  
-| Ecchi | Theme for Windows 10 and 11 | [View on GitLab][Ecchi] |  
-| Bleach Hentai | Theme for Windows 10 and 11 | [View on GitLab][BLEACHHentai] |  
-| Ranma Hentai | Theme for Windows 10 and 11 | [View on GitLab][RanmaHentai] |  
-| Final Fantasy XIV Waifus | Theme for Windows 10 and 11 | [View on GitLab][FFXIVWaifus] |  
-| Lewd Gamer Waifus | Theme for Windows 10 and 11 | [View on GitLab][LewdGamerWaifus] |  
-| Sexy Naruto Girls | Theme for Windows 10 and 11 | [View on GitLab][SexyNarutoGirls] |  
+| Ecchi | Theme for Windows 10 and 11 | [View][Ecchi] |  
+| Bleach Hentai | Theme for Windows 10 and 11 | [View][BLEACHHentai] |  
+| Ranma Hentai | Theme for Windows 10 and 11 | [View][RanmaHentai] |  
+| Final Fantasy XIV Waifus | Theme for Windows 10 and 11 | [View][FFXIVWaifus] |  
+| Lewd Gamer Waifus | Theme for Windows 10 and 11 | [View][LewdGamerWaifus] |  
+| Sexy Naruto Girls | Theme for Windows 10 and 11 | [View][SexyNarutoGirls] |  
 
 ### Custom Visual Styles
 
@@ -46,8 +46,9 @@ permalink: /windows-themes/nsfw
 [FFXIVWaifus]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus
 [SexyNarutoGirls]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/sexy-naruto-girls
 [Ecchi]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi
-[RanmaHentai]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai
 [BLEACHHentai]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai
+
+[RanmaHentai]: /windows-themes/nsfw/deskthemepacks/ranma-hentai
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

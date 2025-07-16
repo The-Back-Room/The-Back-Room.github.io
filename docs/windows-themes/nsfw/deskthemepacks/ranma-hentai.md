@@ -2,10 +2,9 @@
 title: Ranma Hentai
 description: Theme for Windows 10 and 11
 has_toc: false
-parent: Deskthemepacks
-grand_parent: NSFW
+parent: NSFW Themes
+grand_parent: Windows Themes
 permalink: /windows-themes/nsfw/deskthemepacks/ranma-hentai
-published: false
 ---
 
 ## Ranma Hentai

@@ -1,6 +1,6 @@
 ---
-title: FEATURES
-description: List of features and updates planned for the website
+title: Planned Updates
+description: List of planned updates for the website
 published: false
 ---
 
@@ -8,13 +8,13 @@ published: false
 > Status identifiers
 >
 > 🟩 = Completed  
-> 🟨 = Partial  
-> 🟥 = Not Implemented  
+> 🟨 = Incomplete  
+> 🟥 = Not Started  
 
 | Status | Task |
 | --- | --- | --- |
 | 🟨 | Add preview images to all projects |
-| 🟥 | Add in-site pages for deskthemepacks |
+| 🟨 | Add in-site pages for deskthemepacks |
 | 🟨 | Move each project into it's own GitLab repository |
 | 🟩 | Create Windows Themes page |
 | 🟩 | Add NSFW Themes page to Windows Themes |
