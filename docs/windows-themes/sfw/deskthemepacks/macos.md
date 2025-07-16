@@ -12,17 +12,22 @@ permalink: /windows-themes/sfw/deskthemepacks/macos
 
 ![Preview][Preview]
 
-### Instructions
-
-- Download the ZIP
-- Copy the contents of the `Cursors` folder into `%SYSTEMROOT%\Cursors\`
-- Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes`
-- Apply the theme via `Settings > Personalization > Themes`
-
 ### Features
 
 - Custom Cursors
 - Supports 4k Resolutions
+
+### ZIP Instructions
+
+- Download the ZIP Archive from the `ZIP` link below.
+- Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes`
+- Apply the theme via `Settings >> Personlization >> Themes`
+
+### SFX Instructions
+
+- Download the SFX Installer from the `SFX` link below.
+- Double-Click the downloaded exe file and follow the prompts. 
+- Apply the theme via `Settings >> Personlization >> Themes`
 
 **Download**: [ZIP][ZIP] [SFX][SFX]
 
