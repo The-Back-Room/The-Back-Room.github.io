@@ -1,6 +1,6 @@
 ---
 title: License
-description: The Back Room License
+description: Creative Commons Attribution 4.0 International
 nav_order: 20
 has_roc: false
 permalink: /license

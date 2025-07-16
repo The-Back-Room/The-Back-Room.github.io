@@ -7,6 +7,10 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/msstyle/windows-10/lewd-gamer-waifus
 ---
 
+## Lewd Gamer Waifus
+
+for Windows 10 19H1-22H2
+
 {: .important}
 > {: .opaque }
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  

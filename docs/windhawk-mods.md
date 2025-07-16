@@ -6,9 +6,7 @@ nav_order: 4
 permalink: /windhawk-mods
 ---
 
-WindHawk Mods
-=======================================
-
+## WindHawk Mods
 
 | --- | --- | --- |
 | Windows 11 File Explorer Styler | Themes for use with Windows 11 File Explorer Styler | [View][Windows11FileExplorerStyler] |  

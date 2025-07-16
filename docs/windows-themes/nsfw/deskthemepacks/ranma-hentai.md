@@ -9,7 +9,7 @@ permalink: /windows-themes/nsfw/deskthemepacks/ranma-hentai
 
 ## Ranma Hentai
 
-Theme for Windows 10 and 11
+for Windows 10 and 11
 
 > [!NOTE]
 > This theme uses a dark system mode and light app mode. As such it is advised to be on Windows 10 RS1 or later for full colorization support.  
@@ -36,11 +36,13 @@ Theme for Windows 10 and 11
   - *(Do **NOT** change the installation path)*
 - Apply the theme via `Settings > Personalization > Themes`.
 
-**Download**: [ZIP][ZIP] - [SFX][SFX]
+**Download**: [ZIP][ZIP] [SFX][SFX]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [Preview]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/raw/main/Extras/Preview.bmp
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [ZIP]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/archive/main/ranma-hentai-main.zip
 [SFX]: https://gitlab.com/-/project/71476467/uploads/e4fbc3d002f200a50fc7ba49dc90a21a/Ranma_Hentai.exe

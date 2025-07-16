@@ -1,0 +1,51 @@
+---
+title: Unity 2014
+description: Windows deskthemepack tribute to the classic Unity 2014 Visual Stlye suite created by neiio
+has_toc: false
+parent: SFW Themes
+grand_parent: Windows Themes
+permalink: /windows-themes/sfw/deskthemepacks/unity-2014
+---
+
+## Unity 2014
+
+Windows deskthemepack tribute to the classic Unity 2014 Visual Stlye suite created by neiio.
+
+> [!NOTE]
+> This theme uses a dark system mode and light app mode. As such it is advised to be on Windows 10 RS1 or later for full colorization support.  
+> You can run this on Windows 8 and earlier builds of Windows 10; but you likely won't get the full colorization support.
+
+![Preview][Preview]
+
+### Features
+
+- Custom Cursors
+- Custom Desktop Icons
+- Multiple Wallpapers
+- Extra ICO Icons for Various Uses
+- Supports 4k Resolutions
+
+### ZIP Instructions
+
+- Download the ZIP Archive from the `ZIP` link below.
+- Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes`
+- Apply the theme via `Settings >> Personlization >> Themes`
+
+### SFX Instructions
+
+- Download the SFX Installer from the `SFX` link below.
+- Double-Click the downloaded exe file and follow the prompts. 
+- Apply the theme via `Settings >> Personlization >> Themes`
+
+**Download**: [ZIP][ZIP] [SFX][SFX]
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[Preview]: /Extras/Preview.bmp
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/archive/main/unity-2014-main.zip
+[SFX]: https://github.com/The-Back-Room/Deskthemepacks/releases/download/1.0.0/Unity_2014.exe
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

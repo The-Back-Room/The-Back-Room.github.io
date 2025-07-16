@@ -7,8 +7,7 @@ grand_parent: Windows Themes
 permalink: /windows-themes/nsfw/msstyle/windows-10
 ---
 
-NSFW Visual Styles for Windows 10
-=======================================
+## NSFW Visual Styles for Windows 10
 
 {: .important }
 > {: .opaque }

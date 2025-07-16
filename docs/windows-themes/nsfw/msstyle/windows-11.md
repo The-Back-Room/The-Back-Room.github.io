@@ -7,8 +7,7 @@ grand_parent: Windows Themes
 permalink: /windows-themes/nsfw/msstyle/windows-11
 ---
 
-NSFW Visual Styles for Windows 11
-=======================================
+## NSFW Visual Styles for Windows 11
 
 {: .important }
 > {: .opaque }

@@ -7,6 +7,10 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/msstyle/windows-11/ecchi
 ---
 
+## Ecchi
+
+for Windows 11
+
 {: .important}
 > {: .opaque }
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  

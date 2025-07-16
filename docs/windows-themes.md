@@ -5,10 +5,9 @@ nav_order: 3
 permalink: /windows-themes
 ---
 
-Windows Themes
-========================
-A collection of Deskthemepacks and MSSTYLE Themes for Windows Devices
+## VWindows Themes
 
+A collection of Deskthemepacks and MSSTYLE Themes for Windows Devices
 
 | --- | --- |
 | [SFW Themes][SFWThemesPage] | SFW Deskthemepacks and Visual Styles for Windows devices |  

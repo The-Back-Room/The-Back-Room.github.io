@@ -5,8 +5,8 @@ nav_order: 2
 permalink: /icon-packs
 ---
 
-Icon Packs
-=====================
+## Icon Packs
+
 A collection of Icon Packs for Windows Devices
 
 

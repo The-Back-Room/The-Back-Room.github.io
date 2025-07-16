@@ -7,6 +7,9 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/msstyle/windows-11/bleach-hentai
 ---
 
+## Bleach Hentai
+
+for Windows 11
 
 {: .important}
 > {: .opaque }
