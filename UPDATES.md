@@ -1,7 +1,6 @@
 ---
 title: Planned Updates
 description: List of planned updates for the website
-published: false
 ---
 
 > [!NOTE]

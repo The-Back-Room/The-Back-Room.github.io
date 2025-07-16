@@ -1,7 +1,6 @@
 ---
 title: The Back Room
 description: Open-Source Development and Customization
-published: false
 ---
 
 ## The Back Room
