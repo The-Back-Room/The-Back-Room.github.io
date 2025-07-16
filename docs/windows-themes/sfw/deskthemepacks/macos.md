@@ -6,7 +6,8 @@ grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/macos
 ---
 
-> [!NOTE]
+{ .note }
+> { .opaque }
 > These themes should work without problems on all versions of Windows from Windows 8 onwards.
 
 ![Preview][Preview]

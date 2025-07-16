@@ -1,12 +1,13 @@
 ---
 title: Ranma Hentai
 description: Theme for Windows 10 and 11
-parent: NSFW Themes
-grand_parent: Windows Themes
+parent: Deskthemepacks
+grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/deskthemepacks/ranma-hentai
 ---
 
-> [!NOTE]
+{ .note }
+> { .opaque }
 > This theme uses a dark system mode and light app mode. As such it is advised to be on Windows 10 RS1 or later for full colorization support.  
 > You can run this on Windows 8 and earlier builds of Windows 10; but you likely won't get the full colorization support.
 
