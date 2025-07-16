@@ -81,21 +81,11 @@
     {% include toc_heading_custom.html %}
     <ul>
         {% for nav_child in nav_children %}
-            <table> 
-                <tr>
-                    <th>Title</th>
-                    <th>Description</th>
-                </tr>
-                <tr>
-                    <td><a href="{{ nav_child.url | relative_url }}">{{ nav_child.title }}</a></td>
-                    <td>{{ nav_child.description }}</td>
-                </tr>
-            </table>
-            <!--
-            <li>
-                <a href="{{ nav_child.url | relative_url }}">{{ nav_child.title }}</a>{% if nav_child.summary %} - {{ nav_child.summary }}{% endif %}
-            </li>
-            -->
+        <tr>
+            <td class="text-small">{{ nav_child.title }}</td>
+            <td class="text-small">{{ nav_child.description }}{% if nav_child.summary %} - {{ nav_child.summary }}{% endif %}</td>
+            <td class="text-small"><a href="{{ nav_child.url | relative_url }}">{{ nav_child.url | relative_url }}</a></td>
+        </tr>
         {% endfor %}
     </ul>
 
