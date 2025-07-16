@@ -24,7 +24,7 @@ permalink: /windows-themes/sfw/deskthemepacks/macos
 - Custom Cursors
 - Supports 4k Resolutions
 
-**Download**: [ZIP][ZIP] - [SFX][SFX]
+**Download**: [ZIP][ZIP] [SFX][SFX]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
