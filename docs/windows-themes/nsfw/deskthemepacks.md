@@ -16,7 +16,7 @@ permalink: /windows-themes/nsfw/deskthemepacks
 {: .note }
 > {: .opaque }
 > Our website is undergoing a rework. If a theme is not listed here, then the new page has not yet been created.  
-> For any theme not listed here, you can check the old repo at [gitlab.com/the-back-room/Themes][gitlab.com/the-back-room/Themes]
+> For any theme not listed here, you can find it in the old repo at [gitlab.com/the-back-room/Themes][gitlab.com/the-back-room/Themes]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

@@ -22,8 +22,15 @@ permalink: /windows-themes/nsfw/visual-styles/windows-10
 >
 > We take **NO** responsibility for anyone who violates this rule. You are responsible for your own actions.
 
+{: .note }
+> {: .opaque }
+> Our website is undergoing a rework. If a theme is not listed here, then the new page has not yet been created.  
+> For any theme not listed here, you can find it in the old repo at [gitlab.com/the-back-room/Themes][gitlab.com/the-back-room/Themes]
+
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [WIP]: /WIP
+
+[gitlab.com/the-back-room/Themes]: https://gitlab.com/the-back-room/Themes
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
