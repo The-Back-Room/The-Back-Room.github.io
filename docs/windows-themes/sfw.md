@@ -13,6 +13,7 @@ permalink: /windows-themes/sfw
 > For any theme not listed here, you can find it one of the following locations:
 > - [gitlab.com/the-back-room/Themes][gitlab.com/the-back-room/Themes]  
 > - [gitlab.com/the-back-room/Deskthemepacks][gitlab.com/the-back-room/Deskthemepacks]
+> - [gitlab.com/the-back-room/Visual-Styles][gitlab.com/the-back-room/Visual-Styles]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -20,6 +21,7 @@ permalink: /windows-themes/sfw
 
 [gitlab.com/the-back-room/Themes]: https://gitlab.com/the-back-room/Themes
 [gitlab.com/the-back-room/Deskthemepacks]: https://gitlab.com/the-back-room/deskthemepacks
+[gitlab.com/the-back-room/Visual-Styles]: https://gitlab.com/the-back-room/visual-styles
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
