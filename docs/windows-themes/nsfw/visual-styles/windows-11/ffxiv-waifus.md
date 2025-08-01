@@ -2,7 +2,7 @@
 title: FFXIV Waifus
 summary: Theme(s) for Windows 11 23H1+
 parent: Windows 11
-grand_parent: Visual Styles
+grand_parent: NSFW Visual Styles
 permalink: /windows-themes/nsfw/visual-styles/windows-11/ffxiv-waifus
 ---
 
