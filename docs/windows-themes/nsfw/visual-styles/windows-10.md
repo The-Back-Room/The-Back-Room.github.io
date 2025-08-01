@@ -2,7 +2,7 @@
 title: Windows 10
 summary: Custom MSSTYLE Themes for Windows 10 19H1-22H2
 nav_order: 1
-parent: Visual Styles
+parent: NSFW Visual Styles
 grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/visual-styles/windows-10
 ---
