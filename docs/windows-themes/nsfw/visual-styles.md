@@ -1,5 +1,5 @@
 ---
-title: Visual Styles
+title: NSFW Visual Styles
 summary: Custom MSSTYLE Themes for Windows 10 and 11
 parent: NSFW Themes
 grand_parent: Windows Themes
