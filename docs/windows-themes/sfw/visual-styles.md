@@ -10,10 +10,10 @@ permalink: /windows-themes/sfw/visual-styles
 > {: .opaque }
 > Our website is undergoing a rework. If a theme is not listed here, then the new page has not yet been created.
 >
-> For any theme not listed here, you can find it one of the following locations:
-> - [gitlab.com/the-back-room/Themes][gitlab.com/the-back-room/Themes]  
-> - [gitlab.com/the-back-room/Deskthemepacks][gitlab.com/the-back-room/Deskthemepacks]
-> - [gitlab.com/the-back-room/Visual-Styles][gitlab.com/the-back-room/Visual-Styles]
+> For any theme not listed here, you can find it in one of the following locations:
+> - **Old Repository**: [gitlab.com/the-back-room/Themes][gitlab.com/the-back-room/Themes]  
+> - **Deskthemepacks**: [gitlab.com/the-back-room/Deskthemepacks][gitlab.com/the-back-room/Deskthemepacks]
+> - **Visual Styles**: [gitlab.com/the-back-room/Visual-Styles][gitlab.com/the-back-room/Visual-Styles]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
