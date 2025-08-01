@@ -20,17 +20,11 @@ permalink: /windows-themes/nsfw/deskthemepacks/bleach-hentai
 - Custom Sounds
 - Supports 4k Resolutions
 
-### ZIP Instructions
+### Instructions
 
+- Download the ZIP archive via the `ZIP` link below.
 - Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes\`
 - Apply the theme via `Settings > Personalization > Themes`
-
-### SFX Instructions
-
-- Download the SFX installer via the `SFX` link below.
-- Double-Click the downloaded `EXE` file and follow the prompts.
-  - *(Do **NOT** change the installation path)*
-- Apply the theme via `Settings > Personalization > Themes`.
 
 **Download**: [ZIP][ZIP]
 
