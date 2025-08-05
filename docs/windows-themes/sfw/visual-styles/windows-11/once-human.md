@@ -33,7 +33,7 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/once-human
 - Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 - Apply the theme via `Settings > Personalization > Themes`
 
-#### Features
+### Features
 
 - Multiple Backgrounds
 - Multiple Styles
