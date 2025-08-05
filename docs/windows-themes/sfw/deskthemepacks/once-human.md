@@ -1,9 +1,9 @@
 ---
-title: Courage TCD
-summary: Courage TCD theme for Windows 10 and 11
+title: Once Human
+summary: Once Human theme for Windows 10 and 11
 parent: Deskthemepacks
 grand_parent: SFW Themes
-permalink: /windows-themes/sfw/deskthemepacks/courage-tcd
+permalink: /windows-themes/sfw/deskthemepacks/once-human
 ---
 
 ![Preview][Preview]
@@ -11,7 +11,6 @@ permalink: /windows-themes/sfw/deskthemepacks/courage-tcd
 ### Features
 
 - Multiple Backgrounds
-- Custom Sounds
 - Custom Cursors
 - Supports 4k Resolutions
 
@@ -25,11 +24,11 @@ permalink: /windows-themes/sfw/deskthemepacks/courage-tcd
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/raw/main/Extras/Preview.bmp
+[Preview]: https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/raw/main/Extras/Preview.bmp
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/archive/main/courage-tcd-main.zip
+[ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
