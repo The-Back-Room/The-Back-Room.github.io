@@ -22,7 +22,7 @@ permalink: /windows-themes/sfw/deskthemepacks/bleach
 ### Instructions
 
 * Download the ZIP Archive from the `ZIP` link below.
-* Copy the contents of the `Themes` folder into `%LOCALAPPDATA%MicrosoftWindowsThemes`
+* Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes`
 * Apply the theme via `Settings >> Personlization >> Themes`
 
 ### Included Themes
@@ -31,7 +31,6 @@ permalink: /windows-themes/sfw/deskthemepacks/bleach
 * BLEACH: Thousand Year Blood War
 
 **Download**: [ZIP][ZIP]
-
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
