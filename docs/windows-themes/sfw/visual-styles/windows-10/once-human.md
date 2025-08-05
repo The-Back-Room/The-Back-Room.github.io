@@ -13,6 +13,8 @@ permalink: /windows-themes/sfw/visual-styles/windows-10/once-human
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+![Preview][Preview]
+
 {: .note }
 > {: .opaque }
 > The following tools are required to use this theme:
@@ -34,7 +36,7 @@ permalink: /windows-themes/sfw/visual-styles/windows-10/once-human
 - Custom cursors
 - Custom sounds
 
-**Download**: [GitLab][GitLab]
+**Download**: [ZIP][ZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -48,6 +50,9 @@ permalink: /windows-themes/sfw/visual-styles/windows-10/once-human
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
-[GitLab]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/once-human/-/archive/main/once-human-main.zip
+[ZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/once-human/-/archive/main/once-human-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[Preview]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/once-human/-/raw/main/Extras/Preview.bmp
+

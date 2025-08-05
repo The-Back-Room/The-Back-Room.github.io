@@ -13,6 +13,8 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/once-human
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+![Preview][Preview]
+
 {: .note }
 > {: .opaque }
 > The following tools are required to use this theme:
@@ -27,6 +29,7 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/once-human
 
 ### Instructions
 
+- Download the ZIP archive from the `ZIP` link below.
 - Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 - Apply the theme via `Settings > Personalization > Themes`
 
@@ -42,7 +45,7 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/once-human
 - Once Human (Aero7-11)
 - Once Human (UI-X2)
 
-**Download**: [Download ZIP][DownloadZIP]
+**Download**: [ZIP][ZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -56,6 +59,8 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/once-human
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/once-human/-/archive/main/once-human-main.zip
+[ZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/once-human/-/archive/main/once-human-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[Preview]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/once-human/-/raw/main/Extras/Preview.bmp
