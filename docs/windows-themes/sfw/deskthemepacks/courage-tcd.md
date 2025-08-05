@@ -2,15 +2,16 @@
 title: Courage TCD
 summary: Courage TCD theme for Windows 10 and 11
 parent: Deskthemepacks
-grand_parent: SFW Themes
+grand\_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/courage-tcd
 ---
 
 {: .note }
+
 > {: .opaque }
 > These themes should work without problems on all versions of Windows from Windows 8 onwards.
 
-![Preview][Preview]
+!\[Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/raw/main/Extras/Preview.bmp)
 
 ### Features
 
@@ -25,15 +26,11 @@ permalink: /windows-themes/sfw/deskthemepacks/courage-tcd
 * Copy the contents of the `Themes` folder into `%LOCALAPPDATA%MicrosoftWindowsThemes`
 * Apply the theme via `Settings >> Personlization >> Themes`
 
-**Download**: [ZIP][ZIP]
+**Download**: [ZIP](https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/archive/main/courage-tcd-main.zip)
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/raw/main/Extras/Preview.bmp
-
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/archive/main/courage-tcd-main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
