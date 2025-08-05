@@ -6,24 +6,20 @@ grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/courage-tcd
 ---
 
-{: .note }
-> {: .opaque }
-> These themes should work without problems on all versions of Windows from Windows 8 onwards.
-
 ![Preview][Preview]
 
 ### Features
 
-* Multiple Backgrounds
-* Custom Sounds
-* Custom Cursors
-* Supports 4k Resolutions
+- Multiple Backgrounds
+- Custom Sounds
+- Custom Cursors
+- Supports 4k Resolutions
 
 ### Instructions
 
-* Download the ZIP Archive from the `ZIP` link below.
-* Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes`
-* Apply the theme via `Settings >> Personlization >> Themes`
+- Download the ZIP Archive from the `ZIP` link below.
+- Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes`
+- Apply the theme via `Settings >> Personlization >> Themes`
 
 **Download**: [ZIP][ZIP]
 
