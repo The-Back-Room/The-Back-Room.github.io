@@ -7,6 +7,10 @@ permalink: /windhawk/windows-11-notification-styler/acrylic
 published: false
 ---
 
+
+## Acrylic
+Simple acrylic theme for Windows 11 Notification Styler colorized with the system accent color.
+
 ![Preview][Preview1] ![Preview][Preview2] ![Preview][Preview3]
 
 ### Instructions
