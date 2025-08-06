@@ -14,7 +14,8 @@ Simple acrylic theme for Windows 11 Notification Styler colorized with the syste
 
 ### Installation
 
-- Copy and paste the code below into `WindHawk > Windows 11 Notification Styler > Advanced > Mod Settings`
+- Copy and paste the code below into `WindHawk >> Windows 11 Notification Styler >> Advanced >> Mod Settings`
+- Click `Save`, then click `Load`
 
 ```json
 {
