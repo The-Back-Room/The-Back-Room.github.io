@@ -12,12 +12,9 @@ Simple acrylic theme for Windows 11 Notification Styler colorized with the syste
 
 ![Preview][Preview1] ![Preview][Preview2] ![Preview][Preview3]
 
-### Instructions
+### Installation
 
 - Copy and paste the code below into `WindHawk > Windows 11 Notification Styler > Advanced > Mod Settings`
-
-<details>
-<summary>Code</summary>
 
 ```json
 {
@@ -295,8 +292,6 @@ Simple acrylic theme for Windows 11 Notification Styler colorized with the syste
    "styleConstants[5]":"FontFamily = Franklin Gothic"
 }
 ```
-
-</details>
 
 [Preview1]: https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-styler/acrylic-1.bmp
 [Preview2]: https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-styler/acrylic-2.bmp
