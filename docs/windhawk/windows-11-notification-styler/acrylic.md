@@ -4,7 +4,6 @@ description: Acrylic styled theme
 parent: Windows 11 Notification Styler
 grand_parent: WindHawk
 permalink: /windhawk/windows-11-notification-styler/acrylic
-published: false
 ---
 
 
