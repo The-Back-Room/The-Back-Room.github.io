@@ -295,6 +295,6 @@ published: false
 
 </details>
 
-[Preview1]: assets/images/previews/notification-styler/acrylic-1.bmp
-[Preview2]: assets/images/previews/notification-styler/acrylic-2.bmp
-[Preview3]: assets/images/previews/notification-styler/acrylic-3.bmp
+[Preview1]: https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-styler/acrylic-1.bmp
+[Preview2]: https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-styler/acrylic-2.bmp
+[Preview3]: https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-styler/acrylic-3.bmp
