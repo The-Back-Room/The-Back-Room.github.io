@@ -7,6 +7,8 @@ permalink: /windhawk/windows-11-notification-styler/acrylic
 published: false
 ---
 
+![Preview][Preview1] ![Preview][Preview2] ![Preview][Preview3]
+
 ### Instructions
 
 - Copy and paste the code below into `WindHawk > Windows 11 Notification Styler > Advanced > Mod Settings`
@@ -244,9 +246,9 @@ published: false
    "controlStyles[7].styles[4]":"Margin = 0,0,0,-6",
    "controlStyles[31].styles[5]":"Margin = 0,0,0,12",
    "styleConstants[0]":"transparent = <SolidColorBrush Color=\"Transparent\"/>",
-   "styleConstants[1]":"AccentColor = <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.5\" />",
-   "styleConstants[2]":"AccentColorLight = <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorLight1}\" TintOpacity=\"0.5\" />",
-   "styleConstants[3]":"AltLow = <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" TintOpacity=\"0.5\" />",
+   "styleConstants[1]":"AccentColor = <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.3\" />",
+   "styleConstants[2]":"AccentColorLight = <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorLight1}\" TintOpacity=\"0.3\" />",
+   "styleConstants[3]":"AltLow = <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" TintOpacity=\"0.3\" />",
    "controlStyles[28].styles[2]":"RadiusY = 3",
    "controlStyles[28].styles[3]":"RadiusX = 3",
    "controlStyles[29].styles[1]":"RadiusY = 3",
@@ -292,3 +294,7 @@ published: false
 ```
 
 </details>
+
+[Preview1]: assets/images/previews/notification-styler/acrylic-1.bmp
+[Preview2]: assets/images/previews/notification-styler/acrylic-2.bmp
+[Preview3]: assets/images/previews/notification-styler/acrylic-3.bmp
