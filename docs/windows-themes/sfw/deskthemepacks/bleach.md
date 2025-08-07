@@ -6,7 +6,7 @@ grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/bleach
 ---
 
-![BLEACH][Preview1] ![BLEACH Thousand Year Blood War][Preview2]
+![BLEACH][Preview-1] ![BLEACH Thousand Year Blood War][Preview-2]
 
 ### Features
 
@@ -30,8 +30,8 @@ permalink: /windows-themes/sfw/deskthemepacks/bleach
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview1]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach/-/raw/main/Extras/Preview.bmp
-[Preview2]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach/-/raw/main/Extras/Preview-2.bmp
+[Preview-1]: https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview.bmp
+[Preview-2]: https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview-2.bmp
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
