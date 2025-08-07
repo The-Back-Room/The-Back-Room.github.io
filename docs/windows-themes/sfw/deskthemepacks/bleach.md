@@ -1,6 +1,6 @@
 ---
 title: BLEACH
-summary: BLEACH themes for Windows 10 and 11
+summary: BLEACH theme(s) for Windows 10 and 11
 parent: Deskthemepacks
 grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/bleach

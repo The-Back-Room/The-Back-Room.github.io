@@ -1,6 +1,6 @@
 ---
 title: MacOS
-summary: MacOS themes ported to Windows 10 and 11
+summary: MacOS theme(s) ported to Windows 10 and 11
 parent: Deskthemepacks
 grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/macos
