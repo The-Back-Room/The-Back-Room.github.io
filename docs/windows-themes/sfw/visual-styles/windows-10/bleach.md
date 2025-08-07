@@ -1,6 +1,6 @@
 ---
 title: Bleach
-summary: Theme(s) for Windows 10 19H1-22H2
+summary: Themes for Windows 10 19H1-22H2
 parent: Windows 10
 grand_parent: Visual Styles
 permalink: /windows-themes/sfw/visual-styles/windows-10/bleach

@@ -1,6 +1,6 @@
 ---
 title: MacOS
-summary: MacOS theme(s) ported to Windows 10 and 11
+summary: Themes for Windows 10 and 11
 parent: Deskthemepacks
 grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/macos
@@ -9,6 +9,12 @@ permalink: /windows-themes/sfw/deskthemepacks/macos
 ## MacOS
 
 ![Preview][Preview]
+
+{: .note }
+> {: .opaque }
+> Due to common errors with packaging themes into deskthemepack archives, my themes are not packaged into a deskthemepack archive. As such it requires manual installation.
+> 
+> Please read the instructions on how to manually install this theme.
 
 ### Features
 

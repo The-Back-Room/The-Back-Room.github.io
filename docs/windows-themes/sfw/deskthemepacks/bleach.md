@@ -1,6 +1,6 @@
 ---
 title: BLEACH
-summary: BLEACH theme(s) for Windows 10 and 11
+summary: Themes for Windows 10 and 11
 parent: Deskthemepacks
 grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/bleach
@@ -9,6 +9,12 @@ permalink: /windows-themes/sfw/deskthemepacks/bleach
 ## Bleach
 
 ![BLEACH][Preview-1] ![BLEACH Thousand Year Blood War][Preview-2]
+
+{: .note }
+> {: .opaque }
+> Due to common errors with packaging themes into deskthemepack archives, my themes are not packaged into a deskthemepack archive. As such it requires manual installation.
+> 
+> Please read the instructions on how to manually install this theme.
 
 ### Features
 
