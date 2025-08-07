@@ -3,7 +3,7 @@ title: Lewd Gamer Waifus
 summary: Theme for Windows 10 and 11
 parent: NSFW Deskthemepacks
 grand_parent: NSFW Themes
-permalink: /windows-themes/nsfw/deskthemepacks/lewd-gaer-waifus
+permalink: /windows-themes/nsfw/deskthemepacks/lewd-gamer-waifus
 ---
 
 ![Preview][Preview]
@@ -26,10 +26,10 @@ permalink: /windows-themes/nsfw/deskthemepacks/lewd-gaer-waifus
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gaer-waifus/-/raw/main/Extras/Preview.bmp
+[Preview]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/raw/main/Extras/Preview.bmp
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[ZIP]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gaer-waifus/-/archive/main/lewd-gaer-waifus-main.zip
+[ZIP]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/archive/main/lewd-gamer-waifus-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
