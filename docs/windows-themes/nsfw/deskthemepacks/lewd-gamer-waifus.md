@@ -6,6 +6,8 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/deskthemepacks/lewd-gamer-waifus
 ---
 
+## Lewd Gamer Waifus
+
 ![Preview][Preview]
 
 ### Features

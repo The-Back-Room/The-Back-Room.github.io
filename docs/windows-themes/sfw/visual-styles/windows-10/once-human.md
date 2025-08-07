@@ -6,6 +6,8 @@ grand_parent: Visual Styles
 permalink: /windows-themes/sfw/visual-styles/windows-10/once-human
 ---
 
+## Once Human
+
 {: .important}
 > {: .opaque }
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  

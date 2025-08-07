@@ -6,6 +6,8 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/deskthemepacks/bleach-hentai
 ---
 
+## Bleach Hentai
+
 ![Preview][Preview]
 
 ### Features

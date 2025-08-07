@@ -6,6 +6,8 @@ grand_parent: NSFW Visual Styles
 permalink: /windows-themes/nsfw/visual-styles/windows-10/bleach-hentai
 ---
 
+## Bleach Hentai
+
 {: .important}
 > {: .opaque }
 > Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  

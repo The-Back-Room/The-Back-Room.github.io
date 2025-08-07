@@ -6,6 +6,8 @@ grand_parent: NSFW Themes
 permalink: /windows-themes/nsfw/deskthemepacks/final-fantasy-xiv-waifus
 ---
 
+## Final Fantasy XIV Waifus
+
 ![Preview][Preview]
 
 ### Features

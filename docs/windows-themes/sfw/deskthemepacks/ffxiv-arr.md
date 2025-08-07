@@ -6,6 +6,8 @@ grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/ffxiv-arr
 ---
 
+## Final Fantasy XIV - A Realm Reborn
+
 ![Preview][Preview]
 
 ### Features

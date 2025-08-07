@@ -6,6 +6,8 @@ grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/courage-tcd
 ---
 
+## Courage TCD
+
 ![Preview][Preview]
 
 ### Features

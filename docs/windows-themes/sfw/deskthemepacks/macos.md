@@ -6,6 +6,8 @@ grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/macos
 ---
 
+## MacOS
+
 ![Preview][Preview]
 
 ### Features

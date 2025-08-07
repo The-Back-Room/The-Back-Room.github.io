@@ -6,6 +6,8 @@ grand_parent: SFW Themes
 permalink: /windows-themes/sfw/deskthemepacks/bleach
 ---
 
+## Bleach
+
 ![BLEACH][Preview-1] ![BLEACH Thousand Year Blood War][Preview-2]
 
 ### Features
