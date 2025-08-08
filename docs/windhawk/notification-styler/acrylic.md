@@ -10,10 +10,7 @@ permalink: /windhawk/notification-styler/acrylic
 ## Acrylic
 Simple acrylic theme for Windows 11 Notification Styler colorized with the system accent color.
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-styler/acrylic-1.bmp" width="45%" />
-	<img src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-styler/acrylic-2.bmp" width="45%" />
-</div>
+![Preview][Preview]
 
 ### Installation
 
@@ -296,3 +293,5 @@ Simple acrylic theme for Windows 11 Notification Styler colorized with the syste
    "styleConstants[5]":"FontFamily = Franklin Gothic"
 }
 ```
+
+[Preview]: https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-styler/acrylic.bmp
