@@ -1,9 +1,9 @@
 ---
 title: Acrylic
 summary: Acrylic styled theme
-parent: Notification Styler
+parent: Notification Center Styler
 grand_parent: WindHawk
-permalink: /windhawk/notification-styler/acrylic
+permalink: /windhawk/notification-center-styler/acrylic
 ---
 
 
