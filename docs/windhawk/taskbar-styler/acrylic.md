@@ -1,9 +1,9 @@
 ---
 title: Acrylic
 summary: Acrylic styled theme
-parent: Notification Styler
+parent: Taskbar Styler
 grand_parent: WindHawk
-permalink: /windhawk/notification-styler/acrylic
+permalink: /windhawk/taskbar-styler/acrylic
 ---
 
 
@@ -14,7 +14,7 @@ Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system acc
 
 ### Installation
 
-- Copy and paste the code below into `WindHawk >> Windows 11 Notification Styler >> Advanced >> Mod Settings`
+- Copy and paste the code below into `WindHawk >> Windows 11 Taskbar Styler >> Advanced >> Mod Settings`
 - Click `Save`, then click `Load`
 
 ```json

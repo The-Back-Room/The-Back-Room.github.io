@@ -1,9 +1,9 @@
 ---
 title: Acrylic
 summary: Acrylic styled theme
-parent: Notification Styler
+parent: Start Menu Styler
 grand_parent: WindHawk
-permalink: /windhawk/notification-styler/acrylic
+permalink: /windhawk/start-menu-styler/acrylic
 ---
 
 
@@ -14,7 +14,7 @@ Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system 
 
 ### Installation
 
-- Copy and paste the code below into `WindHawk >> Windows 11 Notification Styler >> Advanced >> Mod Settings`
+- Copy and paste the code below into `WindHawk >> Windows 11 Start Menu Styler >> Advanced >> Mod Settings`
 - Click `Save`, then click `Load`
 
 ```json
