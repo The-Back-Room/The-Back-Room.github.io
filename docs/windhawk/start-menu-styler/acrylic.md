@@ -8,8 +8,7 @@ permalink: /windhawk/start-menu-styler/acrylic
 
 
 ## Acrylic
-Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system accent color.  
-You may need to download the [Franklin Gothic Fonts][Franklin Gothic Fonts] for the fonts to display correctly.
+Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system accent color.
 
 ![Preview][Preview]
 
@@ -90,4 +89,3 @@ You may need to download the [Franklin Gothic Fonts][Franklin Gothic Fonts] for 
 ```
 
 [Preview]: https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/start-menu-styler/acrylic.bmp
-[Franklin Gothic Fonts]: https://font.download/font/franklin-gothic

@@ -8,8 +8,7 @@ permalink: /windhawk/notification-center-styler/acrylic
 
 
 ## Acrylic
-Simple acrylic theme for Windows 11 Notification Styler colorized with the system accent color.  
-You may need to download the [Franklin Gothic Fonts][Franklin Gothic Fonts] for the fonts to display correctly.
+Simple acrylic theme for Windows 11 Notification Center Styler colorized with the system accent color.  
 
 ![Preview][Preview]
 
@@ -164,13 +163,10 @@ You may need to download the [Franklin Gothic Fonts][Franklin Gothic Fonts] for 
    "controlStyles[31].styles[1]":"CornerRadius = 2",
    "controlStyles[31].styles[2]":"BorderThickness = 0",
    "controlStyles[31].styles[3]":"Background := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColor}\" />",
-   "controlStyles[35].styles[1]":"FontFamily = Franklin Gothic",
-   "controlStyles[36].styles[1]":"FontFamily = Franklin Gothic",
    "controlStyles[36].styles[2]":"Margin = 0,3,0,0",
    "controlStyles[34].styles[1]":"Margin = 0,5,0,-5",
    "controlStyles[36].styles[3]":"FontWeight = 600",
    "controlStyles[41].target":"Windows.UI.Xaml.Controls.TextBlock#AppNameText",
-   "controlStyles[41].styles[0]":"FontFamily = Franklin Gothic",
    "controlStyles[41].styles[1]":"FontSize = 16",
    "controlStyles[35].styles[2]":"FontSize = 18",
    "controlStyles[42].target":"Windows.UI.Xaml.Controls.Image#IconImage",
@@ -290,4 +286,3 @@ You may need to download the [Franklin Gothic Fonts][Franklin Gothic Fonts] for 
 ```
 
 [Preview]: https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-styler/acrylic.bmp
-[Franklin Gothic Fonts]: https://font.download/font/franklin-gothic
