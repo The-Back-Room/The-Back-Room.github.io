@@ -19,7 +19,7 @@ Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system acc
 
 <details>
 <summary>Code</summary>
-<code class="language=json">
+<code class="code-box">
 {
   "controlStyles[0].target": "Taskbar.TaskbarFrame > Grid#RootGrid > Taskbar.TaskbarBackground",
   "controlStyles[0].styles[0]": "Margin = 12,5",
