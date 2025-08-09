@@ -1,15 +1,16 @@
-.code-box {
-  position: relative;
-  margin: 0 auto;
-  max-width: 100%;
-  padding: 1rem;
+.code-block {
   background-color: black;
-  color: white;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 0.875rem;
-  line-height: 1.5;
+  border: 1px solid #dee2e6;
+  padding: 10px;
+  border-radius: 5px;
   overflow-x: auto;
-  border: 1px solid #ccc;
-  border-radius: 0.375rem;
-  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+  color: #f8f9fa;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 14px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  text-align: left;
 }

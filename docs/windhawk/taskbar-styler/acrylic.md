@@ -19,7 +19,7 @@ Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system acc
 
 <details>
 <summary>Code</summary>
-<code class="code-box">
+<div class="code-block">
 {
   "controlStyles[0].target": "Taskbar.TaskbarFrame > Grid#RootGrid > Taskbar.TaskbarBackground",
   "controlStyles[0].styles[0]": "Margin = 12,5",
@@ -114,5 +114,5 @@ Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system acc
   "controlStyles[23].styles[1]": "FontSize = 12",
   "controlStyles[24].styles[6]": "BorderBrush := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorLight3}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColorLight3}\" />"
 }
-</code>
+</div>
 </details>

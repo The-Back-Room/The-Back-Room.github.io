@@ -19,7 +19,7 @@ Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system 
 
 <details>
 <summary>Code</summary>
-<code class="code-box">
+<div class="code-block">
 {
   "controlStyles[0].target": "Windows.UI.Xaml.Controls.Button#CloseAllAppsButton",
   "controlStyles[0].styles[0]": "CornerRadius = 2",
@@ -84,5 +84,5 @@ Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system 
   "controlStyles[19].styles[0]": "Background := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColor}\" />",
   "controlStyles[19].styles[1]": "CornerRadius = 2"
 }
-</code>
+</div>
 </details>
