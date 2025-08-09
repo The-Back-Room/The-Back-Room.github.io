@@ -38,7 +38,7 @@ Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system acc
   "controlStyles[4].styles[3]": "BorderThickness = 1.5",
   "controlStyles[4].styles[4]": "BorderBrush := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorDark2}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColorDark2}\" />",
   "controlStyles[5].target": "SearchUx.SearchUI.SearchButtonRootGrid > Border#BackgroundElement",
-  "controlStyles[5].styles[0]": "Background := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColor}\" />",
+  "controlStyles[5].styles[0]": "Background := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorDark3}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColorDark3}\" />",
   "controlStyles[6].target": "SearchUx.SearchUI.SearchIconButton > SearchUx.SearchUI.SearchButtonRootGrid@CommonStates > Border#BackgroundElement",
   "controlStyles[6].styles[0]": "Background := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColor}\" />",
   "controlStyles[6].styles[1]": "CornerRadius = 2",
@@ -97,7 +97,10 @@ Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system acc
   "controlStyles[21].target": "Taskbar.TaskbarBackground#HoverFlyoutBackgroundControl > Grid > Rectangle#BackgroundFill",
   "controlStyles[21].styles[0]": "Fill := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorDark2}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColorDark2}\" />",
   "controlStyles[22].target": "Rectangle#BackgroundStroke",
-  "controlStyles[22].styles[0]": "Fill := Transparent"
+  "controlStyles[22].styles[0]": "Fill := Transparent",
+  "controlStyles[5].styles[1]": "CornerRadius = 2",
+  "controlStyles[5].styles[2]": "BorderThickness = 1",
+  "controlStyles[5].styles[3]": "BorderBrush := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorLight3}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColorLight3}\" />"
 }
 ```
 
