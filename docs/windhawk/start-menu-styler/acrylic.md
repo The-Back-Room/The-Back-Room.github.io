@@ -18,7 +18,7 @@ Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system 
 - Click `Save`, then click `Load`
 
 <details>
-<summaray>Code</summary>
+<summary>Code</summary>
 
 ```json
 {

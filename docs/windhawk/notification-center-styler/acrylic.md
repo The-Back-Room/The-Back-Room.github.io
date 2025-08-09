@@ -18,7 +18,7 @@ Simple acrylic theme for Windows 11 Notification Center Styler colorized with th
 - Click `Save`, then click `Load`
 
 <details>
-<summaray>Code</summary>
+<summary>Code</summary>
 
 ```json
 {

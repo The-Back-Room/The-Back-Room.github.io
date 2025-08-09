@@ -18,7 +18,7 @@ Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system acc
 - Click `Save`, then click `Load`
 
 <details>
-<summaray>Code</summary>
+<summary>Code</summary>
 
 ```json
 {
