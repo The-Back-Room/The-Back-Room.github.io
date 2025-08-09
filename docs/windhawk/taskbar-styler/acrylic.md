@@ -1,6 +1,6 @@
 ---
 title: Acrylic UI
-summary: Acrylic styled theme
+summary: Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system accent color
 parent: Taskbar Styler
 grand_parent: WindHawk
 permalink: /windhawk/taskbar-styler/acrylic
@@ -8,9 +8,13 @@ permalink: /windhawk/taskbar-styler/acrylic
 
 
 ## Acrylic UI
-Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system accent color.
+Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system accent color
 
 ![Preview](https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/taskbar-styler/acrylic.bmp)
+
+### Requirements
+
+- [WindHawk](https://windhaek.net/) Plugin: [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
 
 ### Installation
 
