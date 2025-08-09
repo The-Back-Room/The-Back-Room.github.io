@@ -6,7 +6,6 @@ grand_parent: WindHawk
 permalink: /windhawk/notification-center-styler/acrylic
 ---
 
-
 ## Acrylic UI
 Simple acrylic theme for Windows 11 Notification Center Styler colorized with the system accent color
 

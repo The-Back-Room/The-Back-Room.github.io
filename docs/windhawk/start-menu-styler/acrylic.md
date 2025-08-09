@@ -6,7 +6,6 @@ grand_parent: WindHawk
 permalink: /windhawk/start-menu-styler/acrylic
 ---
 
-
 ## Acrylic UI
 Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system accent color
 

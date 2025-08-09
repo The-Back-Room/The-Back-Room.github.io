@@ -6,7 +6,6 @@ grand_parent: WindHawk
 permalink: /windhawk/file-explorer-styler/acrylic
 ---
 
-
 ## Acrylic UI
 Simple acrylic theme for Windows 11 File Explorer Styler colorized with the system accent color
 

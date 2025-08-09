@@ -6,7 +6,6 @@ grand_parent: WindHawk
 permalink: /windhawk/taskbar-styler/acrylic
 ---
 
-
 ## Acrylic UI
 Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system accent color
 
