@@ -73,7 +73,14 @@ Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system 
   "controlStyles[17].styles[0]": "Height = 504",
   "controlStyles[14].styles[0]": "Visibility = 0",
   "controlStyles[15].styles[0]": "Visibility = 0",
-  "controlStyles[16].styles[0]": "Visibility = 0"
+  "controlStyles[16].styles[0]": "Visibility = 0",
+  "theme": "",
+  "controlStyles[18].target": "Grid#AllAppsRoot",
+  "controlStyles[18].styles[0]": "Background := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorDark2}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColorDark2}\" />",
+  "controlStyles[18].styles[1]": "CornerRadius = 2",
+  "controlStyles[19].target": "Border#AcrylicOverlay",
+  "controlStyles[19].styles[0]": "Background := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColor}\" />",
+  "controlStyles[19].styles[1]": "CornerRadius = 2"
 }
 ```
 
