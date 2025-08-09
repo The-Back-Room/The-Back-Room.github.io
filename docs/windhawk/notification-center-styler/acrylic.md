@@ -19,7 +19,7 @@ Simple acrylic theme for Windows 11 Notification Center Styler colorized with th
 
 <details>
 <summary>Code</summary>
-<code>
+
 ```json
 {
   "controlStyles[0].target": "Grid#NotificationCenterGrid",
@@ -290,5 +290,5 @@ Simple acrylic theme for Windows 11 Notification Center Styler colorized with th
   "controlStyles[70].styles[2]": "Background := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColor}\" />"
 }
 ```
-</code>
+
 </details>
