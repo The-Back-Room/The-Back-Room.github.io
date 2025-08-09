@@ -285,4 +285,4 @@ Simple acrylic theme for Windows 11 Notification Center Styler colorized with th
 }
 ```
 
-[Preview]: https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-styler/acrylic.bmp
+[Preview]: https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-center-styler/acrylic.bmp
