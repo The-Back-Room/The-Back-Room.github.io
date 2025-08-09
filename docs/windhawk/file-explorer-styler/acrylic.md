@@ -19,7 +19,7 @@ Simple acrylic theme for Windows 11 File Explorer Styler colorized with the syst
 
 ### Installation
 
-- Copy and paste the code below into `WindHawk >> Windows 11 Notification Center Styler >> Advanced >> Mod Settings`
+- Copy and paste the code below into `WindHawk >>  Windows 11 File Explorer Styler >> Advanced >> Mod Settings`
 - Click `Save`, then click `Load`
 - Toggle the following settings on in `WindHawk > Translucent Windows > Settings`: `Windows theme accent colorizer` in `WindHawk > Translucent Windows > Settings`, `Windows theme custom rendering` in `WindHawk > Translucent Windows > Settings`, `Extend effects into entire window`
 
