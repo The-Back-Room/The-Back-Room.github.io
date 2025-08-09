@@ -17,9 +17,6 @@ Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system 
 - Copy and paste the code below into `WindHawk >> Windows 11 Start Menu Styler >> Advanced >> Mod Settings`
 - Click `Save`, then click `Load`
 
-<details>
-<summary>Code</summary>
-
 ```json
 {
   "controlStyles[0].target": "Windows.UI.Xaml.Controls.Button#CloseAllAppsButton",
@@ -86,5 +83,3 @@ Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system 
   "controlStyles[19].styles[1]": "CornerRadius = 2"
 }
 ```
-
-</details>

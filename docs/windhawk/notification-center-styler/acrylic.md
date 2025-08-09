@@ -17,9 +17,6 @@ Simple acrylic theme for Windows 11 Notification Center Styler colorized with th
 - Copy and paste the code below into `WindHawk >> Windows 11 Notification Center Styler >> Advanced >> Mod Settings`
 - Click `Save`, then click `Load`
 
-<details>
-<summary>Code</summary>
-
 ```json
 {
   "controlStyles[0].target": "Grid#NotificationCenterGrid",
@@ -290,5 +287,3 @@ Simple acrylic theme for Windows 11 Notification Center Styler colorized with th
   "controlStyles[70].styles[2]": "Background := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColor}\" />"
 }
 ```
-
-</details>
