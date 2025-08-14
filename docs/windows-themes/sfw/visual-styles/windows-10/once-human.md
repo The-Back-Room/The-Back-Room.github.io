@@ -52,6 +52,8 @@ permalink: /windows-themes/sfw/visual-styles/windows-10/once-human
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
 
+[Preview]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/once-human/-/raw/main/Extras/Preview.bmp
+
 [ZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/once-human/-/archive/main/once-human-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
