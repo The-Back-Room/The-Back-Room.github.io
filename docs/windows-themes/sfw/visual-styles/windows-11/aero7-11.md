@@ -27,6 +27,8 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/aero7-11
 > - [StartAllBack][StartAllBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
+![Preview][Preview]  
+
 ### Instructions
 
 - Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
@@ -59,6 +61,8 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/aero7-11
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
 [StartAllBack]: https://www.startallback.com/
+
+[Preview]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/aero7-11/-/raw/main/Extras/Preview.bmp
 
 [DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/aero7-11/-/archive/main/aero7-11-main.zip
 
