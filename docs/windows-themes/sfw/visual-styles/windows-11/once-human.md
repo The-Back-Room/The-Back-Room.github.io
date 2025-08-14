@@ -15,8 +15,6 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/once-human
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
-![Preview][Preview]
-
 {: .note }
 > {: .opaque }
 > The following tools are required to use this theme:
@@ -28,6 +26,8 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/once-human
 > - [Old New Explorer][OldNewExplorer]
 > - [StartAllBack][StartAllBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
+
+![Preview][Preview]
 
 ### Instructions
 
@@ -60,6 +60,8 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/once-human
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+
+[Preview]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/once-human/-/raw/main/Extras/Preview.bmp
 
 [ZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/once-human/-/archive/main/once-human-main.zip
 
