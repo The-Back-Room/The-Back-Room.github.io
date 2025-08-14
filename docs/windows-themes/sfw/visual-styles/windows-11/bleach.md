@@ -27,6 +27,8 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/bleach
 > - [StartAllBack][StartAllBack]
 > - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
 
+![Preview][Preview]
+
 ### Instructions
 
 - Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
@@ -59,6 +61,8 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/bleach
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+
+[Preview]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/bleach/-/raw/main/Extras/Preview.bmp
 
 [DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/bleach/-/archive/main/bleach-main.zip
 
