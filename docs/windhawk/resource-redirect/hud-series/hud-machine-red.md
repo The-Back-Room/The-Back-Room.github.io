@@ -6,18 +6,28 @@ grand_parent: Resource Redirect
 permalink: /windhawk/resource-redirect/hud-series/hud-machine-red
 ---
 
+![Preview][Preview]
+
 ### Requirements
 
-- [WindHawk][WindHawk]
-- [Resource Redirect][ResourceRedirect]
+- [Windhawk][Windhawk]
+- [Windhawk][Windhawk] Plugin: [Resource Redirect][Resource Redirect]
 
-**Download**: [Download ZIP][DownloadZIP]
+### Instructions
+
+ - Download the ZIP archive from the link below.
+ - Extract the contents into a safe location of your choice. `[Example: C:\icons\hud-machine-red]`
+ - Set the `Windhawk > Resource Redirect > Settings > Theme paths` option to `path\to\file\theme.json`. *(Make sure to replace `path\to\file\` with the actual path of your `theme.json` file)*
+
+**Download**: [Download ZIP][Download ZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[DownloadZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-machine-red/-/archive/main/hud-machine-red-main.zip
+[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-machine-red/-/raw/main/Extras/Preview.bmp
 
-[WindHawk]: https://windhawk.net/
-[ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect
+[Windhawk]: https://windhawk.net/
+[Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
+
+[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-machine-red/-/archive/main/hud-machine-red-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
