@@ -20,9 +20,11 @@ permalink: /windhawk/resource-redirect/windows-series/windows-7
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-7
+[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/raw/main/Extras/Preview.bmp
 
-[WindHawk]: https://windhawk.net/
-[ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect
+[Windhawk]: https://windhawk.net/
+[Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
+
+[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?path=icon-packs/Windows-7
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

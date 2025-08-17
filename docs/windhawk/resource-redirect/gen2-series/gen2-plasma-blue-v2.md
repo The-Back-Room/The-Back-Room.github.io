@@ -20,9 +20,11 @@ permalink: /windhawk/resource-redirect/gen2-series/gen2-plasma-blue-v2
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Plasma-Blue-V2
+[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/gen2-plasma-blue-v2/-/raw/main/Extras/Preview.bmp
 
-[WindHawk]: https://windhawk.net/
-[ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect
+[Windhawk]: https://windhawk.net/
+[Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
+
+[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Plasma-Blue-V2
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

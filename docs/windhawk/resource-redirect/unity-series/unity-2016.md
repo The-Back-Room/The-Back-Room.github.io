@@ -24,8 +24,8 @@ permalink: /windhawk/resource-redirect/unity-series/unity-2016
 
 [Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2016/-/raw/main/Extras/Preview.bmp
 
-[WindHawk]: https://windhawk.net/
-[ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect
+[Windhawk]: https://windhawk.net/
+[Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
 
 [Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2016/-/archive/main/unity-2016-main.zip
 
