@@ -7,7 +7,7 @@ parent: Windhawk
 permalink: /windhawk/resource-redirect
 ---
 
-## Collections
+### Collections
 
 | --- | --- |
 | [Gen2](/windhawk/resource-redirect/gen2-series) | Gen2 icon packs for Resource Redirect |
@@ -15,7 +15,7 @@ permalink: /windhawk/resource-redirect
 | [Unity](/windhawk/resource-redirect/unity-series)  Unity icon packs for Resource Redirect| |
 | [Windows](/windhawk/resource-redirect/windows-series) | Windows icon packs for Resource Redirect |
 
-## Singles
+### Singles
 
 | --- | --- |
 | [Jarvis](/windhawk/resource-redirect/jarvis) | Jarvis icon pack for Resource Redirect |
