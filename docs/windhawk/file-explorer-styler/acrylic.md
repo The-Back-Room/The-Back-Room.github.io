@@ -2,7 +2,7 @@
 title: Acrylic UI
 summary: Simple acrylic theme for Windows 11 File Explorer Styler colorized with the system accent color
 parent: File Explorer Styler
-grand_parent: WindHawk
+grand_parent: Windhawk
 permalink: /windhawk/file-explorer-styler/acrylic
 ---
 
@@ -13,18 +13,19 @@ Simple acrylic theme for Windows 11 File Explorer Styler colorized with the syst
 
 ### Requirements
 
-- [WindHawk](https://windhaek.net/) Plugin: [Windows 11 File Explorer Styler](https://windhawk.net/mods/windows-11-file-explorer-styler)
-- [WindHawk](https://windhaek.net/) Plugin: [Translucent Windows](https://windhawk.net/mods/translucent-windows)
+- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 File Explorer Styler](https://windhawk.net/mods/windows-11-file-explorer-styler)
+- [Windhawk](https://windhawk.net/) Plugin: [Translucent Windows](https://windhawk.net/mods/translucent-windows)
 
 ### Installation
 
-- Copy and paste the code below into `WindHawk >>  Windows 11 File Explorer Styler >> Advanced >> Mod Settings`
+- Copy and paste the code below into `Windhawk >>  Windows 11 File Explorer Styler >> Advanced >> Mod Settings`
 - Click `Save`, then click `Load`
-- Turn on the following settings in `WindHawk > Translucent Windows > Settings`:
+- Turn on the following settings in `Windhawk > Translucent Windows > Settings`:
   - `Windows theme custom rendering`
   - `Windows theme accent colorizer`
   - `Immersive darkmode titlebar`
   - `Extend effects into entire window`
+- Set `Windhawk > Translucent Windows > Settings > Effects` to `Mica (SystemBackdrop)`
 
 ```json
 {

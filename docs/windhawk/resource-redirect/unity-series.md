@@ -2,6 +2,6 @@
 title: Unity Icon Packs
 summary: Unity Icon Packs for Resource Redirect
 parent: Resource Redirect
-grand_parent: WindHawk
+grand_parent: Windhawk
 permalink: /windhawk/resource-redirect/unity-series
 ---

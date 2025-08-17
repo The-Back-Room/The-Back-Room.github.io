@@ -2,7 +2,7 @@
 title: Acrylic UI
 summary: Simple acrylic theme for Windows 11 Notification Center Styler colorized with the system accent color
 parent: Notification Center Styler
-grand_parent: WindHawk
+grand_parent: Windhawk
 permalink: /windhawk/notification-center-styler/acrylic
 ---
 
@@ -13,11 +13,11 @@ Simple acrylic theme for Windows 11 Notification Center Styler colorized with th
 
 ### Requirements
 
-- [WindHawk](https://windhaek.net/) Plugin: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
+- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
 
 ### Installation
 
-- Copy and paste the code below into `WindHawk >> Windows 11 Notification Center Styler >> Advanced >> Mod Settings`
+- Copy and paste the code below into `Windhawk >> Windows 11 Notification Center Styler >> Advanced >> Mod Settings`
 - Click `Save`, then click `Load`
 
 

@@ -2,7 +2,7 @@
 title: Acrylic UI
 summary: Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system accent color
 parent: Start Menu Styler
-grand_parent: WindHawk
+grand_parent: Windhawk
 permalink: /windhawk/start-menu-styler/acrylic
 ---
 
@@ -13,11 +13,11 @@ Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system 
 
 ### Requirements
 
-- [WindHawk](https://windhaek.net/) Plugin: [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
+- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
 
 ### Installation
 
-- Copy and paste the code below into `WindHawk >> Windows 11 Start Menu Styler >> Advanced >> Mod Settings`
+- Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> Advanced >> Mod Settings`
 - Click `Save`, then click `Load`
 
 ```json

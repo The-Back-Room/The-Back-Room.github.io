@@ -1,7 +1,7 @@
 ---
 title: Taskbar Styler
-summary: Themes for WindHawk Plugin Windows 11 Taskbar Styler
+summary: Themes for Windhawk Plugin Windows 11 Taskbar Styler
 nav_order: 1.3
-parent: WindHawk
+parent: Windhawk
 permalink: /windhawk/taskbar-styler
 ---
