@@ -18,7 +18,7 @@ permalink: /windhawk/resource-redirect/jarvis
 
  - Download the ZIP archive from the link below.
  - Extract the contents into a safe location of your choice. `[Example: C:\icons\Jarvis]`
- - Set the `Windhawk > Resource Redirect > Settings > Theme paths` option to `path\to\file\theme.json`. *(Make sure to replace `path\to\file\` with the actual path of your `theme.json` file)*
+ - Set the `Windhawk > Resource Redirect > Settings > Theme paths` option to `path\to\file\theme.ini`. *(Make sure to replace `path\to\file\` with the actual path of your `theme.ini` file)*
 
 **Download**: [Download ZIP][Download ZIP]
 
