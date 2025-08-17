@@ -7,6 +7,8 @@ grand_parent: Windhawk
 permalink: /windhawk/resource-redirect/jarvis
 ---
 
+![Preview][Preview]
+
 ### Requirements
 
 - [Windhawk][Windhawk]
