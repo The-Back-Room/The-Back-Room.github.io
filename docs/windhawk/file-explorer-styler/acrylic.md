@@ -22,6 +22,8 @@ Simple acrylic theme for Windows 11 File Explorer Styler colorized with the syst
 - Click `Save`, then click `Load`
 - Turn on the following settings in `WindHawk > Translucent Windows > Settings`:
   - `Windows theme custom rendering`
+  - `Windows theme accent colorizer`
+  - `Immersive darkmode titlebar`
   - `Extend effects into entire window`
 
 ```json
