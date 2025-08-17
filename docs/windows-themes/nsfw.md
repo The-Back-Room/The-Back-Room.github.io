@@ -18,17 +18,17 @@ permalink: /windows-themes/nsfw
 > Our website is undergoing a rework. If a theme is not listed here, then the new page has not yet been created.
 >
 > For any theme not listed here, you can find it in one of the following locations:
-> - **Old Repository**: [gitlab.com/the-back-room/Themes][gitlab.com/the-back-room/Themes]  
-> - **Deskthemepacks**: [gitlab.com/the-back-room/Deskthemepacks][gitlab.com/the-back-room/Deskthemepacks]
-> - **Visual Styles**: [gitlab.com/the-back-room/Visual-Styles][gitlab.com/the-back-room/Visual-Styles]
+> - [Old Repository][old-repo]  
+> - [Deskthemepacks][deskthemepacks]
+> - [Visual Styles][visual-styles]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [WIP]: /WIP
 
-[gitlab.com/the-back-room/Themes]: https://gitlab.com/the-back-room/Themes
-[gitlab.com/the-back-room/Deskthemepacks]: https://gitlab.com/the-back-room/deskthemepacks
-[gitlab.com/the-back-room/Visual-Styles]: https://gitlab.com/the-back-room/visual-styles
+[old-repo]: https://gitlab.com/the-back-room/Themes
+[deskthemepacks]: https://gitlab.com/the-back-room/deskthemepacks
+[visual-styles]: https://gitlab.com/the-back-room/visual-styles
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

@@ -8,12 +8,18 @@ permalink: /windows-themes
 > {: .opaque }
 > Our website is undergoing a rework. If a theme is not listed here, then the new page has not yet been created.
 >
-> For any theme not listed here, you can find it in the old repo at [gitlab.com/the-back-room/Themes][gitlab.com/the-back-room/Themes]
+> For any theme not listed here, you can find it in one of the following locations:
+> - [Old Repository][old-repo]  
+> - [Deskthemepacks][deskthemepacks]
+> - [Visual Styles][visual-styles]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [WIP]: /WIP
 
-[gitlab.com/the-back-room/Themes]: https://gitlab.com/the-back-room/Themes
+[old-repo]: https://gitlab.com/the-back-room/Themes
+[deskthemepacks]: https://gitlab.com/the-back-room/deskthemepacks
+[visual-styles]: https://gitlab.com/the-back-room/visual-styles
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
