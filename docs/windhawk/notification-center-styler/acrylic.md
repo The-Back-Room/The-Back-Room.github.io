@@ -295,6 +295,6 @@ Simple acrylic theme for Windows 11 Notification Center Styler colorized with th
   "styleConstants[6]": "altLow = <AcrylicBrush TintColor={ThemeResource SystemAltLowColor}\" TintOpacity=\"0.4\" />",
   "styleConstants[7]": "main = <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" />",
   "styleConstants[8]": "transparent = <SolidColorBrush Color=\"Transparent\" />",
-  "styleConstants[9]": "radius = 2"
+  "styleConstants[9]": "radius = 2.5"
 }
 ```

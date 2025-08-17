@@ -104,15 +104,15 @@ Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system acc
   "controlStyles[22].target": "Rectangle#BackgroundStroke",
   "controlStyles[22].styles[0]": "Fill := $transparent",
   "controlStyles[23].target": "TextBlock#SearchBoxTextBlock",
-  "controlStyles[23].styles[0]": "Foreground = White",
+  "controlStyles[23].styles[0]": "Foreground = $foreground",
+  "controlStyles[23].styles[1]": "FontSize = $fontSize",
   "controlStyles[24].target": "ToolTip",
   "controlStyles[24].styles[0]": "Background := $dark3",
   "controlStyles[24].styles[1]": "CornerRadius = $radius",
   "controlStyles[24].styles[2]": "BorderThickness = 1",
   "controlStyles[24].styles[3]": "FontSize = 12",
-  "controlStyles[24].styles[4]": "Foreground = White",
+  "controlStyles[24].styles[4]": "Foreground = $foreground",
   "controlStyles[24].styles[5]": "Margin = 3",
-  "controlStyles[23].styles[1]": "FontSize = 12",
   "controlStyles[24].styles[6]": "BorderBrush := $light3",
   "styleConstants[0]": "dark3 = <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorLight3}\" TintOpacity=\"0.4\" />",
   "styleConstants[1]": "dark2 = <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorDark2}\" TintOpacity=\"0.4\" />",
@@ -124,8 +124,10 @@ Simple acrylic theme for Windows 11 Taskbar Styler colorized with the system acc
   "styleConstants[7]": "solidDark3 = <SolidColorBrush Color=\"{ThemeResource SystemAccentColorDark3}\" />",
   "styleConstants[8]": "solidDark1 = <SolidColorBrush Color=\"{ThemeResource SystemAccentColorDark1}\" />",
   "styleConstants[9]": "transparent =  <SolidColorBrush Color=\"Transparent\" />",
-  "styleConstants[10]": "radius = 2",
+  "styleConstants[10]": "radius = 2.5",
   "styleConstants[11]": "opacity = 0.4",
-  "styleConstants[12]": "thickness = 1"
+  "styleConstants[12]": "thickness = 1",
+  "styleConstants[13]": "fontSize = 12",
+  "styleConstants[14]": "forground = White"
 }
 ```

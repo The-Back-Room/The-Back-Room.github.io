@@ -113,6 +113,6 @@ Simple acrylic theme for Windows 11 File Explorer Styler colorized with the syst
   "styleConstants[4]": "light2 = {ThemeResource SystemAccentColorLight2}",
   "styleConstants[5]": "light1 = {ThemeResource SystemAccentColorLight1}",
   "styleConstants[6]": "main = {ThemeResource SystemAccentColor}",
-  "styleConstants[7]": "radius = 2"
+  "styleConstants[7]": "radius = 2.5"
 }
 ```
