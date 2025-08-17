@@ -10,10 +10,10 @@ permalink: /windhawk/resource-redirect
 ### Collections
 
 | --- | --- |
-| [Gen2](/windhawk/resource-redirect/gen2-series) | Gen2 icon packs for Resource Redirect |
-| [HUD](/windhawk/resource-redirect/hud-series) | HUD icon packs for Resource Redirect |
-| [Unity](/windhawk/resource-redirect/unity-series)  Unity icon packs for Resource Redirect| |
-| [Windows](/windhawk/resource-redirect/windows-series) | Windows icon packs for Resource Redirect |
+| [Gen2 Icon Packs](/windhawk/resource-redirect/gen2-series) | Gen2 icon packs for Resource Redirect |
+| [HUD Icon Packs](/windhawk/resource-redirect/hud-series) | HUD icon packs for Resource Redirect |
+| [Unity Icon Packs](/windhawk/resource-redirect/unity-series) | Unity icon packs for Resource Redirect |
+| [Windows Icon Packs](/windhawk/resource-redirect/windows-series) | Windows icon packs for Resource Redirect |
 
 ### Singles
 
