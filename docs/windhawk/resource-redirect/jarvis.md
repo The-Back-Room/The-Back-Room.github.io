@@ -1,6 +1,6 @@
 ---
-title: Jarvis
-summary: Jarvis icon pack for Resource Redirect
+title: jarvis
+summary: jarvis icon pack for Resource Redirect
 nav_order: 2
 parent: Resource Redirect
 grand_parent: Windhawk
@@ -11,13 +11,12 @@ permalink: /windhawk/resource-redirect/jarvis
 
 ### Requirements
 
-- [Windhawk][Windhawk]
 - [Windhawk][Windhawk] Plugin: [Resource Redirect][Resource Redirect]
 
 ### Instructions
 
  - Download the ZIP archive from the link below.
- - Extract the contents into a safe location of your choice. `[Example: C:\icons\Jarvis]`
+ - Extract the contents into a safe location of your choice. `[Example: C:\icons\jarvis]`
  - Set the `Windhawk > Resource Redirect > Settings > Theme paths` option to `path\to\file\theme.ini`. *(Make sure to replace `path\to\file\` with the actual path of your `theme.ini` file)*
 
 **Download**: [Download ZIP][Download ZIP]

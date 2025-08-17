@@ -11,7 +11,6 @@ permalink: /windhawk/resource-redirect/magnum-dark
 
 ### Requirements
 
-- [Windhawk][Windhawk]
 - [Windhawk][Windhawk] Plugin: [Resource Redirect][Resource Redirect]
 
 ### Instructions

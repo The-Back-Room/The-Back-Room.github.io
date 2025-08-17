@@ -10,7 +10,6 @@ permalink: /windhawk/resource-redirect/hud-series/hud-machine-red
 
 ### Requirements
 
-- [Windhawk][Windhawk]
 - [Windhawk][Windhawk] Plugin: [Resource Redirect][Resource Redirect]
 
 ### Instructions
@@ -23,7 +22,7 @@ permalink: /windhawk/resource-redirect/hud-series/hud-machine-red
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-machine-red/-/raw/main/Extras/Preview.bmp
+[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-machine-red/-/raw/main/Extras/Preview.bmp
 
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect

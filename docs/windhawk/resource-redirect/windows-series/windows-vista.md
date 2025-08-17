@@ -8,14 +8,19 @@ permalink: /windhawk/resource-redirect/windows-series/windows-vista
 
 ### Requirements
 
-- [WindHawk][WindHawk]
-- [Resource Redirect][ResourceRedirect]
+- [Windhawk][Windhawk] Plugin: [Resource Redirect][Resource Redirect]
 
-**Download**: [GitLab][GitLab]
+### Instructions
+
+ - Download the ZIP archive from the link below.
+ - Extract the contents into a safe location of your choice. `[Example: C:\icons\windows-vista]`
+ - Set the `Windhawk > Resource Redirect > Settings > Theme paths` option to `path\to\file\theme.ini`. *(Make sure to replace `path\to\file\` with the actual path of your `theme.ini` file)*
+
+**Download**: [Download ZIP][Download ZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[GitLab]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-Vista
+[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/tree/main/icon-packs/Windows-Vista
 
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect

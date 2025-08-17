@@ -10,10 +10,15 @@ permalink: /windhawk/resource-redirect/unity-series/unity-2014
 
 ### Requirements
 
-- [WindHawk][WindHawk]
-- [Resource Redirect][ResourceRedirect]
+- [Windhawk][Windhawk] Plugin: [Resource Redirect][Resource Redirect]
 
-**Download**: [Download ZIP][DownloadZIP]
+### Instructions
+
+ - Download the ZIP archive from the link below.
+ - Extract the contents into a safe location of your choice. `[Example: C:\icons\unity-2014]`
+ - Set the `Windhawk > Resource Redirect > Settings > Theme paths` option to `path\to\file\theme.ini`. *(Make sure to replace `path\to\file\` with the actual path of your `theme.ini` file)*
+
+**Download**: [Download ZIP][Download ZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
@@ -22,6 +27,6 @@ permalink: /windhawk/resource-redirect/unity-series/unity-2014
 [WindHawk]: https://windhawk.net/
 [ResourceRedirect]: https://windhawk.net/mods/icon-resource-redirect
 
-[DownloadZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/archive/main/unity-2014-main.zip
+[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/archive/main/unity-2014-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
