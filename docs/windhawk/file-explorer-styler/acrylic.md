@@ -1,15 +1,15 @@
 ---
 title: Acrylic UI
-summary: Simple acrylic theme for Windows 11 File Explorer Styler colorized with the system accent color
+summary: Simple acrylic theme for Windows 11 File Explorer Styler
 parent: File Explorer Styler
 grand_parent: Windhawk
 permalink: /windhawk/file-explorer-styler/acrylic
 ---
 
 ## Acrylic UI
-Simple acrylic theme for Windows 11 File Explorer Styler colorized with the system accent color
+Simple acrylic theme for Windows 11 File Explorer Styler
 
-![Preview](https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/file-explorer-styler/acrylic.bmp)
+<!-- ![Preview](https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/file-explorer-styler/acrylic.bmp) -->
 
 ### Requirements
 
@@ -32,15 +32,15 @@ Simple acrylic theme for Windows 11 File Explorer Styler colorized with the syst
   "theme": "",
   "explorerFrameContainerHeight": 0,
   "controlStyles[0].target": "AppBarButton#backButton > Grid#Root@CommonStates > Border#AppBarButtonInnerBorder",
-  "controlStyles[0].styles[0]": "Background@Normal := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" Opacity=\"0.07\"/>",
-  "controlStyles[0].styles[1]": "Background@PointerOver := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" Opacity=\"0.12\"/>",
-  "controlStyles[0].styles[2]": "Background@Pressed := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" Opacity=\"0.12\"/>",
-  "controlStyles[0].styles[3]": "Background@Disabled := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" Opacity=\"0.05\"/>",
+  "controlStyles[0].styles[0]": "Background@Normal := <AcrylicBrush TintColor=\"Transparent\" Opacity=\"0.07\"/>",
+  "controlStyles[0].styles[1]": "Background@PointerOver := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" Opacity=\"0.12\"/>",
+  "controlStyles[0].styles[2]": "Background@Pressed := <AcrylicBrush TintColor=\"Transparent\" Opacity=\"0.12\"/>",
+  "controlStyles[0].styles[3]": "Background@Disabled := <AcrylicBrush TintColor=\"Transparent\" Opacity=\"0.05\"/>",
   "controlStyles[1].target": "AppBarButton#forwardButton > Grid#Root@CommonStates > Border#AppBarButtonInnerBorder",
-  "controlStyles[1].styles[0]": "Background@Normal := <AcrylicBrush TintColor=\"$main\" Opacity=\"0.05\"/>",
-  "controlStyles[1].styles[1]": "Background@PointerOver := <AcrylicBrush TintColor=\"$main\" Opacity=\"0.12\"/>",
-  "controlStyles[1].styles[2]": "Background@Pressed := <AcrylicBrush TintColor=\"$main\" Opacity=\"0.12\"/>",
-  "controlStyles[1].styles[3]": "Background@Disabled := <AcrylicBrush TintColor=\"$main\" Opacity=\"0.05\"/>",
+  "controlStyles[1].styles[0]": "Background@Normal := <AcrylicBrush TintColor=\"Transparent\" Opacity=\"0.05\"/>",
+  "controlStyles[1].styles[1]": "Background@PointerOver := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" Opacity=\"0.12\"/>",
+  "controlStyles[1].styles[2]": "Background@Pressed := <AcrylicBrush TintColor=\"Transparent\" Opacity=\"0.12\"/>",
+  "controlStyles[1].styles[3]": "Background@Disabled := <AcrylicBrush TintColor=\"Transparent\" Opacity=\"0.05\"/>",
   "controlStyles[2].target": "AppBarButton#refreshButton",
   "controlStyles[2].styles[0]": "Visibility = Collapsed",
   "controlStyles[3].target": "AppBarButton#upButton",
@@ -49,7 +49,7 @@ Simple acrylic theme for Windows 11 File Explorer Styler colorized with the syst
   "controlStyles[4].styles[0]": "Visibility = Collapsed",
   "controlStyles[5].target": "FileExplorerExtensions.AddressBarControl > Grid#PART_LayoutRoot > Grid#NormalModeGrid",
   "controlStyles[5].styles[0]": "BorderThickness = 1",
-  "controlStyles[5].styles[1]": "BorderBrush = <AcrylicBrush TintColor=\"$main\" Opacity=\"0.5\" />",
+  "controlStyles[5].styles[1]": "BorderBrush = <AcrylicBrush TintColor=\"Transparent\" Opacity=\"0.5\" />",
   "controlStyles[5].styles[2]": "CornerRadius = $radius",
   "controlStyles[6].target": "Grid#NavigationBarControlGrid",
   "controlStyles[6].styles[0]": "Background := Transparent",
@@ -73,11 +73,11 @@ Simple acrylic theme for Windows 11 File Explorer Styler colorized with the syst
   "controlStyles[14].styles[0]": "Background := Transparent",
   "controlStyles[14].styles[1]": "BorderBrush := Transparent",
   "controlStyles[15].target": "TabViewItem > Grid#LayoutRoot@CommonStates",
-  "controlStyles[15].styles[0]": "Background@Selected := <AcrylicBrush TintColor=\"$dark1\" Opacity=\"0.35\" />",
-  "controlStyles[15].styles[1]": "Background@PointerOverSelected := <AcrylicBrush TintColor=\"$dark1\" Opacity=\"0.35\" />",
-  "controlStyles[15].styles[2]": "Background@PointerOver := <AcrylicBrush TintColor=\"$dark2\" Opacity=\"0.13\" />",
-  "controlStyles[15].styles[3]": "Background@Normal := <AcrylicBrush TintColor=\"$dark3\" Opacity=\"0.05\" />",
-  "controlStyles[15].styles[4]": "Background@PressedSelected := <AcrylicBrush TintColor=\"$dark1\" Opacity=\"0.35\" />",
+  "controlStyles[15].styles[0]": "Background@Selected := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" Opacity=\"0.35\" />",
+  "controlStyles[15].styles[1]": "Background@PointerOverSelected := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" Opacity=\"0.35\" />",
+  "controlStyles[15].styles[2]": "Background@PointerOver := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" Opacity=\"0.13\" />",
+  "controlStyles[15].styles[3]": "Background@Normal := <AcrylicBrush TintColor=\"Transparent\" Opacity=\"0.05\" />",
+  "controlStyles[15].styles[4]": "Background@PressedSelected := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" Opacity=\"0.35\" />",
   "controlStyles[16].target": "AppBarButton#backButton > Grid#Root",
   "controlStyles[16].styles[0]": "Padding = 2",
   "controlStyles[17].target": "AppBarButton#forwardButton > Grid#Root",
@@ -95,8 +95,8 @@ Simple acrylic theme for Windows 11 File Explorer Styler colorized with the syst
   "controlStyles[23].target": "ToolTip",
   "controlStyles[23].styles[1]": "BorderThickness = 1",
   "controlStyles[23].styles[2]": "Foreground = White",
-  "controlStyles[23].styles[3]": "BorderBrush := <AcrylicBrush TintColor=\"$light1\" Opacity=\"0.3\" />",
-  "controlStyles[23].styles[4]": "Background := <AcrylicBrush TintColor=\"$dark1\" Opacity=\"0.3\" />",
+  "controlStyles[23].styles[3]": "BorderBrush := <AcrylicBrush TintColor=\"Transparent\" Opacity=\"0.8\" />",
+  "controlStyles[23].styles[4]": "Background := <AcrylicBrush TintColor=\"Transparent\" Opacity=\"0.4\" />",
   "controlStyles[23].styles[0]": "CornerRadius = $radius",
   "controlStyles[24].target": "Grid#DetailsViewControlRootGrid",
   "controlStyles[24].styles[0]": "Background := Transparent",
@@ -109,13 +109,8 @@ Simple acrylic theme for Windows 11 File Explorer Styler colorized with the syst
   "controlStyles[27].styles[1]": "Margin = 0,0,10,0",
   "controlStyles[28].target": "AutoSuggestBox#FileExplorerSearchBox",
   "controlStyles[28].styles[0]": "Visibility = Collapsed",
-  "styleConstants[0]": "dark3 = {ThemeResource SystemAccentColorDark3}",
-  "styleConstants[1]": "dark2 = {ThemeResource SystemAccentColorDark2}",
-  "styleConstants[2]": "dark1 = {ThemeResource SystemAccentColorDark1}",
-  "styleConstants[3]": "light3 = {ThemeResource SystemAccentColorLight3}",
-  "styleConstants[4]": "light2 = {ThemeResource SystemAccentColorLight2}",
-  "styleConstants[5]": "light1 = {ThemeResource SystemAccentColorLight1}",
-  "styleConstants[6]": "main = {ThemeResource SystemAccentColor}",
-  "styleConstants[7]": "radius = 2.5"
+  "styleConstants[0]": "main = Transparent",
+  "styleConstants[1]": "radius = 2",
+  "styleConstants[2]": "thickness = 1"
 }
 ```
