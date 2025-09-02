@@ -9,9 +9,11 @@ permalink: /windhawk/start-menu-styler
 
 | --- | --- |
 | [Acrylic UI][Acrylic UI] | Simple acrylic theme for Windows 11 Start Menu Styler colorized with the system accent color |
+| [Down Aero Squared][Down Aero Squared] | Clean squared theme for Windows 11 Start Menu Styler |  
 
 <!-- //////////////////////////////////////////////////////////////////////////////////// -->
 
 [Acrylic UI]: /windhawk/start-menu-styler/acrylic
+[Down Aero Squared]: /windhawk/start-menu-styler/down-aero-squared
 
 <!-- //////////////////////////////////////////////////////////////////////////////////// -->
