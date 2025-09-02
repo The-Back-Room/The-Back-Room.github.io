@@ -9,7 +9,7 @@ permalink: /windhawk/start-menu-styler/acrylic
 ## Acrylic UI
 Simple acrylic theme for Windows 11 Start Menu Styler
 
-<!-- ![Preview](https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/start-menu-styler/acrylic.bmp) -->
+![Preview](https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/start-menu-styler/acrylic.bmp)
 
 ### Requirements
 

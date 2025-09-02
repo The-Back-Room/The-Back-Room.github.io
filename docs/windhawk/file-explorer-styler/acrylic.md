@@ -9,7 +9,7 @@ permalink: /windhawk/file-explorer-styler/acrylic
 ## Acrylic UI
 Simple acrylic theme for Windows 11 File Explorer Styler
 
-<!-- ![Preview](https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/file-explorer-styler/acrylic.bmp) -->
+![Preview](https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/file-explorer-styler/acrylic.bmp)
 
 ### Requirements
 
