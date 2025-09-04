@@ -2,8 +2,8 @@
 title: Floating Ice Chrononaut
 summary: Floating Ice Chrononaut icon pack for Resource Redirect
 nav_order: 3
-parent: Resource Redirect
-grand_parent: Windhawk
+parent: Chrononaut Icon Packs
+grand_parent: Resource Redirect
 permalink: /windhawk/resource-redirect/chrononaut-series/floating-ice-chrononaut
 ---
 
