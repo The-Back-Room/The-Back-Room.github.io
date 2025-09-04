@@ -13,8 +13,9 @@ permalink: /windhawk/resource-redirect/windows-series/windows-xp
 ### Instructions
 
  - Download the ZIP archive from the link below.
- - Extract the contents into a safe location of your choice. `[Example: C:\icons\windows-xp]`
- - Set the `Windhawk > Resource Redirect > Settings > Theme paths` option to `path\to\file\theme.ini`. *(Make sure to replace `path\to\file\` with the actual path of your `theme.ini` file)*
+ - Extract the contents of the folder into a safe location of your choice. *(Example: C:\Icons\<Icon Pack>\)*
+ - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
+ - Click the **Save settings** button and refresh your icon cache
 
 **Download**: [Download ZIP][Download ZIP]
 
@@ -25,6 +26,6 @@ permalink: /windhawk/resource-redirect/windows-series/windows-xp
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
 
-[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?path=icon-packs/Windows-XP
+[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?ref_type=heads?path=icon-packs/Windows-XP
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

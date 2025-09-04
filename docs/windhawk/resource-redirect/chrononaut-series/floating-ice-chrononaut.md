@@ -18,7 +18,7 @@ permalink: /windhawk/resource-redirect/chrononaut-series/floating-ice-chrononaut
  - Download the ZIP archive from the link below.
  - Extract the contents of the folder into a safe location of your choice. *(Example: C:\Icons\<Icon Pack>\)*
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
-- Click the **Save settings** button and refresh your icon cache
+ - Click the **Save settings** button and refresh your icon cache
 
 **Download**: [Download ZIP][Download ZIP]
 
