@@ -1,12 +1,10 @@
 ---
-title: HUD Machine Red
-summary: HUD Machine Red icon pack for Resource Redirect
+title: HUD Red
+summary: Red-themed icon pack for Windhawk Resource Redirect
 parent: HUD Icon Packs
 grand_parent: Resource Redirect
-permalink: /windhawk/resource-redirect/hud-series/hud-machine-red
+permalink: /windhawk/resource-redirect/hud-series/hud-red
 ---
-
-![Preview][Preview]
 
 ### Requirements
 
@@ -22,8 +20,6 @@ permalink: /windhawk/resource-redirect/hud-series/hud-machine-red
 **Download**: [Download ZIP][Download ZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-machine-red/-/raw/main/Extras/Preview.bmp
 
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect

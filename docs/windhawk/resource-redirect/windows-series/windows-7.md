@@ -21,8 +21,6 @@ permalink: /windhawk/resource-redirect/windows-series/windows-7
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/raw/main/Extras/Preview.bmp
-
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
 

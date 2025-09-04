@@ -7,8 +7,6 @@ grand_parent: Windhawk
 permalink: /windhawk/resource-redirect/magnum-dark
 ---
 
-![Preview][Preview]
-
 ### Requirements
 
 - [Windhawk][Windhawk] Plugin: [Resource Redirect][Resource Redirect]
@@ -24,8 +22,6 @@ permalink: /windhawk/resource-redirect/magnum-dark
 
 
 <!-- ///////////////////////////////////////////////////////////////////////////////// -->
-
-[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp
 
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect

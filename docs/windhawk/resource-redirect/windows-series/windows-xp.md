@@ -21,8 +21,6 @@ permalink: /windhawk/resource-redirect/windows-series/windows-xp
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/raw/main/Extras/Preview.bmp
-
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
 

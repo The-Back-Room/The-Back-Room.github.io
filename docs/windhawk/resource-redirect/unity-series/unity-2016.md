@@ -6,8 +6,6 @@ grand_parent: Resource Redirect
 permalink: /windhawk/resource-redirect/unity-series/unity-2016
 ---
 
-![Preview][Preview]
-
 ### Requirements
 
 - [Windhawk][Windhawk] Plugin: [Resource Redirect][Resource Redirect]
@@ -22,8 +20,6 @@ permalink: /windhawk/resource-redirect/unity-series/unity-2016
 **Download**: [Download ZIP][Download ZIP]
 
 <!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2016/-/raw/main/Extras/Preview.bmp
 
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect

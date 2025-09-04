@@ -7,8 +7,6 @@ grand_parent: Windhawk
 permalink: /windhawk/resource-redirect/jarvis
 ---
 
-![Preview][Preview]
-
 ### Requirements
 
 - [Windhawk][Windhawk] Plugin: [Resource Redirect][Resource Redirect]
@@ -24,8 +22,6 @@ permalink: /windhawk/resource-redirect/jarvis
 
 
 <!-- ///////////////////////////////////////////////////////////////////////////////// -->
-
-[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp
 
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
