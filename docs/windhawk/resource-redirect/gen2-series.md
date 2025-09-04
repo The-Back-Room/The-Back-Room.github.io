@@ -9,14 +9,10 @@ permalink: /windhawk/resource-redirect/gen2-series
 ---
 
 | --- | --- |
-| [Plasma Blue V1][Plasma Blue V1] | Gen2 Plasma Blue V1 icon pack for Resource Redirect |
-| [Plasma Blue V2][Plasma Blue V2] | Gen2 Plasma Blue V2 icon pack for Resource Redirect |
+| [Plasma Blue][Plasma Blue] | Gen2 Plasma Blue icon packs for Resource Redirect |
 | [Lady Pink][Lady Pink] | Gen2 Lady Pink icon packs for Resource Redirect |
 | [Antitoxin][Antitoxin] | Gen2 Antitoxin icon packs for Resource Redirect |
 | [Laser Red][Laser Red] | Gen2 Laser Red icon packs for Resource Redirect |
-
-[Plamsa Blue V1]: /windhawk/resource-redirect/gen2-series/gen2-plasma-blue-v1
-[Plasma Blue V2]: /windhawk/resource-redirect/gen2-series/gen2-plasma-blue-v2
 
 
 [Plamsa Blue]: /WIP
