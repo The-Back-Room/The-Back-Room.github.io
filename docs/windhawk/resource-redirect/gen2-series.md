@@ -15,7 +15,7 @@ permalink: /windhawk/resource-redirect/gen2-series
 | [Laser Red][Laser Red] | Red-themed icon pack for Windhawk Resource Redirect |
 
 
-[Plamsa Blue]: /WIP
+[Plasma Blue]: /WIP
 [Lady Pink]: /WIP
 [Antitoxin]: /WIP
 [Laser Red]: /WIP
