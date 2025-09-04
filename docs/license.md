@@ -1,8 +1,8 @@
 ---
 title: License
-summary: Creative Commons Attribution 4.0 International
+summary: Creative Commons Attribution 4.0 International Public License
+has_toc: false
 nav_order: 20
-has_roc: false
 permalink: /license
 ---
 
