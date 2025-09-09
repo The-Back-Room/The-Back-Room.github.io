@@ -11,7 +11,7 @@ permalink: /WIP
 > The following projects are planned for release in the future. However, they are currently either incomplete or have yet to be started.
 
 
-![Image][Image]
+![Image]
 
 ## Windhawk
 
@@ -46,3 +46,6 @@ permalink: /WIP
 ### Visual Styles
 
 - Nothing planned yet.
+
+
+[Image]: /assets/images/WIP.png
