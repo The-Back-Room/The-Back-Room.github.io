@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /WIP
 ---
 
-<img align="center" src="./assets/images/WIP.png" width="80%" />
+<img align="center" src="/assets/images/WIP.png" width="80%" />
 
 {: .note }
 > {: .opaque }
