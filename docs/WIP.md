@@ -5,13 +5,11 @@ nav_exclude: true
 permalink: /WIP
 ---
 
+![Image]
 
 {: .note }
 > {: .opaque }
 > The following projects are planned for release in the future. However, they are currently either incomplete or have yet to be started.
-
-
-![Image]
 
 ## Windhawk
 
