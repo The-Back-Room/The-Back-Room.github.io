@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /WIP
 ---
 
-<img align="center" src="/assets/images/WIP.png" width="80%" />
+<img align="center" src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/WIP.png" width="80%" />
 
 {: .note }
 > {: .opaque }
