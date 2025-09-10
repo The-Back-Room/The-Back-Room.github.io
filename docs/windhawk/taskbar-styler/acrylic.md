@@ -2,7 +2,7 @@
 title: Acrylic UI
 summary: Simple acrylic theme for Windows 11 Taskbar Styler
 parent: Taskbar Styler
-grand_parent: Windhawk
+grand_parent: Windhawk Mods
 permalink: /windhawk/taskbar-styler/acrylic
 ---
 

@@ -2,7 +2,7 @@
 title: Jarvis
 summary: Jarvis icon pack for Windows 11
 parent: Resource Redirect
-grand_parent: Windhawk
+grand_parent: Windhawk Mods
 permalink: /windhawk/resource-redirect/jarvis
 ---
 

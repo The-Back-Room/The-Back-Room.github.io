@@ -2,7 +2,7 @@
 title: Down Aero Squared
 summary: Clean squared theme for Windows 11 File Explorer Styler
 parent: File Explorer Styler
-grand_parent: Windhawk
+grand_parent: Windhawk Mods
 permalink: /windhawk/file-explorer-styler/down-aero-squared
 ---
 

@@ -2,7 +2,7 @@
 title: Down Aero Squared
 summary: Clean squared theme for Windows 11 Taskbar Styler
 parent: Taskbar Styler
-grand_parent: Windhawk
+grand_parent: Windhawk Mods
 permalink: /windhawk/taskbar-styler/down-aero-squared
 ---
 

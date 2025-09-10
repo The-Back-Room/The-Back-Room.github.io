@@ -2,7 +2,7 @@
 title: Acrylic UI
 summary: Simple acrylic theme for Windows 11 File Explorer Styler
 parent: File Explorer Styler
-grand_parent: Windhawk
+grand_parent: Windhawk Mods
 permalink: /windhawk/file-explorer-styler/acrylic
 ---
 
