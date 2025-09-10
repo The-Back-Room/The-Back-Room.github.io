@@ -6,13 +6,9 @@ grand_parent: Windhawk
 permalink: /windhawk/taskbar-styler/acrylic
 ---
 
-## Acrylic UI
-Simple acrylic theme for Windows 11 Taskbar Styler
-
-![Preview](https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/taskbar-styler/acrylic.bmp)
-
 ### Requirements
 
+- [Windhawk]
 - [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
 
 ### Installation
