@@ -5,6 +5,8 @@ parent: Windows Themes
 permalink: /windows-themes/visual-styles
 ---
 
+<h2 align="center" class="text-delta">Visual Styles</h2>
+
 {: .important }
 > {: .opaque }
 > {: .warning }

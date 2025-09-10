@@ -5,6 +5,8 @@ parent: Windows Themes
 permalink: /windows-themes/deskthemepacks
 ---
 
+<h2 align="center" class="text-delta">Deskthemepacks</h2>
+
 {: .note }
 > {: .opaque }
 > Due to common errors with packaging themes into deskthemepack archives, my themes are not packaged into a deskthemepack archive. As such it requires manual installation.

@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /planned-projects
 ---
 
-## Planned Projects
+<h2 align="center" class="text-delta">Planned Projects</h2>
 
 
 {: .note }
