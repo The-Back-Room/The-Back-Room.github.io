@@ -7,10 +7,7 @@ permalink: /windhawk
 
 {: .note }
 > {: .opaque }
-> The following pages contains mods for use with Windhawk.  
-> Please follow the included instructions for proper setup and use. 
-> 
-> Windhawk is a third-party application and is not developed or supported by The Back Room.
+> Windhawk is a third-party application and is not affiliated with The Back Room. Mods listed on this page are created and maintained by members of The Back Room.
 > 
 > - For more information about Windhawk, please visit the [Windhawk website] or join the [Windhawk Discord] server.
 > - For source code and to report issues, please visit the [Windhawk GitHub] page.
