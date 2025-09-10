@@ -1,7 +1,7 @@
 ---
 title: Studio Ghibli
 summary: A theme pack inspired by the films of Studio Ghibli.
-parent: Deskthemepacks
+nav_order: 2
 grand_parent: Windows Themes
 permalink: /windows-themes/deskthemepacks/studio-ghibli
 ---

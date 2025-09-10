@@ -1,6 +1,7 @@
 ---
 title: Lewd Gamer Waifus
 summary: A theme pack featuring wallpapers of lewd gamer waifus.
+nav_order: 5
 parent: Deskthemepacks
 grand_parent: Windows Themes
 permalink: /windows-themes/deskthemepacks/lewd-gamer-waifus

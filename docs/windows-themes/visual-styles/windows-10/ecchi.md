@@ -1,6 +1,7 @@
 ---
 title: Ecchi
 summary: A NSFW Visual Style for Windows 10 19H1-22H2 inspired by Ecchi anime and manga.
+nav_order: 5
 parent: Windows 10
 grand_parent: Visual Styles
 permalink: /windows-themes/visual-styles/windows-10/ecchi

@@ -1,6 +1,7 @@
 ---
 title: Ranma Hentai
 summary: A NSFW theme pack inspired by the Ranma ½ anime series.
+nav_order: 5
 parent: Deskthemepacks
 grand_parent: Windows Themes
 permalink: /windows-themes/deskthemepacks/ranma-hentai

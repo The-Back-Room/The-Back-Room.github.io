@@ -1,6 +1,7 @@
 ---
 title: Unity 2014
 summary: A theme pack inspired by the classic Unity 2014 visual style.
+nav_order: 2
 parent: Deskthemepacks
 grand_parent: Windows Themes
 permalink: /windows-themes/deskthemepacks/unity-2014

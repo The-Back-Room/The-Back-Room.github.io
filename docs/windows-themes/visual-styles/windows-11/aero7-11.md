@@ -1,6 +1,7 @@
 ---
 title: Aero7-11
 summary: A Visual Style for Windows 11 23H1+ inspired by the Windows 7 Aero theme.
+nav_order: 2
 parent: Windows 11
 grand_parent: Visual Styles
 permalink: /windows-themes/visual-styles/windows-11/aero7-11

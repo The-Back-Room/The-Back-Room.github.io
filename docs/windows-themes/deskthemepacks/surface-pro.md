@@ -1,6 +1,7 @@
 ---
 title: Surface Pro
 summary: A theme pack inspired by the Microsoft Surface Pro line of devices.
+nav_order: 2
 parent: Deskthemepacks
 grand_parent: Windows Themes
 permalink: /windows-themes/deskthemepacks/surface-pro

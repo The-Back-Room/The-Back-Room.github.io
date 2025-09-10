@@ -1,6 +1,7 @@
 ---
 title: Once Human
 summary: A Visual Style for Windows 11 23H1+ inspired by the game "Once Human".
+nav_order: 1
 parent: Windows 11
 grand_parent: Visual Styles
 permalink: /windows-themes/visual-styles/windows-11/once-human
