@@ -27,7 +27,7 @@ permalink: /windhawk/resource-redirect/windows-vista
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
 
-[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?ref_type=heads?path=icon-packs/Windows-Vista
+[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-vista/-/archive/main/windows-vista-main.zip
 
  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
  

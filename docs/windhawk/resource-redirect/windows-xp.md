@@ -27,7 +27,7 @@ permalink: /windhawk/resource-redirect/windows-xp
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
 
-[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?ref_type=heads?path=icon-packs/Windows-XP
+[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/archive/main/windows-xp-main.zip
 
  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
  

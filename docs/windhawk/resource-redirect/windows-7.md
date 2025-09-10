@@ -27,7 +27,7 @@ permalink: /windhawk/resource-redirect/windows-7
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
 
-[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?ref_type=heads?path=icon-packs/Windows-7
+[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/archive/main/windows-7-main.zip
 
  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
  
