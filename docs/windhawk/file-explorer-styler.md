@@ -1,7 +1,7 @@
 ---
 title: File Explorer Styler
 summary: Themes for Windhawk Plugin Windows 11 File Explorer Styler
-nav_order: 1.4
+nav_order: 1
 parent: Windhawk Mods
 permalink: /windhawk/file-explorer-styler
 ---
@@ -12,6 +12,8 @@ permalink: /windhawk/file-explorer-styler
 > 
 > - For more information about Windhawk, please visit the [Windhawk website] or join the [Windhawk Discord] server.
 > - For source code and to report issues, please visit the [Windhawk GitHub] page.
+
+<h2 align="center" class="text-delta">File Explorer Styler</h2>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

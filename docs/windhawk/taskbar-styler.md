@@ -1,7 +1,7 @@
 ---
 title: Taskbar Styler
 summary: Themes for Windhawk Plugin Windows 11 Taskbar Styler
-nav_order: 1.3
+nav_order: 1
 parent: Windhawk Mods
 permalink: /windhawk/taskbar-styler
 ---
@@ -12,6 +12,8 @@ permalink: /windhawk/taskbar-styler
 > 
 > - For more information about Windhawk, please visit the [Windhawk website] or join the [Windhawk Discord] server.
 > - For source code and to report issues, please visit the [Windhawk GitHub] page.
+
+<h2 align="center" class="text-delta">Taskbar Styler</h2>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

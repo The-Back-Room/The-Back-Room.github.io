@@ -1,8 +1,8 @@
 ---
 title: Down Aero Squared
 summary: Clean squared theme for Windows 11 Notification Center Styler
+nav_exclude: true
 parent: Notification Center Styler
-grand_parent: Windhawk Mods
 permalink: /windhawk/notification-center-styler/down-aero-squared
 ---
 

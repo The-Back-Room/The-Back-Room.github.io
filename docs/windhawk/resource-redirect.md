@@ -1,7 +1,7 @@
 ---
 title: Resource Redirect
 summary: Custom Icon Packs for Windhawk Plugin Resource Redirect
-nav_order: 2.1
+nav_order: 2
 parent: Windhawk Mods
 permalink: /windhawk/resource-redirect
 ---
@@ -12,6 +12,8 @@ permalink: /windhawk/resource-redirect
 > 
 > - For more information about Windhawk, please visit the [Windhawk website] or join the [Windhawk Discord] server.
 > - For source code and to report issues, please visit the [Windhawk GitHub] page.
+
+<h2 align="center" class="text-delta">Resource Redirect</h2>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

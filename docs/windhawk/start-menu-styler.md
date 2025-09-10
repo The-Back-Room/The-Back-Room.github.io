@@ -1,7 +1,7 @@
 ---
 title: Start Menu Styler
 summary: Themes for Windhawk Plugin Windows 11 Start Menu Styler
-nav_order: 1.2
+nav_order: 1
 parent: Windhawk Mods
 permalink: /windhawk/start-menu-styler
 ---
@@ -12,6 +12,8 @@ permalink: /windhawk/start-menu-styler
 > 
 > - For more information about Windhawk, please visit the [Windhawk website] or join the [Windhawk Discord] server.
 > - For source code and to report issues, please visit the [Windhawk GitHub] page.
+
+<h2 align="center" class="text-delta">Start Menu Styler</h2>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

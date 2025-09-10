@@ -1,8 +1,8 @@
 ---
 title: Unity 2016
 summary: Unity 2016 icon pack for Windows 11
+nav_exclude: true
 parent: Resource Redirect
-grand_parent: Windhawk Mods
 permalink: /windhawk/resource-redirect/unity-2016
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Notification Center Styler
 summary: Themes for Windhawk Plugin Windows 11 Notification Center Styler
-nav_order: 1.1
+nav_order: 1
 parent: Windhawk Mods
 permalink: /windhawk/notification-center-styler
 ---
@@ -12,6 +12,8 @@ permalink: /windhawk/notification-center-styler
 > 
 > - For more information about Windhawk, please visit the [Windhawk website] or join the [Windhawk Discord] server.
 > - For source code and to report issues, please visit the [Windhawk GitHub] page.
+
+<h2 align="center" class="text-delta">Notification Center Styler</h2>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

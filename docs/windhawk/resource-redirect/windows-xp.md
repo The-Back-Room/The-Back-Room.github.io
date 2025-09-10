@@ -1,8 +1,8 @@
 ---
 title: Windows XP
 summary: Windows XP icon pack for Windows 11
+nav_exclude: true
 parent: Resource Redirect
-grand_parent: Windhawk Mods
 permalink: /windhawk/resource-redirect/windows-xp
 ---
 

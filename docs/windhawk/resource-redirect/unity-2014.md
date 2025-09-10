@@ -1,8 +1,8 @@
 ---
 title: Unity 2014
 summary: Unity 2014 icon pack for Windows 11
+nav_exclude: true
 parent: Resource Redirect
-grand_parent: Windhawk Mods
 permalink: /windhawk/resource-redirect/unity-2014
 ---
 
