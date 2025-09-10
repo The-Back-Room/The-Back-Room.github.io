@@ -15,6 +15,8 @@ permalink: /windows-themes/visual-styles/windows-11
 >
 > We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
 
+<h2 align="center" class="text-delta">Windows 11 Visual Styles</h2>
+
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
 [//]: # Resources and links for this page go here.
