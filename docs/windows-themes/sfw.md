@@ -8,7 +8,7 @@ permalink: /windows-themes/sfw
 
 {: .note }
 > {: .opaque }
-> Our website is undergoing a rework. If a theme is not listed here, then the new page has not yet been created.
+> Note:Our website is undergoing a rework. If a theme is not listed here, then the new page has not yet been created.
 >
 > For any theme not listed here, you can find it in one of the following locations:
 > - [Old Repository]  

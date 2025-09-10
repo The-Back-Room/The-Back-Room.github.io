@@ -1,14 +1,18 @@
 ---
-title: WIP
-summary: Work In Progress - Future projects
+title: Planned Projects
+summary: Projects that are planned for release in the future.
 nav_exclude: true
-permalink: /WIP
+permalink: /planned-projects
 ---
 
-<img align="center" src="https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/WIP.png" width="80%" />
+## Planned Projects
+
 
 {: .note }
 > {: .opaque }
+> {: .warning }
+> This list is subject to change at any time.
+> 
 > The following projects are planned for release in the future. However, they are currently either incomplete or have yet to be started.
 
 ## Windhawk
