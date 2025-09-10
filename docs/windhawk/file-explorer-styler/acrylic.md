@@ -25,7 +25,7 @@ Simple acrylic theme for Windows 11 File Explorer Styler
   - `Windows theme accent colorizer`
   - `Immersive darkmode titlebar`
   - `Extend effects into entire window`
-- Set `Windhawk > Translucent Windows > Settings > Effects` to `Mica (SystemBackdrop)`
+- Set `Windhawk > Translucent Windows > Settings > Effects` to `Acrylic (SystemBackdrop)`
 
 ```json
 {
