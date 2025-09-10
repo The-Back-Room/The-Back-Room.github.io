@@ -14,13 +14,6 @@ favicon_ico: "/favicon.ico"
 
 permalink: pretty
 
-defaults:
-  - scope:
-      path: "docs"
-      type: "pages"
-    values:
-      layout: "default"
-
 search_enabled: true
 
 mermaid:
