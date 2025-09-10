@@ -78,24 +78,13 @@
   {%- endif -%}
 
 <hr>
+{% include toc_heading_custom.html %}
+{% include toc_custom/html %}
 <ul>
   {% for nav_child in nav_children %}
-  <table>
-    <tr>
-        <th>{% include toc_heading_custom.html %}</th>
-    </tr>
-    <tr>
-        <td><a href="{{ nav_child.url | relative_url }}">{{ nav_child.title }}</a></tr></td>
-    </tr>
-    <tr>
-        <td>{% if nav_child.summary %}{{ nav_child.summary }}{% endif %}</td>
-    </tr>
-  </table>
-  <!--
   <li>
     <a href="{{ nav_child.url | relative_url }}">{{ nav_child.title }}</a>{% if nav_child.summary %} - {{ nav_child.summary }}{% endif %}
   </li>
-  -->
   {% endfor %}
 </ul>
 

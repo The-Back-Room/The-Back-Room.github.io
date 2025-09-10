@@ -1,0 +1,10 @@
+{% for nav_child in nav_children %}
+<table>
+    <tr>
+        <td><a href="{{ nav_child.url | relative_url }}">{{ nav_child.title }}</a></td>
+    </tr>
+    <tr>
+        <td>{% if nav_child.summary %}{{ nav_child.summary }}{% endif %}</td>
+    </tr>
+</table>
+{% endfor %}
