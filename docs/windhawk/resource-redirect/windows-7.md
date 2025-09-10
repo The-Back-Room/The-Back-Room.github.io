@@ -1,15 +1,14 @@
 ---
-title: HUD Red
-summary: Red-themed icon pack for Windhawk Resource Redirect
-parent: HUD Icon Packs
-grand_parent: Resource Redirect
-permalink: /windhawk/resource-redirect/hud-series/hud-red
+title: Windows 7
+summary: Windows 7 icon pack for Resource Redirect
+parent: Resource Redirect
+grand_parent: Windhawk
+permalink: /windhawk/resource-redirect/windows-7
 ---
 
 ### Requirements
 
 - [Windhawk] Plugin: [Resource Redirect]
-
 ### Instructions
 
  - Download the ZIP archive from the link below.
@@ -25,7 +24,7 @@ permalink: /windhawk/resource-redirect/hud-series/hud-red
  
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
-[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-machine-red/-/archive/main/hud-machine-red-main.zip
+[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?ref_type=heads?path=icon-packs/Windows-7
 
  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
  

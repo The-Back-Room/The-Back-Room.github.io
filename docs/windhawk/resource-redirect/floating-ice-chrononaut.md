@@ -1,14 +1,15 @@
 ---
-title: Windows 7
-summary: Windows 7 icon pack for Resource Redirect
-parent: Windows Icon Packs
-grand_parent: Resource Redirect
-permalink: /windhawk/resource-redirect/windows-series/windows-7
+title: Floating Ice Chrononaut
+summary: Floating Ice Chrononaut icon pack for Resource Redirect
+parent: Resource Redirect
+grand_parent: Windhawk
+permalink: /windhawk/resource-redirect/floating-ice-chrononaut
 ---
 
 ### Requirements
 
 - [Windhawk] Plugin: [Resource Redirect]
+
 ### Instructions
 
  - Download the ZIP archive from the link below.
@@ -24,7 +25,7 @@ permalink: /windhawk/resource-redirect/windows-series/windows-7
  
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
-[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?ref_type=heads?path=icon-packs/Windows-7
+[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/archive/main/floating-ice-chrononaut-main.zip
 
  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
  

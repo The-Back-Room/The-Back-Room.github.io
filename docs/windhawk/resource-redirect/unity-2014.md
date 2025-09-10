@@ -1,9 +1,9 @@
 ---
-title: Plasma Blue
-summary: Blue-themed icon pack for Windhawk Resource Redirect
-parent: Gen2 Icon Packs
-grand_parent: Resource Redirect
-permalink: /windhawk/resource-redirect/gen2-series/gen2-plasma-blue
+title: Unity 2014
+summary: Unity 2014 Icons for Resource Redirect
+parent: Resource Redirect
+grand_parent: Windhawk
+permalink: /windhawk/resource-redirect/unity-2014
 ---
 
 ### Requirements
@@ -25,7 +25,7 @@ permalink: /windhawk/resource-redirect/gen2-series/gen2-plasma-blue
  
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
-[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/archive/main/plasma-blue-main.zip
+[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/archive/main/unity-2014-main.zip
 
  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
  

@@ -1,9 +1,9 @@
 ---
-title: Windows XP
-summary: Windows XP icon pack for Resource Redirect
-parent: Windows Icon Packs
-grand_parent: Resource Redirect
-permalink: /windhawk/resource-redirect/windows-series/windows-xp
+title: HUD Red
+summary: Red-themed icon pack for Windhawk Resource Redirect
+parent: Resource Redirect
+grand_parent: Windhawk
+permalink: /windhawk/resource-redirect/hud-red
 ---
 
 ### Requirements
@@ -25,7 +25,7 @@ permalink: /windhawk/resource-redirect/windows-series/windows-xp
  
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
-[Download ZIP]: https://gitlab.com/the-back-room/resource-redirect/-/archive/main/resource-redirect-main.zip?ref_type=heads?path=icon-packs/Windows-XP
+[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-machine-red/-/archive/main/hud-machine-red-main.zip
 
  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
  

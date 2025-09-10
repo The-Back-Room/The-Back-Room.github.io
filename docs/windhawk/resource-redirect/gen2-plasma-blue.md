@@ -1,10 +1,9 @@
 ---
-title: Floating Ice Chrononaut
-summary: Floating Ice Chrononaut icon pack for Resource Redirect
-nav_order: 3
-parent: Chrononaut Icon Packs
-grand_parent: Resource Redirect
-permalink: /windhawk/resource-redirect/chrononaut-series/floating-ice-chrononaut
+title: Plasma Blue
+summary: Blue-themed icon pack for Windhawk Resource Redirect
+parent: Resource Redirect
+grand_parent: Windhawk
+permalink: /windhawk/resource-redirect/gen2-plasma-blue
 ---
 
 ### Requirements
@@ -26,7 +25,7 @@ permalink: /windhawk/resource-redirect/chrononaut-series/floating-ice-chrononaut
  
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
-[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/archive/main/floating-ice-chrononaut-main.zip
+[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/archive/main/plasma-blue-main.zip
 
  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
  
