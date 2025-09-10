@@ -19,15 +19,13 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/bleach
 > {: .opaque }
 > The following tools are required to use this theme:
 >
-> - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
-> - [WindHawk][WindHawk]
-> - [WindHawk][WindHawk] Plugin: [Bring Back The Borders!][BringBackTheBorders]
-> - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
-> - [Old New Explorer][OldNewExplorer]
-> - [StartAllBack][StartAllBack]
-> - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
-
-![Preview][Preview]
+> - [SecureUXTheme Patcher] and [Windhawk] Plugin: [UXTheme Hook]
+> - [Windhawk]
+> - [Windhawk] Plugin: [Bring Back The Borders!]
+> - [Windhawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored]
+> - [Old New Explorer]
+> - [StartAllBack]
+> - [DWMBlurGlass] and/or [OpenGlass]
 
 ### Instructions
 
@@ -48,22 +46,21 @@ permalink: /windows-themes/sfw/visual-styles/windows-11/bleach
 - Bleach Thousand Year Blood War (Aero7-11)
 - Bleach Thousand Year Blood War (UI-X2)
 
-**Download**: [Download ZIP][DownloadZIP]
+**Download**: [Download ZIP]
 
-<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[WindHawk]: https://windhawk.net/
-[BringBackTheBorders]: https://windhawk.net/mods/w11-dwm-fix
-[SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
-[SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
-[UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
-[OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
+[//]: # Resources and links for this page go here.
+
+[Windhawk]: https://windhawk.net/
+[Bring Back The Borders!]: https://windhawk.net/mods/w11-dwm-fix
+[Logon, Logoff and Shutdown Sounds Restored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
+[SecureUXTheme Patcher]: https://github.com/namazso/SecureUxTheme/
+[UXTheme Hook]: https://windhawk.net/mods/uxtheme-hook/
+[Old New Explorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartAllBack]: https://www.startallback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[Download ZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/bleach/-/archive/main/bleach-main.zip
 
-[Preview]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/bleach/-/raw/main/Extras/Preview.bmp
-
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/bleach/-/archive/main/bleach-main.zip
-
-<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

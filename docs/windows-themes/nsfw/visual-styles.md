@@ -31,7 +31,7 @@ permalink: /windows-themes/nsfw/visual-styles
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[WIP]: /WIP
+[//]: # Resources and links for this page go here.
 
 [Old Repository]: https://gitlab.com/the-back-room/Themes
 [Visual Styles]: https://gitlab.com/the-back-room/visual-styles

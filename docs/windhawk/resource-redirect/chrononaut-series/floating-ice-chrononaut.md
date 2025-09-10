@@ -7,11 +7,9 @@ grand_parent: Resource Redirect
 permalink: /windhawk/resource-redirect/chrononaut-series/floating-ice-chrononaut
 ---
 
-![Preview][Preview]
-
 ### Requirements
 
-- [Windhawk][Windhawk] Plugin: [Resource Redirect][Resource Redirect]
+- [Windhawk] Plugin: [Resource Redirect]
 
 ### Instructions
 
@@ -19,17 +17,16 @@ permalink: /windhawk/resource-redirect/chrononaut-series/floating-ice-chrononaut
  - Extract the contents of the folder into a safe location of your choice. *(Example: C:\Icons\<Icon Pack>\)*
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
-
-**Download**: [Download ZIP][Download ZIP]
-
-
-<!-- ///////////////////////////////////////////////////////////////////////////////// -->
-
-[Preview]: https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp
-
+ 
+ **Download**: [Download ZIP]
+ 
+ <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+ 
+ [//]: # Resources and links for this page go here.
+ 
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
-
 [Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/archive/main/floating-ice-chrononaut-main.zip
 
-<!-- ///////////////////////////////////////////////////////////////////////////////// -->
+ <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+ 

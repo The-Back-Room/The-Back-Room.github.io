@@ -8,8 +8,6 @@ permalink: /windows-themes/nsfw/deskthemepacks/bleach-hentai
 
 ## Bleach Hentai
 
-![Preview][Preview]
-
 {: .note }
 > {: .opaque }
 > Due to common errors with packaging themes into deskthemepack archives, my themes are not packaged into a deskthemepack archive. As such it requires manual installation.
@@ -29,15 +27,12 @@ permalink: /windows-themes/nsfw/deskthemepacks/bleach-hentai
 - Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes`
 - Apply the theme via `Settings > Personalization > Themes`
 
-
-**Download**: [ZIP][ZIP]
-
-<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[Preview]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/-/raw/main/Extras/Preview.bmp
+**Download**: [Download ZIP] 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[ZIP]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/-/archive/main/bleach-hentai-main.zip
+[//]: # Resources and links for this page go here.
 
-<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+[Download ZIP]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/-/archive/main/bleach-hentai-main.zip
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

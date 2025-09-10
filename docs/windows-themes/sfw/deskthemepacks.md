@@ -12,11 +12,11 @@ permalink: /windows-themes/sfw/deskthemepacks
 >
 > For any theme not listed here, you can find it in one of the following locations:
 > - [Old Repository]  
-> - [Deskthemepacks]  
+> - [Deskthemepacks] 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[WIP]: /WIP
+[//]: # Resources and links for this page go here.
 
 [Old Repository]: https://gitlab.com/the-back-room/Themes
 [Deskthemepacks]: https://gitlab.com/the-back-room/deskthemepacks

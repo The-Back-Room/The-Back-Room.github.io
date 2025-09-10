@@ -9,12 +9,10 @@ permalink: /windhawk/file-explorer-styler/acrylic
 ## Acrylic UI
 Simple acrylic theme for Windows 11 File Explorer Styler
 
-![Preview](https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/file-explorer-styler/acrylic.bmp)
-
 ### Requirements
 
-- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 File Explorer Styler](https://windhawk.net/mods/windows-11-file-explorer-styler)
-- [Windhawk](https://windhawk.net/) Plugin: [Translucent Windows](https://windhawk.net/mods/translucent-windows)
+- [Windhawk] Plugin: [Windows 11 File Explorer Styler]
+- [Windhawk] Plugin: [Translucent Windows]
 
 ### Installation
 
@@ -114,3 +112,13 @@ Simple acrylic theme for Windows 11 File Explorer Styler
   "styleConstants[2]": "thickness = 1"
 }
 ```
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[//]: # Resources and links for this page go here.
+
+[Windhawk]: https://windhawk.net/
+[Windows 11 File Explorer Styler]: https://windhawk.net/mods/windows-11-file-explorer-styler
+[Translucent Windows]: https://windhawk.net/mods/translucent-windows
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

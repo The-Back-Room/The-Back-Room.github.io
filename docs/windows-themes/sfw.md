@@ -13,15 +13,14 @@ permalink: /windows-themes/sfw
 > For any theme not listed here, you can find it in one of the following locations:
 > - [Old Repository]  
 > - [Deskthemepacks]  
-> - [Visual Styles]  
+> - [Visual Styles] 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[WIP]: /WIP
+[//]: # Resources and links for this page go here.
 
 [Old Repository]: https://gitlab.com/the-back-room/Themes
 [Deskthemepacks]: https://gitlab.com/the-back-room/deskthemepacks
 [Visual Styles]: https://gitlab.com/the-back-room/visual-styles
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-

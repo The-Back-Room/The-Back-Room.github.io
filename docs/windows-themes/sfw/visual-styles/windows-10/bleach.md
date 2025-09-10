@@ -19,14 +19,12 @@ permalink: /windows-themes/sfw/visual-styles/windows-10/bleach
 > {: .opaque }
 > The following tools are required to use this theme:
 >
-> - [WindHawk][WindHawk]
-> - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
-> - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
-> - [Old New Explorer][OldNewExplorer] or [WindHawk][WindHawk] Plugin: [Aerexplorer][Aerexplorer]
-> - [StartIsBack][StartIsBack]
-> - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
-
-![Preview][Preview]
+> - [SecureUXTheme Patcher] and [WindHawk] Plugin: [UXTheme Hook]
+> - [Windhawk]
+> - [Windhawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored]
+> - [Old New Explorer]
+> - [StartIsBack]
+> - [DWMBlurGlass] and/or [OpenGlass]
 
 ### Instructions
 
@@ -43,22 +41,20 @@ permalink: /windows-themes/sfw/visual-styles/windows-10/bleach
 - Bleach
 - Bleach - Thousand Year Blood War
 
-**Download**: [GitLab][GitLab]
+**Download**: [Download ZIP] 
 
-<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[WindHawk]: https://windhawk.net/
-[SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
-[Aerexplorer]: https://windhawk.net/mods/aerexplorer
-[SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
-[UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
-[OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
+[//]: # Resources and links for this page go here.
+
+[Windhawk]: https://windhawk.net/
+[Logon, Logoff and Shutdown Sounds Restored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
+[SecureUXTheme Patcher]: https://github.com/namazso/SecureUxTheme/
+[UXTheme Hook]: https://windhawk.net/mods/uxtheme-hook/
+[Old New Explorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartIsBack]: https://www.startisback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-22H2
+[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[Download ZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/bleach/-/archive/main/bleach-main.zip
 
-[Preview]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/bleach/-/raw/main/Extras/Preview.bmp
-
-[GitLab]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/bleach/-/archive/main/bleach-main.zip
-
-<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

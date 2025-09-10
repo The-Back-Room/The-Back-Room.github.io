@@ -9,7 +9,12 @@ permalink: /
 Open-Source Development and Customization
 
 
-To see a list of projects currently planned for future release, check out our [WIP] page.
+To see a list of projects currently planned for future release, check out our [Planned Projects] page. 
 
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[WIP]: /WIP
+[//]: # Resources and links for this page go here.
+
+[Planned Projects]: /planned-projects
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

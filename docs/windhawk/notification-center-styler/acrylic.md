@@ -9,11 +9,9 @@ permalink: /windhawk/notification-center-styler/acrylic
 ## Acrylic UI
 Simple acrylic theme for Windows 11 Notification Center Styler
 
-![Preview](https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/notification-center-styler/acrylic.bmp)
-
 ### Requirements
 
-- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
+- [Windhawk] Plugin: [Windows 11 Notification Center Styler]
 
 ### Installation
 
@@ -291,3 +289,12 @@ Simple acrylic theme for Windows 11 Notification Center Styler
   "styleConstants[2]": "radius = 2.5"
 }
 ```
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[//]: # Resources and links for this page go here.
+
+[Windhawk]: https://windhawk.net/
+[Windows 11 Notification Center Styler]: https://windhawk.net/mods/windows-11-notification-center-styler
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

@@ -9,7 +9,7 @@ permalink: /windhawk/resource-redirect/magnum-dark
 
 ### Requirements
 
-- [Windhawk][Windhawk] Plugin: [Resource Redirect][Resource Redirect]
+- [Windhawk] Plugin: [Resource Redirect]
 
 ### Instructions
 
@@ -17,15 +17,15 @@ permalink: /windhawk/resource-redirect/magnum-dark
  - Extract the contents of the folder into a safe location of your choice. *(Example: C:\Icons\<Icon Pack>\)*
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
-
-**Download**: [Download ZIP][Download ZIP]
-
-
-<!-- ///////////////////////////////////////////////////////////////////////////////// -->
-
+ 
+ **Download**: [Download ZIP]
+ 
+ <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+ 
+ [//]: # Resources and links for this page go here.
+ 
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
-
 [Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/archive/main/magnum-dark-main.zip
 
 <!-- ///////////////////////////////////////////////////////////////////////////////// -->

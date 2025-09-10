@@ -8,8 +8,6 @@ permalink: /windows-themes/sfw/deskthemepacks/bleach
 
 ## Bleach
 
-![BLEACH][Preview-1] ![BLEACH Thousand Year Blood War][Preview-2]
-
 {: .note }
 > {: .opaque }
 > Due to common errors with packaging themes into deskthemepack archives, my themes are not packaged into a deskthemepack archive. As such it requires manual installation.
@@ -34,16 +32,13 @@ permalink: /windows-themes/sfw/deskthemepacks/bleach
 - BLEACH
 - BLEACH: Thousand Year Blood War
 
-**Download**: [ZIP][ZIP]
-
-<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[Preview-1]: https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview.bmp
-[Preview-2]: https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview-2.bmp
+**Download**: [Download ZIP] 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/archive/main/bleach-main.zip
+[//]: # Resources and links for this page go here.
+
+[Download ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/archive/main/bleach-main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

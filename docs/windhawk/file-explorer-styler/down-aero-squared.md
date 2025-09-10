@@ -9,12 +9,10 @@ permalink: /windhawk/file-explorer-styler/down-aero-squared
 ## Down Aero Squared
 Clean squared theme for Windows 11 File Explorer Styler
 
-![Preview](https://raw.githubusercontent.com/The-Back-Room/The-Back-Room.github.io/refs/heads/main/docs/assets/images/previews/file-explorer-styler/down-aero-squared.bmp)
-
 ### Requirements
 
-- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 File Explorer Styler](https://windhawk.net/mods/windows-11-file-explorer-styler)
-- [Windhawk](https://windhawk.net/) Plugin: [Translucent Windows](https://windhawk.net/mods/translucent-windows)
+- [Windhawk] Plugin: [Windows 11 File Explorer Styler]
+- [Windhawk] Plugin: [Translucent Windows]
 
 ### Installation
 
@@ -153,3 +151,13 @@ Clean squared theme for Windows 11 File Explorer Styler
   "controlStyles[24].styles[1]": "Margin = 2,-9,0,1"
 }
 ```
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[//]: # Resources and links for this page go here.
+
+[Windhawk]: https://windhawk.net/
+[Windows 11 File Explorer Styler]: https://windhawk.net/mods/windows-11-file-explorer-styler
+[Translucent Windows]: https://windhawk.net/mods/translucent-windows
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

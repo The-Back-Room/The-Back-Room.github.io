@@ -28,11 +28,11 @@ permalink: /windows-themes/nsfw/visual-styles/windows-11
 >
 > For any theme not listed here, you can find it in one of the following locations:
 > - [Old Repository]  
-> - [Visual Styles]  
+> - [Visual Styles]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[WIP]: /WIP
+[//]: # Resources and links for this page go here.
 
 [Old Repository]: https://gitlab.com/the-back-room/Themes
 [Visual Styles]: https://gitlab.com/the-back-room/visual-styles

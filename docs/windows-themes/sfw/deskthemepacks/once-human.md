@@ -8,8 +8,6 @@ permalink: /windows-themes/sfw/deskthemepacks/once-human
 
 ## Once Human
 
-![Preview][Preview]
-
 {: .note }
 > {: .opaque }
 > Due to common errors with packaging themes into deskthemepack archives, my themes are not packaged into a deskthemepack archive. As such it requires manual installation.
@@ -28,15 +26,13 @@ permalink: /windows-themes/sfw/deskthemepacks/once-human
 - Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes`
 - Apply the theme via `Settings >> Personlization >> Themes`
 
-**Download**: [ZIP][ZIP]
+**Download**: [Download ZIP] 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/raw/main/Extras/Preview.bmp
+[//]: # Resources and links for this page go here.
 
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip
+[Download ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

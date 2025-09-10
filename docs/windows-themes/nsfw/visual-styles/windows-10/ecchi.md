@@ -19,12 +19,12 @@ permalink: /windows-themes/nsfw/visual-styles/windows-10/ecchi
 > {: .opaque }
 > The following tools are required to use this theme:
 >
-> - [SecureUXTheme Patcher][SecureUXTheme] and [WindHawk][WindHawk] Plugin: [UXTheme Hook][UXThemeHook]
-> - [WindHawk][WindHawk]
-> - [WindHawk][WindHawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored][SoundsRestored]
-> - [Old New Explorer][OldNewExplorer]
-> - [StartIsBack][StartIsBack]
-> - [DWMBlurGlass][DWMBlurGlass] and/or [OpenGlass][OpenGlass]
+> - [SecureUXTheme Patcher] and [WindHawk] Plugin: [UXTheme Hook]
+> - [Windhawk]
+> - [Windhawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored]
+> - [Old New Explorer]
+> - [StartIsBack]
+> - [DWMBlurGlass] and/or [OpenGlass]
 
 ### Instructions
 
@@ -36,19 +36,20 @@ permalink: /windows-themes/nsfw/visual-styles/windows-10/ecchi
 - Custom cursors
 - Custom sounds
 
-**Download**: [Download ZIP][DownloadZIP]
+**Download**: [Download ZIP] 
 
-<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[WindHawk]: https://windhawk.net/
-[SoundsRestored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
-[SecureUXTheme]: https://github.com/namazso/SecureUxTheme/
-[UXThemeHook]: https://windhawk.net/mods/uxtheme-hook/
-[OldNewExplorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
+[//]: # Resources and links for this page go here.
+
+[Windhawk]: https://windhawk.net/
+[Logon, Logoff and Shutdown Sounds Restored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
+[SecureUXTheme Patcher]: https://github.com/namazso/SecureUxTheme/
+[UXTheme Hook]: https://windhawk.net/mods/uxtheme-hook/
+[Old New Explorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
 [DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
 [StartIsBack]: https://www.startisback.com/
 [OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[Download ZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/ecchi/-/archive/main/ecchi-main.zip
 
-[DownloadZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/ecchi/-/archive/main/ecchi-main.zip
-
-<!-- ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

@@ -24,7 +24,7 @@ permalink: /windows-themes/nsfw
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[WIP]: /WIP
+[//]: # Resources and links for this page go here.
 
 [Old Repository]: https://gitlab.com/the-back-room/Themes
 [Deskthemepacks]: https://gitlab.com/the-back-room/deskthemepacks

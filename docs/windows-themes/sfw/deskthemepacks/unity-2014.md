@@ -9,8 +9,6 @@ permalink: /windows-themes/sfw/deskthemepacks/unity-2014
 ## Unity 2014
 Tribute to the classic Unity 2014 Visual Stlye suite created by neiio in native windows theme format
 
-![Preview][Preview]
-
 {: .note }
 > {: .opaque }
 > Due to common errors with packaging themes into deskthemepack archives, my themes are not packaged into a deskthemepack archive. As such it requires manual installation.
@@ -31,14 +29,12 @@ Tribute to the classic Unity 2014 Visual Stlye suite created by neiio in native 
 - Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes`
 - Apply the theme via `Settings >> Personlization >> Themes`
 
-**Download**: [ZIP][ZIP]
+**Download**: [Download ZIP] 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[Preview]: https://gitlab.com/the-back-room/deskthemepacks/sfw/Unity-2014/-/raw/main/Extras/Preview.bmp
+[//]: # Resources and links for this page go here.
 
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/archive/main/unity-2014-main.zip
+[Download ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/archive/main/unity-2014-main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
