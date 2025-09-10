@@ -10,6 +10,10 @@ color_scheme: dark
 
 social_image: "/assets/images/social-preview.jpg"
 
+logo: "/assets/images/logo.png"
+
+banner_image: "/assets/images/banner.png"
+
 favicon_ico: "/favicon.ico"
 
 permalink: pretty
