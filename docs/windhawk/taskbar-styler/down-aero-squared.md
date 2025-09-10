@@ -9,7 +9,7 @@ permalink: /windhawk/taskbar-styler/down-aero-squared
 ### Requirements
 
 - [Windhawk]
-- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
+- [Windhawk] Plugin: [Windows 11 Taskbar Styler]
 
 ### Installation
 
@@ -113,3 +113,12 @@ permalink: /windhawk/taskbar-styler/down-aero-squared
   "resourceVariables[0].value": "",
 }
 ```
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[//]: # Resources and links for this page go here.
+
+[Windhawk]: https://windhawk.net/
+[Windows 11 Taskbar Styler]: https://windhawk.net/mods/windows-11-taskbar-styler
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

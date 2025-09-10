@@ -8,7 +8,7 @@ permalink: /windhawk/resource-redirect/unity-2014
 
 ### Requirements
 
-- [Windhawk]
+- [Windhawk] 
 - [Windhawk] Plugin: [Resource Redirect]
 
 ### Instructions

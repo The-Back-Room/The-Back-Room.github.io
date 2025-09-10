@@ -8,7 +8,7 @@ permalink: /windhawk/notification-center-styler/acrylic
 
 ### Requirements
 
-- [Windhawk]
+- [Windhawk] 
 - [Windhawk] Plugin: [Windows 11 Notification Center Styler]
 
 ### Installation

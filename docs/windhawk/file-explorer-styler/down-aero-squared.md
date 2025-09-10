@@ -8,7 +8,7 @@ permalink: /windhawk/file-explorer-styler/down-aero-squared
 
 ### Requirements
 
-- [Windhawk]
+- [Windhawk] 
 - [Windhawk] Plugin: [Windows 11 File Explorer Styler]
 - [Windhawk] Plugin: [Translucent Windows]
 

@@ -8,7 +8,7 @@ permalink: /windhawk/resource-redirect/windows-7
 
 ### Requirements
 
-- [Windhawk]
+- [Windhawk] 
 - [Windhawk] Plugin: [Resource Redirect]
 
 ### Instructions

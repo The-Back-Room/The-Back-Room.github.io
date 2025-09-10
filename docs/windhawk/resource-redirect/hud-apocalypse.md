@@ -8,7 +8,7 @@ permalink: /windhawk/resource-redirect/hud-apocalypse
 
 ### Requirements
 
-- [Windhawk]
+- [Windhawk] 
 - [Windhawk] Plugin: [Resource Redirect]
 
 ### Instructions

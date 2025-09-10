@@ -8,7 +8,7 @@ permalink: /windhawk/resource-redirect/floating-ice-chrononaut
 
 ### Requirements
 
-- [Windhawk]
+- [Windhawk] 
 - [Windhawk] Plugin: [Resource Redirect]
 
 ### Instructions

@@ -8,7 +8,7 @@ permalink: /windhawk/resource-redirect/jarvis
 
 ### Requirements
 
-- [Windhawk]
+- [Windhawk] 
 - [Windhawk] Plugin: [Resource Redirect]
 
 ### Instructions

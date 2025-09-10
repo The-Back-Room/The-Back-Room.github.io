@@ -8,7 +8,7 @@ permalink: /windhawk/resource-redirect/gen2-plasma-blue
 
 ### Requirements
 
-- [Windhawk]
+- [Windhawk] 
 - [Windhawk] Plugin: [Resource Redirect]
 
 ### Instructions

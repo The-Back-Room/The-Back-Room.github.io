@@ -9,7 +9,7 @@ permalink: /windhawk/taskbar-styler/acrylic
 ### Requirements
 
 - [Windhawk]
-- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
+- [Windhawk] Plugin: [Windows 11 Taskbar Styler]
 
 ### Installation
 
@@ -115,3 +115,12 @@ permalink: /windhawk/taskbar-styler/acrylic
   "styleConstants[3]": "forground = White"
 }
 ```
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+
+[//]: # Resources and links for this page go here.
+
+[Windhawk]: https://windhawk.net/
+[Windows 11 Taskbar Styler]: https://windhawk.net/mods/windows-11-taskbar-styler
+
+<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

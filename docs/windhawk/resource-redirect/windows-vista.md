@@ -8,7 +8,7 @@ permalink: /windhawk/resource-redirect/windows-vista
 
 ### Requirements
 
-- [Windhawk]
+- [Windhawk] 
 - [Windhawk] Plugin: [Resource Redirect]
 
 ### Instructions
