@@ -14,14 +14,14 @@ permalink: /windhawk/file-explorer-styler/down-aero-squared
 
 ### Installation
 
-- Copy and paste the code below into `Windhawk >>  Windows 11 File Explorer Styler >> Advanced >> Mod Settings`
-- Click `Save`, then click `Load`
-- Turn on the following settings in `Windhawk > Translucent Windows > Settings`:
-  - `Windows theme custom rendering`
-  - `Windows theme accent colorizer`
-  - `Immersive darkmode titlebar`
-  - `Extend effects into entire window`
-- Set `Windhawk > Translucent Windows > Settings > Effects` to `Acrylic (SystemBackdrop)`
+- Copy and paste the code below into **Windhawk >>  Windows 11 File Explorer Styler >> Advanced >> Mod Settings**
+- Click **Save**, then click **Load**
+- Turn on the following settings in **Windhawk > Translucent Windows > Settings**:
+  - **Windows theme custom rendering**
+  - **Windows theme accent colorizer**
+  - **Immersive darkmode titlebar**
+  - **Extend effects into entire window**
+- Set **Windhawk > Translucent Windows > Settings > Effects** to **Acrylic (SystemBackdrop)**
 
 ```json
 {

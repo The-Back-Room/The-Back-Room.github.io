@@ -13,8 +13,8 @@ permalink: /windhawk/notification-center-styler/acrylic
 
 ### Installation
 
-- Copy and paste the code below into `Windhawk >> Windows 11 Notification Center Styler >> Advanced >> Mod Settings`
-- Click `Save`, then click `Load`
+- Copy and paste the code below into **Windhawk >> Windows 11 Notification Center Styler >> Advanced >> Mod Settings**
+- Click **Save**, then click **Load**
 
 ```json
 {

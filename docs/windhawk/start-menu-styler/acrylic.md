@@ -13,8 +13,8 @@ permalink: /windhawk/start-menu-styler/acrylic
 
 ### Installation
 
-- Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> Advanced >> Mod Settings`
-- Click `Save`, then click `Load`
+- Copy and paste the code below into **Windhawk >> Windows 11 Start Menu Styler >> Advanced >> Mod Settings**
+- Click **Save**, then click **Load**
 
 ```json
 {
