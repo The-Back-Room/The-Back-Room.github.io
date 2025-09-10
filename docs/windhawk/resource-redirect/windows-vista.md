@@ -1,6 +1,6 @@
 ---
 title: Windows Vista
-summary: Windows Vista icon pack for Resource Redirect
+summary: Windows Vista icon pack for Windows 11
 parent: Resource Redirect
 grand_parent: Windhawk
 permalink: /windhawk/resource-redirect/windows-vista

@@ -1,6 +1,6 @@
 ---
 title: Gen2 Plasma Blue
-summary: Blue-themed icon pack for Windhawk Resource Redirect
+summary: Blue-themed icon pack for Windows 11
 parent: Resource Redirect
 grand_parent: Windhawk
 permalink: /windhawk/resource-redirect/gen2-plasma-blue

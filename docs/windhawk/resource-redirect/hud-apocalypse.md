@@ -1,9 +1,9 @@
 ---
-title: HUD Red
-summary: Red-themed icon pack for Windhawk Resource Redirect
+title: HUD Apocalypse
+summary: HUD Apocalypse icon pack for Windows 11
 parent: Resource Redirect
 grand_parent: Windhawk
-permalink: /windhawk/resource-redirect/hud-red
+permalink: /windhawk/resource-redirect/hud-apocalypse
 ---
 
 ### Requirements
@@ -25,7 +25,7 @@ permalink: /windhawk/resource-redirect/hud-red
  
 [Windhawk]: https://windhawk.net/
 [Resource Redirect]: https://windhawk.net/mods/icon-resource-redirect
-[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-machine-red/-/archive/main/hud-machine-red-main.zip
+[Download ZIP]: https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/archive/main/hud-apocalypse-main.zip
 
  <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
  

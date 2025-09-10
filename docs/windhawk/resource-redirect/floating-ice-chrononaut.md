@@ -1,6 +1,6 @@
 ---
 title: Floating Ice Chrononaut
-summary: Floating Ice Chrononaut icon pack for Resource Redirect
+summary: Floating Ice Chrononaut icon pack for Windows 11
 parent: Resource Redirect
 grand_parent: Windhawk
 permalink: /windhawk/resource-redirect/floating-ice-chrononaut

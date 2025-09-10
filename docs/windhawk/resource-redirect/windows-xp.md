@@ -1,6 +1,6 @@
 ---
 title: Windows XP
-summary: Windows XP icon pack for Resource Redirect
+summary: Windows XP icon pack for Windows 11
 parent: Resource Redirect
 grand_parent: Windhawk
 permalink: /windhawk/resource-redirect/windows-xp

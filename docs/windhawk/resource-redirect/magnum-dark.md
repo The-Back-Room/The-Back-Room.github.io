@@ -1,6 +1,6 @@
 ---
 title: Magnum Dark
-summary: Magnum Dark icon pack for Resource Redirect
+summary: Magnum Dark icon pack for Windows 11
 parent: Resource Redirect
 grand_parent: Windhawk
 permalink: /windhawk/resource-redirect/magnum-dark
