@@ -4,7 +4,7 @@ summary: A Visual Style for Windows 10 19H1-22H2 inspired by the BLEACH anime an
 nav_order: 1
 parent: Windows 10
 grand_parent: Visual Styles
-permalink: /windows-themes/windows-10/bleach
+permalink: /windows-themes/visual-styles/windows-10/bleach
 ---
 
 ## BLEACH
