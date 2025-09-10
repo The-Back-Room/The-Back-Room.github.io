@@ -78,8 +78,18 @@
   {%- endif -%}
 
 <hr>
-{% include toc_heading_custom.html %}
-{% include toc_custom/html %}
+<table class="table-auto w-full mb-4 border border-gray-200 dark:border-gray-700">
+    <tr class="tr-bg-gray-100 dark:bg-gray-800">
+        <th class="th">{% include toc_heading_custom.html %}</th>
+    </tr>
+    <tr class="tr-bg-gray-100 dark:bg-gray-800">
+        <td class="td"><a href="{{ nav_child.url | relative_url }}">{{ nav_child.title }}</a></td>
+    </tr>
+    <tr class="tr-bg-gray-100 dark:bg-gray-800">
+        <td class="td">{% if nav_child.summary %}{{ nav_child.summary }}{% endif %}</td>
+    </tr>
+</table>
+<!--
 <ul>
   {% for nav_child in nav_children %}
   <li>
@@ -87,5 +97,5 @@
   </li>
   {% endfor %}
 </ul>
-
+-->
 {%- endif -%}
