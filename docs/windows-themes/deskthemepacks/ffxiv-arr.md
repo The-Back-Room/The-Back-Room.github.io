@@ -1,9 +1,9 @@
 ---
 title: Final Fantasy XIV - A Realm Reborn
 summary: A theme pack inspired by Final Fantasy XIV.
+nav_exclude: true
 nav_order: 3
 parent: Deskthemepacks
-grand_parent: Windows Themes
 permalink: /windows-themes/deskthemepacks/ffxiv-arr
 ---
 

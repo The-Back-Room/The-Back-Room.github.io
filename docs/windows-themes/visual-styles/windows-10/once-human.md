@@ -1,9 +1,9 @@
 ---
 title: Once Human
 summary: A Visual Style for Windows 10 19H1-22H2 inspired by the game "Once Human".
+nav_exclude: true
 nav_order: 1
 parent: Windows 10
-grand_parent: Visual Styles
 permalink: /windows-themes/visual-styles/windows-10/once-human
 ---
 

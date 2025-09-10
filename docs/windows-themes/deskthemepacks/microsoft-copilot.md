@@ -1,9 +1,9 @@
 ---
 title: Microsoft Copilot
 summary: A theme pack inspired by Microsoft's Copilot feature.
+nav_exclude: true
 nav_order: 2
 parent: Deskthemepacks
-grand_parent: Windows Themes
 permalink: /windows-themes/deskthemepacks/microsoft-copilot
 ---
 

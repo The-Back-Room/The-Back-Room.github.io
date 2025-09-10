@@ -1,9 +1,9 @@
 ---
 title: BLEACH
 summary: A theme pack inspired by the BLEACH anime and manga series.
+nav_exclude: true
 nav_order: 1
 parent: Deskthemepacks
-grand_parent: Windows Themes
 permalink: /windows-themes/deskthemepacks/bleach
 ---
 

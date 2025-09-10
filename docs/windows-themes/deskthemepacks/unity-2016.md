@@ -1,9 +1,9 @@
 ---
 title: Unity 2016
 summary: A theme pack inspired by the classic Unity 2016 visual style.
+nav_exclude: true
 nav_order: 2
 parent: Deskthemepacks
-grand_parent: Windows Themes
 permalink: /windows-themes/deskthemepacks/unity-2016
 ---
 
