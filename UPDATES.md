@@ -11,8 +11,8 @@ published: false
 > 🟨 = Incomplete  
 > 🟥 = Not Started  
 
-| Status | Task |
-| --- | --- | --- |
+| Status | Task |  
+| --- | --- |
 | 🟨 | Add preview images to all projects |
 | 🟨 | Add in-site pages for deskthemepacks |
 | 🟨 | Move each project into it's own GitLab repository |
