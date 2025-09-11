@@ -1,6 +1,6 @@
 ---
 title: Sexy Naruto Girls
-summary: A NSFW Visual Style for Windows 11 23H1-24H2 featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan.
+summary: A NSFW Visual Style for Windows 11 23H1+ featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan.
 nav_exclude: true
 nav_order: 5
 parent: Windows 11
@@ -8,7 +8,7 @@ permalink: /windows-themes/visual-styles/windows-11/sexy-naruto-girls
 ---
 
 ## Sexy Naruto Girls
-A NSFW Visual Style for Windows 11 23H1-24H2 featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan.
+A NSFW Visual Style for Windows 11 23H1+ featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan.
 
 ### Instructions
 
@@ -20,17 +20,9 @@ A NSFW Visual Style for Windows 11 23H1-24H2 featuring wallpapers of girls from 
 ### Features
 
 - Multiple Styles
+- Wallpapers by Sakimichan
 - Custom cursors
 - Custom sounds
-
-### Included Themes
-
-- Sexy Naruto Girls (sexy-naruto-girls)
-- Sexy Naruto Girls (sexy-naruto-girls) (Nude)
-- Sexy Naruto Girls (sexy-naruto-girls) (Nude) (Alt)
-- Sexy Naruto Girls (UI-X2)
-- Sexy Naruto Girls (UI-X2) (Nude)
-- Sexy Naruto Girls (UI-X2) (Nude) (Alt)
 
 **Download**: [Download ZIP]
 

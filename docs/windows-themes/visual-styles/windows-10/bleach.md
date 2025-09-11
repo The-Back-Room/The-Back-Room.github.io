@@ -10,26 +10,10 @@ permalink: /windows-themes/visual-styles/windows-10/bleach
 ## BLEACH
 A Visual Style for Windows 10 19H1-22H2 inspired by the BLEACH anime and manga series.
 
-{: .important}
-> {: .opaque }
-> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  
-> Patching your system files **CAN** and **WILL** brick your system if done wrong.
->
-> We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
-
-{: .note }
-> {: .opaque }
-> The following tools are required to use this theme:
->
-> - [SecureUXTheme Patcher] and [WindHawk] Plugin: [UXTheme Hook]
-> - [Windhawk]
-> - [Windhawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored]
-> - [Old New Explorer]
-> - [StartIsBack]
-> - [DWMBlurGlass] and/or [OpenGlass]
-
 ### Instructions
 
+- Install the prequisites listed on the previous page.
+- Download the ZIP archive from the link below.
 - Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 - Apply the theme via `Settings > Personalization > Themes`
 
@@ -37,11 +21,8 @@ A Visual Style for Windows 10 19H1-22H2 inspired by the BLEACH anime and manga s
 
 - Custom cursors
 - Custom sounds
-
-### Included Themes
-
-- Bleach
-- Bleach - Thousand Year Blood War
+- Multiple wallpapers
+- Multiple themes
 
 **Download**: [Download ZIP] 
 
@@ -49,14 +30,7 @@ A Visual Style for Windows 10 19H1-22H2 inspired by the BLEACH anime and manga s
 
 [//]: # Resources and links for this page go here.
 
-[Windhawk]: https://windhawk.net/
-[Logon, Logoff and Shutdown Sounds Restored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
-[SecureUXTheme Patcher]: https://github.com/namazso/SecureUxTheme/
-[UXTheme Hook]: https://windhawk.net/mods/uxtheme-hook/
-[Old New Explorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
-[DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
-[StartIsBack]: https://www.startisback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[Preivew]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/bleach/-/raw/main/Extras/Preview.bmp
 [Download ZIP]: https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/bleach/-/archive/main/bleach-main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

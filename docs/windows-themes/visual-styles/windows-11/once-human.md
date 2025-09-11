@@ -1,6 +1,6 @@
 ---
 title: Once Human
-summary: A Visual Style for Windows 11 23H1-24H2 inspired by the game "Once Human".
+summary: A Visual Style for Windows 11 23H1+ inspired by the game "Once Human".
 nav_exclude: true
 nav_order: 1
 parent: Windows 11
@@ -8,7 +8,7 @@ permalink: /windows-themes/visual-styles/windows-11/once-human
 ---
 
 ## Once Human
-A Visual Style for Windows 11 23H1-24H2 inspired by the game "Once Human".
+A Visual Style for Windows 11 23H1+ inspired by the game "Once Human".
 
 ### Instructions
 
@@ -19,15 +19,10 @@ A Visual Style for Windows 11 23H1-24H2 inspired by the game "Once Human".
 
 ### Features
 
-- Multiple Backgrounds
 - Multiple Styles
+- Multiple Backgrounds
 - Custom Cursors
 - Custom Sounds
-
-### Included Themes
-
-- Once Human (Aero7-11)
-- Once Human (UI-X2)
 
 **Download**: [Download ZIP]
 

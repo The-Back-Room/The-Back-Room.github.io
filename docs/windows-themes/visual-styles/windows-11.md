@@ -13,23 +13,18 @@ permalink: /windows-themes/visual-styles/windows-11
 >
 > If you find that you are unable to use custom MSSTYLE themes after patching, you may need to revert to an earlier version of Windows 11 (23H1) or wait for a future update that may address this issue.
 
-## Prerequisits
-
-{: .note }
-> {: .opaque }
-> The following tools are required to use this theme:
->
-> - [SecureUXTheme Patcher] and [Windhawk] Plugin: [UXTheme Hook]
-> - [Windhawk]
-> - [Windhawk] Plugin: [Bring Back The Borders!]
-> - [Windhawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored]
-> - [Old New Explorer]
-> - [StartAllBack]
-> - [DWMBlurGlass] and/or [OpenGlass]
-
-
-
 <h2 align="center" class="text-delta">Windows 11 Visual Styles</h2>
+
+## Prerequisites
+
+- [SecureUXTheme Patcher] and [Windhawk] Plugin: [UXTheme Hook]
+- [Windhawk]
+- [Windhawk] Plugin: [Bring Back The Borders!]
+- [Windhawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored]
+- [Old New Explorer]
+- [StartAllBack]
+- [DWMBlurGlass] and/or [OpenGlass]
+
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 

@@ -1,6 +1,6 @@
 ---
 title: Bleach
-summary: A Visual Style for Windows 11 23H1-24H2 inspired by the Bleach anime series.
+summary: A Visual Style for Windows 11 23H1+ inspired by the Bleach anime series.
 nav_exclude: true
 nav_order: 1
 parent: Windows 11
@@ -8,7 +8,7 @@ permalink: /windows-themes/visual-styles/windows-11/bleach
 ---
 
 ## BLEACH
-A Visual Style for Windows 11 23H1-24H2 inspired by the Bleach anime series.
+A Visual Style for Windows 11 23H1+ inspired by the Bleach anime series.
 
 ### Instructions
 
@@ -23,13 +23,6 @@ A Visual Style for Windows 11 23H1-24H2 inspired by the Bleach anime series.
 - Multiple Styles
 - Custom Cursors
 - Custom Sounds
-
-### Included Themes
-
-- Bleach (Aero7-11)
-- Bleach (UI-X2)
-- Bleach Thousand Year Blood War (Aero7-11)
-- Bleach Thousand Year Blood War (UI-X2)
 
 **Download**: [Download ZIP]
 

@@ -1,6 +1,6 @@
 ---
 title: FFXIV Waifus
-summary: A NSFW Visual Style for Windows 11 23H1-24H2 inspired by Final Fantasy XIV.
+summary: A NSFW Visual Style for Windows 11 23H1+ inspired by Final Fantasy XIV.
 nav_exclude: true
 nav_order: 5
 parent: Windows 11
@@ -8,7 +8,7 @@ permalink: /windows-themes/visual-styles/windows-11/ffxiv-waifus
 ---
 
 ## Final Fantasy XIV Waifus
-A NSFW Visual Style for Windows 11 23H1-24H2 inspired by Final Fantasy XIV.
+A NSFW Visual Style for Windows 11 23H1+ inspired by Final Fantasy XIV.
 
 ### Instructions
 
@@ -20,13 +20,9 @@ A NSFW Visual Style for Windows 11 23H1-24H2 inspired by Final Fantasy XIV.
 ### Features
 
 - Multiple Styles
+- Multiple Backgrounds
 - Custom cursors
 - Custom sounds
-
-### Included Themes
-
-- Final Fantasy XIV Waifus (Aero7-11)
-- Final Fantasy XIV Waifus (UI-X2)
 
 **Download**: [Download ZIP]
 

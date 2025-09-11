@@ -1,6 +1,6 @@
 ---
 title: Ecchi
-summary: A NSFW Visual Style for Windows 11 23H1-24H2inspired by Ecchi anime and manga.
+summary: A NSFW Visual Style for Windows 11 23H1+inspired by Ecchi anime and manga.
 nav_exclude: true
 nav_order: 5
 parent: Windows 11
@@ -8,7 +8,7 @@ permalink: /windows-themes/visual-styles/windows-11/ecchi
 ---
 
 ## Ecchi
-A NSFW Visual Style for Windows 11 23H1-24H2inspired by Ecchi anime and manga.
+A NSFW Visual Style for Windows 11 23H1+inspired by Ecchi anime and manga.
 
 ### Instructions
 
@@ -20,13 +20,9 @@ A NSFW Visual Style for Windows 11 23H1-24H2inspired by Ecchi anime and manga.
 ### Features
 
 - Multiple Styles
+- Multiple Backgrounds
 - Custom cursors
 - Custom sounds
-
-### Included Themes
-
-- Ecchi (Aero7-11)
-- Ecchi (UI-X2)
 
 **Download**: [Download ZIP]
 
