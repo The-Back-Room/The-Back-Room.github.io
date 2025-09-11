@@ -6,10 +6,7 @@ parent: Windows Themes
 permalink: /WindowsThemes/Deskthemepacks
 ---
 
-<h2 align="center" class="text-delta">Deskthemepacks</h2>
-
 ## Deskthemepacks
-Deskthemepacks are a packaging format for Windows themes. They are essentially ZIP archives with a different file extension. They can be created by right-clicking on a theme in the Personalization settings and selecting "Save theme for sharing". This will create a deskthemepack file that can be shared with others.
 
 ### Available Themes
 
@@ -32,7 +29,9 @@ Deskthemepacks are a packaging format for Windows themes. They are essentially Z
 - [Unity 2016](/WindowsThemes/Deskthemepacks/Unity2016)
 
 ### Notes
-Due to common errors with packaging themes into deskthemepack archives, my themes are not packaged into a deskthemepack archive. As such it requires manual installation. To install these themes follow the instructions listed below.
+
+- Deskthemepacks are a packaging format for Windows themes. They are essentially ZIP archives with a different file extension. They can be created by right-clicking on a theme in the Personalization settings and selecting "Save theme for sharing". This will create a deskthemepack file that can be shared with others.
+- Due to common errors with packaging themes into Microsoft's deskthemepack archives, our themes are not packaged into a deskthemepack archive. As such they require manual installation. To install our themes follow the instructions listed below.
 
 #### Instructions
 
