@@ -3,7 +3,6 @@ title: Lewd Gamer Waifus
 summary: A NSFW Visual Style for Windows 10 19H1-22H2 inspired by lewd gamer waifus.
 nav_exclude: true
 has_toc: false
-parent: Windows 10
 permalink: /WindowsThemes/VisualStyles/Windows10/LewdGamerWaifus
 ---
 

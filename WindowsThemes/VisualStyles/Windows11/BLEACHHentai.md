@@ -3,8 +3,7 @@ title: Bleach Hentai
 summary: A NSFW Visual Style for Windows 11 23H1+ inspired by the Bleach anime series.
 nav_exclude: true
 has_toc: false
-parent: Windows 11
-permalink: /WindowsThemes/VisualStyles/
+permalink: /WindowsThemes/VisualStyles/BLEACHHentai
 ---
 
 ## BLEACH Hentai

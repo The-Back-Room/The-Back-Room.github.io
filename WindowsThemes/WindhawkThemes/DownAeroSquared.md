@@ -4,7 +4,6 @@ summary: A Visual Style for Windows 11 23H1+ with squared window corners and acr
 nav_exclude: true
 has_toc: false
 parent: Windhawk Themes
-grand_parent: Windows Themes
 permalink: /WindowsThemes/WindhawkThemes/DownAeroSquared
 ---
 

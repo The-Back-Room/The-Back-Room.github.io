@@ -1,12 +1,15 @@
 ---
 title: Windhawk Themes
-summary: Custom themes for Windows 10 and 11
+summary: Complete visual overhauls for windows 10 and 11 using Windhawk mods and plugins
 has_toc: false
 parent: Windows Themes
 permalink: /WindowsThemes/WindhawkThemes
 ---
 
-## Prerequisites
+## Windhawk Themes
+Complete visual overhauls for windows 10 and 11 using Windhawk mods and plugins.
+
+### Prerequisites
 
 - [Windhawk](https://windhawk.net/) installed and set up. Follow the instructions on the [Windhawk website](https://windhawk.net/).
 - [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Start Menu Styler](https://windhawk.net/mods/w11-start-menu-styler) for Start Menu customization

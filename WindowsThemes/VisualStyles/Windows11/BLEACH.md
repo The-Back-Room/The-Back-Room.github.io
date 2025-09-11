@@ -3,8 +3,7 @@ title: Bleach
 summary: A Visual Style for Windows 11 23H1+ inspired by the Bleach anime series.
 nav_exclude: true
 has_toc: false
-parent: Windows 11
-permalink: /WindowsThemes/VisualStyles/Windows11/Bleach
+permalink: /WindowsThemes/VisualStyles/Windows11/BLEACH
 ---
 
 ## BLEACH

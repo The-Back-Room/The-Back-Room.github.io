@@ -3,7 +3,6 @@ title: Ecchi
 summary: A NSFW Visual Style for Windows 11 23H1+inspired by Ecchi anime and manga.
 nav_exclude: true
 has_toc: false
-parent: Windows 11
 permalink: /WindowsThemes/VisualStyles/Windows11/Ecchi
 ---
 

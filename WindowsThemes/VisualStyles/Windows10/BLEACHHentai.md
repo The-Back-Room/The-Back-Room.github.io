@@ -3,7 +3,6 @@ title: Bleach Hentai
 summary: A NSFW Visual Style for Windows 10 19H1-22H2 inspired by the Bleach anime and manga series.
 nav_exclude: true
 has_toc: false
-parent: Windows 10
 permalink: /WindowsThemes/VisualStyles/Windows10/BLEACHHentai
 ---
 
