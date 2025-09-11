@@ -9,7 +9,7 @@ permalink: /WindowsThemes/VisualStyles/Windows10/SexyNarutoGirls
 ## Sexy Naruto Girls
 A NSFW Visual Style for Windows 10 19H1-22H2 featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan.
 
-<!-- <img align="center" src="" alt="Preview" /> -->
+<!-- <img align="center" src="" alt="Preview" width="80%" /> -->
 
 ### Instructions
 

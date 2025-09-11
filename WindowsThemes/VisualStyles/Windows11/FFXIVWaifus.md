@@ -9,7 +9,7 @@ permalink: /WindowsThemes/VisualStyles/Windows11/FFXIVWaifus
 ## Final Fantasy XIV Waifus
 A NSFW Visual Style for Windows 11 23H1+ inspired by Final Fantasy XIV.
 
-<!-- <img align="center" src="" alt="Preview" /> -->
+<!-- <img align="center" src="" alt="Preview" width="80%" /> -->
 
 ### Instructions
 

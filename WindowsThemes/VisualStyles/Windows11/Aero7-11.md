@@ -9,7 +9,7 @@ permalink: /WindowsThemes/VisualStyles/Windows11/Aero7-11
 ## Aero7-11
 A Visual Style for Windows 11 23H1+ inspired by the Windows 7 Aero theme.
 
-<img align="center" src="https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/aero7-11/-/raw/main/Extras/Preview.bmp" alt="Preview" />
+<img align="center" src="https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/aero7-11/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
 
 ### Instructions
 

@@ -9,7 +9,7 @@ permalink: /WindowsThemes/VisualStyles/Windows11/BLEACH
 ## BLEACH
 A Visual Style for Windows 11 23H1+ inspired by the Bleach anime series.
 
-<!-- <img align="center" src="" alt="Preview" /> -->
+<!-- <img align="center" src="" alt="Preview" width="80%" /> -->
 
 ### Instructions
 

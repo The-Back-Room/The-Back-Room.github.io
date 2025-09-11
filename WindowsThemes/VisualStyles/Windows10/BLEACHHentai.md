@@ -9,7 +9,7 @@ permalink: /WindowsThemes/VisualStyles/Windows10/BLEACHHentai
 ## BLEACH Hentai
 A NSFW Visual Style for Windows 10 19H1-22H2 inspired by the Bleach anime and manga series.
 
-<!-- <img align="center" src="" alt="Preview" /> -->
+<!-- <img align="center" src="" alt="Preview" width="80%" /> -->
 
 ### Instructions
 
