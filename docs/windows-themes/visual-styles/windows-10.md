@@ -7,14 +7,6 @@ grand_parent: Windows Themes
 permalink: /windows-themes/visual-styles/windows-10
 ---
 
-{: .important }
-> {: .opaque }
-> {: .warning }
-> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  
-> Patching your system files **CAN** and **WILL** brick your system if done wrong.
->
-> We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
-
 <h2 align="center" class="text-delta">Windows 10 Visual Styles</h2>
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

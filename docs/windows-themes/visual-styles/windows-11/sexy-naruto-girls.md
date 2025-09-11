@@ -1,6 +1,6 @@
 ---
 title: Sexy Naruto Girls
-summary: A NSFW Visual Style for Windows 11 23H1+ featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan.
+summary: A NSFW Visual Style for Windows 11 23H1-24H2 featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan.
 nav_exclude: true
 nav_order: 5
 parent: Windows 11
@@ -8,29 +8,12 @@ permalink: /windows-themes/visual-styles/windows-11/sexy-naruto-girls
 ---
 
 ## Sexy Naruto Girls
-A NSFW Visual Style for Windows 11 23H1+ featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan.
-
-{: .important}
-> {: .opaque }
-> Custom Visual Styles are for advanced users who know how to properly patch their system files to run unsigned themes.  
-> Patching your system files **CAN** and **WILL** brick your system if done wrong.
->
-> We take **NO** responsibility for anyone who bricks their system using custom MSSTYLE themes.
-
-{: .note }
-> {: .opaque }
-> The following tools are required to use this theme:
->
-> - [SecureUXTheme Patcher] and [Windhawk] Plugin: [UXTheme Hook]
-> - [Windhawk]
-> - [Windhawk] Plugin: [Bring Back The Borders!]
-> - [Windhawk] Plugin: [Logon, Logoff and Shutdown Sounds Restored]
-> - [Old New Explorer]
-> - [StartAllBack]
-> - [DWMBlurGlass] and/or [OpenGlass]
+A NSFW Visual Style for Windows 11 23H1-24H2 featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan.
 
 ### Instructions
 
+- Install the prequisites listed on the previous page.
+- Download the ZIP archive from the link below.
 - Copy the contents of the `Themes` folder into `%SYSTEMROOT%\Resources\Themes`
 - Apply the theme via `Settings > Personalization > Themes`
 
@@ -42,9 +25,9 @@ A NSFW Visual Style for Windows 11 23H1+ featuring wallpapers of girls from the 
 
 ### Included Themes
 
-- Sexy Naruto Girls (Aero7-11)
-- Sexy Naruto Girls (Aero7-11) (Nude)
-- Sexy Naruto Girls (Aero7-11) (Nude) (Alt)
+- Sexy Naruto Girls (sexy-naruto-girls)
+- Sexy Naruto Girls (sexy-naruto-girls) (Nude)
+- Sexy Naruto Girls (sexy-naruto-girls) (Nude) (Alt)
 - Sexy Naruto Girls (UI-X2)
 - Sexy Naruto Girls (UI-X2) (Nude)
 - Sexy Naruto Girls (UI-X2) (Nude) (Alt)
@@ -55,15 +38,7 @@ A NSFW Visual Style for Windows 11 23H1+ featuring wallpapers of girls from the 
 
 [//]: # Resources and links for this page go here.
 
-[Windhawk]: https://windhawk.net/
-[Bring Back The Borders!]: https://windhawk.net/mods/w11-dwm-fix
-[Logon, Logoff and Shutdown Sounds Restored]: https://windhawk.net/mods/logon-logoff-shutdown-sounds/
-[SecureUXTheme Patcher]: https://github.com/namazso/SecureUxTheme/
-[UXTheme Hook]: https://windhawk.net/mods/uxtheme-hook/
-[Old New Explorer]: https://msfn.org/board/topic/170375-oldnewexplorer-119/
-[DWMBlurGlass]: https://github.com/Maplespe/DWMBlurGlass
-[StartAllBack]: https://www.startallback.com/
-[OpenGlass]: https://virtualcustoms.net/showthread.php/88998-OpenGlass-Installer-for-Windows-11-22H2
+[Preivew]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/sexy-naruto-girls/-/raw/main/Extras/Preview.bmp
 [Download ZIP]: https://gitlab.com/the-back-room/visual-styles/windows-11/nsfw/sexy-naruto-girls/-/archive/main/sexy-naruto-girls-main.zip
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
