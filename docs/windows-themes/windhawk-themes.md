@@ -18,18 +18,14 @@ permalink: /windows-themes/windhawk-themes
 > Use at your own risk.
 
 
-## Prerequisits
+## Prerequisites
 
-{: .note }
-> {: .opaque }
-> The following tools are required to use these themes:  
-> 
-> - [Windhawk]
-> - [Windhawk] Plugin: [Windows 11 Start Menu Styler] for Start Menu customization
-> - [Windhawk] Plugin: [Windows 11 Taskbar Styler] for Taskbar customization
-> - [Windhawk] Plugin: [Windows 11 Notification Center Styler] for Notification Center and Quick Settings customization
-> - [Windhawk] Plugin: [Windows 11 File Explorer Styler] for File Explorer customization
-> - [Windhawk] Plugin: [Translucent Windows] and [DWMBlurGlass] or [OpenGlass] for blur effects
+- [Windhawk] installed and set up. Follow the instructions on the [Windhawk website].
+- [Windhawk] Plugin: [Windows 11 Start Menu Styler] for Start Menu customization
+- [Windhawk] Plugin: [Windows 11 Taskbar Styler] for Taskbar customization
+- [Windhawk] Plugin: [Windows 11 Notification Center Styler] for Notification Center and Quick Settings customization
+- [Windhawk] Plugin: [Windows 11 File Explorer Styler] for File Explorer customization
+- [Windhawk] Plugin: [Translucent Windows] and [DWMBlurGlass] or [OpenGlass] for blur effects
 
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
