@@ -1,9 +1,8 @@
 ---
 title: BLEACH
-summary: A theme pack inspired by the BLEACH anime and manga series.
+summary: A theme pack inspired by the BLEACH anime and manga series
 nav_exclude: true
 has_toc: false
-parent: Deskthemepacks
 permalink: /WindowsThemes/Deskthemepacks/BLEACH
 ---
 
@@ -22,15 +21,6 @@ A theme pack inspired by the BLEACH anime and manga series.
 - BLEACH
 - BLEACH: Thousand Year Blood War
 
-**Download**: [Download ZIP] 
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[//]: # Resources and links for this page go here.
-
-[Download ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/archive/main/bleach-main.zip
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
+**Download**: [Download ZIP](https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/archive/main/bleach-main.zip)
 
 

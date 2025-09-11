@@ -16,6 +16,7 @@ We welcome contributions to The Back Room documentation! Whether you're fixing a
 - **Permalinks**: Use the `permalink` attribute to create user-friendly URLs for each page. This improves SEO and makes it easier for users to remember and share links.
 
 ### Content Guidelines
+- **No Outside Sources**: To ensure the authenticity of our sources, all projects must be hosted from our [GitLab repository](https://gitlab.com/the-back-room/). There will be no exceptions to this rule.
 - **Clarity and Conciseness**: Write clear and concise content. Avoid jargon and explain technical terms when necessary.
 - **Formatting**: Use Markdown formatting to structure your content. Utilize headings, lists, and code blocks to enhance readability.
 - **Images and Media**: Include relevant images or media to support your content. Ensure that you have the right to use any images you include.

@@ -1,9 +1,8 @@
 ---
 title: Once Human
-summary: A theme pack inspired by the game "Once Human".
+summary: A theme pack inspired by the game "Once Human"
 nav_exclude: true
 has_toc: false
-parent: Deskthemepacks
 permalink: /WindowsThemes/Deskthemepacks/OnceHuman
 ---
 
@@ -16,13 +15,4 @@ A theme pack inspired by the game "Once Human".
 - Custom Cursors
 - Supports 4k Resolutions
 
-**Download**: [Download ZIP] 
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[//]: # Resources and links for this page go here.
-
-[Download ZIP]: https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
+**Download**: [Download ZIP](https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip)

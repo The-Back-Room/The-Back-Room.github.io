@@ -1,9 +1,8 @@
 ---
 title: Final Fantasy XIV Waifus
-summary: A theme pack featuring wallpapers of Final Fantasy XIV waifus.
+summary: A theme pack featuring wallpapers of Final Fantasy XIV waifus
 nav_exclude: true
 has_toc: false
-parent: Deskthemepacks
 permalink: /WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus
 ---
 
@@ -17,12 +16,4 @@ A NSFW theme pack inspired by Final Fantasy XIV.
 - Custom Sounds
 - Supports 4k Resolutions
 
-**Download**: [Download ZIP] 
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[//]: # Resources and links for this page go here.
-
-[Download ZIP]: https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/archive/main/final-fantasy-xiv-waifus-main.zip
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+**Download**: [Download ZIP](https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/archive/main/final-fantasy-xiv-waifus-main.zip)
