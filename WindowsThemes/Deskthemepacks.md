@@ -30,20 +30,4 @@ permalink: /WindowsThemes/Deskthemepacks
 ### Notes
 
 - Deskthemepacks are a packaging format for Windows themes. They are essentially ZIP archives with a different file extension. They can be created by right-clicking on a theme in the Personalization settings and selecting "Save theme for sharing". This will create a deskthemepack file that can be shared with others.
-- Due to common errors with packaging themes into Microsoft's deskthemepack archives, our themes are not packaged into a deskthemepack archive. As such they require manual installation. To install our themes follow the instructions listed below.
-
-### Instructions
-
-- Download the ZIP archive via the link on the theme's page.
-- Extract the contents of the ZIP archive to a location of your choice.
-- Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes\`
-- Apply the theme via `Settings > Personalization > Themes`
-
-
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[//]: # Resources and links for this page go here.
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
+- Due to common errors with packaging themes into Microsoft's deskthemepack archives, our themes are not packaged into a deskthemepack archive. As such they require manual installation. To install our themes follow the instructions on the theme's page.

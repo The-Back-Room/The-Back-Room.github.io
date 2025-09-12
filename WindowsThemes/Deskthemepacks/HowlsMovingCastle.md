@@ -18,4 +18,11 @@ A theme pack inspired by the film "Howl's Moving Castle".
 - Custom Cursors
 - Supports 4k Resolutions
 
+### Instructions
+
+- Download the ZIP archive via the link below.
+- Extract the contents of the ZIP archive to a location of your choice.
+- Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes\`
+- Apply the theme via `Settings > Personalization > Themes`
+
 **Download**: [Download ZIP](https://gitlab.com/the-back-room/deskthemepacks/sfw/howls-moving-castle/-/archive/main/howls-moving-castle-main.zip)
