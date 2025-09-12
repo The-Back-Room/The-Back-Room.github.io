@@ -2,7 +2,7 @@
 title: HUD Apocalypse
 summary: A mechanical red themed icon pack.
 nav_exclude: true
-permalink: /windhawk/resource-redirect/hud-apocalypse
+permalink: /Windhawk/ResourceRedirect/HUDApocalypse
 ---
 
 ### Requirements
