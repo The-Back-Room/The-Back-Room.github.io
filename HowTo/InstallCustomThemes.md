@@ -19,7 +19,7 @@ Before installing a custom visual style, it's essential to back up your system. 
 3. Restart your computer again to ensure all changes take effect.
 
 ### Step 2: Install the Custom Visual Styles
-1. Download the desired theme. Prefereably a `ZIP` archive as `EXE` installers may contain unwanted software and often contain malware.
+1. Download the desired theme. Prefereably a `ZIP` archive as `EXE` theme installers may contain unwanted software and often contain malware.
 2. Extract the contents of the downloaded file using a file extraction tool like WinRAR or 7-Zip.
 3. Look for the folder containing the `.theme` file and copy the contents to the `%SYSTEMROOT%\Resources\Themes` directory. You can access this folder by typing the path into the File Explorer address bar.
 4. Some themes may require additional programs like [StartIsBack](https://www.startisback.com/) or [Open-Shell](https://open-shell.github.io/) to fully apply the theme. Follow any additional instructions provided with the theme.
