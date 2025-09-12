@@ -9,6 +9,10 @@ permalink: /WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus
 ## Final Fantasy XIV Waifus
 A NSFW theme pack inspired by Final Fantasy XIV.
 
+<div align="center">
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
+</div>
+
 ### Features
 
 - Multiple Wallpapers

@@ -17,6 +17,7 @@ permalink: /WindowsThemes/Deskthemepacks
 - [Howl's Moving Castle](/WindowsThemes/Deskthemepacks/HowlsMovingCastle) - Theme pack inspired by the Studio Ghibli film "Howl's Moving Castle"
 - [Lewd Gamer Waifus (NSFW)](/WindowsThemes/Deskthemepacks/LewdGamerWaifus) -NSFW Theme pack featuring backgounds with lewd gamer waifus.
 - [MacOS](/WindowsThemes/Deskthemepacks/MacOS) - Large collection of theme packs inspaired by the MacOS operating system.
+- [Microsoft EDU Themes](/WindowsThemes/Deskthemepacks/MicrosoftEDUThemes) - Microsoft's EDU Themes for all to enjoy.
 - [Microsoft Copilot](/WindowsThemes/Deskthemepacks/MicrosoftCopilot) - Theme pack inspired by the Microsoft copilot feature.
 - [Microsoft Surface Pro](/WindowsThemes/Deskthemepacks/MicrosoftSurfacePro) - Theme pack inspired by the Microsoft Surface Pro line of devices.
 - [Once Human](/WindowsThemes/Deskthemepacks/OnceHuman) - Theme pack inspired by the game "Once Human".

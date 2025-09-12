@@ -9,6 +9,10 @@ permalink: /WindowsThemes/Deskthemepacks/StudioGhibli
 ## Studio Ghibli
 A theme pack inspired by the films of Studio Ghibli.
 
+<div align="center">
+    <!-- <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" /> -->
+</div>
+
 ### Features
 
 - Custom Cursors

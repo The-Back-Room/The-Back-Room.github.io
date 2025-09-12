@@ -9,6 +9,9 @@ permalink: /WindowsThemes/Deskthemepacks/Unity2016
 ## Unity 2016
 A theme pack inspired by the classic Unity 2016 visual style.
 
+<div align="center">
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2016/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
+</div>
 
 ### Features
 

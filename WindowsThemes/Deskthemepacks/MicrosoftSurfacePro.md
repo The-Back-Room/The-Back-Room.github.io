@@ -8,6 +8,9 @@ permalink: /WindowsThemes/Deskthemepacks/MicrosoftSurfacePro
 ## Sufrace Pro
 A theme pack inspired by the Microsoft Surface Pro line of devices.
 
+<div align="center">
+    <!-- <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/surface-pro/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" /> -->
+</div>
 
 ### Features
 

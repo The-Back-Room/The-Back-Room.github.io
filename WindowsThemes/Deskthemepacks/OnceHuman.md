@@ -9,6 +9,10 @@ permalink: /WindowsThemes/Deskthemepacks/OnceHuman
 ## Once Human
 A theme pack inspired by the game "Once Human".
 
+<div align="center">
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
+</div>
+
 ### Features
 
 - Multiple Backgrounds

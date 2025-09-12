@@ -9,6 +9,10 @@ permalink: /WindowsThemes/Deskthemepacks/SexyNarutoGirls
 ## Sexy Naruto Girls
 A NSFW theme pack featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan.
 
+<div align="center">
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/sexy-naruto-girls/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
+</div>
+
 ### Features
 
 - Wallpapers by Sakimichan
