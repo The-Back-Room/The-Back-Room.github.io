@@ -27,6 +27,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Update logo image with transparent background and improved quality.
 - Replace social preview image with the new logo for better branding on social media platforms.
 - Replace favicon with transparent background version for better appearance on various backgrounds.
+- Fixed minor typos and grammatical errors across multiple pages.
 
 ### 2025-09-11
 

@@ -2,7 +2,6 @@
 title: Contributing guidelines
 summary: Guidelines for contributing to The Back Room documentation.
 nav_exclude: true
-has_toc: false
 permalink: /Contributing
 ---
 
