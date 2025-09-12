@@ -9,7 +9,9 @@ permalink: /WindowsThemes/VisualStyles/Windows11/OnceHuman
 ## Once Human
 A Visual Style for Windows 11 23H1+ inspired by the game "Once Human".
 
-<!-- <img align="center" src="" alt="Preview" width="80%" /> -->
+<div align="center">
+<img src="https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/once-human/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
+</div>
 
 ### Features
 

@@ -9,7 +9,9 @@ permalink: /WindowsThemes/VisualStyles/Windows10/LewdGamerWaifus
 ## Lewd Gamer Waifus
 A NSFW Visual Style for Windows 10 19H1-22H2 inspired by lewd gamer waifus.
 
-<!-- <img align="center" src="" alt="Preview" width="80%" /> -->
+<div align="center">
+<!-- <img src="https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/lewd-gamer-waifus/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" /> -->
+</div>
 
 ### Instructions
 

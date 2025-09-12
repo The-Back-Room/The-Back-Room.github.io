@@ -9,7 +9,9 @@ permalink: /WindowsThemes/VisualStyles/Windows10/Bleach
 ## BLEACH
 A Visual Style for Windows 10 19H1-22H2 inspired by the BLEACH anime and manga series.
 
-<!-- <img align="center" src="" alt="Preview" width="80%" /> -->
+<div align="center">
+<img src="https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/bleach/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
+</div>
 
 ### Features
 
