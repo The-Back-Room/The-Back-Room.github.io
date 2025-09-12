@@ -23,6 +23,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Removed unnecessary information from the Changelog page header.
 - Change date format in Changelog from `Month Day, Year` to `YYYY-MM-DD` for better sorting and consistency.
 - Published the Changelog page to the github pages site.
+- Updated the Home page to include a centered logo image at the top of the page for better branding.
 
 ### 2025-09-11
 

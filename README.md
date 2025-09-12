@@ -5,9 +5,10 @@ has_toc: false
 nav_order: 1.0
 permalink: /
 ---
-## The Back Room
 
-Open-Source Development and Customization
+<div align="center">
+<img src="/assets/images/logo.png" alt="The Back Room Logo" style="width: 100%; height: auto;" />
+</div>
 
 Welcome to [The Back Room](https://the-back-room.info), a hub for open-source projects, custom themes, and software tweaks. Our mission is to provide high-quality resources for users looking to enhance their digital experience.
 
