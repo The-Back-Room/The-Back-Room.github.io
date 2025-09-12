@@ -24,6 +24,8 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Change date format in Changelog from `Month Day, Year` to `YYYY-MM-DD` for better sorting and consistency.
 - Published the Changelog page to the github pages site.
 - Updated the Home page to include a centered logo image at the top of the page for better branding.
+- Update logo image with transparent background and improved quality.
+- Replace social preview image with the new logo for better branding on social media platforms.
 
 ### 2025-09-11
 
