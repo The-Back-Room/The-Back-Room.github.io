@@ -20,6 +20,15 @@ Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
 ![File Explorer - Preview] ![Start Menu and Taskbar - Preview] ![Notification Center and Quick Settings - Preview]
 
+### Requirements
+
+- **Windhawk Plugin**: Windows 11 Start Menu Styler
+- **Windhawk Plugin**: Windows 11 Taskbar Styler
+- **Windhawk Plugin**: Windows 11 Notification Center Styler
+- **Windhawk Plugin**: Windows 11 File Explorer Styler
+- **Windhawk Plugin**: Taskbar Labels for Windows 11
+- **Windhawk Plugin**: Taskbar Clock Customization
+
 ### Instructions
 
 - **Prerequisites**: Install the prequisites listed on the previous page.
