@@ -1,14 +1,13 @@
 ---
 title: Down Aero Squared
-summary: A Visual Style for Windows 11 23H1+ with squared window corners and acrylic blur.
+summary: Complete overhaul for Windows 11 based off of the Windhawk DownAero theme
 nav_exclude: true
 has_toc: false
-parent: Windhawk Themes
 permalink: /WindowsThemes/WindhawkThemes/DownAeroSquared
 ---
 
 ## Down Aero Squared
-A Visual Style for Windows 11 23H1+ with squared window corners and acrylic blur.
+Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
 ![File Explorer - Preview] ![Start Menu and Taskbar - Preview] ![Notification Center and Quick Settings - Preview]
 

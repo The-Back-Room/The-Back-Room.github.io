@@ -1,14 +1,13 @@
 ---
 title: Acrylic UI
-summary: A Visual Style for Windows 11 23H1+ with squared window corners and acrylic blur.
+summary: Complete overhaul for Windows 11 23H1+ with squared window corners and acrylic blur
 nav_exclude: true
 has_toc: false
-parent: Windhawk Themes
 permalink: /WindowsThemes/WindhawkThemes/AcrylicUI
 ---
 
 ## Acrylic UI
-A Visual Style for Windows 11 23H1+ with squared window corners and acrylic blur.
+Complete overhaul for Windows 11 with squared window corners and acrylic blur.
 
 ![File Explorer - Preview] ![Start Menu and Taskbar - Preview] ![Notification Center and Quick Settings - Preview]
 

@@ -8,23 +8,23 @@ permalink: /WindowsThemes/Deskthemepacks
 
 ## Deskthemepacks
 
-- [Bleach](/WindowsThemes/Deskthemepacks/BLEACH)
-- [Bleach Hentai (NSFW)](/WindowsThemes/Deskthemepacks/BLEACHHentai)
-- [Courage the Cowardly Dog](/WindowsThemes/Deskthemepacks/CourageTCD)
-- [Ecchi (NSFW)](/WindowsThemes/Deskthemepacks/Ecchi)
-- [Final Fantasy XIV - A Realm Reborn](/WindowsThemes/Deskthemepacks/FinalFantasyXIV)
-- [Final Fantasy XIV - Waifus (NSFW)](/WindowsThemes/Deskthemepacks/FFXIVWaifus)
-- [Howl's Moving Castle](/WindowsThemes/Deskthemepacks/HowlsMovingCastle)
-- [Lewd Gamer Waifus (NSFW)](/WindowsThemes/Deskthemepacks/LewdGamerWaifus)
-- [MacOS](/WindowsThemes/Deskthemepacks/MacOS)
-- [Microsoft Copilot](/WindowsThemes/Deskthemepacks/MicrosoftCopilot)
-- [Microsoft Surface Pro](/WindowsThemes/Deskthemepacks/MicrosoftSurfacePro)
-- [Once Human](/WindowsThemes/Deskthemepacks/OnceHuman)
-- [Ranma Hentai (NSFW)](/WindowsThemes/Deskthemepacks/RanmaHentai)
-- [Sexy Naruto Girls (NSFW)](/WindowsThemes/Deskthemepacks/SexyNarutoGirls)
-- [Studio Ghibli](/WindowsThemes/Deskthemepacks/StudioGhibli)
-- [Unity 2014](/WindowsThemes/Deskthemepacks/Unity2014)
-- [Unity 2016](/WindowsThemes/Deskthemepacks/Unity2016)
+- [Bleach](/WindowsThemes/Deskthemepacks/BLEACH) - Theme pack inspired by the BLEACH anime and manga series.
+- [Bleach Hentai (NSFW)](/WindowsThemes/Deskthemepacks/BLEACHHentai) - NSFW theme pack inspired by the BLEACH anime and manga series.
+- [Courage the Cowardly Dog](/WindowsThemes/Deskthemepacks/CourageTCD) - Theme pack inspired by the the clut classic Courage the Cowardly Dog.
+- [Ecchi (NSFW)](/WindowsThemes/Deskthemepacks/Ecchi) - NSFW Theme pack inspired by Ecchi anime and manga series.
+- [Final Fantasy XIV - A Realm Reborn](/WindowsThemes/Deskthemepacks/FinalFantasyXIV) - Theme pack inspired by the game "Final Fantasy XIV".
+- [Final Fantasy XIV - Waifus (NSFW)](/WindowsThemes/Deskthemepacks/FFXIVWaifus) - NSFW theme pack inspired by the game "Final Fantasy XIV ".
+- [Howl's Moving Castle](/WindowsThemes/Deskthemepacks/HowlsMovingCastle) - Theme pack inspired by the Studio Ghibli film "Howl's Moving Castle"
+- [Lewd Gamer Waifus (NSFW)](/WindowsThemes/Deskthemepacks/LewdGamerWaifus) -NSFW Theme pack featuring backgounds with lewd gamer waifus.
+- [MacOS](/WindowsThemes/Deskthemepacks/MacOS) - Large collection of theme packs inspaired by the MacOS operating system.
+- [Microsoft Copilot](/WindowsThemes/Deskthemepacks/MicrosoftCopilot) - Theme pack inspired by the Microsoft copilot feature.
+- [Microsoft Surface Pro](/WindowsThemes/Deskthemepacks/MicrosoftSurfacePro) - Theme pack inspired by the Microsoft Surface Pro line of devices.
+- [Once Human](/WindowsThemes/Deskthemepacks/OnceHuman) - Theme pack inspired by the game "Once Human".
+- [Ranma Hentai (NSFW)](/WindowsThemes/Deskthemepacks/RanmaHentai) - NSFW theme pack inspired by the Ranma ½ anime and manga series.
+- [Sexy Naruto Girls (NSFW)](/WindowsThemes/Deskthemepacks/SexyNarutoGirls) - NSFW theme pack inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
+- [Studio Ghibli](/WindowsThemes/Deskthemepacks/StudioGhibli) - Theme pack inspired by films of Studio Ghibli.
+- [Unity 2014](/WindowsThemes/Deskthemepacks/Unity2014) - Theme pack inspired by the classic Unity 2014 visual style.
+- [Unity 2016](/WindowsThemes/Deskthemepacks/Unity2016) - Theme pack inspired by the classic Unity 2016 visual style.
 
 ### Notes
 
