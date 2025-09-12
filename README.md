@@ -32,7 +32,7 @@ Here are some ways to get involved:
 - **Discord Community**: Join our [Discord server](https://discord.gg/Yxj2t8ZbvX) to connect with other members, share ideas, and get support.
 
 ### Planned Projects
-We are continuously working on new projects and improvements. You can check out our currently planned projects on our [roadmap](/Roadmap).
+We are continuously working on new projects and improvements. You can check out our currently planned projects on our [Planned Projects](/PlannedProjects).
 
 ### Contributing
 We encourage contributions to our projects. Please refer to our [Contributing Guidelines](/Contributing) for detailed instructions on how to contribute effectively.
