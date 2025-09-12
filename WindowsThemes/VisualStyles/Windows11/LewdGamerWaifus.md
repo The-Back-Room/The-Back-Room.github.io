@@ -1,6 +1,6 @@
 ---
 title: Lewd Gamer Waifus
-summary: A NSFW Visual Style for Windows 11 23H1+ inspired by lewd gamer waifus.
+summary: A NSFW Visual Style for Windows 11 23H1+ inspired by lewd gamer waifus
 nav_exclude: true
 has_toc: false
 permalink: /WindowsThemes/VisualStyles/Windows11/LewdGamerWaifus
@@ -10,13 +10,6 @@ permalink: /WindowsThemes/VisualStyles/Windows11/LewdGamerWaifus
 A NSFW Visual Style for Windows 11 23H1+ inspired by lewd gamer waifus.
 
 <!-- <img align="center" src="" alt="Preview" width="80%" /> -->
-
-### Instructions
-
-- Install the prequisites listed on the previous page.
-- Download the ZIP archive from the link below.
-- Copy the contents of the **Themes** folder into **%SYSTEMROOT%\Resources\Themes**
-- Apply the theme via **Settings >> Personalization >> Themes**
 
 ### Features
 

@@ -1,6 +1,6 @@
 ---
 title: Ranma Hentai
-summary: A NSFW Visual Style for Windows 10 19H1-22H2 inspired by the Ranma ½ anime series.
+summary: A NSFW Visual Style for Windows 10 19H1-22H2 inspired by the Ranma ½ anime series
 nav_exclude: true
 has_toc: false
 permalink: /WindowsThemes/VisualStyles/Windows10/RanmaHentai

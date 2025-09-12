@@ -23,7 +23,7 @@ Visual Styles for Windows 10 19H1-22H2
 ### Windows 11 Themes
 Visual Styles for Windows 11 23H1+
 
-- [Aero7-11](/WindowsThemes/VisualStyles/Windows11/Aero7-11)
+- [Aero7-11](/WindowsThemes/VisualStyles/Windows11/Aero7-11) - Large collection of Visual Styles with resources sourced from various places including the Windows 7 RTM, regional themes, panoramic themes, and community showcase themes.
 - [BLEACH](/WindowsThemes/VisualStyles/Windows11/Bleach) - Visual Style inspired by the BLEACH anime and manga series.
 - [BLEACH HENTAI (NSFW)](/WindowsThemes/VisualStyles/Windows11/BleachHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
 - [Ecchi (NSFW)](/WindowsThemes/VisualStyles/Windows11/Ecchi) - NSFW Visual Style inspired by ecchi anime and manga.
