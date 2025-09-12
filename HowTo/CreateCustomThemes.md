@@ -1,6 +1,7 @@
 ---
 title: How to Create Custom Themes on Windows
-nav_order: 1.2.1
+summary: A step-by-step guide on how to create custom themes for Windows operating systems.
+nav_exclude: true
 permalink: /HowTo/CreateCustomThemes
 ---
 
