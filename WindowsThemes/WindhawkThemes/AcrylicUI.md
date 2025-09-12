@@ -6,6 +6,9 @@ has_toc: false
 permalink: /WindowsThemes/WindhawkThemes/AcrylicUI
 ---
 
+## Acrylic UI
+Complete overhaul for Windows 11 with squared window corners and acrylic blur.
+
 <div align="center">
 <img src="/assets/images/previews/file-explorer-styler/acrylic.bmp" alt="Preview" width="80%" />
 <br />
@@ -13,9 +16,6 @@ permalink: /WindowsThemes/WindhawkThemes/AcrylicUI
 <br />
 <img src="/assets/images/previews/notification-center-styler/acrylic.bmp" alt="Preview" width="80%" />
 </div>
-
-## Acrylic UI
-Complete overhaul for Windows 11 with squared window corners and acrylic blur.
 
 ### Requirements
 
