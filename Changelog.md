@@ -25,6 +25,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Improved the description of the DownAero Squared theme for clarity.
 - Corrected the format of the instructions for the Taskbar Clock Customization settings in the DownAero Squared theme.
 - Ensured consistent formatting across all Windhawk mod pages for a uniform look and feel.
+- Removed unnecessary whitespace and fixed minor formatting issues in various pages.
 
 ### September 11, 2025
 

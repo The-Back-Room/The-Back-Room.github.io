@@ -1,11 +1,9 @@
 ---
-title: Down Aero Squared
+title: DownAero Squared
 summary: A squared-off version of the DownAero theme for the Windows Taskbar.
 nav_exclude: true
 permalink: /Windhawk/TaskbarStyler/DownAeroSquared
 ---
-
-## Down Aero Squared
 
 ![Preview](/assets/images/previews/taskbar-styler/down-aero-squared.bmp)
 
@@ -13,6 +11,7 @@ permalink: /Windhawk/TaskbarStyler/DownAeroSquared
 
 - [Windhawk](https://windhawk.net/)
 - [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
+- [Windhawk](https://windhawk.net/) Plugin: [Taskbar Clock Customization](https://windhawk.net/mods/taskbar-clock-customization)
 
 ### Installation
 
@@ -120,13 +119,4 @@ To get the taskbar clock to display the system performance metrics like in the s
   "resourceVariables[0].variableKey": "",
   "resourceVariables[0].value": "",
 }
-```
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[//]: # Resources and links for this page go here.
-
-[Windhawk]: https://windhawk.net/
-[Windows 11 Taskbar Styler]: https://windhawk.net/mods/windows-11-taskbar-styler
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+``` 

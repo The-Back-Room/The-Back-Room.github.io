@@ -1,5 +1,5 @@
 ---
-title: Down Aero Squared
+title: DownAero Squared
 summary: A squared-off version of the DownAero theme for the Windows File Explorer.
 nav_exclude: true
 permalink: /Windhawk/FileExplorerStyler/DownAeroSquared
