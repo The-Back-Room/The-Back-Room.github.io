@@ -9,13 +9,6 @@ This page provides a detailed log of changes, updates, and improvements made to 
 
 - Dates are formatted as `Month Day, Year`
 - Entries are listed in reverse chronological order, with the most recent changes at the top.
-- Each entry includes a brief description of the change, the date it was made, and any relevant links or references.
-- Major updates or releases are highlighted for easy identification.
-- Minor changes, such as typo fixes or small adjustments, are also documented for transparency.
-- This changelog is regularly updated to reflect ongoing improvements and additions to the website.
-- For more detailed information about specific changes, users can refer to the relevant sections or pages linked within each entry.
-- Users are encouraged to check this page periodically to stay informed about the latest updates and enhancements.
-- If you have any questions or need further clarification about any changes, please feel free to contact us through the provided channels.
 
 ### September 12, 2025
 
@@ -26,6 +19,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Corrected the format of the instructions for the Taskbar Clock Customization settings in the DownAero Squared theme.
 - Ensured consistent formatting across all Windhawk mod pages for a uniform look and feel.
 - Removed unnecessary whitespace and fixed minor formatting issues in various pages.
+- Removed unnecessary information from the Changelog page header.
 
 ### September 11, 2025
 
