@@ -14,7 +14,9 @@ When creating or installing Windows Themes, it's important to ensure compatibili
 ## Our Themes
 We offer a variety of custom Windows Themes that you can download and install to enhance your desktop experience. Check them out via the following pages:
 
-### Deskthemepacks 
+### Windows Deskthemepacks
+Deskthemepacks for Windows 10 and Windows 11.
+
 - [Bleach](/WindowsThemes/Deskthemepacks/BLEACH) - Theme pack inspired by the BLEACH anime and manga series.
 - [Courage the Cowardly Dog](/WindowsThemes/Deskthemepacks/CourageTCD) - Theme pack inspired by the the clut classic Courage the Cowardly Dog.
 - [Final Fantasy XIV - A Realm Reborn](/WindowsThemes/Deskthemepacks/FinalFantasyXIV) - Theme pack inspired by the game "Final Fantasy XIV".
@@ -34,7 +36,9 @@ We offer a variety of custom Windows Themes that you can download and install to
 - [Ranma Hentai (NSFW)](/WindowsThemes/Deskthemepacks/RanmaHentai) - NSFW theme pack inspired by the Ranma ½ anime and manga series.
 - [Sexy Naruto Girls (NSFW)](/WindowsThemes/Deskthemepacks/SexyNarutoGirls) - NSFW theme pack inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
 
-### Windows 10 Themes 
+### Windows 10 Visual Styles 
+Custom Visual Styles for Windows 10 19H1-22H2 (1903-22H2).
+
 - [BLEACH](/WindowsThemes/VisualStyles/Windows10/Bleach) - Visual Style inspired by the BLEACH anime and manga series.
 - [Once Human](/WindowsThemes/VisualStyles/Windows10/OnceHuman) - Visual Style inspired by the game "Once Human".
 - [BLEACH Hentai (NSFW)](/WindowsThemes/VisualStyles/Windows10/BLEACHHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
@@ -44,6 +48,8 @@ We offer a variety of custom Windows Themes that you can download and install to
 - [Sexy Naruto Girls (NSFW)](/WindowsThemes/VisualStyles/Windows10/SexyNarutoGirls) - Visual Style inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
 
 ### Windows 11 Visual Styles 
+Custom Visual Styles for Windows 11 23H2+ (22000+).
+
 - [Aero7-11](/WindowsThemes/VisualStyles/Windows11/Aero7-11) - Large collection of Visual Styles with resources sourced from various places including the Windows 7 RTM, regional themes, panoramic themes, and community showcase themes.
 - [BLEACH](/WindowsThemes/VisualStyles/Windows11/Bleach) - Visual Style inspired by the BLEACH anime and manga series.
 - [Once Human](/WindowsThemes/VisualStyles/Windows11/OnceHuman) - Visual Style inspired by the game "Once Human".
@@ -54,9 +60,12 @@ We offer a variety of custom Windows Themes that you can download and install to
 - [Sexy Naruto Girls (NSFW)](/WindowsThemes/VisualStyles/Windows11/SexyNarutoGirls) - Visual Style inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
 
 ### Windhawk Themes 
+Visual overhauls for Windows 10 and Windows 11 using [Windhawk](https://windhawk.net/).
+
 - [Acrylic UI](/WindowsThemes/WindhawkThemes/AcrylicUI) - Complete overhaul for Windows 11 with squared window corners and acrylic blur
 - [DownAero Squared](/WindowsThemes/WindhawkThemes/DownAeroSquared) - Complete overhaul for Windows 11 based off of the Windhawk DownAero theme
 
 ## Related Pages 
+
 - [How to Install Custom Themes on Windows](/HowTo/InstallCustomThemes)
 - [How to Create Custom Themes for Windows](/HowTo/CreateCustomThemes)
