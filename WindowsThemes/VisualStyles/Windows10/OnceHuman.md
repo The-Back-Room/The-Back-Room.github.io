@@ -10,7 +10,7 @@ permalink: /WindowsThemes/VisualStyles/Windows10/OnceHuman
 A Visual Style for Windows 10 19H1-22H2 inspired by the game "Once Human".
 
 <div align="center">
-<img src="https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/once-human/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
+<img src="https://gitlab.com/the-back-room/visual-styles/windows-10/sfw/once-human/-/raw/main/Extras/Preview.bmp" alt="Once Human Preview" style="max-width: 100%; height: auto;" />
 </div>
 
 ### Features

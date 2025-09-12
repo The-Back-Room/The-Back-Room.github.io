@@ -10,9 +10,9 @@ permalink: /WindowsThemes/Deskthemepacks/BLEACH
 A theme pack inspired by the BLEACH anime and manga series.
 
 <div align="center">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview.bmp" alt="BLEACH Preview" style="max-width: 100%; height: auto;" />
     <br />
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview-2.bmp" alt="Preview" width="80%" />
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview-2.bmp" alt="BLEACH: Thousand Year Blood War Preview" style="max-width: 100%; height: auto; margin-top: 10px;" />
 </div>
 
 ### Features

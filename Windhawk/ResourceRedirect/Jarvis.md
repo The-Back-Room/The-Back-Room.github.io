@@ -5,6 +5,10 @@ nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/Jarvis
 ---
 
+<div align="center">
+  <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp" alt="Jarvis Preview" style="max-width: 100%; height: auto;">
+</div>
+
 ### Requirements
 
 - [Windhawk](https://windhawk.net/)

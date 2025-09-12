@@ -10,7 +10,7 @@ permalink: /WindowsThemes/Deskthemepacks/Ecchi
 A NSFW theme pack inspired by Ecchi anime and manga.
 
 <div align="center">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/-/raw/main/Extras/Preview.bmp" alt="Ecchi Preview" style="max-width: 100%; height: auto;" />
 </div>
 
 ### Features

@@ -5,6 +5,10 @@ nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/FloatingIceChrononaut
 ---
 
+<div align="center">
+  <!-- <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp" alt="Floating Ice Chrononaut Preview" style="max-width: 100%; height: auto;"> -->
+</div>
+
 ### Requirements
 
 - [Windhawk](https://windhawk.net/)

@@ -10,7 +10,7 @@ permalink: /WindowsThemes/Deskthemepacks/MacOS
 A collection theme packs inspired by the MacOS operating system.
 
 <div align="center">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/raw/main/Extras/Preview.bmp" alt="MacOS Preview" style="max-width: 100%; height: auto;" />
 </div>
 
 ### Features

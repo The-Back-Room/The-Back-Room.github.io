@@ -10,7 +10,7 @@ permalink: /WindowsThemes/VisualStyles/Windows10/FFXIVWaifus
 A NSFW Visual Style for Windows 10 19H1-22H2 inspired by Final Fantasy XIV.
 
 <div align="center">
-<!-- <img src="https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/final-fantasy-xiv-waifus/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" /> -->
+<!-- <img src="https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/final-fantasy-xiv-waifus/-/raw/main/Extras/Preview.bmp" alt="Final Fantasy XIV Waifus Preview" style="max-width: 100%; height: auto;" /> -->
 </div>
 
 ### Features

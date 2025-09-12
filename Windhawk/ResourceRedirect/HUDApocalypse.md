@@ -5,6 +5,10 @@ nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/HUDApocalypse
 ---
 
+<div align="center">
+  <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp" alt="HUD Apocalypse Preview" style="max-width: 100%; height: auto;">
+</div>
+
 ### Requirements
 
 - [Windhawk](https://windhawk.net/)

@@ -5,6 +5,10 @@ nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/Gen2PlasmaBlue
 ---
 
+<div align="center">
+  <!-- <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/raw/main/Extras/Preview.bmp" alt="Gen2 Plasma Blue Preview" style="max-width: 100%; height: auto;"> -->
+</div>
+
 ### Requirements
 
 - [Windhawk](https://windhawk.net/)

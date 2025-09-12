@@ -10,7 +10,7 @@ permalink: /WindowsThemes/Deskthemepacks/MicrosoftCopilot
 A theme pack inspired by Microsoft's Copilot feature.
 
 <div align="center">
-    <!-- <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/copilot/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" /> -->
+    <!-- <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/copilot/-/raw/main/Extras/Preview.bmp" alt="Microsoft Copilot Preview" style="max-width: 100%; height: auto;" /> -->
 </div>
 
 ### Features

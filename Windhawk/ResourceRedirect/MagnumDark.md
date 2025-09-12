@@ -5,6 +5,10 @@ nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/MagnumDark
 ---
 
+<div align="center">
+  <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp" alt="Magnum Dark Preview" style="max-width: 100%; height: auto;">
+</div>
+
 ### Requirements
 
 - [Windhawk](https://windhawk.net/)

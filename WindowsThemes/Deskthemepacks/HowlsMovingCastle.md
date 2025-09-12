@@ -10,7 +10,7 @@ permalink: /WindowsThemes/Deskthemepacks/HowlsMovingCastle
 A theme pack inspired by the film "Howl's Moving Castle".
 
 <div align="center">
-    <!-- <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/howls-moving-castle/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" /> -->
+    <!-- <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/howls-moving-castle/-/raw/main/Extras/Preview.bmp" alt="Howl's Moving Castle Preview" style="max-width: 100%; height: auto;" /> -->
 </div>
 
 ### Features
