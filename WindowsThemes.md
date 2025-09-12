@@ -7,32 +7,76 @@ permalink: /WindowsThemes
 ## Windows Themes
 Windows Themes are a collection of custom themes and visual styles for Windows operating systems. These themes can be used to change the appearance of your Windows interface, including colors, icons, and overall design.
 
-Windows Themes can be created and customized using various tools and applications, allowing users to personalize their desktop experience. Some popular tools for creating and managing Windows Themes include:
-
-- Microsoft Paint: A simple graphics editor that can be used to create and edit images for use in themes.
-- GIMP: A powerful, open-source image editor that offers advanced features for creating custom theme elements.
-- Windows Theme Installer: A tool that simplifies the process of installing and managing Windows Themes.
-- UltraUXThemePatcher: A third-party application that enables the use of custom themes by patching system files.
-- Rainmeter: A desktop customization tool that allows users to create and display customizable widgets and skins on their desktop.
-
-When creating or installing Windows Themes, it's important to ensure compatibility with your specific version of Windows. Some themes may not work properly on certain versions or may require additional software to function correctly.
-
-To install a Windows Theme, follow these general steps:
-1. Download the theme file (usually with a .theme or .zip extension) from a trusted source.
-2. Extract the contents of the zip file if necessary.
-3. Right-click on the .theme file and select "Apply" to install the theme.
-4. If the theme includes additional files (such as wallpapers or icons), follow the included instructions for installing those elements.
-5. Customize the theme settings through the "Personalization" menu in Windows Settings.
-6. Enjoy your new Windows Theme!
+### Compatibility
+When creating or installing Windows Themes, it's important to ensure compatibility with your specific version of Windows. Some themes may not work properly on certain versions or may require additional software to function correctly. 
 
 Remember to always back up your system before making significant changes, such as installing custom themes, to avoid potential issues.
 
 ### Our Themes
 We offer a variety of custom Windows Themes that you can download and install to enhance your desktop experience. Check them out via the following pages:
 
-- [Deskthemepacks](/WindowsThemes/Deskthemepacks)
-- [Visual Styles](/WindowsThemes/VisualStyles)
-- [Windhawk Themes](/WindowsThemes/WindhawkThemes)
+#### SFW Deskthemepacks
+The following are safe-for-work (SFW) theme packs available for download:
+
+- [Bleach](/WindowsThemes/Deskthemepacks/BLEACH) - Theme pack inspired by the BLEACH anime and manga series.
+- [Courage the Cowardly Dog](/WindowsThemes/Deskthemepacks/CourageTCD) - Theme pack inspired by the the clut classic Courage the Cowardly Dog.
+- [Final Fantasy XIV - A Realm Reborn](/WindowsThemes/Deskthemepacks/FinalFantasyXIV) - Theme pack inspired by the game "Final Fantasy XIV".
+- [Howl's Moving Castle](/WindowsThemes/Deskthemepacks/HowlsMovingCastle) - Theme pack inspired by the Studio Ghibli film "Howl's Moving Castle"
+- [MacOS](/WindowsThemes/Deskthemepacks/MacOS) - Large collection of theme packs inspaired by the MacOS operating system.
+- [Microsoft EDU Themes](/WindowsThemes/Deskthemepacks/MicrosoftEDUThemes) - Microsoft's EDU Themes for all to enjoy.
+- [Microsoft Copilot](/WindowsThemes/Deskthemepacks/MicrosoftCopilot) - Theme pack inspired by the Microsoft copilot feature.
+- [Microsoft Surface Pro](/WindowsThemes/Deskthemepacks/MicrosoftSurfacePro) - Theme pack inspired by the Microsoft Surface Pro line of devices.
+- [Once Human](/WindowsThemes/Deskthemepacks/OnceHuman) - Theme pack inspired by the game "Once Human".
+- [Studio Ghibli](/WindowsThemes/Deskthemepacks/StudioGhibli) - Theme pack inspired by films of Studio Ghibli.
+- [Unity 2014](/WindowsThemes/Deskthemepacks/Unity2014) - Theme pack inspired by the classic Unity 2014 visual style.
+- [Unity 2016](/WindowsThemes/Deskthemepacks/Unity2016) - Theme pack inspired by the classic Unity 2016 visual style.
+
+#### NSFW Deskthemepacks
+The following are not-safe-for-work (NSFW) theme packs available for download:
+
+- [Bleach Hentai (NSFW)](/WindowsThemes/Deskthemepacks/BLEACHHentai) - NSFW theme pack inspired by the BLEACH anime and manga series.
+- [Ecchi (NSFW)](/WindowsThemes/Deskthemepacks/Ecchi) - NSFW Theme pack inspired by Ecchi anime and manga series.
+- [Final Fantasy XIV - Waifus (NSFW)](/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus) - NSFW theme pack inspired by the game "Final Fantasy XIV ".
+- [Lewd Gamer Waifus (NSFW)](/WindowsThemes/Deskthemepacks/LewdGamerWaifus) -NSFW Theme pack featuring backgounds with lewd gamer waifus.
+- [Ranma Hentai (NSFW)](/WindowsThemes/Deskthemepacks/RanmaHentai) - NSFW theme pack inspired by the Ranma ½ anime and manga series.
+- [Sexy Naruto Girls (NSFW)](/WindowsThemes/Deskthemepacks/SexyNarutoGirls) - NSFW theme pack inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
+
+#### SFW Windows 10 Themes
+The following themes are for Windows 10 19H1-22H2:
+
+- [BLEACH](/WindowsThemes/VisualStyles/Windows10/Bleach) - Visual Style inspired by the BLEACH anime and manga series.
+- [Once Human](/WindowsThemes/VisualStyles/Windows10/OnceHuman) - Visual Style inspired by the game "Once Human".
+
+#### NSFW Windows 10 Themes
+The following themes are for Windows 10 19H1-22H2:
+
+- [BLEACH Hentai (NSFW)](/WindowsThemes/VisualStyles/Windows10/BLEACHHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
+- [Ecchi (NSFW)](/WindowsThemes/VisualStyles/Windows10/Ecchi) - NSFW Visual Style inspired by ecchi anime and manga.
+- [LewdGamerWaifus (NSFW)](/WindowsThemes/VisualStyles/Windows10/LewdGamerWaifus) - Visual Style featuring background images of Lewd Gamer Waifus.
+- [Ranma Hentai (NSFW)](/WindowsThemes/VisualStyles/Windows10/RanmaHentai) - Visual Style inspired by the Ranma ½ anime and manga series.
+- [Sexy Naruto Girls (NSFW)](/WindowsThemes/VisualStyles/Windows10/SexyNarutoGirls) - Visual Style inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
+
+#### SFW Windows 11 Visual Styles
+The following themes are for Windows 11 23H1+:
+
+- [Aero7-11](/WindowsThemes/VisualStyles/Windows11/Aero7-11) - Large collection of Visual Styles with resources sourced from various places including the Windows 7 RTM, regional themes, panoramic themes, and community showcase themes.
+- [BLEACH](/WindowsThemes/VisualStyles/Windows11/Bleach) - Visual Style inspired by the BLEACH anime and manga series.
+- [Once Human](/WindowsThemes/VisualStyles/Windows11/OnceHuman) - Visual Style inspired by the game "Once Human".
+
+#### NSFW Windows 11 Visual Styles
+The following themes are for Windows 11 23H1+:
+
+- [BLEACH Hentai (NSFW)](/WindowsThemes/VisualStyles/Windows11/BLEACHHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
+- [Ecchi (NSFW)](/WindowsThemes/VisualStyles/Windows11/Ecchi) - NSFW Visual Style inspired by ecchi anime and manga.
+- [LewdGamerWaifus (NSFW)](/WindowsThemes/VisualStyles/Windows11/LewdGamerWaifus) - Visual Style featuring background images of Lewd Gamer Waifus.
+- [Ranma Hentai (NSFW)](/WindowsThemes/VisualStyles/Windows11/RanmaHentai) - Visual Style inspired by the Ranma ½ anime and manga series.
+- [Sexy Naruto Girls (NSFW)](/WindowsThemes/VisualStyles/Windows11/SexyNarutoGirls) - Visual Style inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
+
+#### Windhawk Themes
+The following themes are complete overhauls using Windhawk:
+
+- [Acrylic UI](/WindowsThemes/WindhawkThemes/AcrylicUI) - Complete overhaul for Windows 11 with squared window corners and acrylic blur
+- [DownAero Squared](/WindowsThemes/WindhawkThemes/DownAeroSquared) - Complete overhaul for Windows 11 based off of the Windhawk DownAero theme
 
 ### Related Pages
 
