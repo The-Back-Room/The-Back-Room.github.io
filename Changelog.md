@@ -17,6 +17,11 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Users are encouraged to check this page periodically to stay informed about the latest updates and enhancements.
 - If you have any questions or need further clarification about any changes, please feel free to contact us through the provided channels.
 
+### September 12, 2025
+
+- Updated the DownAero Squared screenshot images to better reflect the theme's appearance.
+- Changed the DownAero Squared title from "Down Aero Squared" to "DownAero Squared" for consistency.
+
 ### September 11, 2025
 
 - Added new Windows Themes and updated existing ones for better compatibility.

@@ -1,20 +1,18 @@
 ---
-title: Down Aero Squared
+title: DownAero Squared
 summary: Complete overhaul for Windows 11 based off of the Windhawk DownAero theme
 nav_exclude: true
 has_toc: false
 permalink: /WindowsThemes/WindhawkThemes/DownAeroSquared
 ---
 
-## Down Aero Squared
+## DownAero Squared
 Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
 <div align="center">
-<img src="/assets/images/previews/file-explorer-styler/down-aero-squared.bmp" alt="Preview" width="80%" />
+<img src="/assets/images/previews/windhawk-themes/down-aero-squared/Preview-1.bmp" alt="DownAero Squared Preview 1" style="max-width: 100%; height: auto;" />
 <br />
-<img src="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" alt="Preview" width="80%" />
-<br />
-<img src="/assets/images/previews/notification-center-styler/down-aero-squared.bmp" alt="Preview" width="80%" />
+<img src="/assets/images/previews/windhawk-themes/down-aero-squared/Preview-2.bmp" alt="DownAero Squared Preview 2" style="max-width: 100%; height: auto;" />
 </div>
 
 ### Requirements
