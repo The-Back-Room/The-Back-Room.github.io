@@ -26,6 +26,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Updated the Home page to include a centered logo image at the top of the page for better branding.
 - Update logo image with transparent background and improved quality.
 - Replace social preview image with the new logo for better branding on social media platforms.
+- Replace favicon with transparent background version for better appearance on various backgrounds.
 
 ### 2025-09-11
 
