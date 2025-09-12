@@ -9,6 +9,7 @@ permalink: /WindowsThemes/VisualStyles/Windows11/Aero7-11
 ## Aero7-11 Visual Styles
 Large collection of Visual Styles with resources sourced from various places including the Windows 7 RTM, regional themes, panoramic themes, and community showcase themes
 
+<img align="center" src="https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/aero7-11/-/raw/main/Extras/Preview2.bmp" alt="Preview" width="80%" />
 <img align="center" src="https://gitlab.com/the-back-room/visual-styles/windows-11/sfw/aero7-11/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
 
 - **RTM Themes**: `Windows` `Architecture` `Nature` `Characters` `Landscapes` `Scenes`
