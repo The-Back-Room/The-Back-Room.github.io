@@ -16,13 +16,13 @@ permalink: /Windhawk/TaskbarStyler/DownAeroSquared
 
 ### Installation
 
-- Copy and paste the code below into **Windhawk >> Windows 11 Taskbar Styler >> Advanced >> Mod Settings**
-- Click **Save**, then click **Load**
+- Copy and paste the code below into `Windhawk >> Windows 11 Taskbar Styler >> Advanced >> Mod Settings`
+- Click `Save`, then click `Load`
 
-To get the taskbar clock to display the system performance metrics like in the screenshot simply set the following settings in **Windhawk >> Taskbar Clock Customization >> Settings**:
+To get the taskbar clock to display the system performance metrics like in the screenshot simply set the following settings in `Windhawk >> Taskbar Clock Customization >> Settings`:
 
-- **Top Line**: CPU %cpu% RAM %ram% | %date%
-- **Bottom Line**: 🔽 %download_speed% 🔼 %upload_speed% | %time%
+- **Top Line**: `CPU %cpu% RAM %ram% | %date%`
+- **Bottom Line**: `🔽 %download_speed% 🔼 %upload_speed% | %time%`
 
 ```json
 {

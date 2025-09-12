@@ -23,6 +23,8 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Changed the DownAero Squared title from "Down Aero Squared" to "DownAero Squared" for consistency.
 - Fixed links in the DownAero Squared instructions section to point to the correct pages.
 - Improved the description of the DownAero Squared theme for clarity.
+- Corrected the format of the instructions for the Taskbar Clock Customization settings in the DownAero Squared theme.
+- Ensured consistent formatting across all Windhawk mod pages for a uniform look and feel.
 
 ### September 11, 2025
 
