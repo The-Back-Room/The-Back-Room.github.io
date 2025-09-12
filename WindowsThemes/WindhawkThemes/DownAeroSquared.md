@@ -26,7 +26,7 @@ Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
 ### Instructions
 
-- **Start Menu**: Follow the instructions posted on [Windhawk Mods >> Start Menu Styler >> Down Aero Squared](/Windhawk/StartMenuStyler/DownAeroSquared.md)
-- **Taskbar**: Follow the instructions posted on [Windhawk Mods >> Taskbar Styler >> Down Aero Squared](/Windhawk/TaskbarStyler/DownAeroSquared.md)
-- **File Explorer**: Follow the instructions posted on [Windhawk Mods >> File Explorer Styler >> Down Aero Squared](/Windhawk/FileExplorerStyler/DownAeroSquared.md)
-- **Notification Center and Quick Settings**: Follow the instructions posted on [Windhawk Mods >> Notification Center Styler >> Down Aero Squared](/Windhawk/NotificationCenterStyler/DownAeroSquared.md)
+- **Start Menu**: Follow the instructions listed [here](/Windhawk/StartMenuStyler/DownAeroSquared)
+- **Taskbar**: Follow the instructions listed [here](/Windhawk/TaskbarStyler/DownAeroSquared)
+- **File Explorer**: Follow the instructions listed [here](/Windhawk/FileExplorerStyler/DownAeroSquared)
+- **Notification Center and Quick Settings**: Follow the instructions listed [here](/Windhawk/NotificationCenterStyler/DownAeroSquared)

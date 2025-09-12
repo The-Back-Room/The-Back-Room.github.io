@@ -21,6 +21,8 @@ This page provides a detailed log of changes, updates, and improvements made to 
 
 - Updated the DownAero Squared screenshot images to better reflect the theme's appearance.
 - Changed the DownAero Squared title from "Down Aero Squared" to "DownAero Squared" for consistency.
+- Fixed links in the DownAero Squared instructions section to point to the correct pages.
+- Improved the description of the DownAero Squared theme for clarity.
 
 ### September 11, 2025
 
