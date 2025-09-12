@@ -12,5 +12,5 @@ Complete visual overhauls for windows 10 and 11 using Windhawk mods and plugins.
 
 ### Available Themes
 
-- [AcrylicUI](/WindowsThemes/WindhawkThemes/AcrylicUI) - Complete overhaul for Windows 11 with squared window corners and acrylic blur
-- [DownAeroSquared](/WindowsThemes/WindhawkThemes/DownAeroSquared) - Complete overhaul for Windows 11 based off of the Windhawk DownAero theme
+- [Acrylic UI](/WindowsThemes/WindhawkThemes/AcrylicUI) - Complete overhaul for Windows 11 with squared window corners and acrylic blur
+- [DownAero Squared](/WindowsThemes/WindhawkThemes/DownAeroSquared) - Complete overhaul for Windows 11 based off of the Windhawk DownAero theme
