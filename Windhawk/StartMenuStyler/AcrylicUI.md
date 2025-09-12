@@ -1,15 +1,16 @@
 ---
 title: Acrylic UI
 summary: Simple acrylic theme for Windows 11 Start Menu Styler
-nav_exclude: true
 parent: Start Menu Styler
-permalink: /windhawk/start-menu-styler/acrylic
+permalink: /Windhawk/StartMenuStyler/AcrylicUI
 ---
+
+![Preview](/assets/images/previews/start-menu-styler/acrylic.bmp)
 
 ### Requirements
 
-- [Windhawk] 
-- [Windhawk] Plugin: [Windows 11 Start Menu Styler]
+- [Windhawk](https://windhawk.net/) 
+- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
 
 ### Installation
 
@@ -113,12 +114,3 @@ permalink: /windhawk/start-menu-styler/acrylic
   "controlStyles[4].styles[2]": "VerticalAlignment = Bottom"
 }
 ```
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[//]: # Resources and links for this page go here.
-
-[Windhawk]: https://windhawk.net/
-[Windows 11 Start Menu Styler]: https://windhawk.net/mods/windows-11-start-menu-styler
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

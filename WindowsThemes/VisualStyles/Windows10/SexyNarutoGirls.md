@@ -13,13 +13,6 @@ A NSFW Visual Style for Windows 10 19H1-22H2 featuring wallpapers of girls from 
 <!-- <img src="https://gitlab.com/the-back-room/visual-styles/windows-10/nsfw/sexy-naruto-girls/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" /> -->
 </div>
 
-### Instructions
-
-- Install the prequisites listed on the previous page.
-- Download the ZIP archive from the link below.
-- Copy the contents of the **Themes** folder into **%SYSTEMROOT%\Resources\Themes**
-- Apply the theme via **Settings >> Personalization >> Themes**
-
 ### Features
 
 - Custom cursors

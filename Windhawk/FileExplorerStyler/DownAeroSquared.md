@@ -6,11 +6,13 @@ parent: File Explorer Styler
 permalink: /Windhawk/FileExplorerStyler/DownAeroSquared
 ---
 
+![Preview](/assets/images/previews/file-explorer-styler/down-aero-squared.bmp)
+
 ### Requirements
 
-- [Windhawk] 
-- [Windhawk] Plugin: [Windows 11 File Explorer Styler]
-- [Windhawk] Plugin: [Translucent Windows]
+- [Windhawk](https://windhawk.net/)
+- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 File Explorer Styler](https://windhawk.net/mods/windows-11-file-explorer-styler)
+- [Windhawk](https://windhawk.net/) Plugin: [Translucent Windows]( https://windhawk.net/mods/translucent-windows)
 
 ### Installation
 
@@ -148,13 +150,3 @@ permalink: /Windhawk/FileExplorerStyler/DownAeroSquared
   "controlStyles[28].styles[0]": "Margin = 2,8"
 }
 ```
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[//]: # Resources and links for this page go here.
-
-[Windhawk]: https://windhawk.net/
-[Windows 11 File Explorer Styler]: https://windhawk.net/mods/windows-11-file-explorer-styler
-[Translucent Windows]: https://windhawk.net/mods/translucent-windows
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

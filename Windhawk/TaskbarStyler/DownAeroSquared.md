@@ -1,20 +1,28 @@
 ---
 title: Down Aero Squared
 summary: Clean squared theme for Windows 11 Taskbar Styler
-nav_exclude: true
 parent: Taskbar Styler
 permalink: /Windhawk/TaskbarStyler/DownAeroSquared
 ---
 
+## Down Aero Squared
+
+![Preview](/assets/images/previews/taskbar-styler/down-aero-squared.bmp)
+
 ### Requirements
 
-- [Windhawk]
-- [Windhawk] Plugin: [Windows 11 Taskbar Styler]
+- [Windhawk](https://windhawk.net/)
+- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
 
 ### Installation
 
 - Copy and paste the code below into **Windhawk >> Windows 11 Taskbar Styler >> Advanced >> Mod Settings**
 - Click **Save**, then click **Load**
+
+To get the taskbar clock to display the system performance metrics like in the screenshot simply set the following settings in **Windhawk >> Taskbar Clock Customization >> Settings**:
+
+- **Top Line**: CPU %cpu% RAM %ram% | %date%
+- **Bottom Line**: 🔽 %download_speed% 🔼 %upload_speed% | %time%
 
 ```json
 {

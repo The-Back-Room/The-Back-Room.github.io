@@ -1,15 +1,16 @@
 ---
 title: Down Aero Squared
 summary: Clean squared theme for Windows 11 Notification Center Styler
-nav_exclude: true
 parent: Notification Center Styler
 permalink: /Windhawk/NotificationCenterStyler/DownAeroSquared
 ---
 
+![Preview](/assets/images/previews/notification-center-styler/down-aero-squared.bmp)
+
 ### Requirements
 
-- [Windhawk] 
-- [Windhawk] Plugin: [Windows 11 Notification Center Styler]
+- [Windhawk](https://windhawk.net/)
+- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
 
 ### Installation
 
@@ -287,12 +288,3 @@ permalink: /Windhawk/NotificationCenterStyler/DownAeroSquared
   "controlStyles[30].styles[5]": "Background := <AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorDark2}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColorDark2}\" />"
 }
 ```
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[//]: # Resources and links for this page go here.
-
-[Windhawk]: https://windhawk.net/
-[Windows 11 Notification Center Styler]: https://windhawk.net/mods/windows-11-notification-center-styler
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

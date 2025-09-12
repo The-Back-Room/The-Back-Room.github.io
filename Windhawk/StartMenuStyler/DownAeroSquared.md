@@ -1,15 +1,16 @@
 ---
 title: Down Aero Squared
 summary: Clean squared theme for Windows 11 Start Menu Styler
-nav_exclude: true
 parent: Start Menu Styler
-permalink: /windhawk/start-menu-styler/down-aero-squared
+permalink: /Windhawk/StartMenuStyler/DownAeroSquared
 ---
+
+![Preview](/assets/images/previews/start-menu-styler/down-aero-squared.bmp)
 
 ### Requirements
 
-- [Windhawk] 
-- [Windhawk] Plugin: [Windows 11 Start Menu Styler]
+- [Windhawk](https://windhawk.net/) 
+- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
 
 ### Installation
 
@@ -135,12 +136,3 @@ permalink: /windhawk/start-menu-styler/down-aero-squared
   "disableNewStartMenuLayout": 1  
 }
 ```
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-
-[//]: # Resources and links for this page go here.
-
-[Windhawk]: https://windhawk.net/
-[Windows 11 Start Menu Styler]: https://windhawk.net/mods/windows-11-start-menu-styler
-
-<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->

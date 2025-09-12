@@ -6,6 +6,15 @@ has_toc: false
 permalink: /WindowsThemes/WindhawkThemes/DownAeroSquared
 ---
 
+<div align="center">
+<img src="/assets/images/previews/file-explorer-styler/down-aero-squared.bmp" alt="Preview" width="80%" />
+<br />
+<img src="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" alt="Preview" width="80%" />
+<br />
+<img src="/assets/images/previews/notification-center-styler/down-aero-squared.bmp" alt="Preview" width="80%" />
+</div>
+
+
 ## Down Aero Squared
 Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
