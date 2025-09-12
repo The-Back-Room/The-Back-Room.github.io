@@ -28,3 +28,4 @@ This page provides a detailed log of changes, updates, and improvements made to 
     - Changes made prior to this date are undocumented.
 - Updated the Planned Projects page to include new features and icon packs.
 - Fixed minor typos and formatting issues across various pages.
+- Removed unnecessary comments from the `.gitignore` file and deleted the VSCode settings file to streamline project files.
