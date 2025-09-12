@@ -28,7 +28,6 @@ Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
 ### Instructions
 
-- **Prerequisites**: Install the prequisites listed on the previous page.
 - **Start Menu**: Follow the instructions posted on [Windhawk Mods >> Start Menu Styler >> Down Aero Squared](/Windhawk/StartMenuStyler/DownAeroSquared.md)
 - **Taskbar**: Follow the instructions posted on [Windhawk Mods >> Taskbar Styler >> Down Aero Squared](/Windhawk/TaskbarStyler/DownAeroSquared.md)
 - **File Explorer**: Follow the instructions posted on [Windhawk Mods >> File Explorer Styler >> Down Aero Squared](/Windhawk/FileExplorerStyler/DownAeroSquared.md)

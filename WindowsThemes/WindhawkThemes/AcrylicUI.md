@@ -27,7 +27,6 @@ Complete overhaul for Windows 11 with squared window corners and acrylic blur.
 
 ### Instructions
 
-- **Prerequisites**: Install the prequisites listed on the previous page.
 - **Start Menu**: Follow the instructions posted on [Windhawk Mods >> Start Menu Styler >> Acrylic UI](/Windhawk/StartMenuStyler/AcrylicUI)
 - **Taskbar**: Follow the instructions posted on [Windhawk Mods >> Taskbar Styler >> Acrylic UI](/Windhawk/TaskbarStyler/AcrylicUI.md)
 - **File Explorer**: Follow the instructions posted on [Windhawk Mods >> File Explorer Styler >> Acrylic UI](/Windhawk/FileExplorerStyler/AcrylicUI.md)
