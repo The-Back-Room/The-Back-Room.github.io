@@ -13,7 +13,7 @@ Custom MSSTYLE Themes for Windows 10 and 11
 Visual Styles for Windows 10 19H1-22H2
 
 - [BLEACH](/WindowsThemes/VisualStyles/Windows10/Bleach) - Visual Style inspired by the BLEACH anime and manga series.
-- [BLEACH HENTAI (NSFW)](/WindowsThemes/VisualStyles/Windows10/BleachHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
+- [BLEACH Hentai (NSFW)](/WindowsThemes/VisualStyles/Windows10/BLEACHHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
 - [Ecchi (NSFW)](/WindowsThemes/VisualStyles/Windows10/Ecchi) - NSFW Visual Style inspired by ecchi anime and manga.
 - [Once Human](/WindowsThemes/VisualStyles/Windows10/OnceHuman) - Visual Style inspired by the game "Once Human".
 - [LewdGamerWaifus (NSFW)](/WindowsThemes/VisualStyles/Windows10/LewdGamerWaifus) - Visual Style featuring background images of Lewd Gamer Waifus.
@@ -25,7 +25,7 @@ Visual Styles for Windows 11 23H1+
 
 - [Aero7-11](/WindowsThemes/VisualStyles/Windows11/Aero7-11) - Large collection of Visual Styles with resources sourced from various places including the Windows 7 RTM, regional themes, panoramic themes, and community showcase themes.
 - [BLEACH](/WindowsThemes/VisualStyles/Windows11/Bleach) - Visual Style inspired by the BLEACH anime and manga series.
-- [BLEACH HENTAI (NSFW)](/WindowsThemes/VisualStyles/Windows11/BleachHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
+- [BLEACH Hentai (NSFW)](/WindowsThemes/VisualStyles/Windows11/BLEACHHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
 - [Ecchi (NSFW)](/WindowsThemes/VisualStyles/Windows11/Ecchi) - NSFW Visual Style inspired by ecchi anime and manga.
 - [Once Human](/WindowsThemes/VisualStyles/Windows11/OnceHuman) - Visual Style inspired by the game "Once Human".
 - [LewdGamerWaifus (NSFW)](/WindowsThemes/VisualStyles/Windows11/LewdGamerWaifus) - Visual Style featuring background images of Lewd Gamer Waifus.
