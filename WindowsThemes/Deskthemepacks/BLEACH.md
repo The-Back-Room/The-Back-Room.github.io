@@ -10,6 +10,8 @@ permalink: /WindowsThemes/Deskthemepacks/BLEACH
 A theme pack inspired by the BLEACH anime and manga series.
 
 <div align="center">
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview.bmp" alt="Preview" width="80%" />
+    <br />
     <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview-2.bmp" alt="Preview" width="80%" />
 </div>
 
