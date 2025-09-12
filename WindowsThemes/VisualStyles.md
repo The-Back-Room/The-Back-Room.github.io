@@ -25,9 +25,6 @@ Custom Visual Styles for Windows 10 and 11.
 - [Ranma Hentai (NSFW)](/WindowsThemes/VisualStyles/Windows10/RanmaHentai) - Visual Style inspired by the Ranma ½ anime and manga series.
 - [Sexy Naruto Girls (NSFW)](/WindowsThemes/VisualStyles/Windows10/SexyNarutoGirls) - Visual Style inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
 
-### Windows 11 Themes
-Visual Styles for Windows 11 23H1+
-
 #### SFW Windows 11 Themes
 
 - [Aero7-11](/WindowsThemes/VisualStyles/Windows11/Aero7-11) - Large collection of Visual Styles with resources sourced from various places including the Windows 7 RTM, regional themes, panoramic themes, and community showcase themes.
