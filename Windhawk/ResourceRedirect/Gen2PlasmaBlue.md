@@ -1,7 +1,7 @@
 ---
 title: Gen2 Plasma Blue
-summary: Gen2 Plasma Blue icon pack for Windows 11
-parent: Resource Redirect
+summary: A modern icon pack with a blue color scheme.
+nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/Gen2PlasmaBlue
 ---
 

@@ -1,13 +1,12 @@
 ---
 title: Social
 summary: Social communities hosted by members of our community
-nav_order: 10
+nav_order: 5
 permalink: /Social
 ---
 
 ## Social
 Social communities hosted by members of our community.
-
 
 ### Reddit
 - [r/Ranma_Hentai](https://www.reddit.com/r/Ranma_Hentai/) - Ranma ½ hentai images and gifs.

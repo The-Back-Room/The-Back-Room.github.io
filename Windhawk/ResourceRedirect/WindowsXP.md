@@ -1,7 +1,7 @@
 ---
 title: Windows XP
-summary: Windows XP icon pack for Windows 11
-parent: Resource Redirect
+summary: An icon pack inspired by the Windows XP interface.
+nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/WindowsXP
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Jarvis
-summary: Jarvis icon pack for Windows 11
-parent: Resource Redirect
+summary: A futuristic hologram icon pack inspired by Jarvis.
+nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/Jarvis
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: HUD Apocalypse
-summary: HUD Apocalypse icon pack for Windows 11
-parent: Resource Redirect
+summary: A mechanical red themed icon pack.
+nav_exclude: true
 permalink: /windhawk/resource-redirect/hud-apocalypse
 ---
 

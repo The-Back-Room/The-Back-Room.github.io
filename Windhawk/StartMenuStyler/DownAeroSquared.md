@@ -1,7 +1,7 @@
 ---
 title: Down Aero Squared
-summary: Clean squared theme for Windows 11 Start Menu Styler
-parent: Start Menu Styler
+summary: A squared-off version of the DownAero theme for the Windows Start Menu.
+nav_exclude: true
 permalink: /Windhawk/StartMenuStyler/DownAeroSquared
 ---
 

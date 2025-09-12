@@ -1,7 +1,7 @@
 ---
 title: Unity 2014
-summary: Unity 2014 icon pack for Windows 11
-parent: Resource Redirect
+summary: neiio's classic Unity 2014 icon pack ported to Resource Redirect.
+nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/Unity2014
 ---
 

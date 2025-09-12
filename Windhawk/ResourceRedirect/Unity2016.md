@@ -1,7 +1,7 @@
 ---
 title: Unity 2016
-summary: Unity 2016 icon pack for Windows 11
-parent: Resource Redirect
+summary: neiio's classic Unity 2016 icon pack ported to Resource Redirect.
+nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/Unity2016
 ---
 

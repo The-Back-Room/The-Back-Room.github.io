@@ -1,7 +1,7 @@
 ---
 title: Acrylic UI
-summary: Simple acrylic theme for Windows 11 Notification Center Styler
-parent: Notification Center Styler
+summary: A modern, translucent notifications center style.
+nav_exclude: true
 permalink: /Windhawk/NotificationCenterStyler/AcrylicUI
 ---
 

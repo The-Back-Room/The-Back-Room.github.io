@@ -1,7 +1,7 @@
 ---
 title: Acrylic UI
-summary: Simple acrylic theme for Windows 11 Start Menu Styler
-parent: Start Menu Styler
+summary: A modern, translucent start menu style.
+nav_exclude: true
 permalink: /Windhawk/StartMenuStyler/AcrylicUI
 ---
 

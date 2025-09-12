@@ -1,7 +1,7 @@
 ---
 title: Floating Ice Chrononaut
-summary: Floating Ice Chrononaut icon pack for Windows 11
-parent: Resource Redirect
+summary: A steampunk themed icon pack.
+nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/FloatingIceChrononaut
 ---
 

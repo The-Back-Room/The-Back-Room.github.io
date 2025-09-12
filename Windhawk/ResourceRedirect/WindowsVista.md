@@ -1,7 +1,7 @@
 ---
 title: Windows Vista
-summary: Windows Vista icon pack for Windows 11
-parent: Resource Redirect
+summary: An icon pack inspired by the Windows Vista interface.
+nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/WindowsVista
 ---
 

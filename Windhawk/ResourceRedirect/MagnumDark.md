@@ -1,7 +1,7 @@
 ---
 title: Magnum Dark
-summary: Magnum Dark icon pack for Windows 11
-parent: Resource Redirect
+summary: A dark-themed icon pack with bold designs.
+nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/MagnumDark
 ---
 

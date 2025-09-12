@@ -1,8 +1,7 @@
 ---
 title: Acrylic UI
-summary: Simple acrylic theme for Windows 11 File Explorer Styler
+summary: A modern, translucent file explorer style.
 nav_exclude: true
-parent: File Explorer Styler
 permalink: /Windhawk/FileExplorerStyler/AcrylicUI
 ---
 

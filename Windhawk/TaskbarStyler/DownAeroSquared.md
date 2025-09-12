@@ -1,7 +1,7 @@
 ---
 title: Down Aero Squared
-summary: Clean squared theme for Windows 11 Taskbar Styler
-parent: Taskbar Styler
+summary: A squared-off version of the DownAero theme for the Windows Taskbar.
+nav_exclude: true
 permalink: /Windhawk/TaskbarStyler/DownAeroSquared
 ---
 

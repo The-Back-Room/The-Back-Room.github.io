@@ -1,7 +1,7 @@
 ---
 title: Windows 7
-summary: Windows 7 icon pack for Windows 11
-parent: Resource Redirect
+summary: An icon pack inspired by the Windows 7 interface.
+nav_exclude: true
 permalink: /Windhawk/ResourceRedirect/Windows7
 ---
 

@@ -1,8 +1,7 @@
 ---
 title: Down Aero Squared
-summary: Clean squared theme for Windows 11 File Explorer Styler
+summary: A squared-off version of the DownAero theme for the Windows File Explorer.
 nav_exclude: true
-parent: File Explorer Styler
 permalink: /Windhawk/FileExplorerStyler/DownAeroSquared
 ---
 
