@@ -13,7 +13,7 @@ permalink: /WindowsThemes/Deskthemepacks
 - [Courage the Cowardly Dog](/WindowsThemes/Deskthemepacks/CourageTCD) - Theme pack inspired by the the clut classic Courage the Cowardly Dog.
 - [Ecchi (NSFW)](/WindowsThemes/Deskthemepacks/Ecchi) - NSFW Theme pack inspired by Ecchi anime and manga series.
 - [Final Fantasy XIV - A Realm Reborn](/WindowsThemes/Deskthemepacks/FinalFantasyXIV) - Theme pack inspired by the game "Final Fantasy XIV".
-- [Final Fantasy XIV - Waifus (NSFW)](/WindowsThemes/Deskthemepacks/FFXIVWaifus) - NSFW theme pack inspired by the game "Final Fantasy XIV ".
+- [Final Fantasy XIV - Waifus (NSFW)](/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus) - NSFW theme pack inspired by the game "Final Fantasy XIV ".
 - [Howl's Moving Castle](/WindowsThemes/Deskthemepacks/HowlsMovingCastle) - Theme pack inspired by the Studio Ghibli film "Howl's Moving Castle"
 - [Lewd Gamer Waifus (NSFW)](/WindowsThemes/Deskthemepacks/LewdGamerWaifus) -NSFW Theme pack featuring backgounds with lewd gamer waifus.
 - [MacOS](/WindowsThemes/Deskthemepacks/MacOS) - Large collection of theme packs inspaired by the MacOS operating system.
