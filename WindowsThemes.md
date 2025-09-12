@@ -1,6 +1,6 @@
 ---
 title: Windows Themes
-nav_order: 1.3
+nav_order: 1.2
 permalink: /WindowsThemes
 ---
 
