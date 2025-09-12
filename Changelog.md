@@ -7,10 +7,10 @@ published: false
 ## Changelog
 This page provides a detailed log of changes, updates, and improvements made to The Back Room website and its content. It serves as a historical record of modifications, helping users stay informed about the latest developments.
 
-- Dates are formatted as `Month Day, Year`
+- Dates are formatted as `YYYY-MM-DD`
 - Entries are listed in reverse chronological order, with the most recent changes at the top.
 
-### September 12, 2025
+### 2025-09-12
 
 - Updated the DownAero Squared screenshot images to better reflect the theme's appearance.
 - Changed the DownAero Squared title from "Down Aero Squared" to "DownAero Squared" for consistency.
@@ -20,8 +20,9 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Ensured consistent formatting across all Windhawk mod pages for a uniform look and feel.
 - Removed unnecessary whitespace and fixed minor formatting issues in various pages.
 - Removed unnecessary information from the Changelog page header.
+- Change date format in Changelog from `Month Day, Year` to `YYYY-MM-DD` for better sorting and consistency.
 
-### September 11, 2025
+### 2025-09-11
 
 - Added new Windows Themes and updated existing ones for better compatibility.
 - Improved website navigation and added a search feature for easier access to content.
