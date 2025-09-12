@@ -2,7 +2,7 @@
 title: Home
 summary: Open-Source Development and Customization
 has_toc: false
-nav_order: 1.1
+nav_order: 1.0
 permalink: /
 ---
 ## The Back Room

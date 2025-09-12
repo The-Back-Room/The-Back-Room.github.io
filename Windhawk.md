@@ -1,7 +1,7 @@
 ---
 title: Windhawk Mods
 summary: A collection of mods for Windhawk
-nav_order: 1.3
+nav_order: 3.0
 permalink: /Windhawk
 ---
 
