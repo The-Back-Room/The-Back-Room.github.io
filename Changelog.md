@@ -28,6 +28,8 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Replace social preview image with the new logo for better branding on social media platforms.
 - Replace favicon with transparent background version for better appearance on various backgrounds.
 - Fixed minor typos and grammatical errors across multiple pages.
+- Convert Home page to index.md for better SEO and consistency with Jekyll conventions.
+- Create README.md file to provide an overview of the repository and its purpose.
 
 ### 2025-09-11
 
