@@ -14,11 +14,11 @@ When creating or installing Windows Themes, it's important to ensure compatibili
 ## Our Themes
 We offer a variety of custom Windows Themes that you can download and install to enhance your desktop experience. Check them out via the following pages:
 
-### Windows Deskthemepacks
-Deskthemepacks for Windows 10 and Windows 11.
+### SFW Windows Deskthemepacks
+SFW Deskthemepacks for Windows 10 and Windows 11. These themes are safe for work and suitable for all audiences.
 
 - [Bleach](/WindowsThemes/Deskthemepacks/BLEACH) - Theme pack inspired by the BLEACH anime and manga series.
-- [Courage the Cowardly Dog](/WindowsThemes/Deskthemepacks/CourageTCD) - Theme pack inspired by the the clut classic Courage the Cowardly Dog.
+- [Courage the Cowardly Dog](/WindowsThemes/Deskthemepacks/CourageTCD) - Theme pack inspired by the cult classic Courage the Cowardly Dog.
 - [Final Fantasy XIV: A Realm Reborn](/WindowsThemes/Deskthemepacks/FinalFantasyXIV) - Theme pack inspired by "Final Fantasy XIV: A Realm Reborn".
 - [Final Fantasy XIV: Heavensward](/WindowsThemes/Deskthemepacks/FFXIVHeavensward) - Theme pack inspired by "Final Fantasy XIV: Heavensward".
 - [Final Fantasy XIV: Stormblood](/WindowsThemes/Deskthemepacks/FFXIVStormblood) - Theme pack inspired by "Final Fantasy XIV: Stormblood".
@@ -34,6 +34,10 @@ Deskthemepacks for Windows 10 and Windows 11.
 - [Studio Ghibli](/WindowsThemes/Deskthemepacks/StudioGhibli) - Theme pack inspired by films of Studio Ghibli.
 - [Unity 2014](/WindowsThemes/Deskthemepacks/Unity2014) - Theme pack inspired by the classic Unity 2014 visual style.
 - [Unity 2016](/WindowsThemes/Deskthemepacks/Unity2016) - Theme pack inspired by the classic Unity 2016 visual style.
+
+### NSFW Windows Deskthemepacks
+NSFW Deskthemepacks for Windows 10 and Windows 11. These themes contain adult content and are intended for mature audiences only.
+
 - [Bleach Hentai (NSFW)](/WindowsThemes/Deskthemepacks/BLEACHHentai) - NSFW theme pack inspired by the BLEACH anime and manga series.
 - [Ecchi (NSFW)](/WindowsThemes/Deskthemepacks/Ecchi) - NSFW Theme pack inspired by Ecchi anime and manga series.
 - [Final Fantasy XIV - Waifus (NSFW)](/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus) - NSFW theme pack inspired by the game "Final Fantasy XIV ".
@@ -41,11 +45,15 @@ Deskthemepacks for Windows 10 and Windows 11.
 - [Ranma Hentai (NSFW)](/WindowsThemes/Deskthemepacks/RanmaHentai) - NSFW theme pack inspired by the Ranma ½ anime and manga series.
 - [Sexy Naruto Girls (NSFW)](/WindowsThemes/Deskthemepacks/SexyNarutoGirls) - NSFW theme pack inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
 
-### Windows 10 Visual Styles 
-Custom Visual Styles for Windows 10 19H1-22H2 (1903-22H2).
+### SFW Windows 10 Visual Styles 
+SFW Visual Styles for Windows 10 19H1-22H2 (1903-22H2). These themes are safe for work and suitable for all audiences.
 
 - [BLEACH](/WindowsThemes/VisualStyles/Windows10/Bleach) - Visual Style inspired by the BLEACH anime and manga series.
 - [Once Human](/WindowsThemes/VisualStyles/Windows10/OnceHuman) - Visual Style inspired by the game "Once Human".
+
+### NSFW Windows 10 Visual Styles 
+NSFW Visual Styles for Windows 10 19H1-22H2 (1903-22H2). These themes contain adult content and are intended for mature audiences only.
+
 - [BLEACH Hentai (NSFW)](/WindowsThemes/VisualStyles/Windows10/BLEACHHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
 - [Ecchi (NSFW)](/WindowsThemes/VisualStyles/Windows10/Ecchi) - NSFW Visual Style inspired by ecchi anime and manga.
 - [LewdGamerWaifus (NSFW)](/WindowsThemes/VisualStyles/Windows10/LewdGamerWaifus) - Visual Style featuring background images of Lewd Gamer Waifus.
@@ -53,11 +61,15 @@ Custom Visual Styles for Windows 10 19H1-22H2 (1903-22H2).
 - [Sexy Naruto Girls (NSFW)](/WindowsThemes/VisualStyles/Windows10/SexyNarutoGirls) - Visual Style inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
 
 ### Windows 11 Visual Styles 
-Custom Visual Styles for Windows 11 23H2+ (22000+).
+SFW Visual Styles for Windows 11 23H2+ (22000+). These themes are safe for work and suitable for all audiences.
 
 - [Aero7-11](/WindowsThemes/VisualStyles/Windows11/Aero7-11) - Large collection of Visual Styles with resources sourced from various places including the Windows 7 RTM, regional themes, panoramic themes, and community showcase themes.
 - [BLEACH](/WindowsThemes/VisualStyles/Windows11/Bleach) - Visual Style inspired by the BLEACH anime and manga series.
 - [Once Human](/WindowsThemes/VisualStyles/Windows11/OnceHuman) - Visual Style inspired by the game "Once Human".
+
+### NSFW Windows 11 Visual Styles 
+NSFW Visual Styles for Windows 11 23H2+ (22000+). These themes contain adult content and are intended for mature audiences only.
+
 - [BLEACH Hentai (NSFW)](/WindowsThemes/VisualStyles/Windows11/BLEACHHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
 - [Ecchi (NSFW)](/WindowsThemes/VisualStyles/Windows11/Ecchi) - NSFW Visual Style inspired by ecchi anime and manga.
 - [LewdGamerWaifus (NSFW)](/WindowsThemes/VisualStyles/Windows11/LewdGamerWaifus) - Visual Style featuring background images of Lewd Gamer Waifus.
