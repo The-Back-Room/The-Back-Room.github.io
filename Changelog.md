@@ -18,6 +18,10 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Updated the Windows Themes page to include the new Final Fantasy XIV theme packs with detailed descriptions and instructions.
 - Seperated NSFW and SFW themes into distinct sections on the Windows Themes page for better organization.
 - Fixed minor typos and formatting issues on the Windows Themes page.
+- Added installation instructions for each theme pack on the Windows Themes page.
+- Removed the "Related Pages" section from the Windows Themes page to streamline content and focus on theme offerings.
+- Clarified the description of Windhawk themes on the Windows Themes page to specify that they require the Windhawk application.
+- Removed redundant introductory sections from the Windows Themes page to improve readability and conciseness.
 
 ### 2025-09-12
 

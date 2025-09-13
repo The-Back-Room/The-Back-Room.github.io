@@ -5,13 +5,6 @@ nav_order: 2.0
 permalink: /WindowsThemes
 ---
 
-## Windows Themes
-Windows Themes are a collection of custom themes and visual styles for Windows operating systems. These themes can be used to change the appearance of your Windows interface, including colors, icons, and overall design.
-
-## Compatibility
-When creating or installing Windows Themes, it's important to ensure compatibility with your specific version of Windows. Some themes may not work properly on certain versions or may require additional software to function correctly. Remember to always back up your system before making significant changes, such as installing custom themes, to avoid potential issues.
-
-## Our Themes
 We offer a variety of custom Windows Themes that you can download and install to enhance your desktop experience. Check them out via the following pages:
 
 ### SFW Windows Deskthemepacks
@@ -77,12 +70,10 @@ NSFW Visual Styles for Windows 11 23H2+ (22000+). These themes contain adult con
 - [Sexy Naruto Girls (NSFW)](/WindowsThemes/VisualStyles/Windows11/SexyNarutoGirls) - Visual Style inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
 
 ### Windhawk Themes 
-Visual overhauls for Windows 10 and Windows 11 using [Windhawk](https://windhawk.net/).
+Custom themes for Windows 11 created using Windhawk. These themes require the [Windhawk](https://windhawk.net) application to be installed and configured.
 
 - [Acrylic UI](/WindowsThemes/WindhawkThemes/AcrylicUI) - Complete overhaul for Windows 11 with squared window corners and acrylic blur
 - [DownAero Squared](/WindowsThemes/WindhawkThemes/DownAeroSquared) - Complete overhaul for Windows 11 based off of the Windhawk DownAero theme
 
-## Related Pages 
-
-- [How to Install Custom Themes on Windows](/HowTo/InstallCustomThemes)
-- [How to Create Custom Themes for Windows](/HowTo/CreateCustomThemes)
+## Installing Themes
+Each theme pack includes a set of instructions on how to install and apply the theme. Please refer to the individual theme pages for detailed installation steps.
