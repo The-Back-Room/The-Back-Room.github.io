@@ -10,9 +10,9 @@ permalink: /WindowsThemes/WindhawkThemes/DownAeroSquared
 Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
 <div align="center">
-<img src="/assets/images/previews/windhawk-themes/down-aero-squared/Preview-1.bmp" alt="DownAero Squared Preview 1" style="max-width: 100%; height: auto;" />
+<img src="https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview-1.bmp" alt="DownAero Squared Preview 1" style="max-width: 100%; height: auto;" />
 <br />
-<img src="/assets/images/previews/windhawk-themes/down-aero-squared/Preview-2.bmp" alt="DownAero Squared Preview 2" style="max-width: 100%; height: auto;" />
+<img src="https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview-2.bmp" alt="DownAero Squared Preview 2" style="max-width: 100%; height: auto;" />
 </div>
 
 ### Requirements
@@ -26,7 +26,7 @@ Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
 ### Instructions
 
-- **Start Menu**: Follow the instructions listed [here](/Windhawk/StartMenuStyler/DownAeroSquared)
-- **Taskbar**: Follow the instructions listed [here](/Windhawk/TaskbarStyler/DownAeroSquared)
-- **File Explorer**: Follow the instructions listed [here](/Windhawk/FileExplorerStyler/DownAeroSquared)
-- **Notification Center and Quick Settings**: Follow the instructions listed [here](/Windhawk/NotificationCenterStyler/DownAeroSquared)
+- **Start Menu**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/StartMenuStyler/DownAeroSquared)
+- **Taskbar**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/TaskbarStyler/DownAeroSquared)
+- **File Explorer**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/FileExplorerStyler/DownAeroSquared)
+- **Notification Center and Quick Settings**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/NotificationCenterStyler/DownAeroSquared)

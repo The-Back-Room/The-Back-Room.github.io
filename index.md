@@ -32,12 +32,12 @@ Here are some ways to get involved:
 - **Discord Community**: Join our [Discord server](https://discord.gg/Yxj2t8ZbvX) to connect with other members, share ideas, and get support.
 
 ### Planned Projects
-We are continuously working on new projects and improvements. You can check out our currently planned projects on our [Planned Projects](/PlannedProjects).
+We are continuously working on new projects and improvements. You can check out our currently planned projects on our [Planned Projects](https://the-back-room.info/PlannedProjects).
 
 ### Contributing
-We encourage contributions to our projects. Please refer to our [Contributing Guidelines](/Contributing) for detailed instructions on how to contribute effectively.
+We encourage contributions to our projects. Please refer to our [Contributing Guidelines]https://the-back-room.info(/Contributing) for detailed instructions on how to contribute effectively.
 
 ### Licensing
 
-All our projects are released under the [Creative Commons Attribution 4.0 License](/License), allowing you to use, share, and adapt our work with proper attribution.
+All our projects are released under the [Creative Commons Attribution 4.0 License](https://the-back-room.info/License), allowing you to use, share, and adapt our work with proper attribution.
 

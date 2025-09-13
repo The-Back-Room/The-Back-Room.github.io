@@ -13,29 +13,29 @@ Windhawk is a third-party application and is not affiliated with The Back Room. 
 Here is a list of Windhawk mods created by members of The Back Room:
 
 ### File Explorer Styler
-- [Acrylic UI](/Windhawk/FileExplorerStyler/AcrylicUI) - A modern, translucent file explorer style.
-- [DownAero Squared](/Windhawk/FileExplorerStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows File Explorer.
+- [Acrylic UI](https://the-back-room.info/Windhawk/FileExplorerStyler/AcrylicUI) - A modern, translucent file explorer style.
+- [DownAero Squared](https://the-back-room.info/Windhawk/FileExplorerStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows File Explorer.
 
 ### Start Menu Styler
-- [Acrylic UI](/Windhawk/StartMenuStyler/AcrylicUI) - A modern, translucent start menu style.
-- [DownAero Squared](/Windhawk/StartMenuStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Start Menu.
+- [Acrylic UI](https://the-back-room.info/Windhawk/StartMenuStyler/AcrylicUI) - A modern, translucent start menu style.
+- [DownAero Squared](https://the-back-room.info/Windhawk/StartMenuStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Start Menu.
 
 ### Taskbar Styler
-- [Acrylic UI](/Windhawk/TaskbarStyler/AcrylicUI) - A modern, translucent taskbar style.
-- [DownAero Squared](/Windhawk/TaskbarStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Taskbar.
+- [Acrylic UI](https://the-back-room.info/Windhawk/TaskbarStyler/AcrylicUI) - A modern, translucent taskbar style.
+- [DownAero Squared](https://the-back-room.info/Windhawk/TaskbarStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Taskbar.
 
 ## Notifications Center Styler
-- [Acrylic UI](/Windhawk/NotificationsCenterStyler/AcrylicUI) - A modern, translucent notifications center style.
-- [DownAero Squared](/Windhawk/NotificationsCenterStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Notifications Center.
+- [Acrylic UI](https://the-back-room.info/Windhawk/NotificationsCenterStyler/AcrylicUI) - A modern, translucent notifications center style.
+- [DownAero Squared](https://the-back-room.info/Windhawk/NotificationsCenterStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Notifications Center.
 
 ## Resource Redirect
-- [Floating Ice Chrononaut](/Windhawk/ResourceRedirect/FloatingIceChrononaut) - A steampunk themed icon pack.
-- [Gen2 Plasma Blue](/Windhawk/ResourceRedirect/Gen2PlasmaBlue) - A modern icon pack with a blue color scheme.
-- [HUD Apocalypse](/Windhawk/ResourceRedirect/HUDApocalypse) - A mechanical red themed icon pack.
-- [Jarvis](/Windhawk/ResourceRedirect/Jarvis) - A futuristic hologram icon pack inspired by Jarvis.
-- [Magnum Dark](/Windhawk/ResourceRedirect/MagnumDark) - A dark-themed icon pack with bold designs.
-- [Unity 2014](/Windhawk/ResourceRedirect/Unity2014) - neiio's classic Unity 2014 icon pack ported to Resource Redirect.
-- [Unity 2016](/Windhawk/ResourceRedirect/Unity2016) - neiio's classic Unity 2016 icon pack ported to Resource Redirect.
-- [Windows 7](/Windhawk/ResourceRedirect/Windows7) - An icon pack inspired by the Windows 7 interface.
-- [Windows Vista](/Windhawk/ResourceRedirect/WindowsVista) - An icon pack inspired by the Windows Vista interface.
-- [Windows XP](/Windhawk/ResourceRedirect/WindowsXP) - An icon pack inspired by the Windows XP interface.
+- [Floating Ice Chrononaut](https://the-back-room.info/Windhawk/ResourceRedirect/FloatingIceChrononaut) - A steampunk themed icon pack.
+- [Gen2 Plasma Blue](https://the-back-room.info/Windhawk/ResourceRedirect/Gen2PlasmaBlue) - A modern icon pack with a blue color scheme.
+- [HUD Apocalypse](https://the-back-room.info/Windhawk/ResourceRedirect/HUDApocalypse) - A mechanical red themed icon pack.
+- [Jarvis](https://the-back-room.info/Windhawk/ResourceRedirect/Jarvis) - A futuristic hologram icon pack inspired by Jarvis.
+- [Magnum Dark](https://the-back-room.info/Windhawk/ResourceRedirect/MagnumDark) - A dark-themed icon pack with bold designs.
+- [Unity 2014](https://the-back-room.info/Windhawk/ResourceRedirect/Unity2014) - neiio's classic Unity 2014 icon pack ported to Resource Redirect.
+- [Unity 2016](https://the-back-room.info/Windhawk/ResourceRedirect/Unity2016) - neiio's classic Unity 2016 icon pack ported to Resource Redirect.
+- [Windows 7](https://the-back-room.info/Windhawk/ResourceRedirect/Windows7) - An icon pack inspired by the Windows 7 interface.
+- [Windows Vista](https://the-back-room.info/Windhawk/ResourceRedirect/WindowsVista) - An icon pack inspired by the Windows Vista interface.
+- [Windows XP](https://the-back-room.info/Windhawk/ResourceRedirect/WindowsXP) - An icon pack inspired by the Windows XP interface.
