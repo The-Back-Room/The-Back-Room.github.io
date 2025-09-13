@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /Windhawk/StartMenuStyler/AcrylicUI
 ---
 
-![Preview](/assets/images/previews/start-menu-styler/acrylic.bmp)
+![Preview](https://the-back-room.info/assets/images/previews/start-menu-styler/acrylic.bmp)
 
 ### Requirements
 

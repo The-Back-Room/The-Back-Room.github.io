@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /Windhawk/NotificationCenterStyler/AcrylicUI
 ---
 
-![Preview](/assets/images/previews/notification-center-styler/acrylic.bmp)
+![Preview](https://the-back-room.info/assets/images/previews/notification-center-styler/acrylic.bmp)
 
 ### Requirements
 
