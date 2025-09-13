@@ -19,7 +19,12 @@ Deskthemepacks for Windows 10 and Windows 11.
 
 - [Bleach](/WindowsThemes/Deskthemepacks/BLEACH) - Theme pack inspired by the BLEACH anime and manga series.
 - [Courage the Cowardly Dog](/WindowsThemes/Deskthemepacks/CourageTCD) - Theme pack inspired by the the clut classic Courage the Cowardly Dog.
-- [Final Fantasy XIV - A Realm Reborn](/WindowsThemes/Deskthemepacks/FinalFantasyXIV) - Theme pack inspired by the game "Final Fantasy XIV".
+- [Final Fantasy XIV: A Realm Reborn](/WindowsThemes/Deskthemepacks/FinalFantasyXIV) - Theme pack inspired by "Final Fantasy XIV: A Realm Reborn".
+- [Final Fantasy XIV: Heavensward](/WindowsThemes/Deskthemepacks/FFXIVHeavensward) - Theme pack inspired by "Final Fantasy XIV: Heavensward".
+- [Final Fantasy XIV: Stormblood](/WindowsThemes/Deskthemepacks/FFXIVStormblood) - Theme pack inspired by "Final Fantasy XIV: Stormblood".
+- [Final Fantasy XIV: Shadowbringers](/WindowsThemes/Deskthemepacks/FFXIVShadowbringers) - Theme pack inspired by "Final Fantasy XIV: Shadowbringers".
+- [Final Fantasy XIV: Endwalker](/WindowsThemes/Deskthemepacks/FFXIVEW) - Theme pack inspired by "Final Fantasy XIV: Endwalker".
+- [Final Fantasy XIV: Dawntrail](/WindowsThemes/Deskthemepacks/FFXIVDawntrail) - Theme pack inspired by "Final Fantasy XIV: Dawntrail".
 - [Howl's Moving Castle](/WindowsThemes/Deskthemepacks/HowlsMovingCastle) - Theme pack inspired by the Studio Ghibli film "Howl's Moving Castle"
 - [MacOS](/WindowsThemes/Deskthemepacks/MacOS) - Large collection of theme packs inspaired by the MacOS operating system.
 - [Microsoft EDU Themes](/WindowsThemes/Deskthemepacks/MicrosoftEDUThemes) - Microsoft's EDU Themes for all to enjoy.

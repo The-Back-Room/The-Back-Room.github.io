@@ -11,6 +11,12 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Dates are formatted as `YYYY-MM-DD`
 - Entries are listed in reverse chronological order, with the most recent changes at the top.
 
+### 2025-09-13
+
+- Added Final Fantasy XIV theme packs: Heavensward, Stormblood, Shadowbringers, Endwalker, and Dawntrail.
+- Updated the Final Fantasy XIV: A Realm Reborn theme pack with a new wallpapers.
+- Updated the Windows Themes page to include the new Final Fantasy XIV theme packs with detailed descriptions and instructions.
+
 ### 2025-09-12
 
 - Updated the DownAero Squared screenshot images to better reflect the theme's appearance.

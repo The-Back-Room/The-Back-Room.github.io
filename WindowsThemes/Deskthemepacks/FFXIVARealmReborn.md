@@ -1,9 +1,9 @@
 ---
-title: Final Fantasy XIV - A Realm Reborn
-summary: A theme pack inspired by Final Fantasy XIV
+title: FFXIV A Realm Reborn
+summary: A theme pack inspired by Final Fantasy XIV - A Realm Reborn
 nav_exclude: true
 has_toc: false
-permalink: /WindowsThemes/Deskthemepacks/FinalFantasyXIV
+permalink: /WindowsThemes/Deskthemepacks/FFXIVARealmReborn
 ---
 
 ## Final Fantasy XIV - A Realm Reborn
