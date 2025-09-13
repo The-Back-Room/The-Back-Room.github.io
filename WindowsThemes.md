@@ -12,7 +12,7 @@ SFW Deskthemepacks for Windows 10 and Windows 11. These themes are safe for work
 
 - [Bleach](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACH) - Theme pack inspired by the BLEACH anime and manga series.
 - [Courage the Cowardly Dog](https://the-back-room.info/WindowsThemes/Deskthemepacks/CourageTCD) - Theme pack inspired by the cult classic Courage the Cowardly Dog.
-- [Final Fantasy XIV: A Realm Reborn](https://the-back-room.info/WindowsThemes/Deskthemepacks/FinalFantasyXIV) - Theme pack inspired by "Final Fantasy XIV: A Realm Reborn".
+- [Final Fantasy XIV: A Realm Reborn](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVARealmReborn) - Theme pack inspired by "Final Fantasy XIV: A Realm Reborn".
 - [Final Fantasy XIV: Heavensward](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVHeavensward) - Theme pack inspired by "Final Fantasy XIV: Heavensward".
 - [Final Fantasy XIV: Stormblood](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVStormblood) - Theme pack inspired by "Final Fantasy XIV: Stormblood".
 - [Final Fantasy XIV: Shadowbringers](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVShadowbringers) - Theme pack inspired by "Final Fantasy XIV: Shadowbringers".

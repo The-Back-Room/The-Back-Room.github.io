@@ -23,6 +23,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Clarified the description of Windhawk themes on the Windows Themes page to specify that they require the Windhawk application.
 - Removed redundant introductory sections from the Windows Themes page to improve readability and conciseness.
 - Change the URL structure on all pages from relative links to absolute links for better reliability.
+- Fixed broken links on the Windows Themes page to ensure all links direct to the correct pages.
 
 ### 2025-09-12
 
