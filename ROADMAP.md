@@ -126,15 +126,15 @@ A list of planned Windows themes. This list is not in any particular order and m
 
         - **Horror Movies**: Theme packs inspired by popular horror movies. This list is not in any particular order and may change at any time.
 
-            - **Halloween**: Theme pack inspired by "Halloween" movie by John Carpenter
-            - **A Nightmare on Elm Street**: Theme pack inspired by "A Nightmare on Elm Street" movie by Wes Craven
-            - **Scream**: Theme pack inspired by "Scream" movies by Wes Craven
-            - **Child's Play**: Theme pack inspired by "Child's Play" movies by Don Mancini
-            - **The Exorcist**: Theme pack inspired by "The Exorcist" movies by William Friedkin
-            - **The Last Exorcism**: Theme pack inspired by "The Last Exorcism" movies by Daniel Stamm
-            - **The Conjuring**: Theme pack inspired by "The Conjuring" movies by James Wan
-            - **Annabelle**: Theme pack inspired by "Annabelle" movies by John R. Leonetti
-            - **The Nun**: Theme pack inspired by "The Nun" movies by Corin Hardy
-            - **IT**: Theme pack inspired by "IT" movies by Andy Muschietti
-            - **The Texas Chainsaw Massacre**: Theme pack inspired by "The Texas Chainsaw Massacre" movies by Tobe Hooper
-            - **Leatherface**: Theme pack inspired by "Leatherface" movies by Alexandre Bustillo and Julien Maury
+            - **Halloween**: Theme pack inspired by the "Halloween" movie by John Carpenter
+            - **A Nightmare on Elm Street**: Theme pack inspired by the "A Nightmare on Elm Street" movie by Wes Craven
+            - **Scream**: Theme pack inspired by the "Scream" movies by Wes Craven
+            - **Child's Play**: Theme pack inspired by the "Child's Play" movies by Don Mancini
+            - **The Exorcist**: Theme pack inspired by the "The Exorcist" movies by William Friedkin
+            - **The Last Exorcism**: Theme pack inspired by the "The Last Exorcism" movies by Daniel Stamm
+            - **The Conjuring**: Theme pack inspired by the "The Conjuring" movies by James Wan
+            - **Annabelle**: Theme pack inspired by the "Annabelle" movies by John R. Leonetti
+            - **The Nun**: Theme pack inspired by the "The Nun" movies by Corin Hardy
+            - **IT**: Theme pack inspired by the "IT" movies by Andy Muschietti
+            - **The Texas Chainsaw Massacre**: Theme pack inspired by the "The Texas Chainsaw Massacre" movies by Tobe Hooper
+            - **Leatherface**: Theme pack inspired by the "Leatherface" movies by Alexandre Bustillo and Julien Maury
