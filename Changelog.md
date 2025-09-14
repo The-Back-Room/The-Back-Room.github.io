@@ -69,11 +69,9 @@ This page provides a detailed log of changes, updates, and improvements made to 
     - Improved website navigation and added a search feature for easier access to content.
     - Enhanced the overall design and layout of the website for a more user-friendly experience.
 
-- Windhawk Mods:
-    - Updated Windhawk mods section with new mods and cleaned up the existing ones.
-
 - Content Management:
     - Standardized the format of all pages for consistency.
+    - Updated Windhawk mods section with new mods and cleaned up the existing ones.
     - Launched the Changelog page to document all future changes and updates.
         - Changes made prior to this date are undocumented.
     - Updated the Planned Projects page to include new features and icon packs.
