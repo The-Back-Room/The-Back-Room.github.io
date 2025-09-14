@@ -33,13 +33,13 @@ A list of planned Windows themes. This list is not in any particular order and m
     - **Game Inspired**:
         Game inspired themes. This list is not in any particular order and may change at any time.
 
-        - **Assassin's Creed**: Theme pack inspired by the "Assassin's Creed" franchise.
-        - **A Plague Tale**: Theme pack inspired by "A Plague Tale".
-        - **Dark Pictures Anthology**: Theme pack inspired by "The Dark Pictures Anthology".
-        - **Resident Evil**: Theme pack inspired by the "Resident Evil" franchise.
-        - **The Legend of Zelda**: Theme pack inspired by "The Legend of Zelda".
+        - **Assassin's Creed**: Theme pack inspired by the "Assassin's Creed" franchise by Ubisoft.
+        - **A Plague Tale**: Theme pack inspired by "A Plague Tale" franchise by Asobo Studio.
+        - **Dark Pictures Anthology**: Theme pack inspired by "The Dark Pictures Anthology" franchise by Supermassive Games.
+        - **Resident Evil**: Theme pack inspired by the "Resident Evil" franchise by Capcom.
+        - **The Legend of Zelda**: Theme pack inspired by "The Legend of Zelda" franchise.
         - **Arcade Classics**: Theme pack inspired by retro arcade games.
-        - **Hellblade**: Theme pack inspired by the "Hellblade" franchise.
+        - **Hellblade**: Theme pack inspired by the "Hellblade" franchise by Ninja Theory.
 
     - **Film Inspired**:
         Film inspired themes. This list is not in any particular order and may change at any time.
@@ -47,8 +47,8 @@ A list of planned Windows themes. This list is not in any particular order and m
         - **Popular Franchises**:
               Theme packs inspired by popular film franchises. This list is not in any particular order and may change at any time.
 
-            - **Star Wars**: Theme pack inspired by "The Star Wars" franchise.
-            - **Star Trek**: Theme pack inspired by the "Star Trek" franchise.
+            - **Star Wars**: Theme pack inspired by "The Star Wars" franchise by George Lucas.
+            - **Star Trek**: Theme pack inspired by the "Star Trek" franchise by Gene Roddenberry.
 
         - **Anime Inspired**:
            Theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
