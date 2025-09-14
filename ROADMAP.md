@@ -144,23 +144,23 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **Marvel**:
                 Theme packs inspired by the "Marvel" franchise. This list is not in any particular order and may change at any time.
 
-                - **Marvel Loki**: Theme pack inspired by the Marvel series "Loki"
-                - **Marvel Avengers**: Theme pack inspired by the Marvel film "The Avengers"
-                - **Marvel Avengers: Endgame**: Theme pack inspired by the Marvel film "Avengers: Endgame"
-                - **Marvel Avengers: Infinity War**: Theme pack inspired by the Marvel film "Avengers: Infinity War"
-                - **Marvel Avengers: Civil War**: Theme pack inspired by the Marvel film "Captain America: Civil War"
-                - **Marvel Thor: Ragnarok**: Theme pack inspired by the Marvel film "Thor: Ragnarok"
-                - **Marvel Thor: The Dark World**: Theme pack inspired by the Marvel film "Thor: The Dark World"
-                - **Marvel Thor: Love and Thunder**: Theme pack inspired by the Marvel film "Thor: Love and Thunder"
-                - **Marvel Spider-Man: Homecoming**: Theme pack inspired by the Marvel film "Spider-Man: Homecoming"
-                - **Marvel Spider-Man: Far From Home**: Theme pack inspired by the Marvel film "Spider-Man: Far From Home"
-                - **Marvel Spider-Man: No Way Home**: Theme pack inspired by the Marvel film "Spider-Man: No Way Home"
-                - **Marvel Guardians of the Galaxy**: Theme pack inspired by the Marvel film "Guardians of the Galaxy"
-                - **Marvel Doctor Strange**: Theme pack inspired by the Marvel film "Doctor Strange"
-                - **Marvel Black Panther**: Theme pack inspired by the Marvel film "Black Panther"
-                - **Marvel WandaVision**: Theme pack inspired by the Marvel series "WandaVision"
-                - **Marvel The Falcon and the Winter Soldier**: Theme pack inspired by the Marvel series "The Falcon and the Winter Soldier"
-                - **Marvel Hawkeye**: Theme pack inspired by the Marvel series "Hawkeye"
+                - **Marvel: Loki**: Theme pack inspired by the Marvel series "Loki"
+                - **Marvel: Avengers**: Theme pack inspired by the Marvel film "The Avengers"
+                - **Marvel: Avengers - Endgame**: Theme pack inspired by the Marvel film "Avengers: Endgame"
+                - **Marvel: Avengers - Infinity War**: Theme pack inspired by the Marvel film "Avengers: Infinity War"
+                - **Marvel: Avengers - Civil War**: Theme pack inspired by the Marvel film "Captain America: Civil War"
+                - **Marvel: Thor - Ragnarok**: Theme pack inspired by the Marvel film "Thor: Ragnarok"
+                - **Marvel: Thor - The Dark World**: Theme pack inspired by the Marvel film "Thor: The Dark World"
+                - **Marvel: Thor - Love and Thunder**: Theme pack inspired by the Marvel film "Thor: Love and Thunder"
+                - **Marvel: Spider-Man - Homecoming**: Theme pack inspired by the Marvel film "Spider-Man: Homecoming"
+                - **Marvel: Spider-Man - Far From Home**: Theme pack inspired by the Marvel film "Spider-Man: Far From Home"
+                - **Marvel: Spider-Man - No Way Home**: Theme pack inspired by the Marvel film "Spider-Man: No Way Home"
+                - **Marvel: Guardians of the Galaxy**: Theme pack inspired by the Marvel film "Guardians of the Galaxy"
+                - **Marvel: Doctor Strange**: Theme pack inspired by the Marvel film "Doctor Strange"
+                - **Marvel: Black Panther**: Theme pack inspired by the Marvel film "Black Panther"
+                - **Marvel: WandaVision**: Theme pack inspired by the Marvel series "WandaVision"
+                - **Marvel: The Falcon and the Winter Soldier**: Theme pack inspired by the Marvel series "The Falcon and the Winter Soldier"
+                - **Marvel: Hawkeye**: Theme pack inspired by the Marvel series "Hawkeye"
 
         - **Anime Inspired**:
            Theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
@@ -189,46 +189,46 @@ A list of planned Windows themes. This list is not in any particular order and m
                 Theme packs inspired by the "Inuyasha" anime and manga series. This list is not in any particular order and may change at any time.
 
                 - **Inuyasha**
-                - **Inuyasha The Final Act**: Theme pack inspired by the "Inuyasha The Final Act" series
-                - **Affections Touching Across Time**: Theme pack inspired by the "Inuyasha Affections Touching Across Time" movie
-                - **The Castle Beyond the Looking Glass**: Theme pack inspired by the "Inuyasha The Castle Beyond the Looking Glass" movie
-                - **Swords of an Honorable Ruler**: Theme pack inspired by the "Inuyasha Swords of an Honorable Ruler" movie
-                - **Fire on the Mystic Island**: Theme pack inspired by the "Inuyasha Fire on the Mystic Island" movie
-                - **Kagome and the Sacred Jewel**: Theme pack inspired by the "Inuyasha Kagome and the Sacred Jewel" movie
+                - **Inuyasha: The Final Act**: Theme pack inspired by the "Inuyasha The Final Act" series
+                - **Inuyasha: Affections Touching Across Time**: Theme pack inspired by the "Inuyasha Affections Touching Across Time" movie
+                - **Inuyasha: The Castle Beyond the Looking Glass**: Theme pack inspired by the "Inuyasha The Castle Beyond the Looking Glass" movie
+                - **Inuyasha: Swords of an Honorable Ruler**: Theme pack inspired by the "Inuyasha Swords of an Honorable Ruler" movie
+                - **Inuyasha: Fire on the Mystic Island**: Theme pack inspired by the "Inuyasha Fire on the Mystic Island" movie
+                - **Inuyasha: Kagome and the Sacred Jewel**: Theme pack inspired by the "Inuyasha Kagome and the Sacred Jewel" movie
 
             - **BLEACH**:
                 Theme packs inspired by the "BLEACH" anime and manga series. This list is not in any particular order and may change at any time.
 
-                - **Memories of Nobody**: Theme pack inspired by the "BLEACH Memories of Nobody" movie
-                - **The Sealed Sword Frenzy**: Theme pack inspired by the "BLEACH The Sealed Sword Frenzy" movie
-                - **The DiamondDust Rebellion**: Theme pack inspired by the "BLEACH The DiamondDust Rebellion" movie
-                - **Fade to Black**: Theme pack inspired by the "BLEACH Fade to Black" movie
-                - **Hell Verse**: Theme pack inspired by the "BLEACH Hell Verse" movie
+                - **BLEACH: Memories of Nobody**: Theme pack inspired by the "BLEACH Memories of Nobody" movie
+                - **BLEACH: The Sealed Sword Frenzy**: Theme pack inspired by the "BLEACH The Sealed Sword Frenzy" movie
+                - **BLEACH: The DiamondDust Rebellion**: Theme pack inspired by the "BLEACH The DiamondDust Rebellion" movie
+                - **BLEACH: Fade to Black**: Theme pack inspired by the "BLEACH Fade to Black" movie
+                - **BLEACH: Hell Verse**: Theme pack inspired by the "BLEACH Hell Verse" movie
 
             - **Naruto**:
                 Theme packs inspired by the "Naruto" anime and manga series. This list is not in any particular order and may change at any time.
 
-                - **Naruto Ninja Clash in the Land of Snow**: Theme pack inspired by the "Naruto Ninja Clash in the Land of Snow" movie
-                - **Naruto Legend of the Stone of Gelel**: Theme pack inspired by the "Naruto Legend of the Stone of Gelel" movie
-                - **Naruto Guardians of the Crescent Moon Kingdom**: Theme pack inspired by the "Naruto Guardians of the Crescent Moon Kingdom" movie
+                - **Naruto: Ninja Clash in the Land of Snow**: Theme pack inspired by the "Naruto Ninja Clash in the Land of Snow" movie
+                - **Naruto: Legend of the Stone of Gelel**: Theme pack inspired by the "Naruto Legend of the Stone of Gelel" movie
+                - **Naruto: Guardians of the Crescent Moon Kingdom**: Theme pack inspired by the "Naruto Guardians of the Crescent Moon Kingdom" movie
 
             - **Naruto Shippuden**:
                 Theme packs inspired by the "Naruto Shippuden" anime and manga series. This list is not in any particular order and may change at any time.
 
-                - **Naruto Shippuden Bonds**: Theme pack inspired by the "Naruto Shippuden Bonds" movie
-                - **Naruto Shippuden The Will of Fire**: Theme pack inspired by the "Naruto Shippuden The Will of Fire" movie
-                - **Naruto Shippuden The Lost Tower**: Theme pack inspired by the "Naruto Shippuden The Lost Tower" movie
-                - **Naruto Shippuden Blood Prison**: Theme pack inspired by the "Naruto Shippuden Blood Prison" movie
-                - **Naruto Shippuden Road to Ninja**: Theme pack inspired by the "Naruto Shippuden Road to Ninja" movie
-                - **Naruto Shippuden The Last**: Theme pack inspired by the "Naruto Shippuden The Last" movie
+                - **Naruto Shippuden: Bonds**: Theme pack inspired by the "Naruto Shippuden Bonds" movie
+                - **Naruto Shippuden: The Will of Fire**: Theme pack inspired by the "Naruto Shippuden The Will of Fire" movie
+                - **Naruto Shippuden: The Lost Tower**: Theme pack inspired by the "Naruto Shippuden The Lost Tower" movie
+                - **Naruto Shippuden: Blood Prison**: Theme pack inspired by the "Naruto Shippuden Blood Prison" movie
+                - **Naruto Shippuden: Road to Ninja**: Theme pack inspired by the "Naruto Shippuden Road to Ninja" movie
+                - **Naruto Shippuden: The Last**: Theme pack inspired by the "Naruto Shippuden The Last" movie
 
             - **Neon Genesis Evangelion**:
                 Theme packs inspired by the "Neon Genesis Evangelion" anime and manga series. This list is not in any particular order and may change at any time.
 
-                - **Evangelion You Are (Not) Alone**: Theme pack inspired by the "Evangelion: 1.0 You Are (Not) Alone" movie
-                - **Evangelion You Can (Not) Advance**: Theme pack inspired by the "Evangelion: 2.0 You Can (Not) Advance" movie
-                - **Evangelion You Can (Not) Redo**: Theme pack inspired by the "Evangelion: 3.0 You Can (Not) Redo" movie
-                - **Evangelion Thrice Upon a Time**: Theme pack inspired by the "Evangelion: 3.0+1.0 Thrice Upon a Time" movie
+                - **Evangelion: You Are (Not) Alone**: Theme pack inspired by the "Evangelion: 1.0 You Are (Not) Alone" movie
+                - **Evangelion: You Can (Not) Advance**: Theme pack inspired by the "Evangelion: 2.0 You Can (Not) Advance" movie
+                - **Evangelion: You Can (Not) Redo**: Theme pack inspired by the "Evangelion: 3.0 You Can (Not) Redo" movie
+                - **Evangelion: Thrice Upon a Time**: Theme pack inspired by the "Evangelion: 3.0+1.0 Thrice Upon a Time" movie
 
             - **Others**:
                 Theme packs inspired by various anime and manga series. This list is not in any particular order and may change at any time.
