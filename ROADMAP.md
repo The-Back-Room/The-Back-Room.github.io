@@ -225,10 +225,10 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **Neon Genesis Evangelion**:
                 Theme packs inspired by the "Neon Genesis Evangelion" anime and manga series. This list is not in any particular order and may change at any time.
 
-                - **Evangelion**: 1.0 You Are (Not) Alone
-                - **Evangelion**: 2.0 You Can (Not) Advance
-                - **Evangelion**: 3.0 You Can (Not) Redo
-                - **Evangelion**: 3.0+1.0 Thrice Upon a Time
+                - **Evangelion You Are (Not) Alone**: Theme pack inspired by the "Evangelion: 1.0 You Are (Not) Alone" movie
+                - **Evangelion You Can (Not) Advance**: Theme pack inspired by the "Evangelion: 2.0 You Can (Not) Advance" movie
+                - **Evangelion You Can (Not) Redo**: Theme pack inspired by the "Evangelion: 3.0 You Can (Not) Redo" movie
+                - **Evangelion Thrice Upon a Time**: Theme pack inspired by the "Evangelion: 3.0+1.0 Thrice Upon a Time" movie
 
             - **Others**:
                 Theme packs inspired by various anime and manga series. This list is not in any particular order and may change at any time.
