@@ -17,7 +17,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
     - Added Final Fantasy XIV theme packs: Heavensward, Stormblood, Shadowbringers, Endwalker, and Dawntrail.
     - Updated the Final Fantasy XIV: A Realm Reborn theme pack with a new wallpapers.
 
-- README Updates:
+- README and Index Updates:
     - Updated the Windows Themes page to include the new Final Fantasy XIV theme packs with detailed descriptions and instructions.
     - Separated NSFW and SFW themes into distinct sections on the Windows Themes page for better organization.
     - Fixed minor typos and formatting issues.
@@ -38,7 +38,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 
 ### 2025-09-12
 
-- Windhawk Updates:
+- Content Management:
     - Updated the DownAero Squared screenshot images to better reflect the theme's appearance.
     - Changed the DownAero Squared title from "Down Aero Squared" to "DownAero Squared" for consistency.
     - Fixed links in the DownAero Squared instructions section to point to the correct pages.
@@ -60,7 +60,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
     - Convert Home page to index.md for better SEO and consistency with Jekyll conventions.
     - Create README.md file to provide an overview of the repository and its purpose.
     - Update logo size in README and index to 70% width for better visual balance.
-        - Update logo image with transparent background and improved quality.
+    - Update logo image with transparent background and improved quality.
 
 ### 2025-09-11
 
