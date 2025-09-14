@@ -24,6 +24,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Removed redundant introductory sections from the Windows Themes page to improve readability and conciseness.
 - Change the URL structure on all pages from relative links to absolute links for better reliability.
 - Fixed broken links on the Windows Themes page to ensure all links direct to the correct pages.
+- Update the DownAero Squared theme for the Windhawk Start Menu Styler.
 
 ### 2025-09-12
 
