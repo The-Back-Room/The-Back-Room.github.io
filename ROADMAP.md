@@ -37,8 +37,7 @@ A list of planned Windows themes. This list is not in any particular order and m
         - **A Plague Tale**: Theme pack inspired by "A Plague Tale" franchise by Asobo Studio.
         - **Dark Pictures Anthology**: Theme pack inspired by "The Dark Pictures Anthology" franchise by Supermassive Games.
         - **Resident Evil**: Theme pack inspired by the "Resident Evil" franchise by Capcom.
-        - **The Legend of Zelda**: Theme pack inspired by "The Legend of Zelda" franchise.
-        - **Arcade Classics**: Theme pack inspired by retro arcade games.
+        - **The Legend of Zelda**: Theme pack inspired by "The Legend of Zelda" franchise by Nintendo.
         - **Hellblade**: Theme pack inspired by the "Hellblade" franchise by Ninja Theory.
 
     - **Film Inspired**:
