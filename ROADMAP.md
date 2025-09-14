@@ -45,14 +45,12 @@ A list of Windows themes planned for a future update. This list is not in any pa
 
     - **Game Inspired**:
         - **Assassin's Creed**:
-            - **Assassin's Creed** Valhalla
-            - **Assassin's Creed** Odyssey
-            - **Assassin's Creed** Origins
-            - **Assassin's Creed** IV: Black Flag
-            - **Assassin's Creed** III
-            - **Assassin's Creed** II
-            - **Assassin's Creed** Brotherhood
-            - **Assassin's Creed** Revelations
+            - **Assassin's Creed**: Valhalla
+            - **Assassin's Creed**: Odyssey
+            - **Assassin's Creed**: Origins
+            - **Assassin's Creed**: Black Flag
+            - **Assassin's Creed**: Brotherhood
+            - **Assassin's Creed**: Revelations
         - **Final Fantasy XIV**:
             - **Final Fantasy XIV**: A Realm Reborn *(Complete)*
             - **Final Fantasy XIV**: Heavensward *(Complete)*
