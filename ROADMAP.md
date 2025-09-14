@@ -37,6 +37,9 @@ A list of planned Windows themes. This list is not in any particular order and m
         - **Resident Evil**: Theme pack inspired by the "Resident Evil" franchise by Capcom.
         - **The Legend of Zelda**: Theme pack inspired by "The Legend of Zelda" franchise by Nintendo.
         - **Hellblade**: Theme pack inspired by the "Hellblade" franchise by Ninja Theory.
+        - **Grand Theft Auto**: Theme pack inspired by the "Grand Theft Auto" franchise by Rockstar Games.
+        - **Battlefield**: Theme pack inspired by the "Battlefield" franchise by EA DICE.
+        - **Call of Duty**: Theme pack inspired by the "Call of Duty" franchise by Infinity Ward, Treyarch, Sledgehammer Games, and Raven Software.
 
     - **Film Inspired**: Film inspired themes. This list is not in any particular order and may change at any time.
 
@@ -63,6 +66,18 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **Naruto**: Theme pack inspired by the "Naruto" anime and manga series by Masashi Kishimoto
             - **Naruto Shippuden**: Theme pack inspired by the "Naruto Shippuden" anime and manga series by Masashi Kishimoto
             - **Boruto**: Theme pack inspired by the "Boruto" anime and manga series by Ukyo Kodachi and Mikio Ikemoto
+            - **Naruto Ninja Clash in the Land of Snow**: Theme pack inspired by the "Naruto Ninja Clash in the Land of Snow" movie by Studio Pierrot
+            - **Naruto Legend of the Stone of Gelel**: Theme pack inspired by the "Naruto Legend of the Stone of Gelel" movie by Studio Pierrot
+            - **Naruto Guardians of the Crescent Moon Kingdom**: Theme pack inspired by the "Naruto Guardians of the Crescent Moon Kingdom" movie by Studio Pierrot
+            - **Naruto Shippuden The Will of Fire**: Theme pack inspired by the "Naruto The Will of Fire" movie by Studio Pierrot
+            - **Naruto Shippuden The Lost Tower**: Theme pack inspired by the "Naruto The Lost Tower" movie by Studio Pierrot
+            - **Naruto Shippuden Blood Prison**: Theme pack inspired by the "Naruto Blood Prison" movie by Studio Pierrot
+            - **Naruto Shippuden Road to Ninja**: Theme pack inspired by the "Naruto Road to Ninja" movie by Studio Pierrot
+            - **The Last Naruto The Movie**: Theme pack inspired by "The Last Naruto The Movie" by Studio Pierrot
+            - **BLEACH Memories of Nobody**: Theme pack inspired by the "BLEACH Memories of Nobody" movie by Studio Pierrot
+            - **BLEACH The DiamondDust Rebellion**: Theme pack inspired by the "BLEACH The DiamondDust Rebellion" movie by Studio Pierrot
+            - **BLEACH Fade to Black**: Theme pack inspired by the "BLEACH Fade to Black" movie by Studio Pierrot
+            - **BLEACH Hell Verse**: Theme pack inspired by the "BLEACH Hell Verse" movie by Studio Pierrot
             - **Neon Genesis Evangelion**: Theme pack inspired by the "Neon Genesis Evangelion" anime and manga series by Hideaki Anno
             - **Death Note**: Theme pack inspired by the "Death Note" anime and manga series by Tsugumi Ohba and Takeshi Obata
             - **One Piece**: Theme pack inspired by the "One Piece" anime and manga series by Eiichiro Oda
@@ -138,3 +153,36 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **IT**: Theme pack inspired by the "IT" movies by Andy Muschietti
             - **The Texas Chainsaw Massacre**: Theme pack inspired by the "The Texas Chainsaw Massacre" movies by Tobe Hooper
             - **Leatherface**: Theme pack inspired by the "Leatherface" movies by Alexandre Bustillo and Julien Maury
+            - **Friday the 13th**: Theme pack inspired by the "Friday the 13th" movies by Sean S. Cunningham
+            - **The Evil Dead**: Theme pack inspired by the "The Evil Dead" movies by Sam Raimi
+            - **The Cabin in the Woods**: Theme pack inspired by the "The Cabin in the Woods" movie by Drew Goddard
+            - **Paranormal Activity**: Theme pack inspired by the "Paranormal Activity" movies by Oren Peli
+            - **Insidious**: Theme pack inspired by the "Insidious" movies by James Wan
+            - **The Ring**: Theme pack inspired by the "The Ring" movies by Gore Verbinski
+            - **The Grudge**: Theme pack inspired by the "The Grudge" movies by Takashi Shimizu
+            - **Saw**: Theme pack inspired by the "Saw" movies by James Wan and Leigh Whannell
+            - **Hostel**: Theme pack inspired by the "Hostel" movies by Eli Roth
+            - **The Blair Witch Project**: Theme pack inspired by the "The Blair Witch Project" movie by Daniel Myrick and Eduardo Sánchez
+
+    - **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
+
+        - **The Last Sovereign**: NSFW theme pack inspired by "The Last Sovereign" game by Sierra Lee.
+        - **Renryuu Ascension**: NSFW theme pack inspired by "Renryuu Ascension" game by Hound RyenSaotome.
+        - **The Proteus Effect**: NSFW theme pack inspired by "The Proteus Effect" game by Proxxie.
+        - **Harem Hotel**: NSFW theme pack inspired by "Harem Hotel" game by Runey Games.
+        - **Subverse**: NSFW theme pack inspired by "Subverse" game by Studio FOW.
+        - **Nekopara**: NSFW theme pack inspired by the "Nekopara" series by NEKO WORKs.
+        - **Sakura Series**: NSFW theme packs inspired by the "Sakura" series by Winged Cloud.
+             - **Sakura Angels**: NSFW theme pack inspired by "Sakura Angels" game(s) by Winged Cloud.
+             - **Sakura Beach**: NSFW theme pack inspired by "Sakura Beach" game(s) by Winged Cloud.
+             - **Sakura Dungeon**: NSFW theme pack inspired by "Sakura Dungeon" game(s) by Winged Cloud.
+             - **Sakura Fantasy**: NSFW theme pack inspired by "Sakura Fantasy" game(s) by Winged Cloud.
+             - **Sakura Swim Club**: NSFW theme pack inspired by "Sakura Swim Club" game(s) by Winged Cloud.
+             - **Sakura Succubus**: NSFW theme pack inspired by "Sakura Succubus" game(s) by Winged Cloud.
+             - **Sakura Santa**: NSFW theme pack inspired by "Sakura Santa" game(s) by Winged Cloud.
+             - **Sakura Spirit**: NSFW theme pack inspired by "Sakura Spirit" game(s) by Winged Cloud.
+             - **Sakura Nova**: NSFW theme pack inspired by "Sakura Nova" game(s) by Winged Cloud.
+             - **Sakura Gamer**: NSFW theme pack inspired by "Sakura Gamer" game(s) by Winged Cloud.
+             - **Sakura Magical Girls**: NSFW theme pack inspired by "Sakura Magical Girls" game(s) by Winged Cloud.
+             - **Sakura Space**: NSFW theme pack inspired by "Sakura Space" game(s) by Winged Cloud.
+        - **HuniePop**: NSFW theme pack inspired by "HuniePop" game by HuniePot.
