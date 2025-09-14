@@ -197,7 +197,6 @@ A list of Windows themes planned for a future update. This list is not in any pa
             - **Naruto** the Movie: Ninja Clash in the Land of Snow
             - **Naruto** the Movie: Legend of the Stone of Gelel
             - **Naruto** the Movie: Guardians of the Crescent Moon Kingdom
-            - **Naruto** Spin-Off: Rock Lee & His Ninja Pals *(Complete)*
         - **Naruto Shippuden**:
             - **Naruto Shippuden** the Movie: Bonds
             - **Naruto Shippuden** the Movie: The Will of Fire
