@@ -27,11 +27,9 @@ A list of icon packs. This list is not in any particular order and may change at
 ### Windows Themes
 A list of planned Windows themes. This list is not in any particular order and may change at any time.
 
-- **Deskthemepacks**:
-    A collection of planned themes packs for Windows 10 and 11. This list is not in any particular order and may change at any time.
+- **Deskthemepacks**: A collection of planned themes packs for Windows 10 and 11. This list is not in any particular order and may change at any time.
 
-    - **Game Inspired**:
-        Game inspired themes. This list is not in any particular order and may change at any time.
+    - **Game Inspired**: Game inspired themes. This list is not in any particular order and may change at any time.
 
         - **Assassin's Creed**: Theme pack inspired by the "Assassin's Creed" franchise by Ubisoft.
         - **A Plague Tale**: Theme pack inspired by "A Plague Tale" franchise by Asobo Studio.
@@ -40,8 +38,7 @@ A list of planned Windows themes. This list is not in any particular order and m
         - **The Legend of Zelda**: Theme pack inspired by "The Legend of Zelda" franchise by Nintendo.
         - **Hellblade**: Theme pack inspired by the "Hellblade" franchise by Ninja Theory.
 
-    - **Film Inspired**:
-        Film inspired themes. This list is not in any particular order and may change at any time.
+    - **Film Inspired**: Film inspired themes. This list is not in any particular order and may change at any time.
 
         - **Popular Franchises**:
               Theme packs inspired by popular film franchises. This list is not in any particular order and may change at any time.
@@ -49,8 +46,7 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **Star Wars**: Theme pack inspired by "The Star Wars" franchise by George Lucas.
             - **Star Trek**: Theme pack inspired by the "Star Trek" franchise by Gene Roddenberry.
 
-        - **Anime Inspired**:
-           Theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
+        - **Anime Inspired**: Theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
 
             - **The Secret World of Arrietty**: Theme pack inspired by the "The Secret World of Arrietty" film by Studio Ghibli
             - **Howl's Moving Castle**: Theme pack inspired by the "Howl's Moving Castle" film by Studio Ghibli
@@ -86,8 +82,7 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **Ghost in the Shell**: Theme pack inspired by the "Ghost in the Shell" anime and manga series by Masamune Shirow
 
 
-        - **Western Animation**:
-              Theme packs inspired by popular western animation series. This list is not in any particular order and may change at any time.
+        - **Western Animation**: Theme packs inspired by popular western animation series. This list is not in any particular order and may change at any time.
 
             - **Dexter's Laboratory**: Theme pack inspired by the "Dexter's Laboratory" series by Genndy Tartakovsky
             - **Sam & Max**: Theme pack inspired by the "Sam & Max" series by Steve Purcell
@@ -129,8 +124,7 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **Minions**: Theme pack inspired by the "Minions" movies by Illumination Entertainment
             - **Ice Age**: Theme pack inspired by the "Ice Age" movies by Blue Sky Studios
 
-        - **Horror Movies**:
-            Theme packs inspired by popular horror movies. This list is not in any particular order and may change at any time.
+        - **Horror Movies**: Theme packs inspired by popular horror movies. This list is not in any particular order and may change at any time.
 
             - **Halloween**: Theme pack inspired by "Halloween" movie by John Carpenter
             - **A Nightmare on Elm Street**: Theme pack inspired by "A Nightmare on Elm Street" movie by Wes Craven
