@@ -107,7 +107,6 @@ A list of Windows themes planned for a future update. This list is not in any pa
         - **Burnout**: Takedown
         - **Forza**: Horizon
         - **Forza**: Motorsport
-        - **Overwatch**: 2
         - **Sonic the Hedgehog**:
             - **Sonic the Hedgehog**: Sonic Frontiers
             - **Sonic the Hedgehog**: Sonic Forces
