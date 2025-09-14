@@ -43,7 +43,7 @@ A list of planned Windows themes. This list is not in any particular order and m
         - **Popular Franchises**:
               Theme packs inspired by popular film franchises. This list is not in any particular order and may change at any time.
 
-            - **Star Wars**: Theme pack inspired by "The Star Wars" franchise by George Lucas.
+            - **Star Wars**: Theme pack inspired by the "Star Wars" films by George Lucas.
             - **Star Trek**: Theme pack inspired by the "Star Trek" franchise by Gene Roddenberry.
 
         - **Anime Inspired**: Theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
