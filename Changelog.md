@@ -27,14 +27,14 @@ This page provides a detailed log of changes, updates, and improvements made to 
     - Removed redundant introductory sections to improve readability and conciseness.
     - Fixed broken links to ensure all links direct to the correct pages.
 
-- Windhawk Theme Updates:
+- Content Management:
     - Updated the DownAero Squared theme for the Windhawk Start Menu Styler.
 
-- Miscellaneous Updates:
+- General Improvements:
+    - Improved overall formatting and structure of the Changelog page.
     - Change the URL structure on all pages from relative links to absolute links for better reliability.
     - Change preview image links to use GitHub's raw image URLs so they display correctly both in the repository and on the website.
     - Fixed minor typos and grammatical errors across multiple pages.
-    - Updated Changelog format to improve readability and consistency.
 
 ### 2025-09-12
 
