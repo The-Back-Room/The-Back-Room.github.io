@@ -81,6 +81,9 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **A Silent Voice**: Theme pack inspired by "A Silent Voice" by Kyoto Animation
             - **Violet Evergarden**: Theme pack inspired by "Violet Evergarden" by Kyoto Animation
             - **Cowboy Bebop**: Theme pack inspired by the "Cowboy Bebop" anime series by Sunrise
+            - **Samurai Champloo**: Theme pack inspired by the "Samurai Champloo" anime series by Manglobe
+            - **Trigun**: Theme pack inspired by the "Trigun" anime series by Madhouse
+            - **Ghost in the Shell**: Theme pack inspired by the "Ghost in the Shell" anime and manga series by Masamune Shirow
 
 
         - **Western Animation**:
