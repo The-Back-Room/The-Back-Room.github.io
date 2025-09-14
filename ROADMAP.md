@@ -175,11 +175,10 @@ A list of Windows themes planned for a future update. This list is not in any pa
         - **Inuyasha**:
             - **Inuyasha**
             - **Inuyasha**: The Final Act
-            - **Inuyasha**: The Movie
-            - **Inuyasha**: The Movie: Affections Touching Across Time
-            - **Inuyasha**: The Movie: The Castle Beyond the Looking Glass
-            - **Inuyasha**: The Movie: Swords of an Honorable Ruler
-            - **Inuyasha**: The Movie: Fire on the Mystic Island
+            - **Inuyasha**: Affections Touching Across Time
+            - **Inuyasha**: The Castle Beyond the Looking Glass
+            - **Inuyasha**: Swords of an Honorable Ruler
+            - **Inuyasha**: Fire on the Mystic Island
         - **Your Lie in April**
         - **A Silent Voice**
         - **Violet Evergarden**
