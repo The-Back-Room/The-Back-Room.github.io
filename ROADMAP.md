@@ -190,20 +190,20 @@ A list of planned Windows themes. This list is not in any particular order and m
 
                 - **Inuyasha**
                 - **Inuyasha The Final Act**: Theme pack inspired by the "Inuyasha The Final Act" series
-                - **Inuyasha Affections Touching Across Time**: Theme pack inspired by the "Inuyasha Affections Touching Across Time" movie
-                - **Inuyasha The Castle Beyond the Looking Glass**: Theme pack inspired by the "Inuyasha The Castle Beyond the Looking Glass" movie
-                - **Inuyasha Swords of an Honorable Ruler**: Theme pack inspired by the "Inuyasha Swords of an Honorable Ruler" movie
-                - **Inuyasha Fire on the Mystic Island**: Theme pack inspired by the "Inuyasha Fire on the Mystic Island" movie
-                - **Inuyasha Kagome and the Sacred Jewel**: Theme pack inspired by the "Inuyasha Kagome and the Sacred Jewel" movie
+                - **Affections Touching Across Time**: Theme pack inspired by the "Inuyasha Affections Touching Across Time" movie
+                - **The Castle Beyond the Looking Glass**: Theme pack inspired by the "Inuyasha The Castle Beyond the Looking Glass" movie
+                - **Swords of an Honorable Ruler**: Theme pack inspired by the "Inuyasha Swords of an Honorable Ruler" movie
+                - **Fire on the Mystic Island**: Theme pack inspired by the "Inuyasha Fire on the Mystic Island" movie
+                - **Kagome and the Sacred Jewel**: Theme pack inspired by the "Inuyasha Kagome and the Sacred Jewel" movie
 
             - **BLEACH**:
                 Theme packs inspired by the "BLEACH" anime and manga series. This list is not in any particular order and may change at any time.
 
-                - **BLEACH Memories of Nobody**: Theme pack inspired by the "BLEACH Memories of Nobody" movie
-                - **BLEACH The Sealed Sword Frenzy**: Theme pack inspired by the "BLEACH The Sealed Sword Frenzy" movie
-                - **BLEACH The DiamondDust Rebellion**: Theme pack inspired by the "BLEACH The DiamondDust Rebellion" movie
-                - **BLEACH Fade to Black**: Theme pack inspired by the "BLEACH Fade to Black" movie
-                - **BLEACH Hell Verse**: Theme pack inspired by the "BLEACH Hell Verse" movie
+                - **Memories of Nobody**: Theme pack inspired by the "BLEACH Memories of Nobody" movie
+                - **The Sealed Sword Frenzy**: Theme pack inspired by the "BLEACH The Sealed Sword Frenzy" movie
+                - **The DiamondDust Rebellion**: Theme pack inspired by the "BLEACH The DiamondDust Rebellion" movie
+                - **Fade to Black**: Theme pack inspired by the "BLEACH Fade to Black" movie
+                - **Hell Verse**: Theme pack inspired by the "BLEACH Hell Verse" movie
 
             - **Naruto**:
                 Theme packs inspired by the "Naruto" anime and manga series. This list is not in any particular order and may change at any time.
