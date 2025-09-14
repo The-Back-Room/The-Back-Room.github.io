@@ -63,19 +63,22 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **The Cat Returns**: Theme pack inspired by the "The Cat Returns" film by Studio Ghibli
             - **Whisper of the Heart**: Theme pack inspired by the "Whisper of the Heart" film by Studio Ghibli
             - **Inuyasha**: Theme packs inspired by the "Inuyasha" movies by Rumiko Takahashi and Sunrise. This list is not in any particular order and may change at any time.
+            
                 - **Inuyasha**: Theme pack inspired by the "Inuyasha" movie by Sunrise
                 - **Inuyasha: The Castle Beyond the Looking Glass**: Theme pack inspired by the "Inuyasha: The Castle Beyond the Looking Glass" movie by Sunrise
                 - **Inuyasha: Swords of an Honorable Ruler**: Theme pack inspired by the "Inuyasha: Swords of an Honorable Ruler" movie by Sunrise
                 - **Inuyasha: Fire on the Mystic Island**: Theme pack inspired by the "Inuyasha: Fire on the Mystic Island" movie by Sunrise
                 - **Inuyasha: Kagome and the Sacred Jewel**: Theme pack inspired by the "Inuyasha: Kagome and the Sacred Jewel" movie by Sunrise 
             - **Naruto Movies**: Theme packs inspired by the "Naruto" movies by Studio Pierrot. This list is not in any particular order and may change at any time.
+
                 - **Naruto**: Theme pack inspired by the "Naruto" movie by Studio Pierrot
                 - **Naruto: Legend of the Stone of Gelel**: Theme pack inspired by the "Naruto: Legend of the Stone of Gelel" movie by Studio Pierrot
                 - **Naruto: Guardians of the Crescent Moon Kingdom**: Theme pack inspired by the "Naruto: Guardians of the Crescent Moon Kingdom" movie by Studio Pierrot
                 - **Naruto: Ninja Clash in the Land of Snow**: Theme pack inspired by the "Naruto: Ninja Clash in the Land of Snow" movie by Studio Pierrot
                 - **Naruto: Legend of the Stone of Gelel**: Theme pack inspired by the "Naruto: Legend of the Stone of Gelel" movie by Studio Pierrot
                 - **Naruto: Guardians of the Crescent Moon Kingdom**: Theme pack inspired by the "Naruto: Guardians of the Crescent Moon Kingdom" movie by Studio Pierrot
-            - **Naruto Shippuden Movies**: Theme packs inspired by the "Naruto Shippuden" anime and manga series by Masashi Kishimoto. This list is not in any particular order and may change at any time.
+            - **Naruto Shippuden Movies**: Theme packs inspired by the "Naruto Shippuden" movies by Studio Pierrot. This list is not in any particular order and may change at any time.
+
                 - **Naruto Shippuden**: Theme pack inspired by the "Naruto Shippuden: The Movie" movie by Studio Pierrot
                 - **Naruto Shippuden: Bonds**: Theme pack inspired by "Naruto Shippuden: The Movie 2 Bonds" by Studio Pierrot
                 - **Naruto Shippuden: Inheritors of the Will of Fire**: Theme pack inspired by "Naruto Shippuden: The Movie 3 Inheritors of the Will of Fire" by Studio Pierrot
