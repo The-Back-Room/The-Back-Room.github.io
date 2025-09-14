@@ -44,6 +44,7 @@ A list of Windows themes planned for a future update. This list is not in any pa
 - **Deskthemepacks**:
 
     - **Game Inspired**:
+        Game inspired themes planned for a future update. This list is not in any particular order and may change at any time.
 
         - **Assassin's Creed**:
             - **Assassin's Creed**: Valhalla
@@ -89,31 +90,42 @@ A list of Windows themes planned for a future update. This list is not in any pa
             - **The Legend of Zelda**: Wind Waker
             - **The Legend of Zelda**: A Link to the Past
             - **The Legend of Zelda**: Link's Awakening
+            - **The Legend of Zelda**: The Minish Cap
+            - **The Legend of Zelda**: Four Swords Adventures
+            - **The Legend of Zelda**: Phantom Hourglass
+            - **The Legend of Zelda**: Spirit Tracks
+
         - **Arcade Classics**: 
             - **Arcade Classics**: Pac-Man
             - **Arcade Classics**: Donkey Kong
             - **Arcade Classics**: Galaga
+
         - **Halo**:
             - **Halo**: Infinite
             - **Halo**: Guardians
             - **Halo**: Reach
             - **Halo**: Combat Evolved
+
         - **Hellblade**:
             - **Hellblade**: Senua's Sacrifice
             - **Hellblade**: Senua's Saga: Hellblade II
+
         - **Need for Speed**:
             - **Need for Speed**: Heat
             - **Need for Speed**: Payback
             - **Need for Speed**: Rivals
             - **Need for Speed**: Most Wanted
             - **Need for Speed**: Underground
+
         - **Burnout**:
             - **Burnout**: Paradise
             - **Burnout**: Revenge
             - **Burnout**: Takedown
+
         - **Forza**:
             - **Forza**: Horizon
             - **Forza**: Motorsport
+
         - **Sonic the Hedgehog**:
             - **Sonic the Hedgehog**: Sonic Frontiers
             - **Sonic the Hedgehog**: Sonic Forces
@@ -122,109 +134,179 @@ A list of Windows themes planned for a future update. This list is not in any pa
             - **Sonic the Hedgehog**: Sonic Colors
 
     - **Film Inspired**:
-        - **Star Wars**:
-            - **Star Wars**: The Mandalorian
-            - **Star Wars**: The Clone Wars
-            - **Star Wars**: The Force Awakens
-            - **Star Wars**: The Last Jedi
-            - **Star Wars**: The Rise of Skywalker
-            - **Star Wars**: Rogue One
-            - **Star Wars**: Solo
-            - **Star Wars**: Episode III – Revenge of the Sith
-            - **Star Wars**: Episode II – Attack of the Clones
-            - **Star Wars**: Episode I – The Phantom Menace
-            - **Star Wars**: Episode VI – Return of the Jedi
-            - **Star Wars**: Episode V – The Empire Strikes Back
-            - **Star Wars**: Episode IV – A New Hope
-        - **Star Trek**:
-            - **Star Trek**: Discovery
-            - **Star Trek**: Picard
-            - **Star Trek**: Strange New Worlds
-            - **Star Trek**: The Next Generation
-            - **Star Trek**: Deep Space Nine
-            - **Star Trek**: Voyager
-            - **Star Trek**: Enterprise
-        - **Marvel**:
-            - **Marvel**: Loki
-            - **Marvel**: Avengers
-            - **Marvel**: Avengers: Endgame
-            - **Marvel**: Avengers: Infinity War
-            - **Marvel**: Avengers: Civil War
-            - **Marvel**: Thor: Ragnarok
-            - **Marvel**: Thor: The Dark World
-            - **Marvel**: Thor: Love and Thunder
-            - **Marvel**: Spider-Man: Homecoming
-            - **Marvel**: Spider-Man: Far From Home
-            - **Marvel**: Spider-Man: No Way Home
-            - **Marvel**: Guardians of the Galaxy
-            - **Marvel**: Doctor Strange
-            - **Marvel**: Black Panther
-            - **Marvel**: WandaVision
-        - **Studio Ghibli**:
-            - **Studio Ghibli** *(Complete)*
-            - **Studio Ghibli**: The Secret World of Arrietty
-            - **Studio Ghibli**: Spirited Away
-            - **Studio Ghibli**: My Neighbor Totoro
-            - **Studio Ghibli**: Princess Mononoke
-            - **Studio Ghibli**: Kiki's Delivery Service
-            - **Studio Ghibli**: Nausicaä of the Valley of the Wind
-            - **Studio Ghibli**: Castle in the Sky
-            - **Studio Ghibli**: Ponyo
-            - **Studio Ghibli**: Grave of the Fireflies
-            - **Studio Ghibli**: The Cat Returns
-            - **Studio Ghibli**: Whisper of the Heart
-            - **Studio Ghibli**: Howl's Moving Castle *(Complete) (Updates Planned)*
-            - **Studio Ghibli**: When Marnie Was There
-            - **Studio Ghibli**: The Wind Rises
-            - **Studio Ghibli**: From Up on Poppy Hill
-            - **Studio Ghibli**: The Tale of the Princess Kaguya
-        - **Inuyasha**:
-            - **Inuyasha**
-            - **Inuyasha**: The Final Act
-            - **Inuyasha**: Affections Touching Across Time
-            - **Inuyasha**: The Castle Beyond the Looking Glass
-            - **Inuyasha**: Swords of an Honorable Ruler
-            - **Inuyasha**: Fire on the Mystic Island
-        - **Your Lie in April**
-        - **A Silent Voice**
-        - **Violet Evergarden**
-        - **Full Metal Alchemist: Brotherhood**
-        - **Attack on Titan**
-        - **BLEACH**:
-            - **BLEACH** *(Complete) (Updates Planned)*
-            - **BLEACH**: Memories of Nobody
-            - **BLEACH**: The Sealed Sword Frenzy
-            - **BLEACH**: Thousand-Year Blood War *(Complete) (Updates Planned)*
-            - **BLEACH**: The DiamondDust Rebellion
-            - **BLEACH**: Fade to Black
-            - **BLEACH**: Hell Verse
-        - **Naruto**:
-            - **Naruto** the Movie: Ninja Clash in the Land of Snow
-            - **Naruto** the Movie: Legend of the Stone of Gelel
-            - **Naruto** the Movie: Guardians of the Crescent Moon Kingdom
-        - **Naruto Shippuden**:
-            - **Naruto Shippuden** the Movie: Bonds
-            - **Naruto Shippuden** the Movie: The Will of Fire
-            - **Naruto Shippuden** the Movie: The Lost Tower
-            - **Naruto Shippuden** the Movie: Blood Prison
-            - **Naruto Shippuden** the Movie: Road to Ninja
-            - **Naruto Shippuden** the Movie: The Last
-        - **Neon Genesis Evangelion**:
-            - **Evangelion**: 1.0 You Are (Not) Alone
-            - **Evangelion**: 2.0 You Can (Not) Advance
-            - **Evangelion**: 3.0 You Can (Not) Redo
-            - **Evangelion**: 3.0+1.0 Thrice Upon a Time
-        - **Cartoon Network Classics**: 
-            - **Dexter's Laboratory**
-            - **The Powerpuff Girls**
-            - **Ed, Edd n Eddy**
-            - **Johnny Bravo**
-            - **Courage the Cowardly Dog** *(Complete)*
-            - **Cow and Chicken**
-            - **The Grim Adventures of Billy & Mandy**
-            - **Ben 10**
+        Film inspired themes planned for a future update. This list is not in any particular order and may change at any time.
+
+        - **Popular Franchises**:
+
+            - **Star Wars**:
+                - **Star Wars**: The Mandalorian
+                - **Star Wars**: The Clone Wars
+                - **Star Wars**: The Force Awakens
+                - **Star Wars**: The Last Jedi
+                - **Star Wars**: The Rise of Skywalker
+                - **Star Wars**: Rogue One
+                - **Star Wars**: Solo
+                - **Star Wars**: Episode III – Revenge of the Sith
+                - **Star Wars**: Episode II – Attack of the Clones
+                - **Star Wars**: Episode I – The Phantom Menace
+                - **Star Wars**: Episode VI – Return of the Jedi
+                - **Star Wars**: Episode V – The Empire Strikes Back
+                - **Star Wars**: Episode IV – A New Hope
+
+            - **Star Trek**:
+                - **Star Trek**: Discovery
+                - **Star Trek**: Picard
+                - **Star Trek**: Strange New Worlds
+                - **Star Trek**: The Next Generation
+                - **Star Trek**: Deep Space Nine
+                - **Star Trek**: Voyager
+                - **Star Trek**: Enterprise
+
+            - **Marvel**:
+                - **Marvel**: Loki
+                - **Marvel**: Avengers
+                - **Marvel**: Avengers: Endgame
+                - **Marvel**: Avengers: Infinity War
+                - **Marvel**: Avengers: Civil War
+                - **Marvel**: Thor: Ragnarok
+                - **Marvel**: Thor: The Dark World
+                - **Marvel**: Thor: Love and Thunder
+                - **Marvel**: Spider-Man: Homecoming
+                - **Marvel**: Spider-Man: Far From Home
+                - **Marvel**: Spider-Man: No Way Home
+                - **Marvel**: Guardians of the Galaxy
+                - **Marvel**: Doctor Strange
+                - **Marvel**: Black Panther
+                - **Marvel**: WandaVision
+                - **Marvel**: The Falcon and the Winter Soldier
+                - **Marvel**: Hawkeye
+
+        - **Anime Inspired**:
+
+            - **Studio Ghibli**:
+                - **Studio Ghibli** *(Complete)*
+                - **Studio Ghibli**: The Secret World of Arrietty
+                - **Studio Ghibli**: Spirited Away
+                - **Studio Ghibli**: My Neighbor Totoro
+                - **Studio Ghibli**: Princess Mononoke
+                - **Studio Ghibli**: Kiki's Delivery Service
+                - **Studio Ghibli**: Nausicaä of the Valley of the Wind
+                - **Studio Ghibli**: Castle in the Sky
+                - **Studio Ghibli**: Ponyo
+                - **Studio Ghibli**: Grave of the Fireflies
+                - **Studio Ghibli**: The Cat Returns
+                - **Studio Ghibli**: Whisper of the Heart
+                - **Studio Ghibli**: Howl's Moving Castle *(Complete) (Updates Planned)*
+                - **Studio Ghibli**: When Marnie Was There
+                - **Studio Ghibli**: The Wind Rises
+                - **Studio Ghibli**: From Up on Poppy Hill
+                - **Studio Ghibli**: The Tale of the Princess Kaguya
+
+            - **Inuyasha**:
+                - **Inuyasha**
+                - **Inuyasha**: The Final Act
+                - **Inuyasha**: Affections Touching Across Time
+                - **Inuyasha**: The Castle Beyond the Looking Glass
+                - **Inuyasha**: Swords of an Honorable Ruler
+                - **Inuyasha**: Fire on the Mystic Island
+                - **Inuyasha**: Kagome and the Sacred Jewel
+
+            - **BLEACH**:
+                - **BLEACH** *(Complete) (Updates Planned)*
+                - **BLEACH**: Memories of Nobody
+                - **BLEACH**: The Sealed Sword Frenzy
+                - **BLEACH**: Thousand-Year Blood War *(Complete) (Updates Planned)*
+                - **BLEACH**: The DiamondDust Rebellion
+                - **BLEACH**: Fade to Black
+                - **BLEACH**: Hell Verse
+
+            - **Naruto**:
+                - **Naruto** the Movie: Ninja Clash in the Land of Snow
+                - **Naruto** the Movie: Legend of the Stone of Gelel
+                - **Naruto** the Movie: Guardians of the Crescent Moon Kingdom
+
+            - **Naruto Shippuden**:
+                - **Naruto Shippuden** the Movie: Bonds
+                - **Naruto Shippuden** the Movie: The Will of Fire
+                - **Naruto Shippuden** the Movie: The Lost Tower
+                - **Naruto Shippuden** the Movie: Blood Prison
+                - **Naruto Shippuden** the Movie: Road to Ninja
+                - **Naruto Shippuden** the Movie: The Last
+
+            - **Neon Genesis Evangelion**:
+                - **Evangelion**: 1.0 You Are (Not) Alone
+                - **Evangelion**: 2.0 You Can (Not) Advance
+                - **Evangelion**: 3.0 You Can (Not) Redo
+                - **Evangelion**: 3.0+1.0 Thrice Upon a Time
+
+            - **Others**:
+                - **Your Lie in April**
+                - **A Silent Voice**
+                - **Violet Evergarden**
+                - **Full Metal Alchemist: Brotherhood**
+                - **Attack on Titan**
+
+        - **Western Animation**:
+
+            - **Cartoon Network Classics**:
+
+                - **Dexter's Laboratory**
+                - **The Powerpuff Girls**
+                - **Ed, Edd n Eddy**
+                - **Johnny Bravo**
+                - **Courage the Cowardly Dog** *(Complete)*
+                - **Cow and Chicken**
+                - **The Grim Adventures of Billy & Mandy**
+                - **Ben 10**
+                - **Samurai Jack**
+
+            - **Family Films**:
+
+                - **The Lion King**
+                - **Aladdin**
+                - **Beauty and the Beast**
+                - **Mulan**
+                - **Pocahontas**
+                - **Hercules**
+                - **Tarzan**
+                - **The Little Mermaid**
+                - **Toy Story**
+                - **Finding Nemo**
+                - **The Incredibles**
+                - **Cars**
+                - **Ratatouille**
+                - **Up**
+                - **WALL-E**
+                - **Coco**
+                - **Brave**
+                - **Inside Out**
+                - **Soul**
+                - **Shrek**
+                - **How to Train Your Dragon**
+                - **Kung Fu Panda**
+                - **Madagascar**
+                - **Trolls**
+                - **Despicable Me**
+                - **Minions**
+        
+        - **Horror Movies**:
+
+            - **Halloween**
+            - **A Nightmare on Elm Street**
+            - **Scream**
+            - **Child's Play**
+            - **The Excorcist**
+            - **The Exorcism of Emily Rose**
+            - **The Last Exorcism**
+            - **The Conjuring**
+            - **Annabelle**
+            - **The Nun**
+            - **IT**
+            - **The Texas Chainsaw Massacre**
+            - **Leatherface**
 
     - **NSFW**:
+
         - **Ranma**: Hentai *(Complete)*
         - **Ecchi** *(Complete)*
         - **Lewd Gamer Waifus** *(Complete)*
