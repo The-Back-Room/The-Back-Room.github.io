@@ -145,7 +145,7 @@ A list of planned Windows themes. This list is not in any particular order and m
                 Theme packs inspired by the "Marvel" franchise. This list is not in any particular order and may change at any time.
 
                 - **Loki**: Theme pack inspired by the Marvel series "Loki"
-                - **Avengers**: Theme pack inspired by the Marvel film "The Avengers"
+                - **The Avengers**: Theme pack inspired by the Marvel film "The Avengers"
                 - **Avengers:  Endgame**: Theme pack inspired by the Marvel film "Avengers: Endgame"
                 - **Avengers: Infinity War**: Theme pack inspired by the Marvel film "Avengers: Infinity War"
                 - **Avengers: Civil War**: Theme pack inspired by the Marvel film "Captain America: Civil War"
