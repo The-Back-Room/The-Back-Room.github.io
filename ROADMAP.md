@@ -62,29 +62,33 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **Grave of the Fireflies**: Theme pack inspired by the "Grave of the Fireflies" film by Studio Ghibli
             - **The Cat Returns**: Theme pack inspired by the "The Cat Returns" film by Studio Ghibli
             - **Whisper of the Heart**: Theme pack inspired by the "Whisper of the Heart" film by Studio Ghibli
-            - **Inuyasha**: Theme pack inspired by the "Inuyasha" anime and manga series by Rumiko Takahashi
-            - **Naruto**: Theme pack inspired by the "Naruto" anime and manga series by Masashi Kishimoto
-            - **Naruto Shippuden**: Theme pack inspired by the "Naruto Shippuden" anime and manga series by Masashi Kishimoto
-            - **Boruto**: Theme pack inspired by the "Boruto" anime and manga series by Ukyo Kodachi and Mikio Ikemoto
-            - **Naruto Ninja Clash in the Land of Snow**: Theme pack inspired by the "Naruto Ninja Clash in the Land of Snow" movie by Studio Pierrot
-            - **Naruto Legend of the Stone of Gelel**: Theme pack inspired by the "Naruto Legend of the Stone of Gelel" movie by Studio Pierrot
-            - **Naruto Guardians of the Crescent Moon Kingdom**: Theme pack inspired by the "Naruto Guardians of the Crescent Moon Kingdom" movie by Studio Pierrot
-            - **Naruto Shippuden The Will of Fire**: Theme pack inspired by the "Naruto The Will of Fire" movie by Studio Pierrot
-            - **Naruto Shippuden The Lost Tower**: Theme pack inspired by the "Naruto The Lost Tower" movie by Studio Pierrot
-            - **Naruto Shippuden Blood Prison**: Theme pack inspired by the "Naruto Blood Prison" movie by Studio Pierrot
-            - **Naruto Shippuden Road to Ninja**: Theme pack inspired by the "Naruto Road to Ninja" movie by Studio Pierrot
-            - **The Last Naruto The Movie**: Theme pack inspired by "The Last Naruto The Movie" by Studio Pierrot
-            - **BLEACH Memories of Nobody**: Theme pack inspired by the "BLEACH Memories of Nobody" movie by Studio Pierrot
-            - **BLEACH The DiamondDust Rebellion**: Theme pack inspired by the "BLEACH The DiamondDust Rebellion" movie by Studio Pierrot
-            - **BLEACH Fade to Black**: Theme pack inspired by the "BLEACH Fade to Black" movie by Studio Pierrot
-            - **BLEACH Hell Verse**: Theme pack inspired by the "BLEACH Hell Verse" movie by Studio Pierrot
-            - **Neon Genesis Evangelion**: Theme pack inspired by the "Neon Genesis Evangelion" anime and manga series by Hideaki Anno
+            - **Inuyasha**: Theme packs inspired by the "Inuyasha" movies by Rumiko Takahashi and Sunrise. This list is not in any particular order and may change at any time.
+                - **Inuyasha**: Theme pack inspired by the "Inuyasha" movie by Sunrise
+                - **Inuyasha: The Castle Beyond the Looking Glass**: Theme pack inspired by the "Inuyasha: The Castle Beyond the Looking Glass" movie by Sunrise
+                - **Inuyasha: Swords of an Honorable Ruler**: Theme pack inspired by the "Inuyasha: Swords of an Honorable Ruler" movie by Sunrise
+                - **Inuyasha: Fire on the Mystic Island**: Theme pack inspired by the "Inuyasha: Fire on the Mystic Island" movie by Sunrise
+                - **Inuyasha: Kagome and the Sacred Jewel**: Theme pack inspired by the "Inuyasha: Kagome and the Sacred Jewel" movie by Sunrise 
+            - **Naruto Movies**: Theme packs inspired by the "Naruto" movies by Studio Pierrot. This list is not in any particular order and may change at any time.
+                - **Naruto**: Theme pack inspired by the "Naruto" movie by Studio Pierrot
+                - **Naruto: Legend of the Stone of Gelel**: Theme pack inspired by the "Naruto: Legend of the Stone of Gelel" movie by Studio Pierrot
+                - **Naruto: Guardians of the Crescent Moon Kingdom**: Theme pack inspired by the "Naruto: Guardians of the Crescent Moon Kingdom" movie by Studio Pierrot
+                - **Naruto: Ninja Clash in the Land of Snow**: Theme pack inspired by the "Naruto: Ninja Clash in the Land of Snow" movie by Studio Pierrot
+                - **Naruto: Legend of the Stone of Gelel**: Theme pack inspired by the "Naruto: Legend of the Stone of Gelel" movie by Studio Pierrot
+                - **Naruto: Guardians of the Crescent Moon Kingdom**: Theme pack inspired by the "Naruto: Guardians of the Crescent Moon Kingdom" movie by Studio Pierrot
+            - **Naruto Shippuden Movies**: Theme packs inspired by the "Naruto Shippuden" anime and manga series by Masashi Kishimoto. This list is not in any particular order and may change at any time.
+                - **Naruto Shippuden**: Theme pack inspired by the "Naruto Shippuden: The Movie" movie by Studio Pierrot
+                - **Naruto Shippuden: Bonds**: Theme pack inspired by "Naruto Shippuden: The Movie 2 Bonds" by Studio Pierrot
+                - **Naruto Shippuden: Inheritors of the Will of Fire**: Theme pack inspired by "Naruto Shippuden: The Movie 3 Inheritors of the Will of Fire" by Studio Pierrot
+                - **Naruto Shippuden: The Lost Tower**: Theme pack inspired by "Naruto Shippuden: The Movie 4 The Lost Tower" by Studio Pierrot
+                - **Naruto Shippuden: Blood Prison**: Theme pack inspired by "Naruto Shippuden: The Movie 5 Blood Prison" by Studio Pierrot
+                - **Naruto Shippuden: Road to Ninja**: Theme pack inspired by "Naruto Shippuden: The Movie 6 Road to Ninja" by Studio Pierrot
+                - **The Last Naruto**: Theme pack inspired by "The Last Naruto The Movie" by Studio Pierrot
+            - **Neon Genesis Evangelion**: Theme pack inspired by the "Neon Genesis Evangelion" anime and manga series by Gainax and Tatsunoko Production
+                 - **Evangelion: 1.0 You Are (Not) Alone**: Theme pack inspired by the "Evangelion: 1.0 You Are (Not) Alone" movie by Studio Khara
+                 - **Evangelion: 2.0 You Can (Not) Advance**: Theme pack inspired by the "Evangelion: 2.0 You Can (Not) Advance" movie by Studio Khara
+                 - **Evangelion: 3.0 You Can (Not) Redo**: Theme pack inspired by the "Evangelion: 3.0 You Can (Not) Redo" movie by Studio Khara
+                 - **Evangelion: 3.0+1.0 Thrice Upon a Time**: Theme pack inspired by the "Evangelion: 3.0+1.0 Thrice Upon a Time" movie by Studio Khara
             - **Death Note**: Theme pack inspired by the "Death Note" anime and manga series by Tsugumi Ohba and Takeshi Obata
-            - **One Piece**: Theme pack inspired by the "One Piece" anime and manga series by Eiichiro Oda
-            - **My Hero Academia**: Theme pack inspired by the "My Hero Academia" anime and manga series by Kohei Horikoshi
-            - **Demon Slayer**: Theme pack inspired by the "Demon Slayer" anime and manga series by Koyoharu Gotouge
-            - **Attack on Titan**: Theme pack inspired by the "Attack on Titan" anime and manga series by Hajime Isayama
-            - **Jujutsu Kaisen**: Theme pack inspired by the "Jujutsu Kaisen" anime and manga series by Gege Akutami
             - **Tokyo Ghoul**: Theme pack inspired by the "Tokyo Ghoul" anime and manga series by Sui Ishida
             - **Fullmetal Alchemist: Brotherhood**: Theme pack inspired by the "Fullmetal Alchemist: Brotherhood" anime and manga series by Hiromu Arakawa
             - **Sword Art Online**: Theme pack inspired by the "Sword Art Online" anime and manga series by Reki Kawahara
@@ -100,8 +104,6 @@ A list of planned Windows themes. This list is not in any particular order and m
         - **Western Animation**: Theme packs inspired by popular western animation series. This list is not in any particular order and may change at any time.
 
             - **Dexter's Laboratory**: Theme pack inspired by the "Dexter's Laboratory" series by Genndy Tartakovsky
-            - **Sam & Max**: Theme pack inspired by the "Sam & Max" series by Steve Purcell
-            - **Foster's Home for Imaginary Friends**: Theme pack inspired by the "Foster's Home for Imaginary Friends" series by Craig McCracken
             - **The Fairly OddParents**: Theme pack inspired by the "The Fairly OddParents" series by Butch Hartman
             - **Danny Phantom**: Theme pack inspired by the "Danny Phantom" series by Butch Hartman
             - **The Powerpuff Girls**: Theme pack inspired by the "The Powerpuff Girls" series by Craig McCracken
@@ -121,7 +123,6 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **The Little Mermaid**: Theme pack inspired by the classic Disney movie "The Little Mermaid"
             - **Frozen**: Theme pack inspired by the popular "Frozen" movies by Disney
             - **Moana**: Theme pack inspired by the popular "Moana" movie by Disney
-            - **Zootopia**: Theme pack inspired by the popular "Zootopia" movie by Disney
             - **Tangled**: Theme pack inspired by the popular "Tangled" movie by Disney
             - **Cinderella**: Theme pack inspired by the classic Disney movie "Cinderella"
             - **Sleeping Beauty**: Theme pack inspired by the classic Disney movie "Sleeping Beauty"
@@ -162,7 +163,7 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **The Grudge**: Theme pack inspired by the "The Grudge" movies by Takashi Shimizu
             - **Saw**: Theme pack inspired by the "Saw" movies by James Wan and Leigh Whannell
             - **Hostel**: Theme pack inspired by the "Hostel" movies by Eli Roth
-            - **The Blair Witch Project**: Theme pack inspired by the "The Blair Witch Project" movie by Daniel Myrick and Eduardo Sánchez
+            - **Wrong Turn**: Theme pack inspired by the "Wrong Turn" movies by Rob Schmidt
 
     - **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
 
