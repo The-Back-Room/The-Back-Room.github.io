@@ -17,7 +17,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
     - Added Final Fantasy XIV theme packs: Heavensward, Stormblood, Shadowbringers, Endwalker, and Dawntrail.
     - Updated the Final Fantasy XIV: A Realm Reborn theme pack with a new wallpapers.
 
-- README and Index Updates:
+- General Website Improvements:
     - Updated the Windows Themes page to include the new Final Fantasy XIV theme packs with detailed descriptions and instructions.
     - Separated NSFW and SFW themes into distinct sections on the Windows Themes page for better organization.
     - Fixed minor typos and formatting issues.
@@ -26,9 +26,12 @@ This page provides a detailed log of changes, updates, and improvements made to 
     - Clarified the description of Windhawk themes to specify that they require the Windhawk application.
     - Removed redundant introductory sections to improve readability and conciseness.
     - Fixed broken links to ensure all links direct to the correct pages.
+    - Replaced the index.md with the updated README.md content for better consistency and information.
 
 - Content Management:
     - Updated the DownAero Squared theme for the Windhawk Start Menu Styler.
+    - Improved format and structure of the ROADMAP.md file for better clarity.
+    - Added new planned projects to the Roadmap, including additional anime themes and NSFW themes.
 
 - General Improvements:
     - Improved overall formatting and structure of the Changelog page.
