@@ -75,8 +75,6 @@ A list of Windows themes planned for a future update. This list is not in any pa
         - **Resident Evil**:
             - **Resident Evil**: Village
             - **Resident Evil**: Biohazard
-        - **7 Days to Die**:
-        - **Dead by Daylight**:
         - **The Legend of Zelda**:
             - **The Legend of Zelda**: Breath of the Wild
             - **The Legend of Zelda**: Tears of the Kingdom
