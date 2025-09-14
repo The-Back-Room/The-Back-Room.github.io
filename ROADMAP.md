@@ -61,9 +61,8 @@ A list of Windows themes planned for a future update. This list is not in any pa
             - **Final Fantasy XIV**: Endwalker *(Complete)*
             - **Final Fantasy XIV**: Dawntrail *(Complete)*
         - **The Witcher**:
-            - **The Witcher**: Wild Hunt
-            - **The Witcher**: Assassins of Kings
-            - **The Witcher**: 3: Wild Hunt
+            - **The Witcher 3**: Wild Hunt
+            - **The Witcher 2**: Assassins of Kings
         - **A Plague Tale**:
             - **A Plague Tale**: Innocence
             - **A Plague Tale**: Requiem
