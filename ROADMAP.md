@@ -44,6 +44,7 @@ A list of Windows themes planned for a future update. This list is not in any pa
 - **Deskthemepacks**:
 
     - **Game Inspired**:
+
         - **Assassin's Creed**:
             - **Assassin's Creed**: Valhalla
             - **Assassin's Creed**: Odyssey
@@ -51,6 +52,7 @@ A list of Windows themes planned for a future update. This list is not in any pa
             - **Assassin's Creed**: Black Flag
             - **Assassin's Creed**: Brotherhood
             - **Assassin's Creed**: Revelations
+
         - **Final Fantasy XIV**:
             - **Final Fantasy XIV**: A Realm Reborn *(Complete)*
             - **Final Fantasy XIV**: Heavensward *(Complete)*
@@ -58,50 +60,60 @@ A list of Windows themes planned for a future update. This list is not in any pa
             - **Final Fantasy XIV**: Shadowbringers *(Complete)*
             - **Final Fantasy XIV**: Endwalker *(Complete)*
             - **Final Fantasy XIV**: Dawntrail *(Complete)*
+
         - **The Witcher**:
             - **The Witcher 3**: Wild Hunt
             - **The Witcher 2**: Assassins of Kings
+
         - **A Plague Tale**:
             - **A Plague Tale**: Innocence
             - **A Plague Tale**: Requiem
+
         - **Dark Pictures Anthology**:
             - **Dark Pictures Anthology**: House of Ashes
             - **Dark Pictures Anthology**: Little Hope
             - **Dark Pictures Anthology**: Man of Medan
-        - **Dark Pictures Anthology**: The Devil in Me
+            - **Dark Pictures Anthology**: The Devil in Me
+
         - **Resident Evil**:
             - **Resident Evil**: Village
             - **Resident Evil**: Biohazard
+            
         - **The Legend of Zelda**:
             - **The Legend of Zelda**: Breath of the Wild
             - **The Legend of Zelda**: Tears of the Kingdom
             - **The Legend of Zelda**: Ocarina of Time
             - **The Legend of Zelda**: Majora's Mask
             - **The Legend of Zelda**: Twilight Princess
-        - **The Legend of Zelda**: Skyward Sword
-        - **The Legend of Zelda**: Wind Waker
-        - **The Legend of Zelda**: A Link to the Past
-        - **The Legend of Zelda**: Link's Awakening
-        - **Arcade Classics**: Pac-Man
-        - **Arcade Classics**: Donkey Kong
-        - **Arcade Classics**: Galaga
-        - **Halo**: Infinite
-        - **Halo**: 5: Guardians
-        - **Halo**: Reach
-        - **Halo**: Combat Evolved
-        - **DOOM**: Eternal
-        - **Hellblade**: Senua's Sacrifice
-        - **Hellblade**: Senua's Saga: Hellblade II
-        - **Need for Speed**: Heat
-        - **Need for Speed**: Payback
-        - **Need for Speed**: Rivals
-        - **Need for Speed**: Most Wanted
-        - **Need for Speed**: Underground
-        - **Burnout**: Paradise
-        - **Burnout**: Revenge
-        - **Burnout**: Takedown
-        - **Forza**: Horizon
-        - **Forza**: Motorsport
+            - **The Legend of Zelda**: Skyward Sword
+            - **The Legend of Zelda**: Wind Waker
+            - **The Legend of Zelda**: A Link to the Past
+            - **The Legend of Zelda**: Link's Awakening
+        - **Arcade Classics**: 
+            - **Arcade Classics**: Pac-Man
+            - **Arcade Classics**: Donkey Kong
+            - **Arcade Classics**: Galaga
+        - **Halo**:
+            - **Halo**: Infinite
+            - **Halo**: Guardians
+            - **Halo**: Reach
+            - **Halo**: Combat Evolved
+        - **Hellblade**:
+            - **Hellblade**: Senua's Sacrifice
+            - **Hellblade**: Senua's Saga: Hellblade II
+        - **Need for Speed**:
+            - **Need for Speed**: Heat
+            - **Need for Speed**: Payback
+            - **Need for Speed**: Rivals
+            - **Need for Speed**: Most Wanted
+            - **Need for Speed**: Underground
+        - **Burnout**:
+            - **Burnout**: Paradise
+            - **Burnout**: Revenge
+            - **Burnout**: Takedown
+        - **Forza**:
+            - **Forza**: Horizon
+            - **Forza**: Motorsport
         - **Sonic the Hedgehog**:
             - **Sonic the Hedgehog**: Sonic Frontiers
             - **Sonic the Hedgehog**: Sonic Forces
@@ -161,7 +173,7 @@ A list of Windows themes planned for a future update. This list is not in any pa
             - **Studio Ghibli**: Grave of the Fireflies
             - **Studio Ghibli**: The Cat Returns
             - **Studio Ghibli**: Whisper of the Heart
-            - **Studio Ghibli**: Howl's Moving Castle *(Complete)*
+            - **Studio Ghibli**: Howl's Moving Castle *(Complete) (Updates Planned)*
             - **Studio Ghibli**: When Marnie Was There
             - **Studio Ghibli**: The Wind Rises
             - **Studio Ghibli**: From Up on Poppy Hill
