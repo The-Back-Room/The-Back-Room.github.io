@@ -25,6 +25,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Change the URL structure on all pages from relative links to absolute links for better reliability.
 - Fixed broken links on the Windows Themes page to ensure all links direct to the correct pages.
 - Update the DownAero Squared theme for the Windhawk Start Menu Styler.
+- Change preview image links to use GitHub's raw image URLs so they display correctly both in the repository and on the website.
 
 ### 2025-09-12
 
