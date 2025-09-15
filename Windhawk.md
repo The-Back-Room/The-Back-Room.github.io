@@ -24,9 +24,9 @@ Here is a list of Windhawk mods created by members of The Back Room:
 - [Acrylic UI](https://the-back-room.info/Windhawk/TaskbarStyler/AcrylicUI) - A modern, translucent taskbar style.
 - [DownAero Squared](https://the-back-room.info/Windhawk/TaskbarStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Taskbar.
 
-## Notifications Center Styler
-- [Acrylic UI](https://the-back-room.info/Windhawk/NotificationsCenterStyler/AcrylicUI) - A modern, translucent notifications center style.
-- [DownAero Squared](https://the-back-room.info/Windhawk/NotificationsCenterStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Notifications Center.
+## Notification Center Styler
+- [Acrylic UI](https://the-back-room.info/Windhawk/NotificationCenterStyler/AcrylicUI) - A modern, translucent notifications center style.
+- [DownAero Squared](https://the-back-room.info/Windhawk/NotificationCenterStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Notifications Center.
 
 ## Resource Redirect
 - [Floating Ice Chrononaut](https://the-back-room.info/Windhawk/ResourceRedirect/FloatingIceChrononaut) - A steampunk themed icon pack.
