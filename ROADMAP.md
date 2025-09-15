@@ -170,9 +170,9 @@ A list of planned Windows themes. This list is not in any particular order and m
 
     - **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
 
-        - **The Last Sovereign**: NSFW theme pack inspired by "The Last Sovereign" game by Sierra Lee.
+        - **The Last Sovereign**: NSFW theme pack inspired by "The Last Sovereign" game by Sierra Lee. *(In Progess) (Incomplete)*
         - **Renryuu Ascension**: NSFW theme pack inspired by "Renryuu Ascension" game by Hound RyenSaotome.
-        - **The Proteus Effect**: NSFW theme pack inspired by "The Proteus Effect" game by Proxxie.
+        - **The Proteus Effect**: NSFW theme pack inspired by "The Proteus Effect" game by Proxxie. *(In Progess) (Incomplete)*
         - **Harem Hotel**: NSFW theme pack inspired by "Harem Hotel" game by Runey Games.
         - **Subverse**: NSFW theme pack inspired by "Subverse" game by Studio FOW.
         - **Nekopara**: NSFW theme pack inspired by the "Nekopara" series by NEKO WORKs.
@@ -190,3 +190,4 @@ A list of planned Windows themes. This list is not in any particular order and m
              - **Sakura Magical Girls**: NSFW theme pack inspired by "Sakura Magical Girls" game(s) by Winged Cloud.
              - **Sakura Space**: NSFW theme pack inspired by "Sakura Space" game(s) by Winged Cloud.
         - **HuniePop**: NSFW theme pack inspired by "HuniePop" game by HuniePot.
+        - **Ranma Hentai**: NSFW theme pack inspired by the "Ranma ½" anime and manga series by Rumiko Takahashi. *(Completed) (Updates Planned)*
