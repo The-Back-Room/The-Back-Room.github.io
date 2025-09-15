@@ -185,5 +185,4 @@ A list of planned Windows themes. This list is not in any particular order and m
              - **Sakura Gamer**: NSFW theme pack inspired by "Sakura Gamer" game(s) by Winged Cloud.
              - **Sakura Magical Girls**: NSFW theme pack inspired by "Sakura Magical Girls" game(s) by Winged Cloud.
              - **Sakura Space**: NSFW theme pack inspired by "Sakura Space" game(s) by Winged Cloud.
-        - **HuniePop**: NSFW theme pack inspired by "HuniePop" game by HuniePot.
         - **Ranma Hentai**: NSFW theme pack inspired by the "Ranma ½" anime and manga series by Rumiko Takahashi. *(Completed) (Updates Planned)*
