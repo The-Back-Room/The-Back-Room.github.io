@@ -128,7 +128,7 @@ permalink: /Windhawk/StartMenuStyler/DownAeroSquared
   "controlStyles[30].styles[0]": "FontFamily=Franklin Gothic Medium",
   "controlStyles[30].styles[1]": "Text=Recommended",
   "webContentStyles[0].target": "h4, .suggContainer, .groupTitle, .suggsListContainer, .title, .details, .secondaryText, .scope-tile > div, .menu-item_details",
-  "webContentStyles[0].styles[0]": "font-family: 'Franklin Gothic Medium' !important",
+  "webContentStyles[0].styles[0]": "font-family: 'Segoe UI' !important",
   "webContentStyles[1].target": ".cortanaFontIcon, .iconContent",
   "webContentStyles[1].styles[0]": "font-family: 'Segoe Fluent Icons' !important",
   "webContentStyles[2].target": "#qfPreviewPane",
@@ -146,14 +146,15 @@ permalink: /Windhawk/StartMenuStyler/DownAeroSquared
   "controlStyles[31].target": "StartMenu.ExpandedFolderList > Grid > Border",
   "controlStyles[31].styles[0]": "CornerRadius=2",
   "controlStyles[31].styles[1]": "BorderThickness=1",
-  "controlStyles[31].styles[2]": "MaxHeight=250",
-  "controlStyles[31].styles[3]": "MaxWidth=450",
+  "controlStyles[31].styles[2]": "Height=300",
+  "controlStyles[31].styles[3]": "Width=450",
   "controlStyles[31].styles[4]": "Background:=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"1\" Opacity=\"1\" />",
   "controlStyles[32].target": "StartMenu.ExpandedFolderList > Grid > Grid",
-  "controlStyles[32].styles[0]": "MaxHeight=300",
-  "controlStyles[32].styles[1]": "MaxWidth=450",
+  "controlStyles[32].styles[0]": "Height=260",
+  "controlStyles[32].styles[1]": "Width=450",
   "controlStyles[31].styles[5]": "BorderBrush:=<AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
   "controlStyles[33].target": "StartMenu.ExpandedFolderList > Grid > Grid > Microsoft.UI.Xaml.Controls.PipsPager#PinnedListPipsPager",
-  "controlStyles[33].styles[0]": "Margin=-18,0,0,0"
+  "controlStyles[33].styles[0]": "Margin=-18,0,0,0",
+  "controlStyles[32].styles[2]": "Margin=0,-80,0,0"
 }
 ```
