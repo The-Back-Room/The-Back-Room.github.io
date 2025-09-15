@@ -11,11 +11,24 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Dates are formatted as `YYYY-MM-DD`
 - Entries are listed in reverse chronological order, with the most recent changes at the top.
 
+### 2025-09-14
+
+- Project Updates:
+    - Updated DownAero Squared Start Menu Styler theme to improve appearance and fix minor issues.
+    - Updated DownAero Squared Taskbar Styler theme to improve appearance and fix minor issues.
+    - Updated DownAero Squared File Explorer Styler theme to improve appearance and fix minor issues.
+    - Updated DownAero Squared Notification Center Styler theme to improve appearance and fix minor issues.
+
 ### 2025-09-13
 
-- Theme Updates:
+- Project Updates:
     - Added Final Fantasy XIV theme packs: Heavensward, Stormblood, Shadowbringers, Endwalker, and Dawntrail.
     - Updated the Final Fantasy XIV: A Realm Reborn theme pack with a new wallpapers.
+    - Updated the DownAero Squared theme for the Windhawk Start Menu Styler.
+
+- Content Management:
+    - Improved format and structure of the ROADMAP.md file for better clarity.
+    - Added new planned projects to the Roadmap, including additional anime themes and NSFW themes.
 
 - General Website Improvements:
     - Updated the Windows Themes page to include the new Final Fantasy XIV theme packs with detailed descriptions and instructions.
@@ -27,11 +40,6 @@ This page provides a detailed log of changes, updates, and improvements made to 
     - Removed redundant introductory sections to improve readability and conciseness.
     - Fixed broken links to ensure all links direct to the correct pages.
     - Replaced the index.md with the updated README.md content for better consistency and information.
-
-- Content Management:
-    - Updated the DownAero Squared theme for the Windhawk Start Menu Styler.
-    - Improved format and structure of the ROADMAP.md file for better clarity.
-    - Added new planned projects to the Roadmap, including additional anime themes and NSFW themes.
 
 - General Improvements:
     - Improved overall formatting and structure of the Changelog page.
