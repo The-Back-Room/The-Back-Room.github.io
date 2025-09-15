@@ -150,11 +150,11 @@ permalink: /Windhawk/StartMenuStyler/DownAeroSquared
   "controlStyles[31].styles[3]": "Width=450",
   "controlStyles[31].styles[4]": "Background:=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"1\" Opacity=\"1\" />",
   "controlStyles[32].target": "StartMenu.ExpandedFolderList > Grid > Grid",
-  "controlStyles[32].styles[0]": "Height=260",
+  "controlStyles[32].styles[0]": "Height=300",
   "controlStyles[32].styles[1]": "Width=450",
   "controlStyles[31].styles[5]": "BorderBrush:=<AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
   "controlStyles[33].target": "StartMenu.ExpandedFolderList > Grid > Grid > Microsoft.UI.Xaml.Controls.PipsPager#PinnedListPipsPager",
   "controlStyles[33].styles[0]": "Margin=-18,0,0,0",
-  "controlStyles[32].styles[2]": "Margin=0,-80,0,0"
+  "controlStyles[32].styles[2]": "Margin=0,-50,0,0"
 }
 ```
