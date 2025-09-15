@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <div align="center">
-<img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/logo.png" alt="The Back Room Logo" style="width: 70%; height: auto;" />
+<img src="https://the-back-room.info/assets/images/logo.png?raw=True" alt="The Back Room Logo" style="width: 70%; height: auto;" />
 </div>
 
 Welcome to [The Back Room](https://the-back-room.info), a hub for open-source projects, custom themes, and software tweaks. Our mission is to provide high-quality resources for users looking to enhance their digital experience.

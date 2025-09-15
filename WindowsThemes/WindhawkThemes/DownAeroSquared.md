@@ -9,9 +9,9 @@ permalink: /WindowsThemes/WindhawkThemes/DownAeroSquared
 ## DownAero Squared
 Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
-![DownAero Squared Preview 1](https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/previews/windhawk-themes/down-aero-squared/Preview-1.bmp?raw=True)  
+![DownAero Squared Preview 1](https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview-1.bmp?raw=True)  
 
-![DownAero Squared Preview 2](https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/previews/windhawk-themes/down-aero-squared/Preview-2.bmp?raw=True)  
+![DownAero Squared Preview 2](https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview-2.bmp?raw=True)  
 
 ### Requirements
 

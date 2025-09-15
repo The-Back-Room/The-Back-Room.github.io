@@ -9,11 +9,11 @@ permalink: /WindowsThemes/WindhawkThemes/AcrylicUI
 ## Acrylic UI
 Complete overhaul for Windows 11 with squared window corners and acrylic blur.
 
-![Preview](https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/previews/file-explorer-styler/acrylic.bmp?raw=True)  
+![Preview](https://the-back-room.info/assets/images/previews/file-explorer-styler/acrylic.bmp?raw=True)  
 
-![Preview](https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/previews/start-menu-styler/acrylic.bmp?raw=True)  
+![Preview](https://the-back-room.info/assets/images/previews/start-menu-styler/acrylic.bmp?raw=True)  
 
-![Preview](https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/previews/notification-center-styler/acrylic.bmp?raw=True)  
+![Preview](https://the-back-room.info/assets/images/previews/notification-center-styler/acrylic.bmp?raw=True)  
 
 ### Requirements
 
