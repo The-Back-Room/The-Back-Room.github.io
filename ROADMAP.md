@@ -107,7 +107,6 @@ A list of planned Windows themes. This list is not in any particular order and m
         - **Western Animation**: Theme packs inspired by popular western animation series. This list is not in any particular order and may change at any time.
 
             - **Dexter's Laboratory**: Theme pack inspired by the "Dexter's Laboratory" series by Genndy Tartakovsky
-            - **The Fairly OddParents**: Theme pack inspired by the "The Fairly OddParents" series by Butch Hartman
             - **Danny Phantom**: Theme pack inspired by the "Danny Phantom" series by Butch Hartman
             - **The Powerpuff Girls**: Theme pack inspired by the "The Powerpuff Girls" series by Craig McCracken
             - **Ed, Edd n Eddy**: Theme pack inspired by the "Ed, Edd n Eddy" series by Danny Antonucci
@@ -124,9 +123,6 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **Hercules**: Theme pack inspired by the classic Disney movie "Hercules"
             - **Tarzan**: Theme pack inspired by the classic Disney movie "Tarzan"
             - **The Little Mermaid**: Theme pack inspired by the classic Disney movie "The Little Mermaid"
-            - **Frozen**: Theme pack inspired by the popular "Frozen" movies by Disney
-            - **Moana**: Theme pack inspired by the popular "Moana" movie by Disney
-            - **Tangled**: Theme pack inspired by the popular "Tangled" movie by Disney
             - **Cinderella**: Theme pack inspired by the classic Disney movie "Cinderella"
             - **Sleeping Beauty**: Theme pack inspired by the classic Disney movie "Sleeping Beauty"
             - **Snow White and the Seven Dwarfs**: Theme pack inspired by the classic Disney movie "Snow White and the Seven Dwarfs"
