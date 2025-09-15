@@ -10,11 +10,11 @@ permalink: /WindowsThemes/WindhawkThemes/AcrylicUI
 Complete overhaul for Windows 11 with squared window corners and acrylic blur.
 
 <div align="center">
-<img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/previews/file-explorer-styler/acrylic.bmp" alt="Preview" width="80%" />
+<img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/previews/file-explorer-styler/acrylic.bmp?raw=True" alt="Preview" width="80%" />
 <br />
-<img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/previews/start-menu-styler/acrylic.bmp" alt="Preview" width="80%" />
+<img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/previews/start-menu-styler/acrylic.bmp?raw=True" alt="Preview" width="80%" />
 <br />
-<img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/previews/notification-center-styler/acrylic.bmp" alt="Preview" width="80%" />
+<img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/assets/images/previews/notification-center-styler/acrylic.bmp?raw=True" alt="Preview" width="80%" />
 </div>
 
 ### Requirements
