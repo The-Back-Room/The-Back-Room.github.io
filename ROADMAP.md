@@ -63,7 +63,7 @@ A list of planned Windows themes. This list is not in any particular order and m
             - **The Cat Returns**: Theme pack inspired by the "The Cat Returns" film by Studio Ghibli
             - **Whisper of the Heart**: Theme pack inspired by the "Whisper of the Heart" film by Studio Ghibli
             - **Inuyasha**: Theme packs inspired by the "Inuyasha" movies by Rumiko Takahashi and Sunrise. This list is not in any particular order and may change at any time.
-            
+
                 - **Inuyasha**: Theme pack inspired by the "Inuyasha" movie by Sunrise
                 - **Inuyasha: The Castle Beyond the Looking Glass**: Theme pack inspired by the "Inuyasha: The Castle Beyond the Looking Glass" movie by Sunrise
                 - **Inuyasha: Swords of an Honorable Ruler**: Theme pack inspired by the "Inuyasha: Swords of an Honorable Ruler" movie by Sunrise
