@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /Windhawk/TaskbarStyler/AcrylicUI
 ---
 
-![Preview](https://the-back-room.info/assets/images/previews/taskbar-styler/acrylic.bmp?raw=true)
+![Preview](https://the-back-room.info/assets/images/previews/taskbar-styler/acrylic.bmp?raw=True)
 
 ### Requirements
 

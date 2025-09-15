@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /Windhawk/FileExplorerStyler/AcrylicUI
 ---
 
-![Preview](https://the-back-room.info/assets/images/previews/file-explorer-styler/acrylic.bmp?raw=true)
+![Preview](https://the-back-room.info/assets/images/previews/file-explorer-styler/acrylic.bmp?raw=True)
 
 ### Requirements
 

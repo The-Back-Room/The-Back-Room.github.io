@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /Windhawk/StartMenuStyler/DownAeroSquared
 ---
 
-![Preview](https://the-back-room.info/assets/images/previews/start-menu-styler/down-aero-squared.bmp?raw=true)
+![Preview](https://the-back-room.info/assets/images/previews/start-menu-styler/down-aero-squared.bmp?raw=True)
 
 ### Requirements
 
