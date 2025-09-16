@@ -87,6 +87,7 @@ A list of website improvements.
   - **Film Inspired**: Film inspired themes. This list is not in any particular order and may change at any time.
     - **Anime Inspired**: Theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
       - **Studio Ghibli**: A collection of theme packs inspired by Studio Ghibli films. This list is not in any particular order and may change at any time.
+        - Studio Ghibli *(Completed, needs repackaging)*
         - The Secret World of Arrietty
         - Howl's Moving Castle *(Completed, needs repackaging)*
         - Spirited Away
@@ -176,14 +177,15 @@ A list of website improvements.
       - Teen Titans
     - **Horror Themes**: Theme packs inspired by popular horror movies.
       - A Nightmare on Elm Street *(Completed)*
-      - IT *(In Progres) (Incomplete)*
+      - IT *(In Progress) (Incomplete)*
       - **The Conjuring Themes**: Theme packs inspired by "The Conjuring" universe.
          - Annabelle
          - The Nun
          - The Conjuring
-      - IT
       - Halloween
-      - Leatherface 
+      - The Grudge
+      - Darkness Falls
+      - The Ring
       - SAW
   - **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
     - **Game Inspired**: Game inspired NSFW themes. This list is not in any particular order and may change at any time.
@@ -198,10 +200,6 @@ A list of website improvements.
       - Ecchi *(Completed, needs repackaging)*
       - Valkyrie Drive: Mermaid
       - High School DxD
-      - SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist
       - Love Stage!!
-      - Monster Musume: Everyday Life with Monster Girls
-      - Sekirei
-      - To Love-Ru
-      - Freezing
       - Witchblade
+      - Sexy Naruto Girls *(Completed, needs repackaging)*
