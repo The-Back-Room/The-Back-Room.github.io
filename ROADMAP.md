@@ -31,6 +31,7 @@ A list of website improvements.
 - **MSSTYLE Themes**:
   - Drop support for custom MSSTYLE themes and remove existing MSSTYLE themes from the website.
     - This is due to the increasing difficulty in maintaining compatibility with newer versions of Windows and the availability of more modern theming options.
+    - Current MSSTYLE themes will be converted into Windhawk themes to make up for this change.
     - Future custom themes will be done with a mix of Windhawk mods and deskthemepacks to ensure compatibility with the latest versions of Windows.
 
 ### Icon Packs
@@ -87,6 +88,7 @@ A list of website improvements.
   - **Film Inspired**: Film inspired themes. This list is not in any particular order and may change at any time.
     - **Anime Inspired**: Theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
       - **Studio Ghibli**: A collection of theme packs inspired by Studio Ghibli films. This list is not in any particular order and may change at any time.
+        - Studio Ghibli *(Completed, needs repackaging)*
         - The Secret World of Arrietty
         - Howl's Moving Castle *(Completed, needs repackaging)*
         - Spirited Away
@@ -174,25 +176,33 @@ A list of website improvements.
       - Johnny Bravo
       - Scooby-Doo
       - Teen Titans
+    - **Horror Inspired**: Theme packs inspired by popular horror movies. This list is not in any particular order and may change at any time.
+      - IT *(In Progress) (Incomplete)*
+      - Child's Play
+      - **The Conjuring Themes**: Theme packs inspired by "The Conjuring" universe. This list is not in any particular order and may change at any time.
+         - Annabelle
+         - The Nun
+         - The Conjuring
+      - Halloween
+      - The Grudge
+      - Darkness Falls
+      - The Ring
+      - SAW
   - **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
     - **Game Inspired**: Game inspired NSFW themes. This list is not in any particular order and may change at any time.
-      - **Final Fantasy XIV**: A collection of NSFW theme packs inspired by the game "Final Fantasy XIV". This list is not in any particular order and may change at any time.
-        - Final Fantasy XIV - Waifus *(Completed, needs repackaging)*
-        - Final Fantasy XIV - Hentai *(Completed, needs repackaging)*
+      - Final Fantasy XIV - Waifus *(Completed, needs repackaging)*
       - Lewd Gamer Waifus *(Completed, needs repackaging)*
       - Subverse
       - Nekopara
       - Action Taimanin
+      - The Last Sovereign *(On hold for better resources)*
+      - The Proteus Effect *(On hold for better resources)*
     - **Anime Inspired**: NSFW theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
       - Ranma ½ Hentai *(Completed, needs repackaging)*
       - Bleach Hentai *(Completed, needs repackaging)*
       - Ecchi *(Completed, needs repackaging)*
       - Valkyrie Drive: Mermaid
       - High School DxD
-      - SHIMONETA: A Boring World Where the Concept of Dirty Jokes Doesn't Exist
       - Love Stage!!
-      - Monster Musume: Everyday Life with Monster Girls
-      - Sekirei
-      - To Love-Ru
-      - Freezing
       - Witchblade
+      - Sexy Naruto Girls *(Completed, needs repackaging)*
