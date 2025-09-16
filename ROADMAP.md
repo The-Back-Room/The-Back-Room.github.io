@@ -31,6 +31,7 @@ A list of website improvements.
 - **MSSTYLE Themes**:
   - Drop support for custom MSSTYLE themes and remove existing MSSTYLE themes from the website.
     - This is due to the increasing difficulty in maintaining compatibility with newer versions of Windows and the availability of more modern theming options.
+    - Current MSSTYLE themes will be converted into Windhawk themes to make up for this change.
     - Future custom themes will be done with a mix of Windhawk mods and deskthemepacks to ensure compatibility with the latest versions of Windows.
 
 ### Icon Packs
