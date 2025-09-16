@@ -174,11 +174,20 @@ A list of website improvements.
       - Johnny Bravo
       - Scooby-Doo
       - Teen Titans
-  - **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
+    - **Horror Themes**: Theme packs inspired by popular horror movies.
+      - A Nightmare on Elm Street *(Completed)*
+      - IT *(In Progres) (Incomplete)*
+      - **The Conjuring Themes**: Theme packs inspired by "The Conjuring" universe.
+         - Annabelle
+         - The Nun
+         - The Conjuring
+      - IT
+      - Halloween
+      - Leatherface 
+      - SAW
+- **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
     - **Game Inspired**: Game inspired NSFW themes. This list is not in any particular order and may change at any time.
-      - **Final Fantasy XIV**: A collection of NSFW theme packs inspired by the game "Final Fantasy XIV". This list is not in any particular order and may change at any time.
-        - Final Fantasy XIV - Waifus *(Completed, needs repackaging)*
-        - Final Fantasy XIV - Hentai *(Completed, needs repackaging)*
+      - Final Fantasy XIV - Waifus *(Completed, needs repackaging)*
       - Lewd Gamer Waifus *(Completed, needs repackaging)*
       - Subverse
       - Nekopara
