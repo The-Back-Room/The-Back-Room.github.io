@@ -7,11 +7,10 @@ permalink: /WindowsThemes/Deskthemepacks/FFXIVShadowbringers
 ---
 
 ## Final Fantasy XIV - Shadowbringers
+
 A theme pack inspired by Final Fantasy XIV.
 
-<div align="center">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-shadowbringers/-/raw/main/Extras/Preview.bmp" alt="Final Fantasy XIV - Shadowbringers Preview" style="max-width: 100%; height: auto;" />
-</div>
+![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-shadowbringers/-/raw/main/Extras/Preview.bmp)
 
 ### Features
 

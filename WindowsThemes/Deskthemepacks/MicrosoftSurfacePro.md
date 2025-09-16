@@ -5,12 +5,11 @@ nav_exclude: true
 has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/MicrosoftSurfacePro
 ---
-## Sufrace Pro
-A theme pack inspired by the Microsoft Surface Pro line of devices.
+## Surface Pro
 
-<div align="center">
-    <!-- <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/surface-pro/-/raw/main/Extras/Preview.bmp" alt="Surface Pro Preview" style="max-width: 100%; height: auto;" /> -->
-</div>
+Microsoft's Surface Pro themes for all to enjoy.
+
+![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/surface-pro/-/raw/main/Extras/Preview.bmp)
 
 ### Features
 

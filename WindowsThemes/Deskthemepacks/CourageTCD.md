@@ -7,11 +7,10 @@ permalink: /WindowsThemes/Deskthemepacks/CourageTCD
 ---
 
 ## Courage TCD
+
 A theme pack inspired by Courage the Cowardly Dog.
 
-<div align="center">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/raw/main/Extras/Preview.bmp" alt="Courage TCD Preview" style="max-width: 100%; height: auto;" />
-</div>
+![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/raw/main/Extras/Preview.bmp)
 
 ### Features
 

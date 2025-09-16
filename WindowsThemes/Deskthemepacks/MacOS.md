@@ -7,11 +7,10 @@ permalink: /WindowsThemes/Deskthemepacks/MacOS
 ---
 
 ## MacOS Themes for Windows 10 and 11
+
 A collection theme packs inspired by the MacOS operating system.
 
-<div align="center">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/raw/main/Extras/Preview.bmp" alt="MacOS Preview" style="max-width: 100%; height: auto;" />
-</div>
+![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/raw/main/Extras/Preview.bmp)
 
 ### Features
 

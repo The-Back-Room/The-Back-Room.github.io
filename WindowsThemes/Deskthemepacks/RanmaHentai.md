@@ -7,11 +7,10 @@ permalink: /WindowsThemes/Deskthemepacks/RanmaHentai
 ---
 
 ## Ranma Hentai
+
 A NSFW theme pack inspired by the Ranma ½ anime series.
 
-<div align="center">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/raw/main/Extras/Preview.bmp" alt="Ranma Hentai Preview" style="max-width: 100%; height: auto;"  />
-</div>
+![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/raw/main/Extras/Preview.bmp)
 
 ### Features
 

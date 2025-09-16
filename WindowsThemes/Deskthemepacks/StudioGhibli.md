@@ -7,6 +7,7 @@ permalink: /WindowsThemes/Deskthemepacks/StudioGhibli
 ---
 
 ## Studio Ghibli
+
 A theme pack inspired by the films of Studio Ghibli.
 
 <div align="center">

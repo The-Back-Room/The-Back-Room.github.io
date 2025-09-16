@@ -7,11 +7,10 @@ permalink: /WindowsThemes/Deskthemepacks/FFXIVDawntrail
 ---
 
 ## Final Fantasy XIV - Dawntrail
+
 A theme pack inspired by Final Fantasy XIV.
 
-<div align="center">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-dawntrail/-/raw/main/Extras/Preview.bmp" alt="Final Fantasy XIV - Dawntrail Preview" style="max-width: 100%; height: auto;" />
-</div>
+![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-dawntrail/-/raw/main/Extras/Preview.bmp)
 
 ### Features
 

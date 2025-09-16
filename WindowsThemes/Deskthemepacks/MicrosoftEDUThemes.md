@@ -5,10 +5,11 @@ nav_exclude: true
 has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/MicrosoftEDUThemes
 ---
+## Microsoft EDU Themes
 
-<div align="center">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/edu-themes/-/raw/main/Extras/Preview.bmp" alt="Microsoft EDU Themes Preview" style="max-width: 100%; height: auto;" />
-</div>
+Microsoft's EDU Themes for all the enjoy.
+
+![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/edu-themes/-/raw/main/Extras/Preview.bmp)
 
 ### Features
 

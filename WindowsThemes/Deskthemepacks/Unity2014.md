@@ -7,11 +7,10 @@ permalink: /WindowsThemes/Deskthemepacks/Unity2014
 ---
 
 ## Unity 2014
+
 A theme pack inspired by the classic Unity 2014 visual style.
 
-<div align="center">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/raw/main/Extras/Preview.bmp" alt="Unity 2014 Preview" style="max-width: 100%; height: auto;" />
-</div>
+![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/raw/main/Extras/Preview.bmp)
 
 ### Features
 
