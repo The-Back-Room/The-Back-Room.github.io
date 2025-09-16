@@ -57,7 +57,8 @@ A list of website improvements.
     - Dark Pictures Anthology: Little Hope
     - Dark Pictures Anthology: House of Ashes
     - Dark Pictures Anthology: The Devil in Me
-    - Resident Evil
+    - Resident Evil: Biohazard
+    - Resident Evil: Village
     - The Legend of Zelda: Breath of the Wild
     - The Legend of Zelda: Tears of the Kingdom
     - The Legend of Zelda: Ocarina of Time
