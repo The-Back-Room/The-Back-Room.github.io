@@ -35,8 +35,13 @@ A list of website improvements.
 
 ### Icon Packs
 
-- **Gen2**: Lazer Red, Lady Pink, Antitoxin
-- **HUD**: Evolution, Launch
+- **Gen2 Icons**: devillnside's Gen2 icon pack ported to Resource Redirect.
+  - Gen2 Lazer Red
+  - Gen2 Lady Pink
+  - Gen2 Antitoxin
+- **HUD Icons**: Mr GRiM's HUD icon packs ported to Resource Redirect.
+  - HUD Evolution
+  - HUD Launch
 
 ### Windows Themes
 
