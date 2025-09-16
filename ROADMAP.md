@@ -42,15 +42,42 @@ A list of website improvements.
 
 - **Deskthemepacks**: A collection of planned themes packs for Windows 10 and 11. This list is not in any particular order and may change at any time.
   - **Game Inspired**: Game inspired themes. This list is not in any particular order and may change at any time.
-    - Assassin's Creed
-    - A Plague Tale
-    - Dark Pictures Anthology
+    - Assassin's Creed: Odyssey
+    - Assassin's Creed: Valhalla
+    - Assassin's Creed: Origins
+    - Assassin's Creed: Brotherhood
+    - Assassin's Creed: Revelations
+    - Assassin's Creed: Black Flag
+    - Assassin's Creed: Unity
+    - Assassin's Creed: Syndicate
+    - Assassin's Creed: Rogue
+    - A Plague Tale: Innocence
+    - A Plague Tale: Requiem
+    - Dark Pictures Anthology: Man of Medan
+    - Dark Pictures Anthology: Little Hope
+    - Dark Pictures Anthology: House of Ashes
+    - Dark Pictures Anthology: The Devil in Me
     - Resident Evil
-    - The Legend of Zelda
+    - The Legend of Zelda: Breath of the Wild
+    - The Legend of Zelda: Tears of the Kingdom
+    - The Legend of Zelda: Ocarina of Time
+    - The Legend of Zelda: Majora's Mask
+    - The Legend of Zelda: Twilight Princess
+    - The Legend of Zelda: Wind Waker
+    - The Legend of Zelda: Skyward Sword
+    - The Witcher: Assassins of Kings
+    - The Witcher: Wild Hunt
+    - Elden Ring
     - Hellblade
     - Grand Theft Auto
     - Battlefield
-    - Call of Duty: Theme pack inspired by the "Call of Duty" franchise by Infinity Ward, Treyarch, Sledgehammer Games, and Raven Software.
+    - Call of Duty
+    - Burnout: Paradise
+    - Need for Speed: Most Wanted
+    - Need for Speed: Hot Pursuit
+    - Forza Horizon
+    - Forza Motorsport
+    - Runescape
   - **Film Inspired**: Film inspired themes. This list is not in any particular order and may change at any time.
     - **Anime Inspired**: Theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
       - **Studio Ghibli**: A collection of theme packs inspired by Studio Ghibli films. This list is not in any particular order and may change at any time.
