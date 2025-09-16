@@ -69,51 +69,78 @@ A list of website improvements.
       - **Bleach**: A collection of theme packs inspired by the Bleach anime and manga series. This list is not in any particular order and may change at any time.
         - Bleach *(Completed, needs repackaging)*
         - Bleach: Thousand-Year Blood War *(Completed, needs repackaging)*
+        - Bleach The Movie: Memories of Nobody
+        - Bleach The Movie: The DiamondDust Rebellion
+        - Bleach The Movie: Fade to Black
+        - Bleach The Movie: Hell Verse
       - **Naruto**: A collection of theme packs inspired by the Naruto anime and manga series. This list is not in any particular order and may change at any time.
         - Naruto
         - Naruto Shippuden
         - Boruto: Naruto Next Generations
-      - Sword Art Online
-      - Attack on Titan
-      - Fullmetal Alchemist
-      - Death Note
-      - Tokyo Ghoul
-      - Cowboy Bebop
-      - Neon Genesis Evangelion
-      - Your Name
-      - A Silent Voice
-      - Violet Evergarden
-      - Fairy Tail
-      - Blue Exorcist
-      - The Rising of the Shield Hero
-      - Your Lie in April
-      - Erased
-      - Ranma ½
-      - The Seven Deadly Sins
-      - Secret of the Silent Witch
-      - That Time I Got Reincarnated as a Slime
+        - Naruto The Movie: Ninja Clash in the Land of Snow
+        - Naruto The Movie: Legend of the Stone of Gelel
+        - Naruto The Movie: Guardians of the Crescent Moon Kingdom
+        - Naruto Shippuden The Movie
+        - Naruto Shippuden The Movie: Bonds
+        - Naruto Shippuden The Movie: The Will of Fire
+        - Naruto Shippuden The Movie: The Lost Tower
+        - Naruto Shippuden The Movie: Blood Prison
+        - Naruto Shippuden The Movie: Road to Ninja
+        - The Last: Naruto the Movie
+        - Boruto: Naruto the Movie
+      - **Other Anime Inspired**: Additional theme packs inspired by various popular anime series. This list is not in any particular order and may change at any time.
+        - Sword Art Online
+        - Attack on Titan
+        - Fullmetal Alchemist
+        - Death Note
+        - Tokyo Ghoul
+        - Cowboy Bebop
+        - Neon Genesis Evangelion
+        - Your Name
+        - A Silent Voice
+        - Violet Evergarden
+        - Fairy Tail
+        - Blue Exorcist
+        - The Rising of the Shield Hero
+        - Your Lie in April
+        - Erased
+        - Ranma ½
+        - The Seven Deadly Sins
+        - Secret of the Silent Witch
+        - That Time I Got Reincarnated as a Slime
+        - Avatar: The Last Airbender
+        - The Legend of Korra
+        - BOFURI
+        - TOUGEN ANKI
+        - TSUKIMICHI: Moonlit Fantasy
+        - GOBLIN SLAYER
+        - Shangri-La Frontier
+        - Claymore
+        - InuYasha
+        - Yashahime: Princess Half-Demon
+        - Kenichi: The Mightiest Disciple
+        - Solo Leveling
+        - Mushoku Tensei: Jobless Reincarnation
+        - The Eminence in Shadow
+        - Overlord
+        - No Game No Life
+        - Dance in the Vampire Bund
+        - Trigun
+        - Hellsing Ultimate
+    - **Western Animation Inspired**: Theme packs inspired by popular western animated series. This list is not in any particular order and may change at any time.
+      - RWBY
       - Futurama
       - Rick and Morty
       - Avatar: The Last Airbender
       - The Legend of Korra
-      - BOFURI
-      - TOUGEN ANKI
-      - TSUKIMICHI: Moonlit Fantasy
-      - GOBLIN SLAYER
-      - Shangri-La Frontier
-      - Claymore
-      - InuYasha
-      - Yashahime: Princess Half-Demon
-      - Kenichi: The Mightiest Disciple
-      - Solo Leveling
-      - Mushoku Tensei: Jobless Reincarnation
-      - The Eminence in Shadow
-      - Overlord
-      - No Game No Life
-      - Dance in the Vampire Bund
-      - Trigun
-      - Hellsing Ultimate
-
+      - Samurai Jack
+      - Courage the Cowardly Dog *(Completed, needs repackaging)*
+      - The Powerpuff Girls
+      - Dexter's Laboratory
+      - Ed, Edd n Eddy
+      - Johnny Bravo
+      - Scooby-Doo
+      - Teen Titans
   - **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
     - **Game Inspired**: Game inspired NSFW themes. This list is not in any particular order and may change at any time.
       - **Final Fantasy XIV**: A collection of NSFW theme packs inspired by the game "Final Fantasy XIV". This list is not in any particular order and may change at any time.
