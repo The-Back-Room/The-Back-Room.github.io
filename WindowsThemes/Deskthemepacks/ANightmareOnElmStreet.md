@@ -20,9 +20,7 @@ A dark and eerie theme inspired by the horror classic "A Nightmare on Elm Street
 
 ### Instructions
 
-- Download the ZIP archive via the `ZIP` link below.
-- Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes`
-- Apply the theme via `Settings > Personalization > Themes`
-
+- Download and extract the ZIP archive via the `ZIP` link below.
+- Double-Click the `.deskthemepack` file included to install the theme.
 
 **Download**: [Download ZIP](https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/archive/main/a-nightmare-on-elm-street-main.zip)

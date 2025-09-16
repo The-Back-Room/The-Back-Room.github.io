@@ -8,6 +8,7 @@ permalink: /WindowsThemes
 We offer a variety of custom Windows Themes that you can download and install to enhance your desktop experience. Check them out via the following pages:
 
 ### SFW Windows Deskthemepacks
+
 SFW Deskthemepacks for Windows 10 and Windows 11. These themes are safe for work and suitable for all audiences.
 
 - [Bleach](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACH) - Theme pack inspired by the BLEACH anime and manga series.
@@ -29,6 +30,7 @@ SFW Deskthemepacks for Windows 10 and Windows 11. These themes are safe for work
 - [Unity 2016](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2016) - Theme pack inspired by the classic Unity 2016 visual style.
 
 ### NSFW Windows Deskthemepacks
+
 NSFW Deskthemepacks for Windows 10 and Windows 11. These themes contain adult content and are intended for mature audiences only.
 
 - [Bleach Hentai (NSFW)](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACHHentai) - NSFW theme pack inspired by the BLEACH anime and manga series.
@@ -38,13 +40,15 @@ NSFW Deskthemepacks for Windows 10 and Windows 11. These themes contain adult co
 - [Ranma Hentai (NSFW)](https://the-back-room.info/WindowsThemes/Deskthemepacks/RanmaHentai) - NSFW theme pack inspired by the Ranma ½ anime and manga series.
 - [Sexy Naruto Girls (NSFW)](https://the-back-room.info/WindowsThemes/Deskthemepacks/SexyNarutoGirls) - NSFW theme pack inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
 
-### SFW Windows 10 Visual Styles 
+### SFW Windows 10 Visual Styles
+
 SFW Visual Styles for Windows 10 19H1-22H2 (1903-22H2). These themes are safe for work and suitable for all audiences.
 
 - [BLEACH](https://the-back-room.info/WindowsThemes/VisualStyles/Windows10/Bleach) - Visual Style inspired by the BLEACH anime and manga series.
 - [Once Human](https://the-back-room.info/WindowsThemes/VisualStyles/Windows10/OnceHuman) - Visual Style inspired by the game "Once Human".
 
-### NSFW Windows 10 Visual Styles 
+### NSFW Windows 10 Visual Styles
+
 NSFW Visual Styles for Windows 10 19H1-22H2 (1903-22H2). These themes contain adult content and are intended for mature audiences only.
 
 - [BLEACH Hentai (NSFW)](https://the-back-room.info/WindowsThemes/VisualStyles/Windows10/BLEACHHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
@@ -53,14 +57,16 @@ NSFW Visual Styles for Windows 10 19H1-22H2 (1903-22H2). These themes contain ad
 - [Ranma Hentai (NSFW)](https://the-back-room.info/WindowsThemes/VisualStyles/Windows10/RanmaHentai) - Visual Style inspired by the Ranma ½ anime and manga series.
 - [Sexy Naruto Girls (NSFW)](https://the-back-room.info/WindowsThemes/VisualStyles/Windows10/SexyNarutoGirls) - Visual Style inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
 
-### Windows 11 Visual Styles 
+### Windows 11 Visual Styles
+
 SFW Visual Styles for Windows 11 23H2+ (22000+). These themes are safe for work and suitable for all audiences.
 
 - [Aero7-11](https://the-back-room.info/WindowsThemes/VisualStyles/Windows11/Aero7-11) - Large collection of Visual Styles with resources sourced from various places including the Windows 7 RTM, regional themes, panoramic themes, and community showcase themes.
 - [BLEACH](https://the-back-room.info/WindowsThemes/VisualStyles/Windows11/Bleach) - Visual Style inspired by the BLEACH anime and manga series.
 - [Once Human](https://the-back-room.info/WindowsThemes/VisualStyles/Windows11/OnceHuman) - Visual Style inspired by the game "Once Human".
 
-### NSFW Windows 11 Visual Styles 
+### NSFW Windows 11 Visual Styles
+
 NSFW Visual Styles for Windows 11 23H2+ (22000+). These themes contain adult content and are intended for mature audiences only.
 
 - [BLEACH Hentai (NSFW)](https://the-back-room.info/WindowsThemes/VisualStyles/Windows11/BLEACHHentai) - NSFW Visual Style inspired by the BLEACH anime and manga series.
@@ -69,11 +75,13 @@ NSFW Visual Styles for Windows 11 23H2+ (22000+). These themes contain adult con
 - [Ranma Hentai (NSFW)](https://the-back-room.info/WindowsThemes/VisualStyles/Windows11/RanmaHentai) - Visual Style inspired by the Ranma ½ anime and manga series.
 - [Sexy Naruto Girls (NSFW)](https://the-back-room.info/WindowsThemes/VisualStyles/Windows11/SexyNarutoGirls) - Visual Style inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
 
-### Windhawk Themes 
+### Windhawk Themes
+
 Custom themes for Windows 11 created using Windhawk. These themes require the [Windhawk](https://windhawk.net) application to be installed and configured.
 
 - [Acrylic UI](https://the-back-room.info/WindowsThemes/WindhawkThemes/AcrylicUI) - Complete overhaul for Windows 11 with squared window corners and acrylic blur
 - [DownAero Squared](https://the-back-room.info/WindowsThemes/WindhawkThemes/DownAeroSquared) - Complete overhaul for Windows 11 based off of the Windhawk DownAero theme
 
 ## Installing Themes
+
 Each theme pack includes a set of instructions on how to install and apply the theme. Please refer to the individual theme pages for detailed installation steps.
