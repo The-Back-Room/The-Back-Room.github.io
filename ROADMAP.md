@@ -175,10 +175,10 @@ A list of website improvements.
       - Johnny Bravo
       - Scooby-Doo
       - Teen Titans
-    - **Horror Themes**: Theme packs inspired by popular horror movies.
-      - A Nightmare on Elm Street *(Completed)*
+    - **Horror Inspired**: Theme packs inspired by popular horror movies. This list is not in any particular order and may change at any time.
       - IT *(In Progress) (Incomplete)*
-      - **The Conjuring Themes**: Theme packs inspired by "The Conjuring" universe.
+      - Child's Play
+      - **The Conjuring Themes**: Theme packs inspired by "The Conjuring" universe. This list is not in any particular order and may change at any time.
          - Annabelle
          - The Nun
          - The Conjuring
@@ -194,6 +194,8 @@ A list of website improvements.
       - Subverse
       - Nekopara
       - Action Taimanin
+      - The Last Sovereign *(On hold for better resources)*
+      - The Proteus Effect *(On hold for better resources)*
     - **Anime Inspired**: NSFW theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
       - Ranma ½ Hentai *(Completed, needs repackaging)*
       - Bleach Hentai *(Completed, needs repackaging)*
