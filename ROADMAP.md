@@ -185,7 +185,7 @@ A list of website improvements.
       - Halloween
       - Leatherface 
       - SAW
-- **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
+  - **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
     - **Game Inspired**: Game inspired NSFW themes. This list is not in any particular order and may change at any time.
       - Final Fantasy XIV - Waifus *(Completed, needs repackaging)*
       - Lewd Gamer Waifus *(Completed, needs repackaging)*
