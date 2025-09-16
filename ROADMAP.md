@@ -5,7 +5,7 @@ nav_exclude: true
 permalink: /Roadmap
 ---
 
-## Planned Projects
+## Roadmap
 
 Planned updates and future projects.
 This page outlines the projects and features that are planned for future updates to The Back Room website and its content. These projects are in various stages of development and may be subject to change based on feasibility, resource availability, and community feedback.
@@ -19,6 +19,19 @@ A list of website improvements.
 - Implement a user feedback system to gather suggestions and improve the website.
 - Expand the content library with more tutorials, guides, and resources.
 - Introduce a wiki section for community contributions and knowledge sharing.
+
+### General Updates
+
+- **Deskthemepacks**:
+  - Repackage all deskthemepacks into `.deskthemepack` archives for easier installation.
+    - This may require slight modifications to some themes to ensure compatibility with the `.deskthemepack` format.
+  - Update all deskthemepacks to include high resolution images (4K and above).
+  - Update all deskthemepacks to include both light and dark mode variants where applicable.
+  - Create custom icons, cursors, and sounds for themepacks that currently lack them.
+- **MSSTYLE Themes**:
+  - Drop support for custom MSSTYLE themes and remove existing MSSTYLE themes from the website.
+    - This is due to the increasing difficulty in maintaining compatibility with newer versions of Windows and the availability of more modern theming options.
+    - Future custom themes will be done with a mix of Windhawk mods and deskthemepacks to ensure compatibility with the latest versions of Windows.
 
 ### Icon Packs
 
