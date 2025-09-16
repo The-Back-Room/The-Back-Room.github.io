@@ -15,10 +15,8 @@ The Discord server displayed in the widget is our official Discord server.
 <br /><br />
 If you would like to have your community listed here, please contact us with the details.</p>
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start;">
 <ul align="left">
 <li><a href="https://www.reddit.com/r/Ranma_Hentai/">r/Ranma_Hentai</a></li>
 <li><a href="https://www.reddit.com/r/NSFW_Hentai_AI/">r/NSFW_Hentai_AI</a></li>
 </ul>
-<iframe src="https://discord.com/widget?id=1325177662435627109&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" align="right"></iframe>
-</div>
+<iframe src="https://discord.com/widget?id=1325177662435627109&theme=dark" width="350" height="500" allowtransparency="true" frameborder="1" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts" align="right"></iframe>
