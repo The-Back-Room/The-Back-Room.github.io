@@ -116,9 +116,7 @@ To get the taskbar clock to display the system performance metrics like in the s
   "controlStyles[10].styles[10]": "Margin=2",
   "controlStyles[9].styles[10]": "Margin=2",
   "controlStyles[3].styles[1]": "CornerRadius=$radius",
-  "controlStyles[19].target": "Grid",
-  "controlStyles[19].styles[0]": "RequestedTheme=2",
-  "styleConstants[1]": "base=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorDark2}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColorDark2}\" />",
+  "styleConstants[1]": "base=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColor}\" />",
   "styleConstants[2]": "transparent=\"<AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
   "styleConstants[3]": "radius=2",
   "styleConstants[4]": "thickness=1"
