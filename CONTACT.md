@@ -6,10 +6,11 @@ permalink: /Contact
 ---
 
 <div align="center" width="100%">
-<script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
-    new Crate({
-        server: '1325177662435627109', // The Back Room
-        channel: '1417660231940313140' // #💬︱𝗦𝘂𝗽𝗽𝗼𝗿𝘁
-    })
-</script>
+<widgetbot
+    server="1325177662435627109"
+    channel="1417660231940313140"
+    width="800"
+    height="600"
+></widgetbot>
+<script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
 </div>
