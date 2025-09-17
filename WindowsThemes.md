@@ -63,7 +63,7 @@ NSFW Deskthemepacks for Windows 10 and Windows 11. These themes contain adult co
     - [Bleach Hentai](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACHHentai) - Windows theme pack inspired by the BLEACH anime and manga series.
     - [Ecchi](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi) - Windows Theme pack inspired by Ecchi anime and manga series.
     - [Ranma Hentai](https://the-back-room.info/WindowsThemes/Deskthemepacks/RanmaHentai) - Windows theme pack inspired by the Ranma ½ anime and manga series.
-    - [Sexy Naruto Girls](https://the-back-room.info/WindowsThemes/Deskthemepacks/SexyNarutoGirls) - Windows theme pack inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
+    - [Naruto - Ninja Hotsrpings](https://the-back-room.info/WindowsThemes/Deskthemepacks/NarutoNinjaHotsprings) - Windows theme pack inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
     - [Love Stage!!](https://the-back-room.info/WindowsThemes/Deskthemepacks/LoveStage) - Windows theme pack inspired by the anime and manga "Love Stage!!".
 
 - **Movies**: NSFW theme packs inspired by popular movies. This list is not in any particular order and may change at any time.

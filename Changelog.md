@@ -17,7 +17,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Project Updates:
   - Repackage multiple theme packs into deskthemepack archives for easier installation.
   - Rename Sexy Naruto Girls theme pack to Naruto - Ninja Hotsprings.
-  - Update the Roadmap to remove Sexy Naruto Girls, BLEACH Hentai, Ranma ½ and Ecchi from planned projects as they have been completed.
+  - Update the Roadmap to remove Sexy Naruto Girls, BLEACH Hentai, Lewd Gamer Girls, Ranma ½ and Ecchi as the updates have been completed.
 
 - Content Management:
   - Updated the Windows Themes page to include the new IT and Love Stage!! theme packs with detailed descriptions and instructions.
