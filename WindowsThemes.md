@@ -11,7 +11,7 @@ We offer a variety of custom Windows Themes that you can download and install to
 
 SFW Deskthemepacks for Windows 10 and Windows 11. These themes are safe for work and suitable for all audiences.
 
-- **Games**: Game inspired themes. This list is not in any particular order and may change at any time.
+- **Games**: Theme packs inspired by popular games. This list is not in any particular order and may change at any time.
 
     - [Final Fantasy XIV: A Realm Reborn](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVARealmReborn) - Theme pack inspired by "Final Fantasy XIV: A Realm Reborn".
     - [Final Fantasy XIV: Heavensward](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVHeavensward) - Theme pack inspired by "Final Fantasy XIV: Heavensward".
