@@ -6,7 +6,7 @@ permalink: /Contact
 ---
 
 <h2>Contact</h2>
-<p>Contact use here for support, inquiries, or feedback.</p>
+<p>Contact us via the following locations for support, inquiries, or feedback.</p>
 
 <div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start;">
 <ul>
