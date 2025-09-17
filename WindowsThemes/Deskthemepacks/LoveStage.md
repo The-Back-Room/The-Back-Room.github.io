@@ -7,7 +7,7 @@ permalink: /WindowsThemes/Deskthemepacks/LoveStage
 
 ## Love Stage!!
 
-Love Stage!! Windows Theme for Windows 10 and Windows 11.
+Windows theme pack inspired by the anime and manga "Love Stage!!"
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/raw/main/Extras/Preview.bmp)
 
