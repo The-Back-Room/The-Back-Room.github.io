@@ -2,9 +2,9 @@
 title: Microsoft EDU Themes
 summary: Microsoft's EDU Thems for all the enjoy
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/MicrosoftEDUThemes
 ---
+
 ## Microsoft EDU Themes
 
 A collection of Microsoft's EDU Themes for Windows 10 and 11.

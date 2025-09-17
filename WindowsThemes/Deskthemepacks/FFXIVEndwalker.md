@@ -1,8 +1,7 @@
 ---
-title: FFXIV Endwalker
+title: Final Fantasy XIV Endwalker
 summary: A theme pack inspired by Final Fantasy XIV - Endwalker
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/FFXIVEW
 ---
 

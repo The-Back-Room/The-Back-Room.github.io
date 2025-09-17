@@ -2,7 +2,6 @@
 title: Courage TCD
 summary: A theme pack inspired by Courage the Cowardly Dog
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/CourageTCD
 ---
 

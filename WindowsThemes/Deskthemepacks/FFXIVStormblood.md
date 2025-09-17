@@ -1,8 +1,7 @@
 ---
-title: FFXIV Stormblood
+title: Final Fantasy XIV Stormblood
 summary: A theme pack inspired by Final Fantasy XIV - Stormblood
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/FFXIVStormblood
 ---
 

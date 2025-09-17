@@ -2,7 +2,6 @@
 title: Bleach Hentai
 summary: A NSFW theme pack inspired by the Bleach anime and manga series
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/BLEACHHentai
 ---
 

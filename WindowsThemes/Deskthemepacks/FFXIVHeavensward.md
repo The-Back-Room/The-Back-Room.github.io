@@ -1,8 +1,7 @@
 ---
-title: FFXIV Heavensward
+title: Final Fantasy XIV Heavensward
 summary: A theme pack inspired by Final Fantasy XIV - Heavensward
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/FFXIVHeavensward
 ---
 

@@ -2,7 +2,6 @@
 title: MacOS
 summary: A collection theme packs inspired by the MacOS operating system
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/MacOS
 ---
 

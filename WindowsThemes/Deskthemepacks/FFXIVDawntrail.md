@@ -1,8 +1,7 @@
 ---
-title: FFXIV Dawntrail
+title: Final Fantasy XIV Dawntrail
 summary: A theme pack inspired by Final Fantasy XIV - Dawntrail
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/FFXIVDawntrail
 ---
 

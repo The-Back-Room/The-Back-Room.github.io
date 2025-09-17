@@ -2,7 +2,6 @@
 title: Howl's Moving Castle
 summary: A theme pack inspired by the film "Howl's Moving Castle"
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/HowlsMovingCastle
 ---
 

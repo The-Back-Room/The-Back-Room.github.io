@@ -2,7 +2,6 @@
 title: Unity 2016
 summary: A theme pack inspired by the classic Unity 2016 visual style
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/Unity2016
 ---
 
@@ -11,7 +10,6 @@ permalink: /WindowsThemes/Deskthemepacks/Unity2016
 A theme pack for Windows 10 and 11 inspired by the classic Unity 2016 visual style.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2016/-/raw/main/Extras/Preview.bmp)
-
 
 ### Features
 

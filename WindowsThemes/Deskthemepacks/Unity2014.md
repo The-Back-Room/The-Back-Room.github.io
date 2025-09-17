@@ -2,7 +2,6 @@
 title: Unity 2014
 summary: A theme pack inspired by the classic Unity 2014 visual style
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/Unity2014
 ---
 

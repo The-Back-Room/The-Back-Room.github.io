@@ -1,8 +1,7 @@
 ---
-title: FFXIV Shadowbringers
+title: Final Fantasy XIV Shadowbringers
 summary: A theme pack inspired by Final Fantasy XIV - Shadowbringers
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/FFXIVShadowbringers
 ---
 

@@ -2,7 +2,6 @@
 title: Once Human
 summary: A theme pack inspired by the game "Once Human"
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/Deskthemepacks/OnceHuman
 ---
 
