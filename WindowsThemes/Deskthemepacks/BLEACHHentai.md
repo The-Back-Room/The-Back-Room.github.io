@@ -8,7 +8,7 @@ permalink: /WindowsThemes/Deskthemepacks/BLEACHHentai
 
 ## Bleach Hentai
 
-A NSFW theme pack inspired by the Bleach anime and manga series.
+A NSFW theme pack for Windows 10 and 11 inspired by the Bleach anime and manga series.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/-/raw/main/Extras/Preview.bmp)
 

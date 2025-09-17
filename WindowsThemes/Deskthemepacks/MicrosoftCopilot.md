@@ -8,7 +8,7 @@ permalink: /WindowsThemes/Deskthemepacks/MicrosoftCopilot
 
 ## Microsoft Copilot
 
-A theme pack inspired by Microsoft's Copilot feature.
+Theme pack for Windows 10 and 11 inspired by Microsoft's Copilot feature.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/copilot/-/raw/main/Extras/Preview.bmp)
 

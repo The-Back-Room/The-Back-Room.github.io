@@ -7,7 +7,7 @@ permalink: /WindowsThemes/Deskthemepacks/MicrosoftEDUThemes
 ---
 ## Microsoft EDU Themes
 
-Microsoft's EDU Themes for all the enjoy.
+A collection of Microsoft's EDU Themes for Windows 10 and 11.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/edu-themes/-/raw/main/Extras/Preview.bmp)
 

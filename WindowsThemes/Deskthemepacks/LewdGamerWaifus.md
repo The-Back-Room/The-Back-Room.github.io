@@ -8,7 +8,7 @@ permalink: /WindowsThemes/Deskthemepacks/LewdGamerWaifus
 
 ## Lewd Gamer Waifus
 
-A theme pack featuring wallpapers of lewd gamer waifus.
+A theme pack for Windows 10 and 11 featuring wallpapers of lewd gamer waifus.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/raw/main/Extras/Preview.bmp)
 

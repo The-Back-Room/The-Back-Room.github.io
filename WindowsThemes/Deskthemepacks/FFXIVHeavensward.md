@@ -8,7 +8,7 @@ permalink: /WindowsThemes/Deskthemepacks/FFXIVHeavensward
 
 ## Final Fantasy XIV - Heavensward
 
-A theme pack inspired by Final Fantasy XIV.
+A theme pack for Windows 10 and 11 inspired by Final Fantasy XIV - Heavensward.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-heavensward/-/raw/main/Extras/Preview.bmp)
 

@@ -7,7 +7,7 @@ permalink: /WindowsThemes/Deskthemepacks/ANightmareOnElmStreet/
 
 ## A Nightmare on Elm Street
 
-A dark and eerie theme inspired by the horror classic "A Nightmare on Elm Street," featuring Freddy Krueger and haunting visuals.
+A dark and eerie theme pack for Windows 10 and 11 inspired by the horror franchise "A Nightmare on Elm Street," featuring Freddy Krueger and haunting visuals.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/raw/main/Extras/Preview.bmp)
 

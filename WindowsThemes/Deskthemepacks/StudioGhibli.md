@@ -8,7 +8,7 @@ permalink: /WindowsThemes/Deskthemepacks/StudioGhibli
 
 ## Studio Ghibli
 
-A theme pack inspired by the films of Studio Ghibli.
+A theme pack for Windows 10 and 11 inspired by the films of Studio Ghibli.
 
 <div align="center">
     <!-- <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/-/raw/main/Extras/Preview.bmp" alt="Studio Ghibli Preview" style="max-width: 100%; height: auto;" /> -->

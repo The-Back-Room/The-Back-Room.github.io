@@ -8,7 +8,7 @@ permalink: /WindowsThemes/Deskthemepacks/Unity2014
 
 ## Unity 2014
 
-A theme pack inspired by the classic Unity 2014 visual style.
+A theme pack for Windows 10 and 11 inspired by the classic Unity 2014 visual style.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/raw/main/Extras/Preview.bmp)
 

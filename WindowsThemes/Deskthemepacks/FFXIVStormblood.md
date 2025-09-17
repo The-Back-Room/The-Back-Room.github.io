@@ -8,7 +8,7 @@ permalink: /WindowsThemes/Deskthemepacks/FFXIVStormblood
 
 ## Final Fantasy XIV - Stormblood
 
-A theme pack inspired by Final Fantasy XIV.
+A theme pack for Windows 10 and 11 inspired by Final Fantasy XIV - Stormblood.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-stormblood/-/raw/main/Extras/Preview.bmp)
 

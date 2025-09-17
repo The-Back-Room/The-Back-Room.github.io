@@ -8,7 +8,7 @@ permalink: /WindowsThemes/Deskthemepacks/FFXIVEW
 
 ## Final Fantasy XIV - Endwalker
 
-A theme pack inspired by Final Fantasy XIV.
+A theme pack for Windows 10 and 11 inspired by Final Fantasy XIV - Endwalker.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-endwalker/-/raw/main/Extras/Preview.bmp)
 

@@ -8,7 +8,7 @@ permalink: /WindowsThemes/Deskthemepacks/FFXIVARealmReborn
 
 ## Final Fantasy XIV - A Realm Reborn
 
-A theme pack inspired by Final Fantasy XIV.
+A theme pack for Windows 10 and 11 inspired by Final Fantasy XIV - A Realm Reborn.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/-/raw/main/Extras/Preview.bmp)
 

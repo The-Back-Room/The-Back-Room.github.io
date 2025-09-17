@@ -7,7 +7,7 @@ permalink: /WindowsThemes/Deskthemepacks/MicrosoftSurfacePro
 ---
 ## Surface Pro
 
-Microsoft's Surface Pro themes for all to enjoy.
+A collection of Microsoft's Surface Pro Themes for Windows 10 and 11.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/surface-pro/-/raw/main/Extras/Preview.bmp)
 

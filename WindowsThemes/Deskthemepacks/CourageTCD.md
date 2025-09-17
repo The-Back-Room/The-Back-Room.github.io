@@ -8,7 +8,7 @@ permalink: /WindowsThemes/Deskthemepacks/CourageTCD
 
 ## Courage TCD
 
-A theme pack inspired by Courage the Cowardly Dog.
+A theme pack for Windows 10 and 11 inspired by Courage the Cowardly Dog animated TV series.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/raw/main/Extras/Preview.bmp)
 
