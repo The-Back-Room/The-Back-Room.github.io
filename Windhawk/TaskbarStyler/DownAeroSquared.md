@@ -104,7 +104,7 @@ To get the taskbar clock to display the system performance metrics like in the s
   "controlStyles[14].styles[3]": "BorderBrush:=$transparent",
   "controlStyles[15].styles[3]": "BorderBrush:=$transparent",
   "theme": "",
-  "styleConstants[0]": "overlay=<AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" TintOpacity=\"1\" TintLuminosityOpacity=\"0.6\" FallbackColor=\"{ThemeResource LayerFillColorDefault}\" />",
+  "styleConstants[0]": "overlay=<AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" FallbackColor=\"{ThemeResource LayerFillColorDefault}\" TintOpacity=\"1\" TintLuminosityOpacity=\"0.6\" />",
   "resourceVariables[0].variableKey": "",
   "resourceVariables[0].value": "",
   "controlStyles[18].target": " SearchUx.SearchUI.SearchButtonRootGrid@CommonStates > Border#BackgroundElement",
@@ -116,8 +116,8 @@ To get the taskbar clock to display the system performance metrics like in the s
   "controlStyles[10].styles[10]": "Margin=2",
   "controlStyles[9].styles[10]": "Margin=2",
   "controlStyles[3].styles[1]": "CornerRadius=$radius",
-  "styleConstants[1]": "base=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColor}\" />",
-  "styleConstants[2]": "transparent=\"<AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "styleConstants[1]": "base=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" FallbackColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" />",
+  "styleConstants[2]": "transparent=\"<AcrylicBrush TintColor=\"Transparent\" FallbackColor=\"Transparent\" TintOpacity=\"0.4\" />",
   "styleConstants[3]": "radius=2",
   "styleConstants[4]": "thickness=1"
 }

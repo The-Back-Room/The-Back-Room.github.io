@@ -202,6 +202,5 @@ A list of website improvements.
       - Ecchi *(Completed, needs repackaging)*
       - Valkyrie Drive: Mermaid
       - High School DxD
-      - Love Stage!!
       - Witchblade
       - Sexy Naruto Girls *(Completed, needs repackaging)*

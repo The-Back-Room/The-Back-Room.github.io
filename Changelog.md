@@ -15,9 +15,10 @@ This page provides a detailed log of changes, updates, and improvements made to 
 ### 2025-09-16
 
 - Project Updates:
-  - Added new theme pack: IT
-  - Updated Roadmap to remove IT from planned projects as it has been completed.
+  - Added new theme pack: IT, Love Stage!!
+  - Updated Roadmap to remove IT and Love Stage!! from planned projects as they have been completed.
   - Updated Roadmap to mark The Nun and The Conjuring as "In Progress" and "Incomplete".
+  - Update DownAero Squared Windhawk themes with improved styling and light mode support.
 
 - Content Management:
   - Updated the Windows Themes page to include the new A Nightmare on Elm Street theme pack with detailed description and instructions.

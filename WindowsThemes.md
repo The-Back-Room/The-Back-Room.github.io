@@ -35,12 +35,13 @@ SFW Deskthemepacks for Windows 10 and Windows 11. These themes are safe for work
 
 NSFW Deskthemepacks for Windows 10 and Windows 11. These themes contain adult content and are intended for mature audiences only.
 
-- [Bleach Hentai (NSFW)](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACHHentai) - NSFW theme pack inspired by the BLEACH anime and manga series.
-- [Ecchi (NSFW)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi) - NSFW Theme pack inspired by Ecchi anime and manga series.
-- [Final Fantasy XIV - Waifus (NSFW)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus) - NSFW theme pack inspired by the game "Final Fantasy XIV ".
-- [Lewd Gamer Waifus (NSFW)](https://the-back-room.info/WindowsThemes/Deskthemepacks/LewdGamerWaifus) -NSFW Theme pack featuring backgounds with lewd gamer waifus.
-- [Ranma Hentai (NSFW)](https://the-back-room.info/WindowsThemes/Deskthemepacks/RanmaHentai) - NSFW theme pack inspired by the Ranma ½ anime and manga series.
-- [Sexy Naruto Girls (NSFW)](https://the-back-room.info/WindowsThemes/Deskthemepacks/SexyNarutoGirls) - NSFW theme pack inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
+- [Bleach Hentai](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACHHentai) - Windows theme pack inspired by the BLEACH anime and manga series.
+- [Ecchi](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi) - Windows Theme pack inspired by Ecchi anime and manga series.
+- [Final Fantasy XIV - Waifus](https://the-back-room.info/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus) - Windows theme pack inspired by the game "Final Fantasy XIV ".
+- [Lewd Gamer Waifus](https://the-back-room.info/WindowsThemes/Deskthemepacks/LewdGamerWaifus) - Windows Theme pack featuring backgounds with lewd gamer waifus.
+- [Ranma Hentai](https://the-back-room.info/WindowsThemes/Deskthemepacks/RanmaHentai) - Windows theme pack inspired by the Ranma ½ anime and manga series.
+- [Sexy Naruto Girls](https://the-back-room.info/WindowsThemes/Deskthemepacks/SexyNarutoGirls) - Windows theme pack inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
+- [Love Stage!!](https://the-back-room.info/WindowsThemes/Deskthemepacks/LoveStage) - Windows theme pack inspired by the anime and manga "Love Stage!!".
 
 ### SFW Windows 10 Visual Styles
 
