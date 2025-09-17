@@ -13,7 +13,7 @@ This page lists social communities hosted by members of our community. These com
 <br /><br />
 If you would like to have your community listed here, please contact us with the details.</p>
 
-<ul style="list-style-type: none; padding: 0; margin: 0; max-width: 300px;">
+<ul>
 <li><a href="https://www.reddit.com/r/Ranma_Hentai/">r/Ranma_Hentai</a></li>
 <li><a href="https://www.reddit.com/r/NSFW_Hentai_AI/">r/NSFW_Hentai_AI</a></li>
 </ul>

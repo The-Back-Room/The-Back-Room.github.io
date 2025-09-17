@@ -12,6 +12,15 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Dates are formatted as `YYYY-MM-DD`
 - Entries are listed in reverse chronological order, with the most recent changes at the top.
 
+### 2025-09-16
+
+- Content Management:
+  - Updated the Windows Themes page to include the new A Nightmare on Elm Street theme pack with detailed description and instructions.
+
+- Genral Improvements:
+  - Added a Contact page with Discord link and embedded widget for community support and inquiries.
+  - Updated the Social page for better formatting and removed unnecessary styling.
+
 ### 2025-09-15
 
 - Project Updates:
