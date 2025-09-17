@@ -27,7 +27,7 @@ permalink: /Windhawk/StartMenuStyler/DownAeroSquared
   "controlStyles[2].target": "StartMenu.PinnedList",
   "controlStyles[2].styles[0]": "Height = 340",
   "controlStyles[3].target": "Windows.UI.Xaml.Controls.Grid#ShowMoreSuggestions",
-  "controlStyles[3].styles[0]": "RenderTransform := <TranslateTransform Y=\"-408\" />",
+  "controlStyles[3].styles[0]": "RenderTransform := <TranslateTransform Y=\"-407\" />",
   "controlStyles[4].target": "Windows.UI.Xaml.Controls.Grid#NoTopLevelSuggestionsText",
   "controlStyles[4].styles[0]": "Height = 0",
   "controlStyles[5].target": "Windows.UI.Xaml.Controls.Border#DropShadow",
