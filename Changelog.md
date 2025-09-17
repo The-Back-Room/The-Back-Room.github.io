@@ -14,10 +14,15 @@ This page provides a detailed log of changes, updates, and improvements made to 
 
 ### 2025-09-16
 
+- Project Updates:
+  - Added new theme pack: IT
+  - Updated Roadmap to remove IT from planned projects as it has been completed.
+  - Updated Roadmap to mark The Nun and The Conjuring as "In Progress" and "Incomplete".
+
 - Content Management:
   - Updated the Windows Themes page to include the new A Nightmare on Elm Street theme pack with detailed description and instructions.
 
-- Genral Improvements:
+- General Improvements:
   - Added a Contact page with Discord link and embedded widget for community support and inquiries.
   - Updated the Social page for better formatting and removed unnecessary styling.
 

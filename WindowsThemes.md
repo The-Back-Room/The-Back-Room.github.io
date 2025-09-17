@@ -29,6 +29,7 @@ SFW Deskthemepacks for Windows 10 and Windows 11. These themes are safe for work
 - [Unity 2014](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2014) - Theme pack inspired by the classic Unity 2014 visual style.
 - [Unity 2016](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2016) - Theme pack inspired by the classic Unity 2016 visual style.
 - [A Nightmare on Elm Street](https://the-back-room.info/WindowsThemes/Deskthemepacks/ANightmareOnElmStreet) - Theme pack inspired by the horror film franchise "A Nightmare on Elm Street".
+- [IT](https://the-back-room.info/WindowsThemes/Deskthemepacks/IT) - Theme pack inspired by the horror movie franchise IT.
 
 ### NSFW Windows Deskthemepacks
 

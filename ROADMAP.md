@@ -177,12 +177,11 @@ A list of website improvements.
       - Scooby-Doo
       - Teen Titans
     - **Horror Inspired**: Theme packs inspired by popular horror movies. This list is not in any particular order and may change at any time.
-      - IT *(In Progress) (Incomplete)*
       - Child's Play
       - **The Conjuring Themes**: Theme packs inspired by "The Conjuring" universe. This list is not in any particular order and may change at any time.
-         - Annabelle
-         - The Nun
-         - The Conjuring
+         - Annabelle *(In Progress, Incomplete)*
+         - The Nun *(In Progress, Incomplete)*
+         - The Conjuring *(In Progress, Incomplete)*
       - Halloween
       - The Grudge
       - Darkness Falls
