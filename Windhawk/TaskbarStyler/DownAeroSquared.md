@@ -86,8 +86,8 @@ To get the taskbar clock to display the system performance metrics like in the s
   "controlStyles[14].styles[1]": "BorderThickness=$thickness",
   "controlStyles[15].styles[0]": "CornerRadius=$radius",
   "controlStyles[15].styles[1]": "BorderThickness=$thickness",
-  "controlStyles[14].styles[2]": "Padding = 1,0,-10,0",
-  "controlStyles[15].styles[2]": "Padding = 1,0,-10,0",
+  "controlStyles[14].styles[2]": "Padding=1,0,-10,0",
+  "controlStyles[15].styles[2]": "Padding=1,0,-10,0",
   "controlStyles[1].styles[1]": "BorderThickness=$thickness",
   "controlStyles[1].styles[2]": "Background:=$overlay",
   "controlStyles[1].styles[3]": "BorderBrush:=$transparent",
@@ -110,17 +110,17 @@ To get the taskbar clock to display the system performance metrics like in the s
   "controlStyles[18].target": " SearchUx.SearchUI.SearchButtonRootGrid@CommonStates > Border#BackgroundElement",
   "controlStyles[18].styles[0]": "CornerRadius=$radius",
   "controlStyles[18].styles[1]": "BorderThickness=$thickness",
-  "controlStyles[18].styles[2]": "Margin = -2",
+  "controlStyles[18].styles[2]": "Margin=-2",
   "controlStyles[18].styles[3]": "BorderBrush:=$transparent",
   "controlStyles[18].styles[4]": "Background:=$overlay",
   "controlStyles[10].styles[10]": "Margin=2",
   "controlStyles[9].styles[10]": "Margin=2",
   "controlStyles[3].styles[1]": "CornerRadius=$radius",
   "controlStyles[19].target": "Grid",
-  "controlStyles[19].styles[0]": "RequestedTheme = 2",
+  "controlStyles[19].styles[0]": "RequestedTheme=2",
   "styleConstants[1]": "base=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorDark2}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAccentColorDark2}\" />",
   "styleConstants[2]": "transparent=\"<AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
   "styleConstants[3]": "radius=2",
   "styleConstants[4]": "thickness=1"
 }
-``` 
+```
