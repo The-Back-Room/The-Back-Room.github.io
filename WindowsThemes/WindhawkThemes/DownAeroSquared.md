@@ -2,11 +2,11 @@
 title: DownAero Squared
 summary: Complete overhaul for Windows 11 based off of the Windhawk DownAero theme
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/WindhawkThemes/DownAeroSquared
 ---
 
 ## DownAero Squared
+
 Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
 ![DownAero Squared Preview 1](https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview-1.bmp?raw=True)  
@@ -19,7 +19,6 @@ Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 - **Windhawk Plugin**: Windows 11 Taskbar Styler
 - **Windhawk Plugin**: Windows 11 Notification Center Styler
 - **Windhawk Plugin**: Windows 11 File Explorer Styler
-- **Windhawk Plugin**: Taskbar Labels for Windows 11
 - **Windhawk Plugin**: Taskbar Clock Customization
 
 ### Instructions

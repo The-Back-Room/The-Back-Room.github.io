@@ -126,7 +126,7 @@ permalink: /Windhawk/FileExplorerStyler/DownAeroSquared
   "controlStyles[21].styles[4]": "Margin=2,0,0,1",
   "controlStyles[22].target": "FileExplorerExtensions.AddressBarControl > Grid#PART_LayoutRoot > Grid#NormalModeGrid",
   "controlStyles[22].styles[0]": "Background:=$overlay",
-  "controlStyles[22].styles[1]": "BorderBrush:=$trnasparent",
+  "controlStyles[22].styles[1]": "BorderBrush:=$transparent",
   "controlStyles[22].styles[2]": "CornerRadius=$radius",
   "controlStyles[22].styles[3]": "BorderThickness=$thickness",
   "controlStyles[23].target": "FileExplorerExtensions.CommandBarControl",
@@ -155,9 +155,9 @@ permalink: /Windhawk/FileExplorerStyler/DownAeroSquared
   "controlStyles[29].target": "Grid#DetailsViewControlRootGrid",
   "controlStyles[29].styles[0]": "Background:=Transparent",
   "styleConstants[0]": "overlay=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"1\" Opacity=\"1\" />",
-  "styleConstants[1]": "border=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorLight1}\" TintOpacity=\"0.8\" FallbackColor=\"{ThemeResource SystemAccentColorLight1}\" />",
-  "styleConstants[2]": "alt=<AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" Opacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAltLowColor}\" />",
-  "styleConstants[3]": "transparent=<AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "styleConstants[1]": "border=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorLight1}\" FallbackColor=\"{ThemeResource SystemAccentColorLight1}\" TintOpacity=\"0.8\" />",
+  "styleConstants[2]": "alt=<AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" FallbackColor=\"{ThemeResource SystemAltLowColor}\" TintOpacity=\"0.4\" Opacity=\"0.4\" />",
+  "styleConstants[3]": "transparent=<AcrylicBrush TintColor=\"Transparent\" FallbackColor=\"Transparent\" TintOpacity=\"0.4\" />",
   "styleConstants[4]": "radius=2",
   "styleConstants[5]": "thickness=1"
 }
