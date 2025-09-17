@@ -17,7 +17,7 @@ We focus on creating and curating tools that allow users to customize their oper
 ### Our Projects
 We offer a variety of projects that cater to different needs and preferences:
 
-- **Custom Themes**: Explore our collection of themes for various operating systems, including Windows and Linux. Each theme is designed to provide a unique aesthetic while maintaining usability.
+- **Windows Themes**: Explore our collection of Windows themes. Each theme is designed to provide a unique aesthetic while maintaining usability.
 - **Software Tweaks**: Discover tweaks and modifications that enhance the functionality of popular software applications.
 - **Open-Source Contributions**: We actively contribute to open-source projects, ensuring that our community benefits from the latest advancements in technology.
 - **Documentation and Guides**: Access comprehensive guides and documentation to help you get the most out of our projects and customize your setup.
