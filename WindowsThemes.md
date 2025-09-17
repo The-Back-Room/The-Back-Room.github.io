@@ -43,7 +43,7 @@ Movie inspired themes. This list is not in any particular order and may change a
 - [A Nightmare on Elm Street](https://the-back-room.info/WindowsThemes/Deskthemepacks/ANightmareOnElmStreet) - Theme pack inspired by the horror film franchise "A Nightmare on Elm Street".
 - [IT](https://the-back-room.info/WindowsThemes/Deskthemepacks/IT) - Theme pack inspired by the horror movie franchise IT.
 
-### perating Systems
+### Operating Systems
 
 Themes inspired by various operating systems. This list is not in any particular order and may change at any time.
 
