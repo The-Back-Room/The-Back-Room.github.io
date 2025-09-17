@@ -24,7 +24,6 @@ This page provides a detailed log of changes, updates, and improvements made to 
   - Updated the Windows Themes page to include the new A Nightmare on Elm Street theme pack with detailed description and instructions.
   - Dropped support for custom .msstyle visual styles and removed related pages.
 
-
 - General Improvements:
   - Added a Contact page with Discord link and embedded widget for community support and inquiries.
   - Updated the Social page for better formatting and removed unnecessary styling.
