@@ -104,7 +104,7 @@ To get the taskbar clock to display the system performance metrics like in the s
   "controlStyles[14].styles[3]": "BorderBrush:=$transparent",
   "controlStyles[15].styles[3]": "BorderBrush:=$transparent",
   "theme": "",
-  "styleConstants[0]": "overlay=<AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" FallbackColor=\"{ThemeResource LayerFillColorDefault}\" TintOpacity=\"1\" TintLuminosityOpacity=\"0.6\" />",
+  "styleConstants[0]": "overlay=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"1\" Opacity=\"1\" />",
   "resourceVariables[0].variableKey": "",
   "resourceVariables[0].value": "",
   "controlStyles[18].target": " SearchUx.SearchUI.SearchButtonRootGrid@CommonStates > Border#BackgroundElement",
