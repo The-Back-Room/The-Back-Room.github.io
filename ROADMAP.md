@@ -21,7 +21,7 @@ devillnside's Gen2 icon pack ported to Resource Redirect.
   ![Gen2 Lady Pink](https://img.shields.io/badge/Gen2%20Lady%20Pink-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
   ![Gen2 Antitoxin](https://img.shields.io/badge/Gen2%20Antitoxin-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
   
-## HUD Icons
+### HUD Icons
 
 Mr GRiM's HUD icon packs ported to Resource Redirect.
 
