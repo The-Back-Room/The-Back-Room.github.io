@@ -7,9 +7,9 @@ permalink: /WindowsThemes
 
 We offer a variety of custom Windows Themes that you can download and install to enhance your desktop experience. These themes are designed to provide a unique aesthetic while maintaining usability. Each theme pack includes a set of wallpapers, color schemes, and other visual elements to transform the look and feel of your Windows environment.
 
-## SFW Deskthemepacks
+## SFW Themes
 
-SFW Deskthemepacks for Windows 10 and Windows 11. *Note: This list is not in any particular order and may change at any time.*
+SFW Themes for Windows 10 and Windows 11. *Note: This list is not in any particular order and may change at any time.*
 
 ### Games
 
@@ -70,9 +70,9 @@ Theme packs that don't fit into any of the above categories.
 [![Unity 2014](https://img.shields.io/badge/Unity%202014-black?style=plastic&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2014) 
 [![Unity 2016](https://img.shields.io/badge/Unity%202016-black?style=plastic&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2016)
 
-## NSFW Deskthemepacks
+## NSFW Themes
 
-NSFW Deskthemepacks for Windows 10 and Windows 11. *Note: These themes contain adult content and are intended for mature audiences only. This list is not in any particular order and may change at any time.*
+NSFW Themes for Windows 10 and Windows 11. *Note: These themes contain adult content and are intended for mature audiences only. This list is not in any particular order and may change at any time.*
 
 ### Games
 
