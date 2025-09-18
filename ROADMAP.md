@@ -10,7 +10,7 @@ permalink: /Roadmap
 Planned updates and future projects.
 This page outlines the projects and features that are planned for future updates to The Back Room website and its content. These projects are in various stages of development and may be subject to change based on feasibility, resource availability, and community feedback.
 
-This is not a complete list of projects, just the ones that are currently prioritized and as such may be subject to change. Members of our community are welcome to suggest new projects to be added to this list. Each item listed is color coded based on status: red for not started, yellow for in progress or needs updating, and orange for on hold.
+This is not a complete list of projects, just the ones that are currently prioritized and as such may be subject to change. Members of our community are welcome to suggest new projects to be added to this list. Each item listed is color coded based on status: red for not started, yellow for in progress or needs updating, and grey for on hold.
 
 ### Website Improvements
 
@@ -231,13 +231,13 @@ A list of website improvements.
         
 
   - **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
-  
+
     - **Games**: Game inspired NSFW themes. This list is not in any particular order and may change at any time.
     
       ![Nekopara](https://img.shields.io/badge/Nekopara-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
       ![Action Taimanin](https://img.shields.io/badge/Action%20Taimanin-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![The Last Sovereign](https://img.shields.io/badge/The%20Last%20Sovereign-black?style=plastic&logoColor=white&logoSize=auto&labelColor=orange&color=black&cacheSeconds=3600) 
-      ![The Proteus Effect](https://img.shields.io/badge/The%20Proteus%20Effect-black?style=plastic&logoColor=white&logoSize=auto&labelColor=orange&color=black&cacheSeconds=3600) 
+      ![The Last Sovereign](https://img.shields.io/badge/The%20Last%20Sovereign-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![The Proteus Effect](https://img.shields.io/badge/The%20Proteus%20Effect-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       
     - **Anime**: NSFW theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
 
