@@ -212,17 +212,17 @@ A collection of icon packs that can be used to customize the look of your Window
         ![Leatherface](https://img.shields.io/badge/Leatherface-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) 
         
 
-  - **NSFW Themes**: Theme packs with NSFW content. *Note: These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.*
+- **NSFW Themes**: Theme packs with NSFW content. *Note: These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.*
 
-    - **Games**: Game inspired NSFW themes.
+  - **Games**: Game inspired NSFW themes.
     
-      ![Nekopara](https://img.shields.io/badge/Nekopara-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![Action Taimanin](https://img.shields.io/badge/Action%20Taimanin-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![The Last Sovereign](https://img.shields.io/badge/The%20Last%20Sovereign-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![The Proteus Effect](https://img.shields.io/badge/The%20Proteus%20Effect-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+    ![Nekopara](https://img.shields.io/badge/Nekopara-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+    ![Action Taimanin](https://img.shields.io/badge/Action%20Taimanin-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+    ![The Last Sovereign](https://img.shields.io/badge/The%20Last%20Sovereign-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+    ![The Proteus Effect](https://img.shields.io/badge/The%20Proteus%20Effect-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       
-    - **Anime**: NSFW theme packs inspired by popular anime series.
+  - **Anime**: NSFW theme packs inspired by popular anime series.
 
-      ![Valkyrie Drive Mermaid](https://img.shields.io/badge/Valkyrie%20Drive%20Mermaid-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![High School DxD](https://img.shields.io/badge/High%20School%20DxD-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![Witchblade](https://img.shields.io/badge/Witchblade-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+    ![Valkyrie Drive Mermaid](https://img.shields.io/badge/Valkyrie%20Drive%20Mermaid-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+    ![High School DxD](https://img.shields.io/badge/High%20School%20DxD-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+    ![Witchblade](https://img.shields.io/badge/Witchblade-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
