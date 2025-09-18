@@ -17,7 +17,12 @@ Theme packs inspired by popular games.
 
 - **Final Fantasy XIV**  
 
-[![FFXIV - A Realm Reborn](https://img.shields.io/badge/Final%20Fantasy%20XIV%20A%20Realm%20Reborn-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVARealmReborn) [![FFXIV - Heavensward](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Heavensward-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVHeavensward) [![FFXIV - Stormblood](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Stormblood-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVStormblood) [![FFXIV - Shadowbringers](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Shadowbringers-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVShadowbringers) [![FFXIV - Endwalker](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Endwalker-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVEW) [![FFXIV - Dawntrail](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Dawntrail-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVDawntrail)
+[![FFXIV - A Realm Reborn](https://img.shields.io/badge/Final%20Fantasy%20XIV%20A%20Realm%20Reborn-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVARealmReborn) 
+[![FFXIV - Heavensward](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Heavensward-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVHeavensward) 
+[![FFXIV - Stormblood](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Stormblood-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVStormblood) 
+[![FFXIV - Shadowbringers](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Shadowbringers-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVShadowbringers) 
+[![FFXIV - Endwalker](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Endwalker-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVEW) 
+[![FFXIV - Dawntrail](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Dawntrail-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVDawntrail)
 
 - **Once Human**  
 
@@ -33,7 +38,8 @@ Theme packs inspired by popular anime and manga series.
 
 - **Studio Ghibli**  
 
-[![Studio Ghibli](https://img.shields.io/badge/Studio%20Ghibli-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/StudioGhibli) [![Howl's Moving Castle](https://img.shields.io/badge/Howl's%20Moving%20Castle-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/HowlsMovingCastle)
+[![Studio Ghibli](https://img.shields.io/badge/Studio%20Ghibli-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/StudioGhibli) 
+[![Howl's Moving Castle](https://img.shields.io/badge/Howl's%20Moving%20Castle-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/HowlsMovingCastle)
 
 ### Western Animation
 
@@ -45,19 +51,24 @@ Theme packs inspired by popular western animated series.
 
 Theme packs inspired by popular movies.
 
-[![A Nightmare on Elm Street](https://img.shields.io/badge/A%20Nightmare%20on%20Elm%20Street-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/ANightmareOnElmStreet) [![IT](https://img.shields.io/badge/IT-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/IT)
+[![A Nightmare on Elm Street](https://img.shields.io/badge/A%20Nightmare%20on%20Elm%20Street-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/ANightmareOnElmStreet) 
+[![IT](https://img.shields.io/badge/IT-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/IT)
 
 ### Operating Systems
 
 Theme packs inspired by various operating systems.
 
-[![MacOS](https://img.shields.io/badge/MacOS-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/MacOS) [![Microsoft EDU Themes](https://img.shields.io/badge/Microsoft%20EDU%20Themes-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftEDUThemes) [![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftCopilot) [![Microsoft Surface Pro](https://img.shields.io/badge/Microsoft%20Surface%20Pro-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftSurfacePro)
+[![MacOS](https://img.shields.io/badge/MacOS-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/MacOS) 
+[![Microsoft EDU Themes](https://img.shields.io/badge/Microsoft%20EDU%20Themes-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftEDUThemes) 
+[![Microsoft Copilot](https://img.shields.io/badge/Microsoft%20Copilot-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftCopilot) 
+[![Microsoft Surface Pro](https://img.shields.io/badge/Microsoft%20Surface%20Pro-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftSurfacePro)
 
 ### Others
 
 Theme packs that don't fit into any of the above categories.
 
-[![Unity 2014](https://img.shields.io/badge/Unity%202014-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2014) [![Unity 2016](https://img.shields.io/badge/Unity%202016-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2016)
+[![Unity 2014](https://img.shields.io/badge/Unity%202014-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2014) 
+[![Unity 2016](https://img.shields.io/badge/Unity%202016-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2016)
 
 ## NSFW Deskthemepacks
 
@@ -93,14 +104,16 @@ Theme packs inspired by popular anime and manga series.
 
 - **Others**  
 
-[![Ecchi](https://img.shields.io/badge/Ecchi-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi) [![Love Stage!!](https://img.shields.io/badge/Love%20Stage!!-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/LoveStage)
+[![Ecchi](https://img.shields.io/badge/Ecchi-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi) 
+[![Love Stage!!](https://img.shields.io/badge/Love%20Stage!!-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/LoveStage)
 
 
 ## Windhawk Themes
 
 Custom themes for Windows 11 created using Windhawk. *Note: These themes require the [Windhawk](https://windhawk.net) application to be installed and configured. This list is not in any particular order and may change at any time.*
 
-[![Acrylic UI](https://img.shields.io/badge/Acrylic%20UI-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/WindhawkThemes/AcrylicUI) [![DownAero Squared](https://img.shields.io/badge/DownAero%20Squared-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/WindhawkThemes/DownAeroSquared)
+[![Acrylic UI](https://img.shields.io/badge/Acrylic%20UI-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/WindhawkThemes/AcrylicUI) 
+[![DownAero Squared](https://img.shields.io/badge/DownAero%20Squared-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/WindhawkThemes/DownAeroSquared)
 
 ## Notes
 
