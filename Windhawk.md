@@ -13,29 +13,47 @@ Windhawk is a third-party application and is not affiliated with The Back Room. 
 Here is a list of Windhawk mods created by members of The Back Room:
 
 ### File Explorer Styler
-- [Acrylic UI](https://the-back-room.info/Windhawk/FileExplorerStyler/AcrylicUI) - A modern, translucent file explorer style.
-- [DownAero Squared](https://the-back-room.info/Windhawk/FileExplorerStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows File Explorer.
+
+[![Acrylic UI](https://img.shields.io/badge/Acrylic%20UI-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/FileExplorerStyler/AcrylicUI)
+
+[![DownAero Squared](https://img.shields.io/badge/DownAero%20Squared-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/FileExplorerStyler/DownAeroSquared)
 
 ### Start Menu Styler
-- [Acrylic UI](https://the-back-room.info/Windhawk/StartMenuStyler/AcrylicUI) - A modern, translucent start menu style.
-- [DownAero Squared](https://the-back-room.info/Windhawk/StartMenuStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Start Menu.
+
+[![Acrylic UI](https://img.shields.io/badge/Acrylic%20UI-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/StartMenuStyler/AcrylicUI) - A modern, translucent start menu style.
+[![DownAero Squared](https://img.shields.io/badge/DownAero%20Squared-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/StartMenuStyler/DownAeroSquared)
 
 ### Taskbar Styler
-- [Acrylic UI](https://the-back-room.info/Windhawk/TaskbarStyler/AcrylicUI) - A modern, translucent taskbar style.
-- [DownAero Squared](https://the-back-room.info/Windhawk/TaskbarStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Taskbar.
+
+[![Acrylic UI](https://img.shields.io/badge/Acrylic%20UI-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/TaskbarStyler/AcrylicUI) - A modern, translucent taskbar style.
+[![DownAero Squared](https://img.shields.io/badge/DownAero%20Squared-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/TaskbarStyler/DownAeroSquared)
 
 ## Notification Center Styler
-- [Acrylic UI](https://the-back-room.info/Windhawk/NotificationCenterStyler/AcrylicUI) - A modern, translucent notifications center style.
-- [DownAero Squared](https://the-back-room.info/Windhawk/NotificationCenterStyler/DownAeroSquared) - A squared-off version of the DownAero theme for the Windows Notifications Center.
+
+[![Acrylic UI](https://img.shields.io/badge/Acrylic%20UI-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/NotificationCenterStyler/AcrylicUI) - A modern, translucent notifications center style.
+[![DownAero Squared](https://img.shields.io/badge/DownAero%20Squared-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/NotificationCenterStyler/DownAeroSquared)
 
 ## Resource Redirect
-- [Floating Ice Chrononaut](https://the-back-room.info/Windhawk/ResourceRedirect/FloatingIceChrononaut) - A steampunk themed icon pack.
-- [Gen2 Plasma Blue](https://the-back-room.info/Windhawk/ResourceRedirect/Gen2PlasmaBlue) - A modern icon pack with a blue color scheme.
-- [HUD Apocalypse](https://the-back-room.info/Windhawk/ResourceRedirect/HUDApocalypse) - A mechanical red themed icon pack.
-- [Jarvis](https://the-back-room.info/Windhawk/ResourceRedirect/Jarvis) - A futuristic hologram icon pack inspired by Jarvis.
-- [Magnum Dark](https://the-back-room.info/Windhawk/ResourceRedirect/MagnumDark) - A dark-themed icon pack with bold designs.
-- [Unity 2014](https://the-back-room.info/Windhawk/ResourceRedirect/Unity2014) - neiio's classic Unity 2014 icon pack ported to Resource Redirect.
-- [Unity 2016](https://the-back-room.info/Windhawk/ResourceRedirect/Unity2016) - neiio's classic Unity 2016 icon pack ported to Resource Redirect.
-- [Windows 7](https://the-back-room.info/Windhawk/ResourceRedirect/Windows7) - An icon pack inspired by the Windows 7 interface.
-- [Windows Vista](https://the-back-room.info/Windhawk/ResourceRedirect/WindowsVista) - An icon pack inspired by the Windows Vista interface.
-- [Windows XP](https://the-back-room.info/Windhawk/ResourceRedirect/WindowsXP) - An icon pack inspired by the Windows XP interface.
+Redirect resources in Windows 11 to custom files. This can be used to change system icons, sounds, and other resources.
+
+### Unity Icons
+
+neiio's classic Unity icon packs ported to Windhawk.
+
+[![Unity 2014](https://img.shields.io/badge/Unity%202014-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/ResourceRedirect/Unity2014)
+[![Unity 2016](https://img.shields.io/badge/Unity%202016-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/ResourceRedirect/Unity2016)
+
+### Windows Icons
+
+Icon packs from previous versions of Windows ported to Windhawk.
+
+[![Windows 7](https://img.shields.io/badge/Windows%207-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/ResourceRedirect/Windows7) [![Windows Vista](https://img.shields.io/badge/Windows%20Vista-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/ResourceRedirect/WindowsVista) [![Windows XP](https://img.shields.io/badge/Windows%20XP-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/ResourceRedirect/WindowsXP)
+
+### Others
+
+Icon packs from various sources ported to Windhawk.
+
+[![Floating Ice Chrononaut](https://img.shields.io/badge/Floating%20Ice%20Chrononaut-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/ResourceRedirect/FloatingIceChrononaut) [![Gen2 Plasma Blue](https://img.shields.io/badge/Gen2%20Plasma%20Blue-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/ResourceRedirect/Gen2PlasmaBlue)
+[![HUD Apocalypse](https://img.shields.io/badge/HUD%20Apocalypse-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/ResourceRedirect/HUDApocalypse)
+[![Jarvis](https://img.shields.io/badge/Jarvis-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/ResourceRedirect/Jarvis)
+[![Magnum Dark](https://img.shields.io/badge/Magnum%20Dark-black?style=plastic&logoColor=vlue&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/ResourceRedirect/MagnumDark)
