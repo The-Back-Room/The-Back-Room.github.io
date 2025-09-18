@@ -25,4 +25,4 @@ A theme pack for Windows 10 and 11 inspired by Final Fantasy XIV - Endwalker.
 
 ### Download
 
-[![Download](https://img.shields.io/badge/GitLab-black?style=plastic&&logoColor=white&logoSize=auto&label=GitLab&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-endwalker/-/archive/main/ffxiv-endwalker-main.zip)
+[![Download](https://img.shields.io/badge/GitLab-black?style=plastic&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-endwalker/-/archive/main/ffxiv-endwalker-main.zip)

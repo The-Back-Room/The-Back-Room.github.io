@@ -28,4 +28,4 @@ A theme pack for Windows 10 and 11 inspired by the classic Unity 2014 visual sty
 
 ### Download
 
-[![Download](https://img.shields.io/badge/GitLab-black?style=plastic&&logoColor=white&logoSize=auto&label=GitLab&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/archive/main/unity-2014-main.zip)
+[![Download](https://img.shields.io/badge/GitLab-black?style=plastic&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/archive/main/unity-2014-main.zip)

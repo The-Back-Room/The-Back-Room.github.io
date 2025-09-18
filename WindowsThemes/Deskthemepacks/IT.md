@@ -25,4 +25,4 @@ A dark and eerie theme pack for Windows 10 and 11 based on the horror movie fran
 
 ### Download
 
-[![Download](https://img.shields.io/badge/GitLab-black?style=plastic&&logoColor=white&logoSize=auto&label=GitLab&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/archive/main/it-main.zip)
+[![Download](https://img.shields.io/badge/GitLab-black?style=plastic&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/archive/main/it-main.zip)

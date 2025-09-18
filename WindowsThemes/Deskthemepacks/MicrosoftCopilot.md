@@ -25,4 +25,4 @@ Theme pack for Windows 10 and 11 inspired by Microsoft's Copilot feature.
 
 ### Download
 
-[![Download](https://img.shields.io/badge/GitLab-black?style=plastic&&logoColor=white&logoSize=auto&label=GitLab&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/copilot/-/archive/main/copilot-main.zip)
+[![Download](https://img.shields.io/badge/GitLab-black?style=plastic&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/copilot/-/archive/main/copilot-main.zip)
