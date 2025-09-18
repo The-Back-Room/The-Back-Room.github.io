@@ -71,6 +71,12 @@ A collection of icon packs that can be used to customize the look of your Window
       ![The Legend of Zelda Wind Waker](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Wind%20Waker-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![The Legend of Zelda Skyward Sword](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Skyward%20Sword-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
 
+
+    - **Hellblade**: Theme packs inspired by the Hellblade game series.
+
+      ![Hellblade Senua's Sacrifice](https://img.shields.io/badge/Hellblade%20Senua's%20Sacrifice-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![Hellblade Senua's Saga](https://img.shields.io/badge/Hellblade%20Senua's%20Saga-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600)
+
     - **The Witcher**: Theme packs inspired by The Witcher game series.
       
       ![The Witcher Assassins of Kings](https://img.shields.io/badge/The%20Witcher%20Assassins%20of%20Kings-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
@@ -90,7 +96,6 @@ A collection of icon packs that can be used to customize the look of your Window
       
       ![Runescape](https://img.shields.io/badge/Runescape-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Elden Ring](https://img.shields.io/badge/Elden%20Ring-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![Hellblade](https://img.shields.io/badge/Hellblade-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Grand Theft Auto](https://img.shields.io/badge/Grand%20Theft%20Auto-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Battlefield](https://img.shields.io/badge/Battlefield-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
