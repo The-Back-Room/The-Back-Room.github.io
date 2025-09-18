@@ -212,9 +212,10 @@ A list of website improvements.
     
     - **Horror Movies**: Theme packs inspired by popular horror movies. This list is not in any particular order and may change at any time.
 
-        ![Child's Play](https://img.shields.io/badge/Child's%20Play-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-     
+        ![Child's Play](https://img.shields.io/badge/Child's%20Play-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)
+
       - **The Conjuring**: Theme packs inspired by "The Conjuring" universe. This list is not in any particular order and may change at any time.
+
          ![Annabelle](https://img.shields.io/badge/Annabelle-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
          ![The Nun](https://img.shields.io/badge/The%20Nun-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
          ![The Conjuring](https://img.shields.io/badge/The%20Conjuring-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
@@ -230,6 +231,7 @@ A list of website improvements.
         
 
   - **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
+  
     - **Games**: Game inspired NSFW themes. This list is not in any particular order and may change at any time.
     
       ![Nekopara](https://img.shields.io/badge/Nekopara-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
