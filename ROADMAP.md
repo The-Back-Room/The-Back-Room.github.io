@@ -28,7 +28,7 @@ A collection of icon packs that can be used to customize the look of your Window
 
 ### Windows Themes
 
-- **Deskthemepacks**: A collection of planned themes packs for Windows 10 and 11. *Note: This list is not in any particular order and may change at any time.*
+- **SFW Themes**: A collection of planned themes packs for Windows 10 and 11. *Note: This list is not in any particular order and may change at any time.*
   
   - **Games**: Game inspired themes.
     
