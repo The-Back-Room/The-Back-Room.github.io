@@ -62,31 +62,31 @@ A list of website improvements.
 
     - **A Plague Tale**: Theme packs inspired by the A Plague Tale game series. This list is not in any particular order and may change at any time.
 
-      ![A Plague Tale: Innocence](https://img.shields.io/badge/A%20Plague%20Tale:%20Innocence-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![A Plague Tale: Requiem](https://img.shields.io/badge/A%20Plague%20Tale:%20Requiem-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)
-    
+      ![A Plague Tale Innocence](https://img.shields.io/badge/A%20Plague%20Tale%20Innocence-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![A Plague Tale Requiem](https://img.shields.io/badge/A%20Plague%20Tale%20Requiem-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)
+
     - **Dark Pictures Anthology**: Theme packs inspired by the Dark Pictures Anthology game series. This list is not in any particular order and may change at any time.
 
-      ![Dark Pictures Anthology: Man of Medan](https://img.shields.io/badge/Dark%20Pictures%20Anthology:%20Man%20of%20Medan-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![Dark Pictures Anthology: Little Hope](https://img.shields.io/badge/Dark%20Pictures%20Anthology:%20Little%20Hope-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![Dark Pictures Anthology: House of Ashes](https://img.shields.io/badge/Dark%20Pictures%20Anthology:%20House%20of%20Ashes-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![Dark Pictures Anthology: The Devil in Me](https://img.shields.io/badge/Dark%20Pictures%20Anthology:%20The%20Devil%20in%20Me-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-    
+      ![Dark Pictures Anthology Man of Medan](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20Man%20of%20Medan-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![Dark Pictures Anthology Little Hope](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20Little%20Hope-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![Dark Pictures Anthology House of Ashes](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20House%20of%20Ashes-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![Dark Pictures Anthology The Devil in Me](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20The%20Devil%20in%20Me-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+
     - **Resident Evil**: Theme packs inspired by the Resident Evil game series. This list is not in any particular order and may change at any time.
     
-      ![Resident Evil: Village](https://img.shields.io/badge/Resident%20Evil:%20Village-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![Resident Evil: Biohazard](https://img.shields.io/badge/Resident%20Evil:%20Biohazard-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-    
+      ![Resident Evil Village](https://img.shields.io/badge/Resident%20Evil%20Village-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![Resident Evil Biohazard](https://img.shields.io/badge/Resident%20Evil%20Biohazard-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+
     - **The Legend of Zelda**: Theme packs inspired by The Legend of Zelda game series. This list is not in any particular order and may change at any time.
 
-      ![The Legend of Zelda: Breath of the Wild](https://img.shields.io/badge/The%20Legend%20of%20Zelda:%20Breath%20of%20the%20Wild-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![The Legend of Zelda: Tears of the Kingdom](https://img.shields.io/badge/The%20Legend%20of%20Zelda:%20Tears%20of%20the%20Kingdom-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![The Legend of Zelda: Ocarina of Time](https://img.shields.io/badge/The%20Legend%20of%20Zelda:%20Ocarina%20of%20Time-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![The Legend of Zelda: Majora's Mask](https://img.shields.io/badge/The%20Legend%20of%20Zelda:%20Majora's%20Mask-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![The Legend of Zelda: Twilight Princess](https://img.shields.io/badge/The%20Legend%20of%20Zelda:%20Twilight%20Princess-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![The Legend of Zelda: Wind Waker](https://img.shields.io/badge/The%20Legend%20of%20Zelda:%20Wind%20Waker-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![The Legend of Zelda: Skyward Sword](https://img.shields.io/badge/The%20Legend%20of%20Zelda:%20Skyward%20Sword-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      
+      ![The Legend of Zelda Breath of the Wild](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![The Legend of Zelda Tears of the Kingdom](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![The Legend of Zelda Ocarina of Time](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Ocarina%20of%20Time-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![The Legend of Zelda Majora's Mask](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Majora's%20Mask-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![The Legend of Zelda Twilight Princess](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Twilight%20Princess-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![The Legend of Zelda Wind Waker](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Wind%20Waker-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![The Legend of Zelda Skyward Sword](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Skyward%20Sword-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+
     - **The Witcher**: Theme packs inspired by The Witcher game series. This list is not in any particular order and may change at any time.
       
       ![The Witcher: Assassins of Kings](https://img.shields.io/badge/The%20Witcher:%20Assassins%20of%20Kings-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
@@ -94,9 +94,9 @@ A list of website improvements.
       
     - **Need for Speed**: Theme packs inspired by the Need for Speed game series. This list is not in any particular order and may change at any time.
       
-      ![Need for Speed: Most Wanted](https://img.shields.io/badge/Need%20for%20Speed:%20Most%20Wanted-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![Need for Speed: Hot Pursuit](https://img.shields.io/badge/Need%20for%20Speed:%20Hot%20Pursuit-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      
+      ![Need for Speed Most Wanted](https://img.shields.io/badge/Need%20for%20Speed%20Most%20Wanted-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![Need for Speed Hot Pursuit](https://img.shields.io/badge/Need%20for%20Speed%20Hot%20Pursuit-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+
     - **Forza**: Theme packs inspired by the Forza game series. This list is not in any particular order and may change at any time.
 
       ![Forza Horizon](https://img.shields.io/badge/Forza%20Horizon-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
@@ -110,7 +110,7 @@ A list of website improvements.
       ![Grand Theft Auto](https://img.shields.io/badge/Grand%20Theft%20Auto-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
       ![Battlefield](https://img.shields.io/badge/Battlefield-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
       ![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![Burnout: Paradise](https://img.shields.io/badge/Burnout:%20Paradise-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![Burnout Paradise](https://img.shields.io/badge/Burnout%20Paradise-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
       
   - **Films**: Film inspired themes. This list is not in any particular order and may change at any time.
     
@@ -134,25 +134,25 @@ A list of website improvements.
         
         ![Bleach](https://img.shields.io/badge/Bleach-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) 
         ![Bleach Thousand Year Blood War](https://img.shields.io/badge/Bleach%20Thousand%20Year%20Blood%20War-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) 
-        ![Bleach The Movie Memories of Nobody](https://img.shields.io/badge/Bleach%20The%20Movie%20Memories%20of%20Nobody-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Bleach The Movie The DiamondDust Rebellion](https://img.shields.io/badge/Bleach%20The%20Movie%20The%20DiamondDust%20Rebellion-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Bleach The Movie Fade to Black](https://img.shields.io/badge/Bleach%20The%20Movie%20Fade%20to%20Black-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Bleach The Movie Hell Verse](https://img.shields.io/badge/Bleach%20The%20Movie%20Hell%20Verse-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Bleach Memories of Nobody](https://img.shields.io/badge/Bleach%20Memories%20of%20Nobody-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Bleach The DiamondDust Rebellion](https://img.shields.io/badge/Bleach%20The%20DiamondDust%20Rebellion-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Bleach Fade to Black](https://img.shields.io/badge/Bleach%20Fade%20to%20Black-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Bleach Hell Verse](https://img.shields.io/badge/Bleach%20Hell%20Verse-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         
       - **Naruto**: A collection of theme packs inspired by the Naruto anime and manga series. This list is not in any particular order and may change at any time.
 
         ![Naruto](https://img.shields.io/badge/Naruto-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         ![Naruto Shippuden](https://img.shields.io/badge/Naruto%20Shippuden-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         ![Boruto Naruto Next Generations](https://img.shields.io/badge/Boruto%20Naruto%20Next%20Generations-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Naruto The Movie Ninja Clash in the Land of Snow](https://img.shields.io/badge/Naruto%20The%20Movie%20Ninja%20Clash%20in%20the%20Land%20of%20Snow-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Naruto The Movie Legend of the Stone of Gelel](https://img.shields.io/badge/Naruto%20The%20Movie%20Legend%20of%20the%20Stone%20of%20Gelel-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Naruto The Movie Guardians of the Crescent Moon Kingdom](https://img.shields.io/badge/Naruto%20The%20Movie%20Guardians%20of%20the%20Crescent%20Moon%20Kingdom-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Naruto Ninja Clash in the Land of Snow](https://img.shields.io/badge/Naruto%20Ninja%20Clash%20in%20the%20Land%20of%20Snow-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Naruto Legend of the Stone of Gelel](https://img.shields.io/badge/Naruto%20Legend%20of%20the%20Stone%20of%20Gelel-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Naruto Guardians of the Crescent Moon Kingdom](https://img.shields.io/badge/Naruto%20Guardians%20of%20the%20Crescent%20Moon%20Kingdom-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         ![Naruto Shippuden The Movie](https://img.shields.io/badge/Naruto%20Shippuden%20The%20Movie-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Naruto Shippuden The Movie Bonds](https://img.shields.io/badge/Naruto%20Shippuden%20The%20Movie%20Bonds-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Naruto Shippuden The Movie The Will of Fire](https://img.shields.io/badge/Naruto%20Shippuden%20The%20Movie%20The%20Will%20of%20Fire-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Naruto Shippuden The Movie The Lost Tower](https://img.shields.io/badge/Naruto%20Shippuden%20The%20Movie%20The%20Lost%20Tower-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Naruto Shippuden The Movie Blood Prison](https://img.shields.io/badge/Naruto%20Shippuden%20The%20Movie%20Blood%20Prison-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Naruto Shippuden The Movie Road to Ninja](https://img.shields.io/badge/Naruto%20Shippuden%20The%20Movie%20Road%20to%20Ninja-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Naruto Shippuden Bonds](https://img.shields.io/badge/Naruto%20Shippuden%20Bonds-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Naruto Shippuden The Will of Fire](https://img.shields.io/badge/Naruto%20Shippuden%20The%20Will%20of%20Fire-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Naruto Shippuden The Lost Tower](https://img.shields.io/badge/Naruto%20Shippuden%20The%20Lost%20Tower-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Naruto Shippuden Blood Prison](https://img.shields.io/badge/Naruto%20Shippuden%20Blood%20Prison-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Naruto Shippuden Road to Ninja](https://img.shields.io/badge/Naruto%20Shippuden%20Road%20to%20Ninja-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         ![The Last Naruto the Movie](https://img.shields.io/badge/The%20Last%20Naruto%20the%20Movie-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         ![Boruto Naruto the Movie](https://img.shields.io/badge/Boruto%20Naruto%20the%20Movie-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
 
