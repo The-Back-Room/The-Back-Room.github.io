@@ -13,6 +13,8 @@ This is not a complete list of projects, just the ones that are currently priori
 
 ### Icon Packs
 
+A collection of icon packs that can be used to customize the look of your Windows operating system. These icon packs are designed to be used with Resource Redirect, a Windhawk mod that allows you to change system icons and other resources. *Note: This list is not in any particular order and may change at any time.*
+
 - **Gen2 Icons**: devillnside's Gen2 icon pack ported to Resource Redirect.
 
   ![Gen2 Lazer Red](https://img.shields.io/badge/Gen2%20Lazer%20Red-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
@@ -26,11 +28,11 @@ This is not a complete list of projects, just the ones that are currently priori
 
 ### Windows Themes
 
-- **Deskthemepacks**: A collection of planned themes packs for Windows 10 and 11. This list is not in any particular order and may change at any time.
+- **Deskthemepacks**: A collection of planned themes packs for Windows 10 and 11. *Note: This list is not in any particular order and may change at any time.*
   
-  - **Games**: Game inspired themes. This list is not in any particular order and may change at any time.
+  - **Games**: Game inspired themes.
     
-    - **Assassin's Creed**: Theme packs inspired by the Assassin's Creed game series. This list is not in any particular order and may change at any time.
+    - **Assassin's Creed**: Theme packs inspired by the Assassin's Creed game series.
 
       ![Assassin's Creed Oddysey](https://img.shields.io/badge/Assassin's%20Creed%20Odyssey-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Assassin's Creed Valhalla](https://img.shields.io/badge/Assassin's%20Creed%20Valhalla-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
@@ -42,24 +44,24 @@ This is not a complete list of projects, just the ones that are currently priori
       ![Assassin's Creed Brotherhood](https://img.shields.io/badge/Assassin's%20Creed%20Brotherhood-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Assassin's Creed Rogue](https://img.shields.io/badge/Assassin's%20Creed%20Rogue-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600)
 
-    - **A Plague Tale**: Theme packs inspired by the A Plague Tale game series. This list is not in any particular order and may change at any time.
+    - **A Plague Tale**: Theme packs inspired by the A Plague Tale game series.
 
       ![A Plague Tale Innocence](https://img.shields.io/badge/A%20Plague%20Tale%20Innocence-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
       ![A Plague Tale Requiem](https://img.shields.io/badge/A%20Plague%20Tale%20Requiem-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)
 
-    - **Dark Pictures Anthology**: Theme packs inspired by the Dark Pictures Anthology game series. This list is not in any particular order and may change at any time.
+    - **Dark Pictures Anthology**: Theme packs inspired by the Dark Pictures Anthology game series.
 
       ![Dark Pictures Anthology Man of Medan](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20Man%20of%20Medan-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
       ![Dark Pictures Anthology Little Hope](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20Little%20Hope-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
       ![Dark Pictures Anthology House of Ashes](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20House%20of%20Ashes-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
       ![Dark Pictures Anthology The Devil in Me](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20The%20Devil%20in%20Me-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
 
-    - **Resident Evil**: Theme packs inspired by the Resident Evil game series. This list is not in any particular order and may change at any time.
+    - **Resident Evil**: Theme packs inspired by the Resident Evil game series.
     
       ![Resident Evil Village](https://img.shields.io/badge/Resident%20Evil%20Village-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Resident Evil Biohazard](https://img.shields.io/badge/Resident%20Evil%20Biohazard-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
 
-    - **The Legend of Zelda**: Theme packs inspired by The Legend of Zelda game series. This list is not in any particular order and may change at any time.
+    - **The Legend of Zelda**: Theme packs inspired by The Legend of Zelda game series.
 
       ![The Legend of Zelda Breath of the Wild](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Breath%20of%20the%20Wild-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
       ![The Legend of Zelda Tears of the Kingdom](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Tears%20of%20the%20Kingdom-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
@@ -69,22 +71,22 @@ This is not a complete list of projects, just the ones that are currently priori
       ![The Legend of Zelda Wind Waker](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Wind%20Waker-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![The Legend of Zelda Skyward Sword](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Skyward%20Sword-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
 
-    - **The Witcher**: Theme packs inspired by The Witcher game series. This list is not in any particular order and may change at any time.
+    - **The Witcher**: Theme packs inspired by The Witcher game series.
       
       ![The Witcher Assassins of Kings](https://img.shields.io/badge/The%20Witcher%20Assassins%20of%20Kings-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![The Witcher Wild Hunt](https://img.shields.io/badge/The%20Witcher%20Wild%20Hunt-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
 
-    - **Need for Speed**: Theme packs inspired by the Need for Speed game series. This list is not in any particular order and may change at any time.
+    - **Need for Speed**: Theme packs inspired by the Need for Speed game series.
       
       ![Need for Speed Most Wanted](https://img.shields.io/badge/Need%20for%20Speed%20Most%20Wanted-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Need for Speed Hot Pursuit](https://img.shields.io/badge/Need%20for%20Speed%20Hot%20Pursuit-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
 
-    - **Forza**: Theme packs inspired by the Forza game series. This list is not in any particular order and may change at any time.
+    - **Forza**: Theme packs inspired by the Forza game series.
 
       ![Forza Horizon](https://img.shields.io/badge/Forza%20Horizon-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Forza Motorsport](https://img.shields.io/badge/Forza%20Motorsport-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       
-    - **Others**: Additional theme packs inspired by various popular games. This list is not in any particular order and may change at any time.
+    - **Others**: Additional theme packs inspired by various popular games.
       
       ![Runescape](https://img.shields.io/badge/Runescape-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Elden Ring](https://img.shields.io/badge/Elden%20Ring-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
@@ -94,11 +96,11 @@ This is not a complete list of projects, just the ones that are currently priori
       ![Call of Duty](https://img.shields.io/badge/Call%20of%20Duty-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Burnout Paradise](https://img.shields.io/badge/Burnout%20Paradise-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       
-  - **Films**: Film inspired themes. This list is not in any particular order and may change at any time.
+  - **Films**: Film inspired themes.
     
-    - **Anime**: Theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
+    - **Anime**: Theme packs inspired by popular anime series.
       
-      - **Studio Ghibli**: A collection of theme packs inspired by Studio Ghibli films. This list is not in any particular order and may change at any time.
+      - **Studio Ghibli**: A collection of theme packs inspired by Studio Ghibli films.
         
         ![The Secret World of Arrietty](https://img.shields.io/badge/The%20Secret%20World%20of%20Arrietty-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         ![Spirited Away](https://img.shields.io/badge/Spirited%20Away-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
@@ -112,14 +114,14 @@ This is not a complete list of projects, just the ones that are currently priori
         ![Whisper of the Heart](https://img.shields.io/badge/Whisper%20of%20the%20Heart-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         ![Ponyo](https://img.shields.io/badge/Ponyo-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         
-      - **Bleach**: A collection of theme packs inspired by the Bleach anime and manga series. This list is not in any particular order and may change at any time.
+      - **Bleach**: A collection of theme packs inspired by the Bleach anime and manga series.
         
         ![Bleach Memories of Nobody](https://img.shields.io/badge/Bleach%20Memories%20of%20Nobody-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
         ![Bleach The DiamondDust Rebellion](https://img.shields.io/badge/Bleach%20The%20DiamondDust%20Rebellion-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
         ![Bleach Fade to Black](https://img.shields.io/badge/Bleach%20Fade%20to%20Black-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
         ![Bleach Hell Verse](https://img.shields.io/badge/Bleach%20Hell%20Verse-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
         
-      - **Naruto**: A collection of theme packs inspired by the Naruto anime and manga series. This list is not in any particular order and may change at any time.
+      - **Naruto**: A collection of theme packs inspired by the Naruto anime and manga series.
 
         ![Naruto](https://img.shields.io/badge/Naruto-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
         ![Naruto Shippuden](https://img.shields.io/badge/Naruto%20Shippuden-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
@@ -136,7 +138,7 @@ This is not a complete list of projects, just the ones that are currently priori
         ![The Last Naruto the Movie](https://img.shields.io/badge/The%20Last%20Naruto%20the%20Movie-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
         ![Boruto Naruto the Movie](https://img.shields.io/badge/Boruto%20Naruto%20the%20Movie-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
 
-      - **Others**: Additional theme packs inspired by various popular anime series. This list is not in any particular order and may change at any time.
+      - **Others**: Additional theme packs inspired by various popular anime series.
       
         ![Sword Art Online](https://img.shields.io/badge/Sword%20Art%20Online-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
         ![Attack on Titan](https://img.shields.io/badge/Attack%20on%20Titan-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
@@ -175,7 +177,7 @@ This is not a complete list of projects, just the ones that are currently priori
         ![Trigun](https://img.shields.io/badge/Trigun-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
         ![Hellsing Ultimate](https://img.shields.io/badge/Hellsing%20Ultimate-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
 
-    - **Western Animation**: Theme packs inspired by popular western animated series. This list is not in any particular order and may change at any time.
+    - **Western Animation**: Theme packs inspired by popular western animated series.
 
         ![Avatar The Last Airbender](https://img.shields.io/badge/Avatar%20The%20Last%20Airbender-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
         ![The Legend of Korra](https://img.shields.io/badge/The%20Legend%20of%20Korra-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
@@ -190,17 +192,17 @@ This is not a complete list of projects, just the ones that are currently priori
         ![Scooby Doo](https://img.shields.io/badge/Scooby%20Doo-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         ![Teen Titans](https://img.shields.io/badge/Teen%20Titans-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
     
-    - **Horror Movies**: Theme packs inspired by popular horror movies. This list is not in any particular order and may change at any time.
+    - **Horror Movies**: Theme packs inspired by popular horror movies.
 
         ![Child's Play](https://img.shields.io/badge/Child's%20Play-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600)
 
-      - **The Conjuring**: Theme packs inspired by "The Conjuring" universe. This list is not in any particular order and may change at any time.
+      - **The Conjuring**: Theme packs inspired by "The Conjuring" universe.
 
          ![Annabelle](https://img.shields.io/badge/Annabelle-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) 
          ![The Nun](https://img.shields.io/badge/The%20Nun-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) 
          ![The Conjuring](https://img.shields.io/badge/The%20Conjuring-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) 
       
-      - **Others**: Additional theme packs inspired by various popular horror movies. This list is not in any particular order and may change at any time.
+      - **Others**: Additional theme packs inspired by various popular horror movies.
 
         ![Halloween](https://img.shields.io/badge/Halloween-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) 
         ![The Grudge](https://img.shields.io/badge/The%20Grudge-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) 
@@ -210,16 +212,16 @@ This is not a complete list of projects, just the ones that are currently priori
         ![Leatherface](https://img.shields.io/badge/Leatherface-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) 
         
 
-  - **NSFW Themes**: Theme packs with NSFW content. These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.
+  - **NSFW Themes**: Theme packs with NSFW content. *Note: These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.*
 
-    - **Games**: Game inspired NSFW themes. This list is not in any particular order and may change at any time.
+    - **Games**: Game inspired NSFW themes.
     
       ![Nekopara](https://img.shields.io/badge/Nekopara-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![Action Taimanin](https://img.shields.io/badge/Action%20Taimanin-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![The Last Sovereign](https://img.shields.io/badge/The%20Last%20Sovereign-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![The Proteus Effect](https://img.shields.io/badge/The%20Proteus%20Effect-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       
-    - **Anime**: NSFW theme packs inspired by popular anime series. This list is not in any particular order and may change at any time.
+    - **Anime**: NSFW theme packs inspired by popular anime series.
 
       ![Valkyrie Drive Mermaid](https://img.shields.io/badge/Valkyrie%20Drive%20Mermaid-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
       ![High School DxD](https://img.shields.io/badge/High%20School%20DxD-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
