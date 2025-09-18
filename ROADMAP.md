@@ -15,7 +15,7 @@ A collection of icon packs that can be used to customize the look of your Window
 
 ### Gen2 Icons
 
-devillnside's Gen2 icon pack ported to Resource Redirect.
+devillnside's Gen2 icon packs ported to Resource Redirect.
 
   ![Gen2 Lazer Red](https://img.shields.io/badge/Gen2%20Lazer%20Red-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
   ![Gen2 Lady Pink](https://img.shields.io/badge/Gen2%20Lady%20Pink-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
