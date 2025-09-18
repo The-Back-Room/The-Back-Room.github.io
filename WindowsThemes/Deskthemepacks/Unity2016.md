@@ -26,6 +26,4 @@ A theme pack for Windows 10 and 11 inspired by the classic Unity 2016 visual sty
 - Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes\`
 - Apply the theme via `Settings > Personalization > Themes`
 
-### Download
-
-[![Download](https://img.shields.io/badge/GitLab-black?style=plastic&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2016/-/archive/main/unity-2016-main.zip)
+[![Download](https://img.shields.io/badge/Download-black?style=plastic&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2016/-/archive/main/unity-2016-main.zip)
