@@ -9,7 +9,7 @@ We offer a variety of custom Windows Themes that you can download and install to
 
 ## SFW Deskthemepacks
 
-SFW Deskthemepacks for Windows 10 and Windows 11. These themes are safe for work and suitable for all audiences. This list is not in any particular order and may change at any time.
+SFW Deskthemepacks for Windows 10 and Windows 11. *Note: This list is not in any particular order and may change at any time.*
 
 - **Games**: Theme packs inspired by popular games.
 
@@ -55,38 +55,30 @@ SFW Deskthemepacks for Windows 10 and Windows 11. These themes are safe for work
 
 ## NSFW Deskthemepacks
 
-NSFW Deskthemepacks for Windows 10 and Windows 11. These themes contain adult content and are intended for mature audiences only. This list is not in any particular order and may change at any time.
+NSFW Deskthemepacks for Windows 10 and Windows 11. *Note: These themes contain adult content and are intended for mature audiences only. This list is not in any particular order and may change at any time.*
 
-- **Games**: NSFW theme packs inspired by popular games.
+- **Games**: Theme packs inspired by popular games.
 
     - **Final Fantasy XIV**: A series of NSFW theme packs inspired by the popular MMORPG "Final Fantasy XIV".
         - [Final Fantasy XIV Waifus](https://the-back-room.info/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus)
-    - **Others**: Other NSFW game-themed packs.
+    - **Others**: Theme packs inspired that don't fit into the above categories.
         - [Lewd Gamer Waifus](https://the-back-room.info/WindowsThemes/Deskthemepacks/LewdGamerWaifus)
 
-- **Anime**: NSFW theme packs inspired by popular anime series.
+- **Anime**: Theme packs inspired by popular anime and manga series.
 
-    - **BLEACH**: A series of NSFW theme packs inspired by the BLEACH anime and manga series.
+    - **Bleach**: A series of theme packs inspired by the BLEACH anime and manga series.
         - [Bleach Hentai](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACHHentai)
-    - [Ecchi](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi)
-    - **Ranma ½**: A series of NSFW theme packs inspired by the Ranma ½ anime and manga series.
+    - **Ranma ½**: A series of theme packs inspired by the Ranma ½ anime and manga series.
         - [Ranma Hentai](https://the-back-room.info/WindowsThemes/Deskthemepacks/RanmaHentai)
-    - **Naruto**: A series of NSFW theme packs inspired by the Naruto anime and manga series.
+    - **Naruto**: A series of theme packs inspired by the Naruto anime and manga series.
         - [Naruto - Ninja Hotsrpings](https://the-back-room.info/WindowsThemes/Deskthemepacks/NarutoNinjaHotsprings)
-    - **Romance**: A series of NSFW theme packs inspired by romance-themed anime and manga series. *Note: Some of these may be based off of BL (Yaoi) or GL (Yuri) anime and manga series.*
+    - **Others**: Theme packs inspired that don't fit into the above categories. *Note: Some of these may contain BL (Yaoi) or GL (Yuri) content.*
+        - [Ecchi](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi)
         - [Love Stage!!](https://the-back-room.info/WindowsThemes/Deskthemepacks/LoveStage)
-
-- **Movies**: NSFW theme packs inspired by popular movies.
-
-    - None available at this time.
-
-- **Others**: Other NSFW themes that do not fit into the above categories.
-
-    - None available at this time.
 
 ## Windhawk Themes
 
-Custom themes for Windows 11 created using Windhawk. These themes require the [Windhawk](https://windhawk.net) application to be installed and configured. This list is not in any particular order and may change at any time.
+Custom themes for Windows 11 created using Windhawk. *Note: These themes require the [Windhawk](https://windhawk.net) application to be installed and configured. This list is not in any particular order and may change at any time.*
 
 - [Acrylic UI](https://the-back-room.info/WindowsThemes/WindhawkThemes/AcrylicUI) - Complete overhaul for Windows 11 with squared window corners and acrylic blur
 - [DownAero Squared](https://the-back-room.info/WindowsThemes/WindhawkThemes/DownAeroSquared) - Complete overhaul for Windows 11 based off of the Windhawk DownAero theme
