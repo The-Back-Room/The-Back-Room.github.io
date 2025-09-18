@@ -207,7 +207,7 @@ A list of website improvements.
         ![Dexter's Laboratory](https://img.shields.io/badge/Dexter's%20Laboratory-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         ![Ed, Edd n Eddy](https://img.shields.io/badge/Ed,%20Edd%20n%20Eddy-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         ![Johnny Bravo](https://img.shields.io/badge/Johnny%20Bravo-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-        ![Scooby-Doo](https://img.shields.io/badge/Scooby-Doo-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+        ![Scooby Doo](https://img.shields.io/badge/Scooby%20Doo-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
         ![Teen Titans](https://img.shields.io/badge/Teen%20Titans-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
     
     - **Horror Movies**: Theme packs inspired by popular horror movies. This list is not in any particular order and may change at any time.
