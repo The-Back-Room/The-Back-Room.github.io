@@ -25,4 +25,6 @@ A theme pack for Windows 10 and 11 inspired by Courage the Cowardly Dog animated
 - Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes\`
 - Apply the theme via `Settings > Personalization > Themes`
 
-[![Download](https://img.shields.io/badge/Download-black?style=plastic&logo=gitlab&logoColor=white&logoSize=auto&label=GitLab&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/archive/main/courage-tcd-main.zip)
+### Download
+
+[![Download](https://img.shields.io/badge/GitLab-black?style=plastic&&logoColor=white&logoSize=auto&label=GitLab&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/archive/main/courage-tcd-main.zip)
