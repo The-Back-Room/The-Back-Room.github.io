@@ -17,14 +17,14 @@ A collection of icon packs that can be used to customize the look of your Window
 
 - **Gen2 Icons**: devillnside's Gen2 icon pack ported to Resource Redirect.
 
-  ![Gen2 Lazer Red](https://img.shields.io/badge/Gen2%20Lazer%20Red-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-  ![Gen2 Lady Pink](https://img.shields.io/badge/Gen2%20Lady%20Pink-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-  ![Gen2 Antitoxin](https://img.shields.io/badge/Gen2%20Antitoxin-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+  ![Gen2 Lazer Red](https://img.shields.io/badge/Gen2%20Lazer%20Red-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+  ![Gen2 Lady Pink](https://img.shields.io/badge/Gen2%20Lady%20Pink-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+  ![Gen2 Antitoxin](https://img.shields.io/badge/Gen2%20Antitoxin-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
   
 - **HUD Icons**: Mr GRiM's HUD icon packs ported to Resource Redirect.
 
-  ![HUD Evolution](https://img.shields.io/badge/HUD%20Evolution-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-  ![HUD Launch](https://img.shields.io/badge/HUD%20Launch-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+  ![HUD Evolution](https://img.shields.io/badge/HUD%20Evolution-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+  ![HUD Launch](https://img.shields.io/badge/HUD%20Launch-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
 
 ### Windows Themes
 
@@ -34,32 +34,32 @@ A collection of icon packs that can be used to customize the look of your Window
     
     - **Assassin's Creed**: Theme packs inspired by the Assassin's Creed game series.
 
-      ![Assassin's Creed Oddysey](https://img.shields.io/badge/Assassin's%20Creed%20Odyssey-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![Assassin's Creed Valhalla](https://img.shields.io/badge/Assassin's%20Creed%20Valhalla-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![Assassin's Creed Origins](https://img.shields.io/badge/Assassin's%20Creed%20Origins-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![Assassin's Creed Syndicate](https://img.shields.io/badge/Assassin's%20Creed%20Syndicate-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![Assassin's Creed Unity](https://img.shields.io/badge/Assassin's%20Creed%20Unity-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![Assassin's Creed Black Flag](https://img.shields.io/badge/Assassin's%20Creed%20Black%20Flag-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![Assassin's Creed Revelations](https://img.shields.io/badge/Assassin's%20Creed%20Revelations-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![Assassin's Creed Brotherhood](https://img.shields.io/badge/Assassin's%20Creed%20Brotherhood-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![Assassin's Creed Rogue](https://img.shields.io/badge/Assassin's%20Creed%20Rogue-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600)
+      ![Assassin's Creed Oddysey](https://img.shields.io/badge/Assassin's%20Creed%20Odyssey-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![Assassin's Creed Valhalla](https://img.shields.io/badge/Assassin's%20Creed%20Valhalla-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![Assassin's Creed Origins](https://img.shields.io/badge/Assassin's%20Creed%20Origins-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![Assassin's Creed Syndicate](https://img.shields.io/badge/Assassin's%20Creed%20Syndicate-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![Assassin's Creed Unity](https://img.shields.io/badge/Assassin's%20Creed%20Unity-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![Assassin's Creed Black Flag](https://img.shields.io/badge/Assassin's%20Creed%20Black%20Flag-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![Assassin's Creed Revelations](https://img.shields.io/badge/Assassin's%20Creed%20Revelations-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![Assassin's Creed Brotherhood](https://img.shields.io/badge/Assassin's%20Creed%20Brotherhood-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![Assassin's Creed Rogue](https://img.shields.io/badge/Assassin's%20Creed%20Rogue-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600)
 
     - **A Plague Tale**: Theme packs inspired by the A Plague Tale game series.
 
-      ![A Plague Tale Innocence](https://img.shields.io/badge/A%20Plague%20Tale%20Innocence-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![A Plague Tale Requiem](https://img.shields.io/badge/A%20Plague%20Tale%20Requiem-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)
+      ![A Plague Tale Innocence](https://img.shields.io/badge/A%20Plague%20Tale%20Innocence-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![A Plague Tale Requiem](https://img.shields.io/badge/A%20Plague%20Tale%20Requiem-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)
 
     - **Dark Pictures Anthology**: Theme packs inspired by the Dark Pictures Anthology game series.
 
-      ![Dark Pictures Anthology Man of Medan](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20Man%20of%20Medan-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![Dark Pictures Anthology Little Hope](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20Little%20Hope-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![Dark Pictures Anthology House of Ashes](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20House%20of%20Ashes-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-      ![Dark Pictures Anthology The Devil in Me](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20The%20Devil%20in%20Me-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![Dark Pictures Anthology Man of Medan](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20Man%20of%20Medan-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![Dark Pictures Anthology Little Hope](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20Little%20Hope-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![Dark Pictures Anthology House of Ashes](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20House%20of%20Ashes-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+      ![Dark Pictures Anthology The Devil in Me](https://img.shields.io/badge/Dark%20Pictures%20Anthology%20The%20Devil%20in%20Me-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
 
     - **Resident Evil**: Theme packs inspired by the Resident Evil game series.
-    
-      ![Resident Evil Village](https://img.shields.io/badge/Resident%20Evil%20Village-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![Resident Evil Biohazard](https://img.shields.io/badge/Resident%20Evil%20Biohazard-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+
+      ![Resident Evil Village](https://img.shields.io/badge/Resident%20Evil%20Village-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![Resident Evil Biohazard](https://img.shields.io/badge/Resident%20Evil%20Biohazard-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
 
     - **The Legend of Zelda**: Theme packs inspired by The Legend of Zelda game series.
 
@@ -69,7 +69,7 @@ A collection of icon packs that can be used to customize the look of your Window
       ![The Legend of Zelda Majora's Mask](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Majora's%20Mask-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![The Legend of Zelda Twilight Princess](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Twilight%20Princess-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
       ![The Legend of Zelda Wind Waker](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Wind%20Waker-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-      ![The Legend of Zelda Skyward Sword](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Skyward%20Sword-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+      ![The Legend of Zelda Skyward Sword](https://img.shields.io/badge/The%20Legend%20of%20Zelda%20Skyward%20Sword-black?style=plastic&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
 
 
     - **Hellblade**: Theme packs inspired by the Hellblade game series.
