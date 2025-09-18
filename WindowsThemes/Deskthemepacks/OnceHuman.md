@@ -24,4 +24,4 @@ A theme pack for Windows 10 and 11 inspired by the game "Once Human"
 - Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes\`
 - Apply the theme via `Settings > Personalization > Themes`
 
-**Download**: [Download ZIP](https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip)
+[![Download](https://img.shields.io/badge/Download-black?style=plastic&logoColor=white&logoSize=auto&labelColor=green&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip)

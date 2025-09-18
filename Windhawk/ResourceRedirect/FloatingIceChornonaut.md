@@ -21,4 +21,4 @@ permalink: /Windhawk/ResourceRedirect/FloatingIceChrononaut
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-**Download**: [Download ZIP](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/archive/main/floating-ice-chrononaut-main.zip)
+[![Download](https://img.shields.io/badge/Download-black?style=plastic&logoColor=white&logoSize=auto&labelColor=green&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/archive/main/floating-ice-chrononaut-main.zip)
