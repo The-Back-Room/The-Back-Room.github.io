@@ -16,5 +16,4 @@ If you would like to have your community listed here, please contact us with the
 
 ## Subreddits
 
-[![Static Badge](https://img.shields.io/badge/r%2FNSFW_Hentai_AI-darkorange?style=for-the-badge&logo=reddit&logoColor=white&logoSize=auto&label=reddit&labelColor=black&color=red)](https://www.reddit.com/r/NSFW_Hentai_AI)  
-[![Static Badge](https://img.shields.io/badge/r%2FRanma%20Hentai-red?style=for-the-badge&logo=reddit&logoColor=white&logoSize=auto&label=reddit&labelColor=black&color=red)](https://www.reddit.com/r/Ranma_Hentai)
+[![Static Badge](https://img.shields.io/badge/r%2FNSFW_Hentai_AI-darkorange?style=plastic&logo=reddit&logoColor=white&logoSize=auto&label=reddit&labelColor=black&color=red)](https://www.reddit.com/r/NSFW_Hentai_AI) [![Static Badge](https://img.shields.io/badge/r%2FRanma%20Hentai-red?style=plastic&logo=reddit&logoColor=white&logoSize=auto&label=reddit&labelColor=black&color=red)](https://www.reddit.com/r/Ranma_Hentai)
