@@ -14,5 +14,7 @@ This page lists social communities hosted by members of our community. These com
 
 If you would like to have your community listed here, please contact us with the details.
 
-- [r/Ranma_Hentai](https://www.reddit.com/r/Ranma_Hentai/): A subreddit hosted dedicated to sharing and discussing Ranma ½ hentai content.
-- [r/NSFW_Hentai_AI](https://www.reddit.com/r/NSFW_Hentai_AI/): A subreddit focused on AI-generated hentai content.
+## Subreddits
+
+![Static Badge](https://img.shields.io/badge/r%2FNSFW_Hentai_AI-darkorange?style=for-the-badge&logo=reddit&logoColor=white&logoSize=auto&label=reddit&labelColor=black&color=red&link=https%3A%2F%2Fwww.reddit.com%2Fr%2FNSFW_Hentai_AI%2F)  
+![Static Badge](https://img.shields.io/badge/r%2FRanma%20Hentai-red?style=for-the-badge&logo=reddit&logoColor=white&logoSize=auto&label=reddit&labelColor=black&color=red&link=https%3A%2F%2Fwww.reddit.com%2Fr%2FRanma_Hentai%2F)
