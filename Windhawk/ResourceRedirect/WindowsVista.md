@@ -21,4 +21,4 @@ permalink: /Windhawk/ResourceRedirect/WindowsVista
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-[![Download](https://img.shields.io/badge/Download-black?style=plastic&logoColor=white&logoSize=auto&labelColor=green&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-vista/-/archive/main/windows-vista-main.zip)
+[![Download](https://img.shields.io/badge/Download-black?style=plastic&logo=gitlab&logoColor=white&logoSize=auto&label=GitLab&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-vista/-/archive/main/windows-vista-main.zip)
