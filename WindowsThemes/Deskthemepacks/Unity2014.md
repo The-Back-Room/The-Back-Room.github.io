@@ -21,8 +21,7 @@ A theme pack for Windows 10 and 11 inspired by the classic Unity 2014 visual sty
 
 ### Instructions
 
-- Download the ZIP archive via the link below.
-- Extract the contents of the ZIP archive to a location of your choice.
+- Download and extract the archive via the download button below.
 - Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes\`
 - Apply the theme via `Settings > Personalization > Themes`
 
