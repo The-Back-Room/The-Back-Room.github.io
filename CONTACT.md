@@ -8,4 +8,5 @@ permalink: /Contact
 
 Contact us via the following locations for support, inquiries, or feedback.
 
-[![Discord](https://discord-live-members-count-badge.vercel.app/api/discord-total?guildId=1325177662435627109&label=Discord)](https://discord.gg/Yxj2t8ZbvX)
+[![Static Badge](https://img.shields.io/badge/The%20Back%20Room-black?style=plastic&logo=discord&logoColor=white&logoSize=auto&label=Discord&labelColor=7289da&color=black)](https://discord.gg/Yxj2t8ZbvX)
+
