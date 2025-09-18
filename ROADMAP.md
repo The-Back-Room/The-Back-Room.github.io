@@ -16,18 +16,16 @@ This is not a complete list of projects, just the ones that are currently priori
 
 A list of website improvements.
 
-- ![User Feedback](https://img.shields.io/badge/User%Feedback-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) Implement a user feedback system to gather suggestions and improve the website.
-- ![Tutorials, Guides, and Resources](https://img.shields.io/badge/Tutorials,%20Guides,%20and%20Resources-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) Expand the content library with more tutorials, guides, and resources.
-- ![Wiki](https://img.shields.io/badge/Wiki-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) Introduce a wiki section for community contributions and knowledge sharing.
+![User Feedback](https://img.shields.io/badge/User%Feedback-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) Implement a user feedback system to gather suggestions and improve the website.  
+![Tutorials, Guides, and Resources](https://img.shields.io/badge/Tutorials,%20Guides,%20and%20Resources-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) Expand the content library with more tutorials, guides, and resources.  
+![Wiki](https://img.shields.io/badge/Wiki-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) Introduce a wiki section for community contributions and knowledge sharing.
 
 ### General Updates
 
-- **Deskthemepacks**:
-  - Repackage all deskthemepacks into `.deskthemepack` archives for easier installation.
-    - This may require slight modifications to some themes to ensure compatibility with the `.deskthemepack` format.
-  - Update all deskthemepacks to include high resolution images (4K and above).
-- **MSSTYLE Themes**:
-  - Drop support for custom MSSTYLE themes and remove existing MSSTYLE themes from the website due to the increasing difficulty in maintaining compatibility with newer versions of Windows and the availability of more modern theming options.
+A list of general updates.
+
+
+![.deskthemepacks archives](https://img.shields.io/badge/.deskthemepacks-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) Repackage all deskthemepacks into `.deskthemepack` archives for easier installation.  
 
 ### Icon Packs
 
