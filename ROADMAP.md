@@ -9,7 +9,7 @@ permalink: /Roadmap
 
 This page outlines the projects and features that are planned for future updates to The Back Room website and its content. These projects are in various stages of development and may be subject to change based on feasibility, resource availability, and community feedback.
 
-This is not a complete list of projects, just the ones that are currently prioritized and as such may be subject to change. Members of our community are welcome to suggest new projects to be added to this list. Each item listed is color coded based on status: red for planned, yellow for in progress or needs updating, and grey for on hold.
+This is not a complete list of projects, just the ones that are currently prioritized and as such may be subject to change. Members of our community are welcome to suggest new projects to be added to this list. Each item listed is color coded based on status: red for planned, yellow for in progress, and grey for on hold.
 
 ### Icon Packs
 
@@ -114,8 +114,6 @@ This is not a complete list of projects, just the ones that are currently priori
         
       - **Bleach**: A collection of theme packs inspired by the Bleach anime and manga series. This list is not in any particular order and may change at any time.
         
-        ![Bleach](https://img.shields.io/badge/Bleach-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) 
-        ![Bleach Thousand Year Blood War](https://img.shields.io/badge/Bleach%20Thousand%20Year%20Blood%20War-black?style=plastic&logoColor=white&logoSize=auto&labelColor=yellow&color=black&cacheSeconds=3600) 
         ![Bleach Memories of Nobody](https://img.shields.io/badge/Bleach%20Memories%20of%20Nobody-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
         ![Bleach The DiamondDust Rebellion](https://img.shields.io/badge/Bleach%20The%20DiamondDust%20Rebellion-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
         ![Bleach Fade to Black](https://img.shields.io/badge/Bleach%20Fade%20to%20Black-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
