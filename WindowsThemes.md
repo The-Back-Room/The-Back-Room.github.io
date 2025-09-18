@@ -20,34 +20,37 @@ SFW Deskthemepacks for Windows 10 and Windows 11. These themes are safe for work
         - [Final Fantasy XIV: Shadowbringers](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVShadowbringers)
         - [Final Fantasy XIV: Endwalker](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVEW)
         - [Final Fantasy XIV: Dawntrail](https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVDawntrail)
-    - [Once Human](https://the-back-room.info/WindowsThemes/Deskthemepacks/OnceHuman) - Theme pack inspired by the game "Once Human".
+    - **Once Human**: Theme packs inspired by the game "Once Human".
+        - [Once Human](https://the-back-room.info/WindowsThemes/Deskthemepacks/OnceHuman)
 
 - **Anime**: Theme packs inspired by popular anime and manga series.
     
-    - [Bleach](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACH) - Theme pack inspired by the BLEACH anime and manga series.
-    - [Howl's Moving Castle](https://the-back-room.info/WindowsThemes/Deskthemepacks/HowlsMovingCastle) - Theme pack inspired by the Studio Ghibli film "Howl's Moving Castle"
-    - [Studio Ghibli](https://the-back-room.info/WindowsThemes/Deskthemepacks/StudioGhibli) - Theme pack inspired by films of Studio Ghibli.
+    - **Bleach**: A series of theme packs inspired by the BLEACH anime and manga series.
+        - [Bleach](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACH)
+    - **Studio Ghibli**: A series of theme packs inspired by various films from Studio Ghibli.
+        - [Studio Ghibli](https://the-back-room.info/WindowsThemes/Deskthemepacks/StudioGhibli)
+        - [Howl's Moving Castle](https://the-back-room.info/WindowsThemes/Deskthemepacks/HowlsMovingCastle)
 
 - **Western Animation**: Theme packs inspired by popular western animated series.
 
-    - [Courage the Cowardly Dog](https://the-back-room.info/WindowsThemes/Deskthemepacks/CourageTCD) - Theme pack inspired by the cult classic Courage the Cowardly Dog.
+    - [Courage the Cowardly Dog](https://the-back-room.info/WindowsThemes/Deskthemepacks/CourageTCD)
 
 - **Movies**: Theme packs inspired by popular movies.
 
-    - [A Nightmare on Elm Street](https://the-back-room.info/WindowsThemes/Deskthemepacks/ANightmareOnElmStreet) - Theme pack inspired by the horror film franchise "A Nightmare on Elm Street".
-    - [IT](https://the-back-room.info/WindowsThemes/Deskthemepacks/IT) - Theme pack inspired by the horror movie franchise IT.
+    - [A Nightmare on Elm Street](https://the-back-room.info/WindowsThemes/Deskthemepacks/ANightmareOnElmStreet)
+    - [IT](https://the-back-room.info/WindowsThemes/Deskthemepacks/IT)
 
 - **Operating Systems**: Theme packs inspired by various operating systems.
 
-    - [MacOS](https://the-back-room.info/WindowsThemes/Deskthemepacks/MacOS) - Large collection of theme packs inspired by the MacOS operating system.
-    - [Microsoft EDU Themes](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftEDUThemes) - Microsoft's EDU Themes for all to enjoy.
-    - [Microsoft Copilot](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftCopilot) - Theme pack inspired by the Microsoft copilot feature.
-    - [Microsoft Surface Pro](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftSurfacePro) - Theme pack inspired by the Microsoft Surface Pro line of devices.
+    - [MacOS](https://the-back-room.info/WindowsThemes/Deskthemepacks/MacOS)
+    - [Microsoft EDU Themes](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftEDUThemes)
+    - [Microsoft Copilot](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftCopilot)
+    - [Microsoft Surface Pro](https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftSurfacePro)
 
 - **Others**: Other themes that do not fit into the above categories.
 
-    - [Unity 2014](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2014) - Theme pack inspired by the classic Unity 2014 visual style.
-    - [Unity 2016](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2016) - Theme pack inspired by the classic Unity 2016 visual style.
+    - [Unity 2014](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2014)
+    - [Unity 2016](https://the-back-room.info/WindowsThemes/Deskthemepacks/Unity2016)
 
 
 ## NSFW Deskthemepacks
@@ -56,16 +59,22 @@ NSFW Deskthemepacks for Windows 10 and Windows 11. These themes contain adult co
 
 - **Games**: NSFW theme packs inspired by popular games.
 
-    - [Final Fantasy XIV Waifus](https://the-back-room.info/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus) - Theme pack inspired by the game "Final Fantasy XIV ".
-    - [Lewd Gamer Waifus](https://the-back-room.info/WindowsThemes/Deskthemepacks/LewdGamerWaifus) - Theme pack featuring backgounds with lewd gamer waifus.
+    - **Final Fantasy XIV**: A series of NSFW theme packs inspired by the popular MMORPG "Final Fantasy XIV".
+        - [Final Fantasy XIV Waifus](https://the-back-room.info/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus)
+    - **Others**: Other NSFW game-themed packs.
+        - [Lewd Gamer Waifus](https://the-back-room.info/WindowsThemes/Deskthemepacks/LewdGamerWaifus)
 
 - **Anime**: NSFW theme packs inspired by popular anime series.
 
-    - [Bleach Hentai](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACHHentai) - Windows theme pack inspired by the BLEACH anime and manga series.
-    - [Ecchi](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi) - Windows Theme pack inspired by Ecchi anime and manga series.
-    - [Ranma Hentai](https://the-back-room.info/WindowsThemes/Deskthemepacks/RanmaHentai) - Windows theme pack inspired by the Ranma ½ anime and manga series.
-    - [Naruto - Ninja Hotsrpings](https://the-back-room.info/WindowsThemes/Deskthemepacks/NarutoNinjaHotsprings) - Windows theme pack inspired by the Naruto anime and manga series featuring wallpapers by Sakimichan.
-    - [Love Stage!!](https://the-back-room.info/WindowsThemes/Deskthemepacks/LoveStage) - Windows theme pack inspired by the anime and manga "Love Stage!!".
+    - **BLEACH**: A series of NSFW theme packs inspired by the BLEACH anime and manga series.
+        - [Bleach Hentai](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACHHentai)
+    - [Ecchi](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi)
+    - **Ranma ½**: A series of NSFW theme packs inspired by the Ranma ½ anime and manga series.
+        - [Ranma Hentai](https://the-back-room.info/WindowsThemes/Deskthemepacks/RanmaHentai)
+    - **Naruto**: A series of NSFW theme packs inspired by the Naruto anime and manga series.
+        - [Naruto - Ninja Hotsrpings](https://the-back-room.info/WindowsThemes/Deskthemepacks/NarutoNinjaHotsprings)
+    - **Others**: Other NSFW anime-themed packs.
+        - [Love Stage!!](https://the-back-room.info/WindowsThemes/Deskthemepacks/LoveStage)
 
 - **Movies**: NSFW theme packs inspired by popular movies.
 
