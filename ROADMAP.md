@@ -7,7 +7,6 @@ permalink: /Roadmap
 
 ## Roadmap
 
-Planned updates and future projects.
 This page outlines the projects and features that are planned for future updates to The Back Room website and its content. These projects are in various stages of development and may be subject to change based on feasibility, resource availability, and community feedback.
 
 This is not a complete list of projects, just the ones that are currently prioritized and as such may be subject to change. Members of our community are welcome to suggest new projects to be added to this list. Each item listed is color coded based on status: red for planned, yellow for in progress or needs updating, and grey for on hold.
