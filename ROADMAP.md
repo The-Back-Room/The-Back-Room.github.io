@@ -33,14 +33,14 @@ A list of website improvements.
 
 - **Gen2 Icons**: devillnside's Gen2 icon pack ported to Resource Redirect.
 
-  ![Gen2 Lazer Red](https://img.shields.io/badge/Gen2%20Lazer%20Red-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-  ![Gen2 Lady Pink](https://img.shields.io/badge/Gen2%20Lady%20Pink-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-  ![Gen2 Antitoxin](https://img.shields.io/badge/Gen2%20Antitoxin-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+  ![Gen2 Lazer Red](https://img.shields.io/badge/Gen2%20Lazer%20Red-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+  ![Gen2 Lady Pink](https://img.shields.io/badge/Gen2%20Lady%20Pink-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+  ![Gen2 Antitoxin](https://img.shields.io/badge/Gen2%20Antitoxin-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
   
 - **HUD Icons**: Mr GRiM's HUD icon packs ported to Resource Redirect.
 
-  ![HUD Evolution](https://img.shields.io/badge/HUD%20Evolution-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-  ![HUD Launch](https://img.shields.io/badge/HUD%20Launch-black?style=plastic&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+  ![HUD Evolution](https://img.shields.io/badge/HUD%20Evolution-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
+  ![HUD Launch](https://img.shields.io/badge/HUD%20Launch-black?style=plastic&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
 
 ### Windows Themes
 
