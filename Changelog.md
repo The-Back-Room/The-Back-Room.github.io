@@ -12,6 +12,15 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Dates are formatted as `YYYY-MM-DD`
 - Entries are listed in reverse chronological order, with the most recent changes at the top.
 
+### 202--09-21
+
+- Project Updates:
+  - Updated DownAero Squared Windhawk themes with improved styling.
+  - Removed File Explorer Styler support from all projects due to issues with the mod failing to apply styles correctly.
+
+- Content Management:
+  - Updated preview images for DownAero Squared to reflect recent changes.
+
 ### 2025-09-17
 
 - Project Updates:

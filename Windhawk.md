@@ -12,11 +12,6 @@ Windhawk is a third-party application and is not affiliated with The Back Room. 
 ## Windhawk Mods
 Here is a list of Windhawk mods created by members of The Back Room:
 
-- **File Explorer Styler**
-
-[![Acrylic UI](https://img.shields.io/badge/Acrylic%20UI-black?style=plastic&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/FileExplorerStyler/AcrylicUI) 
-[![DownAero Squared](https://img.shields.io/badge/DownAero%20Squared-black?style=plastic&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/FileExplorerStyler/DownAeroSquared)
-
 - **Start Menu Styler**
 
 [![Acrylic UI](https://img.shields.io/badge/Acrylic%20UI-black?style=plastic&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/Windhawk/StartMenuStyler/AcrylicUI) 

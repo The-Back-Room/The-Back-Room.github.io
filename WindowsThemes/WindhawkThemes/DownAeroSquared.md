@@ -11,19 +11,15 @@ Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
 ![DownAero Squared Preview 1](https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview-1.bmp?raw=True)  
 
-![DownAero Squared Preview 2](https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview-2.bmp?raw=True)  
-
 ### Requirements
 
 - **Windhawk Plugin**: Windows 11 Start Menu Styler
 - **Windhawk Plugin**: Windows 11 Taskbar Styler
 - **Windhawk Plugin**: Windows 11 Notification Center Styler
-- **Windhawk Plugin**: Windows 11 File Explorer Styler
 - **Windhawk Plugin**: Taskbar Clock Customization
 
 ### Instructions
 
 - **Start Menu**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/StartMenuStyler/DownAeroSquared)
 - **Taskbar**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/TaskbarStyler/DownAeroSquared)
-- **File Explorer**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/FileExplorerStyler/DownAeroSquared)
 - **Notification Center and Quick Settings**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/NotificationCenterStyler/DownAeroSquared)
