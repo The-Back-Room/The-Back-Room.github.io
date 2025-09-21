@@ -23,4 +23,4 @@ A NSFW theme pack for Windows 10 and 11 inspired by Ecchi anime and manga.
 - Download and extract the archive via the download button below.
 - Double-Click the `.deskthemepack` file included to install the theme.
 
-[![Download](https://img.shields.io/badge/Download-black?style=plastic&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/-/archive/main/ecchi-main.zip)
+[![Download](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/-/archive/main/ecchi-main.zip)

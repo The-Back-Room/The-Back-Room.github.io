@@ -23,4 +23,4 @@ A theme pack for Windows 10 and 11 featuring wallpapers of lewd gamer waifus.
 - Download and extract the archive via the download button below.
 - Double-Click the `.deskthemepack` file included to install the theme.
 
-[![Download](https://img.shields.io/badge/Download-black?style=plastic&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/archive/main/lewd-gamer-waifus-main.zip)
+[![Download](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/archive/main/lewd-gamer-waifus-main.zip)
