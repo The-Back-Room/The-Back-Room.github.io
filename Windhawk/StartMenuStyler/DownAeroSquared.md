@@ -177,7 +177,6 @@ permalink: /Windhawk/StartMenuStyler/DownAeroSquared
   "controlStyles[33].styles[0]": "Visibility=1",
   "controlStyles[34].target": "PipsPager",
   "controlStyles[34].styles[0]": "Visibility=1",
-  "controlStyles[2].styles[1]": "Margin=13,30,-13,0",
   "controlStyles[35].target": "GridView#PinnedList > Border > ScrollViewer > Border > Grid > ScrollContentPresenter > ItemsPresenter > ItemsWrapGrid > GridViewItem",
   "controlStyles[35].styles[0]": "Margin=5,10,0,0",
   "controlStyles[36].target": "TextBlock#PinnedListHeaderText",
@@ -199,6 +198,8 @@ permalink: /Windhawk/StartMenuStyler/DownAeroSquared
   "controlStyles[42].styles[1]": "Height=40",
   "controlStyles[42].styles[2]": "Width=40",
   "controlStyles[29].styles[6]": "Shadow:=",
-  "controlStyles[18].styles[2]": "Padding=4"
+  "controlStyles[18].styles[2]": "Padding=4",
+  "controlStyles[2].styles[1]": "Width=700",
+  "controlStyles[2].styles[2]": "Margin=-13,30,-13,0"
 }
 ```
