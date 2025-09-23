@@ -200,6 +200,8 @@ permalink: /Windhawk/StartMenuStyler/DownAeroSquared
   "controlStyles[29].styles[6]": "Shadow:=",
   "controlStyles[18].styles[2]": "Margin=4,0,0,0",
   "controlStyles[2].styles[1]": "Width=700",
-  "controlStyles[2].styles[2]": "Margin=-13,30,-13,0"
+  "controlStyles[2].styles[2]": "Margin=-13,30,-13,0",
+  "controlStyles[43].target": "TextBlock#AllAppsHeading",
+  "controlStyles[43].styles[0]": "Visibility=1"
 }
 ```
