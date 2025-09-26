@@ -9,7 +9,7 @@ permalink: /WindowsThemes/WindhawkThemes/DownAeroSquared
 
 Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
-![DownAero Squared Preview 1](https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview-1.bmp?raw=True)  
+![DownAero Squared Preview](https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview.bmp?raw=True)  
 
 ### Requirements
 
