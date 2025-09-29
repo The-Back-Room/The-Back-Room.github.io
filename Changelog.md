@@ -12,6 +12,16 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Dates are formatted as `YYYY-MM-DD`
 - Entries are listed in reverse chronological order, with the most recent changes at the top.
 
+
+### 2025-09-28
+
+- Project Updates:
+  - Updated DownAero Squared Windhawk themes.
+    - Improved the styling.
+    - Restored light and dark mode.
+    - Restored accent colorization and reverted full transparency for better visibility.
+    - Updated preview images to reflect changes.
+
 ### 2025-09-21
 
 - Project Updates:
