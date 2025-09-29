@@ -40,7 +40,7 @@ permalink: /Windhawk/StartMenuStyler/DownAeroSquared
   "controlStyles[8].target": "StartDocked.NavigationPaneView#NavigationPane > Grid#RootPanel",
   "controlStyles[8].styles[0]": "Margin=0,-10,0,10",
   "controlStyles[9].target": "StartDocked.AppListView#NavigationPanePlacesListView > Border",
-  "controlStyles[9].styles[0]": "CornerRadius=$r2",
+  "controlStyles[9].styles[0]": "CornerRadius=$r1",
   "controlStyles[9].styles[1]": "Margin=0,0,15,0",
   "controlStyles[9].styles[2]": "Height=38",
   "controlStyles[9].styles[3]": "Background:=$card",
