@@ -10,12 +10,12 @@ div.gallery {
 
 div.gallery-item {
   margin: 5px;
-  border: 1px solid #ccc;
+  border: 1px solid $border-color;
   width: calc(25% - 20px);
 }
 
 div.gallery-item:hover {
-  border: 1px solid #777;
+  border: 1px solid darken($border-color, 10%);
 }
 
 div.gallery-item img {
