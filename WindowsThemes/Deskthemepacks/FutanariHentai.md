@@ -13,7 +13,7 @@ A NSFW theme pack featuring futanari hentai artwork for Windows 10 and 11.
 
 {: .note }
 > {: .opaque }
-> The screenshot displays the theme being used alongside my DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](https://the-back-room.info/WindowsThemes/WindhawkThemes/DownAeroSquared).
+> The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](https://the-back-room.info/WindowsThemes/WindhawkThemes/DownAeroSquared).
 
 ### Features
 
