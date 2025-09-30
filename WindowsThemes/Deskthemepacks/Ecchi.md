@@ -15,8 +15,7 @@ A NSFW theme pack for Windows 10 and 11 inspired by Ecchi anime and manga.
 > {: .opaque }
 > ⚠️ **Warning**: This theme pack contains adult content and is intended for mature audiences only. Viewer discretion is advised.  
 > Content includes:
-> - Nudity
-> - Partial Nudity
+> - Nudity/Partial Nudity
 > - Suggestive Themes
 
 {: .note }

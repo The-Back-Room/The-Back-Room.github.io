@@ -13,7 +13,13 @@ A NSFW theme pack for Windows 10 and 11 inspired by the Bleach anime and manga s
 
 {: .important }
 > {: .opaque }
-> ⚠️ **Warning**: This theme pack contains adult content and is intended for mature audiences only. Viewer discretion is advised.
+> ⚠️ **Warning**: This theme pack contains adult content and is intended for mature audiences only. Viewer discretion is advised.  
+> Content includes:
+> - Nudity/Partial Nudity
+> - Suggestive Themes
+> - Sexual Content
+> - Fetish Content
+
 
 {: .note }
 > {: .opaque }

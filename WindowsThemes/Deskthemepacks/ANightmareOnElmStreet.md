@@ -13,7 +13,11 @@ A dark and eerie theme pack for Windows 10 and 11 inspired by the horror franchi
 
 {: .important }
 > {: .opaque }
-> ⚠️ **Warning**: This theme pack contains horror-themed content and may not be suitable for all audiences. Viewer discretion is advised.
+> ⚠️ **Warning**: This theme pack contains horror-themed content and may not be suitable for all audiences. Viewer discretion is advised.  
+> Content includes:
+> - Horror Themes
+> - Scary Imagery
+> - Disturbing Themes
 
 {: .note }
 > {: .opaque }

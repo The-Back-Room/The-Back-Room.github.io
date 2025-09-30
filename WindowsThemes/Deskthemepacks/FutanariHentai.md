@@ -17,7 +17,8 @@ A NSFW theme pack featuring futanari hentai artwork for Windows 10 and 11.
 > Content includes:
 > - Nudity
 > - Sexual Content
-> - Futanari
+> - Hemtai\Futanari
+> - Fetish Content
 
 {: .note }
 > {: .opaque }
