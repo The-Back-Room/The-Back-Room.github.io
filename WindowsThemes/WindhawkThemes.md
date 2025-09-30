@@ -11,7 +11,8 @@ permalink: /WindowsThemes/WindhawkThemes
 > - For more information about Windhawk, please visit the [Windhawk website](https://windhawk.net) or join the [Windhawk Discord](https://discord.com/servers/windhawk-923944342991818753) server.
 > - For source code and to report issues, please visit the [Windhawk GitHub](https://github.com/ramensoftware/windhawk) page.
 
-<div class="gallery">
+<div class="gallery text-delta">
+
 <div class="gallery-item">
   <a target="_blank" href="https://the-back-room.info/WindhawkThemes/AcrylicUI">
     <img src="https://the-back-room.info/assets/images/previews/notification-center-styler/acrylic.bmp?raw=True" alt="Acrylic UI" width="600" height="400">
@@ -25,4 +26,5 @@ permalink: /WindowsThemes/WindhawkThemes
   </a>
   <div class="desc">DownAero Squared</div>
 </div>
+
 </div>
