@@ -3,15 +3,14 @@ title: Howl's Moving Castle
 summary: A theme pack inspired by the film "Howl's Moving Castle"
 nav_exclude: true
 permalink: /WindowsThemes/Deskthemepacks/HowlsMovingCastle
+published: false
 ---
 
 ## Howl's Moving Castle
 
 A theme pack for Windows 10 and 11 inspired by the film "Howl's Moving Castle"
 
-<!-- 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/howls-moving-castle/-/raw/main/Extras/Preview.bmp)
---> 
 
 ### Features
 
