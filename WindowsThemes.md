@@ -68,10 +68,6 @@ NSFW Themes for Windows 10 and Windows 11. *Note: These themes contain adult con
 
         [![Final Fantasy XIV Waifus](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Waifus-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus)
 
-    - **Others**: Theme packs that don't fit into any of the above categories.
-
-        [![Lewd Gamer Waifus](https://img.shields.io/badge/Lewd%20Gamer%20Waifus-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/LewdGamerWaifus)
-
 - **Anime**: Theme packs inspired by popular anime and manga series.
 
     - **Bleach**: Theme packs inspired by the anime and manga series Bleach.
@@ -91,7 +87,8 @@ NSFW Themes for Windows 10 and Windows 11. *Note: These themes contain adult con
 
         [![Ecchi](https://img.shields.io/badge/Ecchi-black?style=for-the-badge&logoColor=white&logo=codecrafters&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi) 
         [![Love Stage!!](https://img.shields.io/badge/Love%20Stage!!-black?style=for-the-badge&logoColor=white&logo=codecrafters&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/LoveStage)  
-        [![Futanari Hentai](https://img.shields.io/badge/Love%20Stage!!-black?style=for-the-badge&logoColor=white&logo=codecrafters&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FutanariHentai)
+        [![Futanari Hentai](https://img.shields.io/badge/Love%20Stage!!-black?style=for-the-badge&logoColor=white&logo=codecrafters&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FutanariHentai)  
+        [![Lewd Gamer Waifus](https://img.shields.io/badge/Lewd%20Gamer%20Waifus-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/LewdGamerWaifus)
 
 
 ## Windhawk Themes
