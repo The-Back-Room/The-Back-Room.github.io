@@ -7,17 +7,14 @@ permalink: /WindowsThemes
 
 We offer a variety of custom Windows Themes that you can download and install to enhance your desktop experience. These themes are designed to provide a unique aesthetic while maintaining usability. Each theme pack includes a set of wallpapers, color schemes, and other visual elements to transform the look and feel of your Windows environment. 
 
-{: .note }
-> {: .opaque }
-> **Note**: This list is not in any particular order and may change at any time.
-
 {: .important  }
 > {: .opaque }
 > ⚠️ **Important**: Due to the increasing difficulty with using custom MSSTYLE themes on modern versions of Windows, we have shifted our focus to providing Deskthemepacks and Windhawk themes. These formats are more compatible with the latest Windows updates and offer a smoother user experience. As such, support for custom MSSTYLE themes has been discontinued. Visit the our [GitLab Repo](https://gitlab.com/the-back-room/) to download any existing MSSTYLE themes.
 
-## Deskthemepacks
-
-A collection of Deskthemepacks for Windows 10 and 11.
+{: .note }
+> {: .opaque }
+> - NSFW themes are located on our [NSFW Themes](https://the-back-room.info/WindowsThemes/NSFWThemes) page.  
+> - Windhawk themes are located on our [Windhawk Themes](https://the-back-room.info/WindowsThemes/WindhawkThemes) page.
 
 <div class="gallery text-delta">
 
@@ -178,7 +175,3 @@ A collection of Windhawk themes for Windows 10 and 11.
   <div class="desc">DownAero Squared</div>
 </div>
 </div>
-
-### Notes
-
-- A list of NSFW themes can be found [here](https://the-back-room.info/WindowsThemes/NSFWThemes).

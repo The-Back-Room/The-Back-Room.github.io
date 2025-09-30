@@ -5,9 +5,6 @@ nav_exclude: true
 permalink: /WindowsThemes/NSFWThemes
 ---
 
-## Deskthemepacks
-A collection of NSFW themes for Windows 10 and 11.
-
 {: .important }
 > {: .opaque }
 > ⚠️ **Warning**: The following themes contain adult content and are intended for mature audiences only. Viewer discretion is advised.
