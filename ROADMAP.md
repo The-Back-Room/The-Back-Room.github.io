@@ -190,15 +190,4 @@ A collection of planned themes packs for Windows 10 and 11. *Note: This list is 
 
 Theme packs with NSFW content. *Note: These themes are inteded for adult audiences only. This list is not in any particular order and may change at any time.*
 
-- **Games**: Theme packs inspired by popular adult games.
-    
-    ![Nekopara](https://img.shields.io/badge/Nekopara-black?style=for-the-badge&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-    ![Action Taimanin](https://img.shields.io/badge/Action%20Taimanin-black?style=for-the-badge&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-    ![The Last Sovereign](https://img.shields.io/badge/The%20Last%20Sovereign-black?style=for-the-badge&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-    ![The Proteus Effect](https://img.shields.io/badge/The%20Proteus%20Effect-black?style=for-the-badge&logo=statuspal&logoColor=white&logoSize=auto&labelColor=grey&color=black&cacheSeconds=3600) 
-
-- **Anime**: Theme packs inspired by popular anime series.
-
-    ![Valkyrie Drive Mermaid](https://img.shields.io/badge/Valkyrie%20Drive%20Mermaid-black?style=for-the-badge&logo=statuspal&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-    ![High School DxD](https://img.shields.io/badge/High%20School%20DxD-black?style=for-the-badge&logo=statuspal&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
-    ![Witchblade](https://img.shields.io/badge/Witchblade-black?style=for-the-badge&logo=statuspal&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600) 
+- Nothing planned at the moment. Check back later.

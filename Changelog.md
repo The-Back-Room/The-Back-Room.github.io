@@ -113,7 +113,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 ### 2025-09-29
 
 - Project Updates:
-  - Create new theme(s): Naruto Hentai
+  - Create new theme(s): Naruto Hentai, Futanari Hentai
   
 ### 2025-09-12
 
