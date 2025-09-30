@@ -18,7 +18,7 @@ A theme pack for Windows 10 and 11 inspired by Final Fantasy XIV - A Realm Rebor
 ### Features
 
 - Multiple Backgrounds
-- Custom Logon, Logoff, and Shutdown Sounds
+- Custom Sounds
 - Custom Cursors
 - Supports 4k Resolutions
 

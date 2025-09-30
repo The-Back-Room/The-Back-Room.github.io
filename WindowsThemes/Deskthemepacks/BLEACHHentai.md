@@ -19,8 +19,8 @@ A NSFW theme pack for Windows 10 and 11 inspired by the Bleach anime and manga s
 ### Features
 
 - Multiple Backgrounds
-- Custom Sounds
 - Custom Cursors
+- Custom Logon, Logoff, and Shutdown Sounds
 - Supports 4k Resolutions
 
 ### Instructions
