@@ -12,7 +12,7 @@ A collection of NSFW themes for Windows 10 and 11.
 > {: .opaque }
 > ⚠️ **Warning**: The following themes contain adult content and are intended for mature audiences only. Viewer discretion is advised.
 
-<div class="gallery">
+<div class="gallery text-delta">
 
 <div class="gallery-item">
   <a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus">

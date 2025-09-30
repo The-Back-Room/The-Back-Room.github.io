@@ -19,7 +19,7 @@ We offer a variety of custom Windows Themes that you can download and install to
 
 A collection of Deskthemepacks for Windows 10 and 11.
 
-<div class="gallery">
+<div class="gallery text-delta">
 
 <div class="gallery-item">
   <a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/FFXIVARealmReborn">
