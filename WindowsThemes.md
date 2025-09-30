@@ -81,13 +81,13 @@ NSFW Themes for Windows 10 and Windows 11. *Note: These themes contain adult con
     - **Naruto**: Theme packs inspired by the Naruto anime and manga series.
 
         [![Naruto Ninja Hotsprings](https://img.shields.io/badge/Naruto%20Ninja%20Hotsprings-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/NarutoNinjaHotsprings)  
-        [![Naruto Hentai](https://img.shields.io/badge/Naruto%20Ninja%20Hotsprings-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/NarutoHentai)
+        [![Naruto Hentai](https://img.shields.io/badge/Naruto%20Hentai-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/NarutoHentai)
 
     - **Others**: Theme packs that don't fit into any of the above categories.
 
         [![Ecchi](https://img.shields.io/badge/Ecchi-black?style=for-the-badge&logoColor=white&logo=codecrafters&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi) 
         [![Love Stage!!](https://img.shields.io/badge/Love%20Stage!!-black?style=for-the-badge&logoColor=white&logo=codecrafters&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/LoveStage)  
-        [![Futanari Hentai](https://img.shields.io/badge/Love%20Stage!!-black?style=for-the-badge&logoColor=white&logo=codecrafters&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FutanariHentai)  
+        [![Futanari Hentai](https://img.shields.io/badge/Futanari%20Hentai-black?style=for-the-badge&logoColor=white&logo=codecrafters&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FutanariHentai)  
         [![Lewd Gamer Waifus](https://img.shields.io/badge/Lewd%20Gamer%20Waifus-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/LewdGamerWaifus)
 
 
