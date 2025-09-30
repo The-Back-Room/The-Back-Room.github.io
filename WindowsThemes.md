@@ -15,6 +15,8 @@ We offer a variety of custom Windows Themes that you can download and install to
 
 {: .note }
 > {: .opaque }
+> **Note**: Some of these themes are based off of popular games, tv shows/movies, anime, and/or manga series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders. This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
+> 
 > - NSFW themes are located on our [NSFW Themes](https://the-back-room.info/WindowsThemes/NSFWThemes) page.  
 > - Windhawk themes are located on our [Windhawk Themes](https://the-back-room.info/WindowsThemes/WindhawkThemes) page.
 
