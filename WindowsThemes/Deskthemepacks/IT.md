@@ -11,7 +11,7 @@ A dark and eerie theme pack for Windows 10 and 11 based on the horror movie fran
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/raw/main/Extras/Preview.bmp)
 
-{:. important }
+{: .important }
 > {: .opaque }
 > ⚠️ **Warning**: This theme pack contains horror-themed content and may not be suitable for all audiences. Viewer discretion is advised.
 

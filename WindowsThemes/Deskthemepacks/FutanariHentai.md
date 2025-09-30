@@ -11,7 +11,7 @@ A NSFW theme pack featuring futanari hentai artwork for Windows 10 and 11.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/futanari-hentai/-/raw/main/Extras/Preview.bmp)
 
-{:. important }
+{: .important }
 > {: .opaque }
 > ⚠️ **Warning**: This theme pack contains adult content and is intended for mature audiences only. Viewer discretion is advised.
 > Content includes:

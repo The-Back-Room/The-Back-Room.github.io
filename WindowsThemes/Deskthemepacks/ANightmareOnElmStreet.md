@@ -11,7 +11,7 @@ A dark and eerie theme pack for Windows 10 and 11 inspired by the horror franchi
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/raw/main/Extras/Preview.bmp)
 
-{:. important }
+{: .important }
 > {: .opaque }
 > ⚠️ **Warning**: This theme pack contains horror-themed content and may not be suitable for all audiences. Viewer discretion is advised.
 
