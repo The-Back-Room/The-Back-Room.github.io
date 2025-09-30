@@ -13,7 +13,8 @@ A NSFW theme pack for Windows 10 and 11 inspired by the Bleach anime and manga s
 
 {: .note }
 > {: .opaque }
-> The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](https://the-back-room.info/WindowsThemes/WindhawkThemes/DownAeroSquared).
+> - The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](https://the-back-room.info/WindowsThemes/WindhawkThemes/DownAeroSquared).
+> - Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 
 ### Features
 

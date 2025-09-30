@@ -19,7 +19,6 @@ A NSFW theme pack for Windows 10 and 11 inspired by the Ranma ½ anime and manga
 
 - Multiple Wallpapers
 - Custom Cursors
-- Custom Sounds
 - Supports 4k Resolutions
 
 ### Instructions
