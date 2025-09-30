@@ -19,7 +19,7 @@ A NSFW theme pack for Windows 10 and 11 featuring wallpapers of girls from the N
 
 - Wallpapers by Sakimichan
 - Custom Cursors
-- Custom Sounds
+- Custom Logon, Logoff, and Shutdown Sounds
 - Supports 4k Resolutions
 
 ### Instructions
