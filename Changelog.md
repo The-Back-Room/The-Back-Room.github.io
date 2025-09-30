@@ -110,6 +110,11 @@ This page provides a detailed log of changes, updates, and improvements made to 
   - Change preview image links to use GitHub's raw image URLs so they display correctly both in the repository and on the website.
   - Fixed minor typos and grammatical errors across multiple pages.
 
+### 2025-09-29
+
+- Project Updates:
+  - Create new theme(s): Naruto Hentai
+  
 ### 2025-09-12
 
 - Content Management:
