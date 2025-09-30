@@ -27,7 +27,7 @@ Here is a list of Windhawk mods created by members of The Back Room:
     - [Acrylic UI](https://the-back-room.info/Windhawk/TaskbarStyler/AcrylicUI) - Acrylic UI for the Windows 11 Taskbar.
     - [DownAero Squared](https://the-back-room.info/Windhawk/TaskbarStyler/DownAeroSquared) - DownAero Squared for the Windows 11 Taskbar.
 
-- **Resource Redirect**: Redirect resources in Windows 11 to custom files. This can be used to change system icons, sounds, and other resources.
+- **Resource Redirect**: Redirect resources in Windows 11 to custom files. This is primarily used for custom icon packs but can be used for other resources as well. Supports `.dll` and `.exe` file extensions.
 
     - **Unity Icons**: neiio's classic Unity icon packs ported to Windhawk.
 
