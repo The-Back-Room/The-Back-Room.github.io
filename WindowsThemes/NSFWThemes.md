@@ -7,7 +7,19 @@ permalink: /WindowsThemes/NSFWThemes
 
 {: .important }
 > {: .opaque }
-> ⚠️ **Warning**: The following themes contain adult content and are intended for mature audiences only. Viewer discretion is advised.
+> ⚠️ **Warning**: This theme pack contains adult content and is intended for mature audiences only. Viewer discretion is advised.  
+> Content includes:
+> - Nudity/Partial Nudity
+> - Sexual Content
+> - Suggestive Themes
+> - BL/Yaoi Themes
+> - GL/Yuri Themes
+> - Fetish Content
+> - Hentai/Futanari
+
+{: .note }
+> {: .opaque }
+> **Note**: Some of these themes are based off of popular anime and manga series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders. This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
 
 <div class="gallery text-delta">
 
