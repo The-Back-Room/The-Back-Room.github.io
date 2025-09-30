@@ -80,15 +80,3 @@ A collection of NSFW themes for Windows 10 and 11.
 </div>
 
 </div>
-
-<!--
-    [![Final Fantasy XIV Waifus](https://img.shields.io/badge/Final%20Fantasy%20XIV%20Waifus-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus) 
-    [![Lewd Gamer Waifus](https://img.shields.io/badge/Lewd%20Gamer%20Waifus-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/LewdGamerWaifus) 
-    [![Ecchi](https://img.shields.io/badge/Ecchi-black?style=for-the-badge&logoColor=white&logo=codecrafters&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi) 
-    [![Futanari Hentai](https://img.shields.io/badge/Futanari%20Hentai-black?style=for-the-badge&logoColor=white&logo=codecrafters&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/FutanariHentai) 
-    [![Bleach Hentai](https://img.shields.io/badge/Bleach%20Hentai-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACHHentai) 
-    [![Ranma Hentai](https://img.shields.io/badge/Ranma%20Hentai-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/RanmaHentai) 
-    [![Naruto Hentai](https://img.shields.io/badge/Naruto%20Hentai-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/NarutoHentai) 
-    [![Naruto Ninja Hotsprings](https://img.shields.io/badge/Naruto%20Ninja%20Hotsprings-black?style=for-the-badge&logo=codecrafters&logoColor=white&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/NarutoNinjaHotsprings) 
-    [![Love Stage!!](https://img.shields.io/badge/Love%20Stage!!-black?style=for-the-badge&logoColor=white&logo=codecrafters&logoSize=auto&labelColor=blue&color=black&cacheSeconds=3600)](https://the-back-room.info/WindowsThemes/Deskthemepacks/LoveStage) 
--->
