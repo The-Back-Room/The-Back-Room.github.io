@@ -11,6 +11,14 @@ A NSFW theme pack for Windows 10 and 11 inspired by the Naruto anime and manga s
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/-/raw/main/Extras/Preview.bmp)
 
+{:. important }
+> {: .opaque }
+> ⚠️ **Warning**: This theme pack contains adult content and is intended for mature audiences only. Viewer discretion is advised.
+> Content includes:
+> - Nudity
+> - Sexual Content
+> - Suggestive Themes
+
 {: .note }
 > {: .opaque }
 > - The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](https://the-back-room.info/WindowsThemes/WindhawkThemes/DownAeroSquared).
