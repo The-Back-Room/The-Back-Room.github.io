@@ -78,6 +78,13 @@ We offer a variety of custom Windows Themes that you can download and install to
 </div>
 
 <div class="gallery-item">
+  <a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACH">
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview-2.bmp" alt="Bleach: Thousand Year Blood War" width="600" height="400">
+  </a>
+  <div class="desc">Bleach: Thousand Year Blood War</div>
+</div>
+
+<div class="gallery-item">
   <a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/StudioGhibli">
     <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/836bd001-fc1e-41ac-8fce-917bee5d1f0e/dio7nnc-1c8c3bc5-f0b6-4bde-a831-d654d75fafcf.jpg/v1/fill/w_1131,h_707,q_70,strp/studio_ghibli_by_og_nimbi_dio7nnc-pre.jpg" alt="Studio Ghibli" width="600" height="400">
   </a>
@@ -121,7 +128,7 @@ We offer a variety of custom Windows Themes that you can download and install to
 
 <div class="gallery-item">
   <a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/MicrosoftCopilot">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/copilot-themes/-/raw/main/Extras/Preview.bmp" alt="Microsoft Copilot" width="600" height="400">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/836bd001-fc1e-41ac-8fce-917bee5d1f0e/djn78vn-fe9545d2-810d-41f0-b0e2-ad09ce7f9847.jpg/v1/fill/w_1131,h_707,q_70,strp/microsoft_copilot_by_og_nimbi_djn78vn-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi84MzZiZDAwMS1mYzFlLTQxYWMtOGZjZS05MTdiZWU1ZDFmMGUvZGpuNzh2bi1mZTk1NDVkMi04MTBkLTQxZjAtYjBlMi1hZDA5Y2U3Zjk4NDcuanBnIiwiaGVpZ2h0IjoiPD0xMDAwIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uud2F0ZXJtYXJrIl0sIndtayI6eyJwYXRoIjoiL3dtLzgzNmJkMDAxLWZjMWUtNDFhYy04ZmNlLTkxN2JlZTVkMWYwZS9vZy1uaW1iaS00LnBuZyIsIm9wYWNpdHkiOjk1LCJwcm9wb3J0aW9ucyI6MC40NSwiZ3Jhdml0eSI6ImNlbnRlciJ9fQ.IFSNLzgjTNY1m5nLnBsp7hMEX4lE8n1qE8p0U2yuoM0" alt="Microsoft Copilot" width="600" height="400">
   </a>
   <div class="desc">Microsoft Copilot</div>
 </div>
