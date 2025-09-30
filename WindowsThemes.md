@@ -9,15 +9,15 @@ We offer a variety of custom Windows Themes that you can download and install to
 
 {: .note }
 > {: .opaque }
-> This list is not in any particular order and may change at any time.
+> **Note**: This list is not in any particular order and may change at any time.
 
 {: .important  }
 > {: .opaque }
-> Due to the increasing difficulty with using custom MSSTYLE themes on modern versions of Windows, we have shifted our focus to providing Deskthemepacks and Windhawk themes. These formats are more compatible with the latest Windows updates and offer a smoother user experience. As such, support for custom MSSTYLE themes has been discontinued. Visit the our [GitLab Repo](https://gitlab.com/the-back-room/) to download any existing MSSTYLE themes.
+> ⚠️ **Important**: Due to the increasing difficulty with using custom MSSTYLE themes on modern versions of Windows, we have shifted our focus to providing Deskthemepacks and Windhawk themes. These formats are more compatible with the latest Windows updates and offer a smoother user experience. As such, support for custom MSSTYLE themes has been discontinued. Visit the our [GitLab Repo](https://gitlab.com/the-back-room/) to download any existing MSSTYLE themes.
 
-## Available Themes
+## Deskthemepacks
 
-- **Deskthemepacks**: Themes for Windows 10 and Windows 11.
+A collection of Deskthemepacks for Windows 10 and 11.
 
 <div class="gallery">
 
@@ -156,7 +156,12 @@ We offer a variety of custom Windows Themes that you can download and install to
 
 </div>
 
-- **Windhawk Themes**: Custom themes for Windows 11 created using Windhawk. *Note: These themes require the [Windhawk](https://windhawk.net) application to be installed and configured. This list is not in any particular order and may change at any time.*
+## Windhawk Themes
+A collection of Windhawk themes for Windows 10 and 11.
+
+> {: .note }
+> {: .opaque }
+> **Note**: Windhawk is a powerful theming engine for Windows that allows users to customize various aspects of the Windows interface. It provides a flexible and user-friendly way to apply themes without the need for complex modifications or third-party software. Windhawk themes can change the appearance of windows, buttons, menus, and other UI elements, giving users the ability to personalize their Windows experience to their liking. For more information and to download Windhawk, visit the [official Windhawk website](https://windhawk.net/).
 
 <div class="gallery">
 <div class="gallery-item">
