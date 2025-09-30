@@ -13,7 +13,7 @@ A NSFW theme pack for Windows 10 and 11 featuring wallpapers of girls from the N
 
 {: .important }
 > {: .opaque }
-> ⚠️ **Warning**: This theme pack contains adult content and is intended for mature audiences only. Viewer discretion is advised.
+> ⚠️ **Warning**: This theme pack contains adult content and is intended for mature audiences only. Viewer discretion is advised.  
 > Content includes:
 > - Nudity
 > - Sexual Content
