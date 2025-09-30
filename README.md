@@ -32,9 +32,6 @@ Here are some ways to get involved:
 - **Discord Community**: Join our [Discord server](https://discord.gg/Yxj2t8ZbvX) to connect with other members, share ideas, and get support.
 - **Social Communities**: We have a few social communities hosted by some of our members that we proudly invite you to join. You can find them on our [Social](https://the-back-room.info/Social) page.
 
-### Roadmap
-We are continuously working on new projects and improvements. You can check out our currently planned projects on our [Roadmap](https://the-back-room.info/Roadmap).
-
 ### Contributing
 We encourage contributions to our projects. Please refer to our [Contributing Guidelines](https://the-back-room.info/Contributing) for detailed instructions on how to contribute effectively.
 

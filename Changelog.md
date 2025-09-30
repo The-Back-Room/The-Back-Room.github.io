@@ -12,6 +12,14 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Dates are formatted as `YYYY-MM-DD`
 - Entries are listed in reverse chronological order, with the most recent changes at the top.
 
+### 2025-09-29
+
+- Project Updates:
+  - Create new themes: Naruto Hentai, Futanari Hentai
+
+- Content Management:
+  - Consolidate theme categories on the Windows Themes page by merging SFW and NSFW sections into a single list for better organization.
+  - Remove the ROADMAP page as it is not necessary for our website.
 
 ### 2025-09-28
 
@@ -109,11 +117,6 @@ This page provides a detailed log of changes, updates, and improvements made to 
   - Change the URL structure on all pages from relative links to absolute links for better reliability.
   - Change preview image links to use GitHub's raw image URLs so they display correctly both in the repository and on the website.
   - Fixed minor typos and grammatical errors across multiple pages.
-
-### 2025-09-29
-
-- Project Updates:
-  - Create new theme(s): Naruto Hentai, Futanari Hentai
   
 ### 2025-09-12
 
