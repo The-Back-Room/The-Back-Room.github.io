@@ -154,26 +154,3 @@ We offer a variety of custom Windows Themes that you can download and install to
 </div>
 
 </div>
-
-## Windhawk Themes
-A collection of Windhawk themes for Windows 10 and 11.
-
-> {: .note }
-> {: .opaque }
-> **Note**: Windhawk is a powerful theming engine for Windows that allows users to customize various aspects of the Windows interface. It provides a flexible and user-friendly way to apply themes without the need for complex modifications or third-party software. Windhawk themes can change the appearance of windows, buttons, menus, and other UI elements, giving users the ability to personalize their Windows experience to their liking. For more information and to download Windhawk, visit the [official Windhawk website](https://windhawk.net/).
-
-<div class="gallery">
-<div class="gallery-item">
-  <a target="_blank" href="https://the-back-room.info/WindhawkThemes/AcrylicUI">
-    <img src="https://the-back-room.info/assets/images/previews/notification-center-styler/acrylic.bmp?raw=True" alt="Acrylic UI" width="600" height="400">
-  </a>
-  <div class="desc">Acrylic UI</div>
-</div>
-
-<div class="gallery-item">
-  <a target="_blank" href="https://the-back-room.info/WindhawkThemes/DownAeroSquared">
-    <img src="https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview.bmp?raw=True" alt="DownAero Squared" width="600" height="400">
-  </a>
-  <div class="desc">DownAero Squared</div>
-</div>
-</div>
