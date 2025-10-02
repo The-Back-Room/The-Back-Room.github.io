@@ -24,11 +24,11 @@ We offer a variety of custom Windows Themes that you can download and install to
 
 ## Theme Categories
 
-- [Anime Themes](/WindowsThemes/Category/Anime) - A collection of themes for Windows 10 and 11 based off of anime and manga
-- [Cartoon Themes](/WindowsThemes/Category/Cartoon) - A collection of themes for Windows 10 and 11 based off of western animation and cartoons
-- [Gaming Themes](/WindowsThemes/Category/Gaming) - A collection of themes for Windows 10 and 11 based off of popular games
-- [Horror Themes](/WindowsThemes/Category/Horror) - A collection of themes for Windows 10 and 11 based off of popular horror films and series
-- [Miscellanious Themes](/WindowsThemes/Category/Miscellanious) - A collection of themes for Windows 10 and 11 that don't fit into other categories
+- [Anime Themes](/WindowsThemes/c/Anime) - Themes for Windows 10 and 11 based off of anime and manga
+- [Cartoon Themes](/WindowsThemes/c/Cartoon) - Themes for Windows 10 and 11 based off of western animation and cartoons
+- [Gaming Themes](/WindowsThemes/c/Gaming) - Themes for Windows 10 and 11 based off of popular games
+- [Horror Themes](/WindowsThemes/c/Horror) - Themes for Windows 10 and 11 based off of popular horror films and series
+- [Miscellanious Themes](/WindowsThemes/c/Miscellanious) - Themes for Windows 10 and 11 that don't fit into other categories
 
 ---
 

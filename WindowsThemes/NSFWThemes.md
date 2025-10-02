@@ -1,8 +1,8 @@
 ---
-title: NSFW Themes
-summary: A collection of NSFW themes for Windows 10 and 11
+title: Themes
+summary: Themes for Windows 10 and 11
 parent: Windows Themes
-permalink: /WindowsThemes/NSFWThemes
+permalink: /WindowsThemes/nsfw
 ---
 
 {: .note }
@@ -21,11 +21,11 @@ permalink: /WindowsThemes/NSFWThemes
 
 ## Theme Categories
 
-- [Anime Themes](/WindowsThemes/NSFWThemes/Category/Anime) - A collection of NSFW themes for Windows 10 and 11 based off of anime and manga
-- [Cartoon Themes](/WindowsThemes/NSFWThemes/Category/Cartoon) - A collection of NSFW themes for Windows 10 and 11 based off of western animation and cartoons
-- [Gaming Themes](/WindowsThemes/NSFWThemes/Category/Gaming) - A collection of NSFW themes for Windows 10 and 11 based off of popular games
-- [Horror Themes](/WindowsThemes/NSFWThemes/Category/Horror) - A collection of NSFW themes for Windows 10 and 11 based off of popular horror films and series
-- [Miscellanious Themes](/WindowsThemes/NSFWThemes/Category/Miscellanious) - A collection of NSFW themes for Windows 10 and 11 that don't fit into other categories
+- [Anime Themes](/WindowsThemes/c/nsfw/Anime) - Themes for Windows 10 and 11 based off of anime and manga
+- [Cartoon Themes](/WindowsThemes/c/nsfw/Cartoon) - Themes for Windows 10 and 11 based off of western animation and cartoons
+- [Gaming Themes](/WindowsThemes/c/nsfw/Gaming) - Themes for Windows 10 and 11 based off of popular games
+- [Horror Themes](/WindowsThemes/c/nsfw/Horror) - Themes for Windows 10 and 11 based off of popular horror films and series
+- [Miscellanious Themes](/WindowsThemes/c/nsfw/Miscellanious) - Themes for Windows 10 and 11 that don't fit into other categories
 
 ---
 

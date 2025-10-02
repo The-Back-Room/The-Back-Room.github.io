@@ -1,9 +1,9 @@
 ---
-title: NSFW Miscellanious Themes
-summary: A collection of NSFW themes for Windows 10 and 11 that don't fit into other categories
+title: NSFW Gaming Themes
+summary: A collection of NSFW themes for Windows 10 and 11 based off of popular games
 parent: NSFW Themes
 grand_parent: Windows Themes
-permalink: /WindowsThemes/NSFWThemes/Category/Miscellanious
+permalink: /WindowsThemes/c/nsfw/Gaming
 ---
 
 {: .note }
@@ -12,6 +12,13 @@ permalink: /WindowsThemes/NSFWThemes/Category/Miscellanious
 > ⚠️ **Warning**: These theme packs contains adult content and is intended for mature audiences only. Viewer discretion is advised.
 > 
 > By downloading and using these themes, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. If you are not of legal age or do not wish to view such content, please leave this page and do not download or use these themes. The creator of these themes is not responsible for any misuse or inappropriate distribution of the content provided. Please use these themes responsibly and respect the rights of others. 
+
+{: .note }
+> {: .opaque }
+> {: .important }
+> **Disclaimer**: The following theme packs are based off of popular games. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
+> 
+> This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
 
 {: .important }
 > {: .opaque }
@@ -28,22 +35,10 @@ permalink: /WindowsThemes/NSFWThemes/Category/Miscellanious
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi">
-<img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/-/raw/main/Extras/Preview.bmp" alt="Ecchi" width="600" height="400">
+<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/raw/main/Extras/Preview.bmp" alt="Final Fantasy XIV Waifus" width="600" height="400">
 </a>
-<div class="desc">Ecchi</div>
-</div>
-<div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/LewdGamerWaifus">
-<img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/raw/main/Extras/Preview.bmp" alt="Lewd Gamer Waifus" width="600" height="400">
-</a>
-<div class="desc">Lewd Gamer Waifus</div>
-</div>
-<div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/FutanariHentai">
-<img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/futanari-hentai/-/raw/main/Extras/Preview.bmp" alt="Futanari Hentai" width="600" height="400">
-</a>
-<div class="desc">Futanari Hentai</div>
+<div class="desc">Final Fantasy XIV Waifus</div>
 </div>
 </div>
 

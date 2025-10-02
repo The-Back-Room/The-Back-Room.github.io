@@ -2,7 +2,7 @@
 title: NSFW Miscellanious Themes
 summary: A collection of themes for Windows 10 and 11 that don't fit into other categories
 parent: Windows Themes
-permalink: /WindowsThemes/Category/Miscellanious
+permalink: /WindowsThemes/c/Miscellanious
 ---
 
 <div class="gallery text-delta">

@@ -2,7 +2,7 @@
 title: Gaming Themes
 summary: A collection of themes for Windows 10 and 11 based off of popular games
 parent: Windows Themes
-permalink: /WindowsThemes/Category/Gaming
+permalink: /WindowsThemes/c/Gaming
 ---
 
 <div class="gallery text-delta">
