@@ -29,6 +29,8 @@ This page provides a detailed log of changes, updates, and improvements made to 
   - Added theme categories for better organization and easier browsing.
   - Created gallery pages for SFW and NSFW themes to showcase available themes in a more visually appealing way.
   - Update CHANGELOG organization for cleaner presentation of changes.
+  - Remove Contact page and move Discord link to the Social page for easier access.
+  - Revise Social page to enhance community descriptions and remove badge images for clarity.
 
 ### 2025-09-29
 
