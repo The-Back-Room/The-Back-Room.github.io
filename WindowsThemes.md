@@ -16,9 +16,6 @@ We offer a variety of custom Windows Themes that you can download and install to
 {: .note }
 > {: .opaque }
 > **Note**: Some of these themes are based off of popular games, tv shows/movies, and anime/manga series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders. This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
-> 
-> - NSFW themes are located on our [NSFW Themes](https://the-back-room.info/WindowsThemes/NSFWThemes) page.  
-> - Windhawk themes are located on our [Windhawk Themes](https://the-back-room.info/WindowsThemes/WindhawkThemes) page.
 
 <div class="gallery text-delta">
 
@@ -155,4 +152,9 @@ We offer a variety of custom Windows Themes that you can download and install to
   <div class="desc">Unity 2016</div>
 </div>
 
+</div>
+
+<div class="text-delta">
+<a href="https://the-back-room.info/WindowsThemes/NSFWThemes"><button type="button" name="button" class="btn">NSFW Themes</button></a> 
+<a href="https://the-back-room.info/WindowsThemes/WindhawkThemes"><button type="button" name="button" class="btn">Windhawk Themes</button></a>
 </div>
