@@ -11,43 +11,43 @@ Themes for Windows 10 and 11 based off of popular video games
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Gaming/FFXIVARealmReborn">
+<a target="_blank" href="/WindowsThemes/c/Gaming/FFXIVARealmReborn">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/-/raw/main/Extras/Preview.bmp" alt="FFXIV A Realm Reborn" width="600" height="400">
 </a>
 <div class="desc">FFXIV A Realm Reborn</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Gaming/FFXIVHeavensward">
+<a target="_blank" href="/WindowsThemes/c/Gaming/FFXIVHeavensward">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-heavensward/-/raw/main/Extras/Preview.bmp" alt="FFXIV Heavensward" width="600" height="400">
 </a>
 <div class="desc">FFXIV Heavensward</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Gaming/FFXIVStormblood">
+<a target="_blank" href="/WindowsThemes/c/Gaming/FFXIVStormblood">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-stormblood/-/raw/main/Extras/Preview.bmp" alt="FFXIV Stormblood" width="600" height="400">
 </a>
 <div class="desc">FFXIV Stormblood</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Gaming/FFXIVShadowbringers">
+<a target="_blank" href="/WindowsThemes/c/Gaming/FFXIVShadowbringers">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-shadowbringers/-/raw/main/Extras/Preview.bmp" alt="FFXIV Shadowbringers" width="600" height="400">
 </a>
 <div class="desc">FFXIV Shadowbringers</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Gaming/FFXIVEndwalker">
+<a target="_blank" href="/WindowsThemes/c/Gaming/FFXIVEndwalker">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-endwalker/-/raw/main/Extras/Preview.bmp" alt="FFXIV Endwalker" width="600" height="400">
 </a>
 <div class="desc">FFXIV Endwalker</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Gaming/FFXIVDawntrail">
+<a target="_blank" href="/WindowsThemes/c/Gaming/FFXIVDawntrail">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-dawntrail/-/raw/main/Extras/Preview.bmp" alt="FFXIV Dawntrail" width="600" height="400">
 </a>
 <div class="desc">FFXIV Dawntrail</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Gaming/OnceHuman">
+<a target="_blank" href="/WindowsThemes/c/Gaming/OnceHuman">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/raw/main/Extras/Preview.bmp" alt="Once Human" width="600" height="400">
 </a>
 <div class="desc">Once Human</div>

@@ -11,7 +11,7 @@ Themes for Windows 10 and 11 based off of popular western animation and cartoons
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Cartoon/CourageTCD">
+<a target="_blank" href="/WindowsThemes/c/Cartoon/CourageTCD">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/raw/main/Extras/Preview.bmp" alt="Courage the Cowardly Dog" width="600" height="400">
 </a>
 <div class="desc">Courage the Cowardly Dog</div>
