@@ -26,6 +26,6 @@ Themes for Windows 10 and 11 containing adult content
 > - Mature Themes or Situations
 > - Fetish or Kink-Related Content
 > - Explicit Images or Illustrations
-> - Content that may be offensive to some viewers
 > - Adult content based on video games, anime, movies, tv shows, or cartoons
+> - Content that may be offensive to some viewers
 > - Other content deemed inappropriate for younger audiences
