@@ -45,3 +45,7 @@ permalink: /WindowsThemes/NSFWThemes/Category/Anime
 <div class="desc">Love Stage!!</div>
 </div>
 </div>
+
+---
+
+<a href="/WindowsThemes" class="btn btn--secondary btn--sm">Back to Windows Themes</a>

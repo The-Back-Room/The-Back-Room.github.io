@@ -35,3 +35,7 @@ permalink: /WindowsThemes/NSFWThemes
 - [Gaming Themes](/WindowsThemes/NSFWThemes/Category/Gaming) - A collection of NSFW themes for Windows 10 and 11 based off of popular games
 - [Horror Themes](/WindowsThemes/NSFWThemes/Category/Horror) - A collection of NSFW themes for Windows 10 and 11 based off of popular horror films and series
 - [Miscellanious Themes](/WindowsThemes/NSFWThemes/Category/Miscellanious) - A collection of NSFW themes for Windows 10 and 11 that don't fit into other categories
+
+---
+
+<a href="/WindowsThemes" class="btn btn--secondary btn--sm">Back to Windows Themes</a>

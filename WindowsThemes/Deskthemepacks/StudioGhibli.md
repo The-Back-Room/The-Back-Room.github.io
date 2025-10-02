@@ -25,3 +25,7 @@ A theme pack for Windows 10 and 11 inspired by the films of Studio Ghibli.
 - Apply the theme via `Settings > Personalization > Themes`
 
 [![Download](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/-/archive/main/studio-ghibli-main.zip)
+
+---
+
+<a href="/WindowsThemes" class="btn btn--secondary btn--sm">Back to Windows Themes</a>

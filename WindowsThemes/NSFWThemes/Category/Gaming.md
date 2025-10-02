@@ -21,3 +21,7 @@ permalink: /WindowsThemes/NSFWThemes/Category/NSFW/Gaming
 <div class="desc">Final Fantasy XIV Waifus</div>
 </div>
 </div>
+
+---
+
+<a href="/WindowsThemes" class="btn btn--secondary btn--sm">Back to Windows Themes</a>
