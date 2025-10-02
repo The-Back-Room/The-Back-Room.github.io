@@ -11,6 +11,10 @@ Theme inspired by neiio's Unity 2014 Visual Style.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/raw/main/Extras/Preview.bmp)
 
+{: .note }
+> {: .opaque }
+> Due to the format of some of the resources in this theme, this theme pack requires manual installation. Please follow the instructions below to install the theme.
+
 ### Features
 
 - Custom Cursors

@@ -11,6 +11,10 @@ Theme packs for Windows 10 and 11 inspired by the MacOS operating system.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/raw/main/Extras/Preview.bmp)
 
+{: .note }
+> {: .opaque }
+> Due to the amount of themes included in this suite and the size of some of the resources, these themes require manual installation. Please follow the instructions below to install the themes.
+
 ### Features
 
 - Custom Cursors
