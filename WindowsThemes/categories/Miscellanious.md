@@ -1,9 +1,13 @@
 ---
-title: NSFW Miscellaneous Themes
+title: Miscellaneous Themes
 summary: A collection of themes for Windows 10 and 11 that don't fit into other categories
 parent: Windows Themes
 permalink: /WindowsThemes/c/Miscellaneous
 ---
+
+{: .note }
+> {: .opaque }
+> The following themes are a collection of various themes that don't fit into other categories. This includes themes based off of operating systems, software, and other miscellaneous topics.
 
 <div class="gallery text-delta">
 <div class="gallery-item">

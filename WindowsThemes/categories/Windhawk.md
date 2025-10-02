@@ -1,8 +1,8 @@
 ---
 title: Windhawk Themes
 summary: A collection of Windhawk themes for Windows 10 and 11
-nav_exclude: true
-permalink: /WindowsThemes/WindhawkThemes
+parent: Windows Themes
+permalink: /WindowsThemes/c/windhawk
 ---
 
 {: .note }
@@ -15,13 +15,13 @@ permalink: /WindowsThemes/WindhawkThemes
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/WindhawkThemes/AcrylicUI">
+<a target="_blank" href="/WindowsThemes/c/windhawk/AcrylicUI">
 <img src="https://the-back-room.info/assets/images/previews/notification-center-styler/acrylic.bmp?raw=True" alt="Acrylic UI" width="600" height="400">
 </a>
 <div class="desc">Acrylic UI</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/WindhawkThemes/DownAeroSquared">
+<a target="_blank" href="/WindowsThemes/c/windhawk/DownAeroSquared">
 <img src="https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview.bmp?raw=True" alt="DownAero Squared" width="600" height="400">
 </a>
 <div class="desc">DownAero Squared</div>
