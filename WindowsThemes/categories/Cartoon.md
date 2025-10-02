@@ -10,6 +10,8 @@ permalink: /WindowsThemes/c/Cartoon
 > {: .opaque }
 > {: .important }
 > **Disclaimer**: The following themes are based off of popular western animation and cartoon series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
+> 
+> This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
 
 <div class="gallery text-delta">
 <div class="gallery-item">
