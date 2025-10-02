@@ -6,6 +6,9 @@ parent: Windows Themes
 permalink: /WindowsThemes/c/Horror
 ---
 
+## Horror Themes
+Themes for Windows 10 and 11 based off of popular horror films and series
+
 {: .note }
 > {: .opaque }
 > {: .important }

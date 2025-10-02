@@ -7,6 +7,9 @@ grand_parent: Windows Themes
 permalink: /WindowsThemes/c/nsfw/Miscellaneous
 ---
 
+## NSFW Miscellaneous Themes
+Themes for Windows 10 and 11 that don't fit into other categories
+
 {: .note }
 > {: .opaque }
 > {: .important }
@@ -47,7 +50,3 @@ permalink: /WindowsThemes/c/nsfw/Miscellaneous
 <div class="desc">Futanari Hentai</div>
 </div>
 </div>
-
----
-
-<a href="/WindowsThemes" class="btn btn--secondary btn--sm">Back to Windows Themes</a>

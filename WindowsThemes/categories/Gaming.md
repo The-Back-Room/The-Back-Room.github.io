@@ -1,10 +1,13 @@
 ---
 title: Gaming Themes
-summary: Themes for Windows 10 and 11 based off of popular games
+summary: Themes for Windows 10 and 11 based off of popular video games
 nav_order: 2.3
 parent: Windows Themes
 permalink: /WindowsThemes/c/Gaming
 ---
+
+## Gaming Themes
+Themes for Windows 10 and 11 based off of popular video games
 
 {: .note }
 > {: .opaque }

@@ -6,6 +6,9 @@ parent: Windows Themes
 permalink: /WindowsThemes/c/Miscellaneous
 ---
 
+## Miscellaneous Themes
+Themes for Windows 10 and 11 that don't fit into other categories
+
 {: .note }
 > {: .opaque }
 > The following themes are a collection of various themes that don't fit into other categories. This includes themes based off of operating systems, software, and other miscellaneous topics.
