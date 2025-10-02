@@ -9,13 +9,6 @@ permalink: /WindowsThemes/c/Horror
 ## Horror Themes
 Themes for Windows 10 and 11 based off of popular horror films and series
 
-{: .note }
-> {: .opaque }
-> {: .important }
-> **Disclaimer**: The following themes are based off of popular horror films and series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
-> 
-> This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
-
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Horror/ANightmareOnElmStreet">
@@ -30,3 +23,10 @@ Themes for Windows 10 and 11 based off of popular horror films and series
 <div class="desc">IT</div>
 </div>
 </div>
+
+{: .note }
+> {: .opaque }
+> {: .important }
+> **Disclaimer**: These theme packs are based off of popular horror films and series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
+>
+> These theme packs are intended for personal use only and should not be redistributed or used for commercial purposes.
