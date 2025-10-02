@@ -1,0 +1,23 @@
+---
+title: NSFW Gaming Themes
+summary: A collection of NSFW themes for Windows 10 and 11 based off of popular games
+parent: NSFW Themes
+grand_parent: Windows Themes
+permalink: /WindowsThemes/NSFWThemes/Category/NSFW/Gaming
+---
+
+{: .note }
+> {: .opaque }
+> {: .important }
+> ⚠️ **Warning**: This theme pack contains adult content and is intended for mature audiences only. Viewer discretion is advised.
+> 
+> By downloading and using these themes, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. If you are not of legal age or do not wish to view such content, please leave this page and do not download or use these themes. The creator of these themes is not responsible for any misuse or inappropriate distribution of the content provided. Please use these themes responsibly and respect the rights of others.
+
+<div class="gallery text-delta">
+<div class="gallery-item">
+<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/FinalFantasyXIVWaifus">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/raw/main/Extras/Preview.bmp" alt="Final Fantasy XIV Waifus" width="600" height="400">
+</a>
+<div class="desc">Final Fantasy XIV Waifus</div>
+</div>
+</div>
