@@ -18,12 +18,17 @@ A theme pack for Windows 10 and 11 inspired by the anime and manga "Love Stage!!
 > 
 > By downloading and using these themes, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. The creator of these themes is not responsible for any misuse or inappropriate distribution of the content provided. Please use these themes responsibly and respect the rights of others.
 
+
 {: .warning }
 > {: .opaque }
 > This theme pack contains the following types of adult content:
 > 
 > - Boy Love (BL) Themes
 > - Suggestive Themes
+
+The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](https://the-back-room.github.io/WindowsThemes/WindhawkThemes/DownAeroSquared).
+
+Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 
 ### Features
 
