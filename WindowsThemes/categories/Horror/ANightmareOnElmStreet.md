@@ -6,8 +6,11 @@ permalink: /WindowsThemes/c/Horror/ANightmareOnElmStreet/
 ---
 
 ## A Nightmare on Elm Street
-
 Theme for Windows 10 and 11 inspired by the horror franchise "A Nightmare on Elm Street".
+
+{: .important }
+> {: .opaque }
+> This theme pack contains horror-themed content and may not be suitable for all audiences. Viewer discretion is advised.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/raw/main/Extras/Preview.bmp)
 

@@ -6,8 +6,11 @@ permalink: /WindowsThemes/c/Horror/IT
 ---
 
 ## IT
-
 Theme for Windows 10 and 11 inspired by the horror movie franchise IT.
+
+{: .important }
+> {: .opaque }
+> This theme pack contains horror-themed content and may not be suitable for all audiences. Viewer discretion is advised.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/raw/main/Extras/Preview.bmp)
 
