@@ -4,7 +4,7 @@ summary: Themes for Windows 10 and 11 based off of popular anime and manga serie
 nav_order: 2.7.1
 parent: NSFW Themes
 grand_parent: Windows Themes
-permalink: /WindowsThemes/c/nsfw/Anime
+permalink: /WindowsThemes/c/nsfw/nsfw/Anime
 ---
 
 ## Anime Themes
@@ -32,31 +32,31 @@ Themes for Windows 10 and 11 based off of popular anime and manga series
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/c/Anime/BLEACHHentai">
+<a target="_blank" href="/WindowsThemes/c/nsfw/Anime/BLEACHHentai">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/-/raw/main/Extras/Preview.bmp" alt="BLEACH Hentai" width="600" height="400">
 </a>
 <div class="desc">BLEACH Hentai</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/c/Anime/RanmaHentai">
+<a target="_blank" href="/WindowsThemes/c/nsfw/Anime/RanmaHentai">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/raw/main/Extras/Preview.bmp" alt="Ranma Hentai" width="600" height="400">
 </a>
 <div class="desc">Ranma Hentai</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/c/Anime/NarutoHentai">
+<a target="_blank" href="/WindowsThemes/c/nsfw/Anime/NarutoHentai">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/-/raw/main/Extras/Preview.bmp" alt="Naruto Hentai" width="600" height="400">
 </a>
 <div class="desc">Naruto Hentai</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/c/Anime/NarutoNinjaHotsprings">
+<a target="_blank" href="/WindowsThemes/c/nsfw/nsfw/Anime/NarutoNinjaHotsprings">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-ninja-hotsprings/-/raw/main/Extras/Preview.bmp" alt="Naruto Ninja Hotsprings" width="600" height="400">
 </a>
 <div class="desc">Naruto Ninja Hotsprings</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/c/Anime/LoveStage">
+<a target="_blank" href="/WindowsThemes/c/nsfw/nsfw/Anime/LoveStage">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/raw/main/Extras/Preview.bmp" alt="Love Stage!!" width="600" height="400">
 </a>
 <div class="desc">Love Stage!!</div>
