@@ -12,15 +12,15 @@ Themes for Windows 10 and 11 based off of popular anime and manga series
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Anime/BLEACH">
-<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview.bmp" alt="Bleach" width="600" height="400">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview.bmp" alt="BLEACH" width="600" height="400">
 </a>
-<div class="desc">Bleach</div>
+<div class="desc">BLEACH</div>
 </div>
 <div class="gallery-item">
 <a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Anime/BLEACHThousandYearBloodWar">
-<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/raw/main/Extras/Preview.bmp" alt="Bleach: Thousand Year Blood War" width="600" height="400">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/raw/main/Extras/Preview.bmp" alt="BLEACH Thousand Year Blood War" width="600" height="400">
 </a>
-<div class="desc">Bleach: Thousand Year Blood War</div>
+<div class="desc">BLEACH Thousand Year Blood War</div>
 </div>
 <div class="gallery-item">
 <a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Anime/StudioGhibli">
