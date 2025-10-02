@@ -1,6 +1,7 @@
 ---
 title: Miscellaneous Themes
 summary: A collection of themes for Windows 10 and 11 that don't fit into other categories
+nav_order: 1.5
 parent: Windows Themes
 permalink: /WindowsThemes/c/Miscellaneous
 ---

@@ -1,5 +1,4 @@
 ---
----
 title: Windows Themes
 summary: A collection of custom themes and visual styles for Windows operating systems.
 nav_order: 2.0

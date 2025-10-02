@@ -1,6 +1,7 @@
 ---
-title: Themes
-summary: Themes for Windows 10 and 11
+title: NSFW Themes
+summary: Themes for Windows 10 and 11 containing adult content
+nav_order: 1.7
 parent: Windows Themes
 permalink: /WindowsThemes/c/nsfw
 ---
