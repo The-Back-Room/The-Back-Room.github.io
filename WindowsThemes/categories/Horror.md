@@ -13,8 +13,6 @@ Themes for Windows 10 and 11 based off of popular horror films and series
 > {: .opaque }
 > ⚠️ **Content Warning**: These theme packs include imagery and themes related to horror, violence, and supernatural elements that may be disturbing to some viewers. Viewer discretion is advised.
 
-Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
-
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="/WindowsThemes/c/Horror/ANightmareOnElmStreet">
