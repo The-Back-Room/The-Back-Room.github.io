@@ -13,7 +13,7 @@ Themes for Windows 10 and 11 based off of popular horror films and series
 {: .important }
 > {: .opaque }
 > {: .warning }
-> ⚠️ These theme packs contain NSFW imagery and themes related to horror, violence, and supernatural elements that may be disturbing to some viewers. They are intended for mature audiences only. Viewer discretion is advised.
+> ⚠️ **Content Warning**: These theme packs contain NSFW imagery and themes related to horror, violence, and supernatural elements that may be disturbing to some viewers. They are intended for mature audiences only. Viewer discretion is advised.
 > 
 > ℹ️ By downloading and using these themes, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. The creator of these themes is not responsible for any misuse or inappropriate distribution of the content provided. Please use these themes responsibly and respect the rights of others.
 
