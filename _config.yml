@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://the-back-room.info" # the base hostname & protocol for your site
 
 remote_theme: "just-the-docs/just-the-docs" # using the Just the Docs theme
-color_scheme: twotone-dark # options: light, dark, twotone-light, twotone-dark
+color_scheme: twotone # options: light, dark, twotone
 
 social_image: "/assets/images/logo.png" # for SEO and social media cards
 favicon_ico: "/favicon.ico" # path to your favicon
