@@ -1,19 +1,17 @@
 ---
 title: Final Fantasy XIV Stormblood
-summary: A theme pack inspired by Final Fantasy XIV - Stormblood
+summary: Theme for Windows 10 and 11 inspired by Final Fantasy XIV - Stormblood
 nav_exclude: true
 permalink: /WindowsThemes/Deskthemepacks/c/Gaming/FFXIVStormblood
 ---
 
 ## Final Fantasy XIV - Stormblood
 
-A theme pack for Windows 10 and 11 inspired by Final Fantasy XIV - Stormblood.
+Theme for Windows 10 and 11 inspired by Final Fantasy XIV - Stormblood.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-stormblood/-/raw/main/Extras/Preview.bmp)
 
-{: .note }
-> {: .opaque }
-> Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
+Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 
 ### Features
 
@@ -27,7 +25,7 @@ A theme pack for Windows 10 and 11 inspired by Final Fantasy XIV - Stormblood.
 - Download and extract the archive via the download button below.
 - Double-Click the `.deskthemepack` file included to install the theme.
 
-[![Download](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-stormblood/-/archive/main/ffxiv-stormblood-main.zip)
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-stormblood/-/archive/main/ffxiv-stormblood-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Final Fantasy XIV Stormblood</a>
 
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Unity 2016
-summary: neiio's classic Unity 2016 icon pack ported to Resource Redirect.
+summary: neiio's Unity 2016 icons ported to Resource Redirect.
 nav_exclude: true
-permalink: /Windhawk/ResourceRedirect/Unity2016
+permalink: /IconPacks/Unity2016
 ---
 
 <div align="center">
@@ -21,4 +21,8 @@ permalink: /Windhawk/ResourceRedirect/Unity2016
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-[![Download](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto&label=GitLab&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2016/-/archive/main/unity-2016-main.zip)
+<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2016/-/archive/main/unity-2016-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Unity 2016</a>
+
+---
+
+<a href="/IconPacks" class="btn btn--secondary btn--sm">Back to Icon Packs</a>

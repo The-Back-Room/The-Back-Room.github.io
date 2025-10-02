@@ -9,9 +9,8 @@ permalink: /WindowsThemes/WindhawkThemes/AcrylicUI
 ## Acrylic UI
 Complete overhaul for Windows 11 with squared window corners and acrylic blur. 
 
-![Preview](https://the-back-room.info/assets/images/previews/start-menu-styler/acrylic.bmp?raw=True)  
-
-![Preview](https://the-back-room.info/assets/images/previews/notification-center-styler/acrylic.bmp?raw=True)  
+![Acrylic UI Preview 1](/assets/images/previews/notification-center-styler/acrylic.bmp?raw=True)
+![Acrylic UI Preview 2](/assets/images/previews/start-menu-styler/acrylic.bmp?raw=True)
 
 ### Requirements
 
@@ -21,9 +20,7 @@ Complete overhaul for Windows 11 with squared window corners and acrylic blur.
 
 ### Instructions
 
-- **Start Menu**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/StartMenuStyler/AcrylicUI)
-- **Taskbar**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/TaskbarStyler/AcrylicUI.md)
-- **Notification Center and Quick Settings**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/NotificationCenterStyler/AcrylicUI.md)
+To set up the theme, follow the instructions listed [here](/Tutorials/WindhawkThemes/AcrylicUI).
 
 ---
 

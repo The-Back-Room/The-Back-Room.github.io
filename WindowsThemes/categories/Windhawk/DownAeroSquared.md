@@ -9,7 +9,7 @@ permalink: /WindowsThemes/WindhawkThemes/DownAeroSquared
 
 Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
-![DownAero Squared Preview](https://the-back-room.info/assets/images/previews/windhawk-themes/down-aero-squared/Preview.bmp?raw=True)  
+![DownAero Squared Preview](/assets/images/previews/windhawk-themes/down-aero-squared/Preview.bmp?raw=True)  
 
 ### Requirements
 
@@ -20,9 +20,7 @@ Complete overhaul for Windows 11 based off of the Windhawk DownAero theme.
 
 ### Instructions
 
-- **Start Menu**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/StartMenuStyler/DownAeroSquared)
-- **Taskbar**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/TaskbarStyler/DownAeroSquared)
-- **Notification Center and Quick Settings**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/NotificationCenterStyler/DownAeroSquared)
+To set up the theme, follow the instructions listed [here](/Tutorials/WindhawkThemes/DownAeroSquared).
 
 ---
 

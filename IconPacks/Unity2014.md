@@ -1,8 +1,8 @@
 ---
 title: Unity 2014
-summary: neiio's classic Unity 2014 icon pack ported to Resource Redirect.
+summary: neiio's Unity 2014 icons ported to Resource Redirect.
 nav_exclude: true
-permalink: /Windhawk/ResourceRedirect/Unity2014
+permalink: /IconPacks/Unity2014
 ---
 
 <div align="center">
@@ -21,4 +21,8 @@ permalink: /Windhawk/ResourceRedirect/Unity2014
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-[![Download](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto&label=GitLab&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/archive/main/unity-2014-main.zip)
+<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/archive/main/unity-2014-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Unity 2014</a>
+
+---
+
+<a href="/IconPacks" class="btn btn--secondary btn--sm">Back to Icon Packs</a>

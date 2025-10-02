@@ -1,8 +1,8 @@
 ---
 title: Magnum Dark
-summary: A dark-themed icon pack with bold designs.
+summary: Razorsedges's Magnum Dark icons ported to Resource Redirect.
 nav_exclude: true
-permalink: /Windhawk/ResourceRedirect/MagnumDark
+permalink: /IconPacks/MagnumDark
 ---
 
 <div align="center">
@@ -21,4 +21,8 @@ permalink: /Windhawk/ResourceRedirect/MagnumDark
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-[![Download](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto&label=GitLab&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/archive/main/magnum-dark-main.zip)
+<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/archive/main/magnum-dark-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Magnum Dark</a>
+
+---
+
+<a href="/IconPacks" class="btn btn--secondary btn--sm">Back to Icon Packs</a>

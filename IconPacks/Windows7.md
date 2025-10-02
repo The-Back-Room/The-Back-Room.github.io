@@ -1,8 +1,8 @@
 ---
 title: Windows 7
-summary: An icon pack inspired by the Windows 7 interface.
+summary: Windows 7 icons ported to Resource Redirect.
 nav_exclude: true
-permalink: /Windhawk/ResourceRedirect/Windows7
+permalink: /IconPacks/Windows7
 ---
 
 <div align="center">
@@ -21,4 +21,8 @@ permalink: /Windhawk/ResourceRedirect/Windows7
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-[![Download](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto&label=GitLab&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/archive/main/windows-7-main.zip)
+<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/archive/main/windows-7-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Windows 7</a>
+
+---
+
+<a href="/IconPacks" class="btn btn--secondary btn--sm">Back to Icon Packs</a>

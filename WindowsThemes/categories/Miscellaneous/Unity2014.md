@@ -1,13 +1,13 @@
 ---
 title: Unity 2014
-summary: A theme pack inspired by the classic Unity 2014 visual style
+summary: Theme inspired by neiio's Unity 2014 Visual Style.
 nav_exclude: true
 permalink: /WindowsThemes/c/Miscellaneous/Unity2014
 ---
 
 ## Unity 2014
 
-A theme pack for Windows 10 and 11 inspired by the classic Unity 2014 visual style.
+Theme inspired by neiio's Unity 2014 Visual Style.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/raw/main/Extras/Preview.bmp)
 
@@ -25,7 +25,7 @@ A theme pack for Windows 10 and 11 inspired by the classic Unity 2014 visual sty
 - Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes\`
 - Apply the theme via `Settings > Personalization > Themes`
 
-[![Download](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/archive/main/unity-2014-main.zip)
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/unity-2014/-/archive/main/unity-2014-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Unity 2014</a>
 
 ---
 

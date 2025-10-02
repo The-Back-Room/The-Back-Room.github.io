@@ -1,21 +1,228 @@
 ---
 title: Acrylic UI
-summary: A modern, translucent notifications center style.
+summary: Instructions for setting up our Acrylic UI Windhawk theme
 nav_exclude: true
-permalink: /Windhawk/NotificationCenterStyler/AcrylicUI
+permalink: /Tutorials/WindhawkThemes/AcrylicUI
 ---
 
-![Preview](https://the-back-room.info/assets/images/previews/notification-center-styler/acrylic.bmp?raw=True)
+## Acrylic UI
+Instructions for setting up our Acrylic UI Windhawk theme
+
+![Acrylic UI Preview 1](/assets/images/previews/notification-center-styler/acrylic.bmp?raw=True)
+![Acrylic UI Preview 2](/assets/images/previews/start-menu-styler/acrylic.bmp?raw=True)
 
 ### Requirements
 
 - [Windhawk](https://windhawk.net/)
 - [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
+- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
+- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
 
-### Installation
+### Instructions
 
-- Copy and paste the code below into `Windhawk >> Windows 11 Notification Center Styler >> Advanced >> Mod Settings`
-- Click `Save`, then click `Load`
+1. **Start Menu**: Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> Advanced >> Mod Settings` and click `Save`
+
+
+
+```json
+{
+  "theme": "",
+  "disableNewStartMenuLayout": 1,
+  "controlStyles[0].target": "Windows.UI.Xaml.Controls.Button#CloseAllAppsButton",
+  "controlStyles[0].styles[0]": "CornerRadius = $radius",
+  "controlStyles[0].styles[1]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[1].target": "Windows.UI.Xaml.Controls.Button#ShowAllAppsButton",
+  "controlStyles[1].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[1].styles[1]": "CornerRadius = $radius",
+  "controlStyles[2].target": "Windows.UI.Xaml.Controls.GridViewItem",
+  "controlStyles[2].styles[0]": "Margin = 0",
+  "controlStyles[3].target": "Windows.UI.Xaml.Controls.SemanticZoom#ZoomControl",
+  "controlStyles[3].styles[0]": "IsZoomOutButtonEnabled = True",
+  "controlStyles[4].target": "Windows.UI.Xaml.Controls.Button#ZoomOutButton",
+  "controlStyles[4].styles[0]": "Width = 28",
+  "controlStyles[4].styles[1]": "Height = 28",
+  "controlStyles[5].target": "Windows.UI.Xaml.Controls.Button#ZoomOutButton > Windows.UI.Xaml.Controls.ContentPresenter#ContentPresenter > Windows.UI.Xaml.Controls.TextBlock",
+  "controlStyles[5].styles[0]": "Text = ",
+  "controlStyles[5].styles[1]": "FontSize = 18",
+  "controlStyles[6].target": "Border#AcrylicBorder",
+  "controlStyles[6].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0\" FallbackColor=\"Transparent\" />",
+  "controlStyles[6].styles[1]": "CornerRadius = $radius",
+  "controlStyles[7].target": "Border#AppBorder",
+  "controlStyles[7].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0\" FallbackColor=\"Transparent\" />",
+  "controlStyles[7].styles[1]": "CornerRadius = $radius",
+  "controlStyles[8].target": "StartDocked.SearchBoxToggleButton",
+  "controlStyles[8].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[8].styles[1]": "CornerRadius = $radius",
+  "controlStyles[8].styles[2]": "BorderThickness = $thickness",
+  "controlStyles[8].styles[3]": "BorderBrush := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.8\" FallbackColor=\"Transparent\" />",
+  "controlStyles[9].target": "Border#TaskbarSearchBackground",
+  "controlStyles[9].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[9].styles[1]": "CornerRadius = $radius",
+  "controlStyles[9].styles[2]": "BorderThickness = $thickness",
+  "controlStyles[9].styles[3]": "BorderBrush := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.8\" FallbackColor=\"Transparent\" />",
+  "controlStyles[10].target": "StartDocked.SearchBoxToggleButton#StartMenuSearchBox > Grid > Border#BorderElement",
+  "controlStyles[10].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[10].styles[1]": "CornerRadius = $radius",
+  "controlStyles[10].styles[2]": "BorderThickness = $thickness",
+  "controlStyles[10].styles[3]": "BorderBrush := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.8\" FallbackColor=\"Transparent\" />",
+  "controlStyles[11].target": "Windows.UI.Xaml.Controls.Grid#SearchBoxOnTaskbarGleamContainer",
+  "controlStyles[11].styles[0]": "CornerRadius = $radius",
+  "controlStyles[12].target": "Windows.UI.Xaml.Controls.Grid#MainContent",
+  "controlStyles[12].styles[0]": "CornerRadius = $radius",
+  "controlStyles[12].styles[1]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0\" FallbackColor=\"Transparent\" />",
+  "controlStyles[13].target": "Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsListHeader",
+  "controlStyles[13].styles[0]": "Visibility = Collapsed",
+  "controlStyles[14].target": "Windows.UI.Xaml.Controls.Grid#NoTopLevelSuggestionsText",
+  "controlStyles[14].styles[0]": "Visibility = Collapsed",
+  "controlStyles[15].target": "Windows.UI.Xaml.Controls.Grid#TopLevelSuggestionsContainer",
+  "controlStyles[15].styles[0]": "Visibility = Collapsed",
+  "controlStyles[16].target": "Windows.UI.Xaml.Controls.Grid#ShowMoreSuggestions",
+  "controlStyles[16].styles[0]": "Visibility = Collapsed",
+  "controlStyles[17].target": "StartMenu.PinnedList",
+  "controlStyles[17].styles[0]": "Height = 504",
+  "controlStyles[18].target": "Grid#AllAppsRoot",
+  "controlStyles[18].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.8\" FallbackColor=\"Transparent\" />",
+  "controlStyles[18].styles[1]": "CornerRadius = $radius",
+  "controlStyles[19].target": "Border#AcrylicOverlay",
+  "controlStyles[19].styles[0]": "CornerRadius = $radius",
+  "controlStyles[20].target": "Windows.UI.Xaml.Controls.Border#AppBorder",
+  "controlStyles[20].styles[0]": "CornerRadius = $radius",
+  "webContentStyles[0].target": "#qfPreviewPane",
+  "webContentStyles[0].styles[0]": "min-width: 300px !important",
+  "styleConstants[0]": "radius = 2",
+  "styleConstants[1]": "thickness = 1",
+  "controlStyles[21].target": "Windows.UI.Xaml.Controls.Image#SearchIconOn",
+  "controlStyles[22].target": "Windows.UI.Xaml.Controls.Image#SearchIconOff",
+  "controlStyles[23].target": "Windows.UI.Xaml.Controls.FontIcon#SearchGlyph",
+  "controlStyles[21].styles[0]": "Visibility = Collapsed",
+  "controlStyles[22].styles[0]": "Visibility = Collapsed",
+  "controlStyles[23].styles[0]": "Visibility = Visible",
+  "controlStyles[24].target": "Windows.UI.Xaml.Controls.TextBlock#PlaceholderText",
+  "controlStyles[24].styles[0]": "Text = Search",
+  "webContentStyles[1].target": "div, span, h1, h2, h3, h4, h5, p",
+  "webContentStyles[1].styles[0]": "font-family: $font !important",
+  "webContentStyles[2].target": ".cortanaFontIcon, .iconContent",
+  "webContentStyles[2].styles[0]": "font-family: $icons !important",
+  "webContentStyles[3].target": "#chatButtonRight",
+  "webContentStyles[3].styles[0]": "display: none !important",
+  "styleConstants[2]": "fontSize = 10",
+  "styleConstants[3]": "font = Segoe UI",
+  "styleConstants[4]": "icons = Segoe MDL2 Assets",
+  "controlStyles[25].target": "Windows.UI.Xaml.Controls.Primitives.RepeatButton#VerticalSmallIncrease > Windows.UI.Xaml.Controls.Grid > Windows.UI.Xaml.Controls.FontIcon#Arrow > Windows.UI.Xaml.Controls.Grid > Windows.UI.Xaml.Controls.TextBlock",
+  "controlStyles[26].target": "Windows.UI.Xaml.Controls.Primitives.RepeatButton#VerticalSmallDecrease > Windows.UI.Xaml.Controls.Grid > Windows.UI.Xaml.Controls.FontIcon#Arrow > Windows.UI.Xaml.Controls.Grid > Windows.UI.Xaml.Controls.TextBlock",
+  "controlStyles[26].styles[0]": "Text = ",
+  "controlStyles[25].styles[0]": "Text = ",
+  "controlStyles[27].target": "Windows.UI.Xaml.Controls.TextBlock",
+  "controlStyles[27].styles[0]": "FontFamily = $font, $icons",
+  "controlStyles[28].target": "Windows.UI.Xaml.Controls.FontIcon > Windows.UI.Xaml.Controls.Grid > Windows.UI.Xaml.Controls.TextBlock",
+  "controlStyles[28].styles[0]": "FontFamily = $font, $icons",
+  "controlStyles[29].target": "Windows.UI.Xaml.Controls.Button#HideMoreSuggestionsButton > Windows.UI.Xaml.Controls.ContentPresenter#ContentPresenter > Windows.UI.Xaml.Controls.StackPanel > Windows.UI.Xaml.Controls.FontIcon > Windows.UI.Xaml.Controls.Grid > Windows.UI.Xaml.Controls.TextBlock",
+  "controlStyles[29].styles[0]": "FontSize = $fontSize",
+  "controlStyles[4].styles[2]": "VerticalAlignment = Bottom"
+}
+```
+2. **Taskbar**: Copy and paste the code below into `Windhawk >> Windows 11 Taskbar Styler >> Advanced >> Mod Settings` and click `Save`
+
+```json
+{
+  "controlStyles[0].target": "Taskbar.TaskbarFrame > Grid#RootGrid > Taskbar.TaskbarBackground",
+  "controlStyles[0].styles[0]": "Margin = 12,5",
+  "controlStyles[0].styles[1]": "CornerRadius = $radius",
+  "controlStyles[1].target": "Taskbar.TaskbarFrame > Grid#RootGrid > Taskbar.TaskbarBackground > Grid > Rectangle#BackgroundFill",
+  "controlStyles[1].styles[0]": "Fill := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[2].target": "Grid#OverflowRootGrid > Border",
+  "controlStyles[2].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[2].styles[1]": "CornerRadius = $radius",
+  "controlStyles[3].target": "Grid#SystemTrayFrameGrid",
+  "controlStyles[3].styles[0]": "CornerRadius = $radius",
+  "controlStyles[3].styles[1]": "Margin = 0,8,16,8",
+  "controlStyles[3].styles[2]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[4].target": "Border#SearchPillBackgroundElement",
+  "controlStyles[4].styles[0]": "CornerRadius = $radius",
+  "controlStyles[4].styles[1]": "Margin = 3",
+  "controlStyles[4].styles[2]": "BorderThickness = $thickness",
+  "controlStyles[4].styles[3]": "BorderBrush := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.8\" FallbackColor=\"Transparent\" />",
+  "controlStyles[5].target": "SearchUx.SearchUI.SearchButtonRootGrid > Border#BackgroundElement",
+  "controlStyles[5].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[5].styles[1]": "CornerRadius = $radius",
+  "controlStyles[5].styles[2]": "BorderThickness = $thickness",
+  "controlStyles[5].styles[3]": "BorderBrush := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.8\" FallbackColor=\"Transparent\" />",
+  "controlStyles[6].target": "SearchUx.SearchUI.SearchIconButton > SearchUx.SearchUI.SearchButtonRootGrid@CommonStates > Border#BackgroundElement",
+  "controlStyles[6].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[6].styles[1]": "CornerRadius = $radius",
+  "controlStyles[7].target": "Taskbar.ExperienceToggleButton",
+  "controlStyles[7].styles[0]": "CornerRadius = $radius",
+  "controlStyles[8].target": "Taskbar.SearchBoxButton",
+  "controlStyles[8].styles[0]": "CornerRadius = $radius",
+  "controlStyles[9].target": "Taskbar.TaskListButton",
+  "controlStyles[9].styles[0]": "CornerRadius = $radius",
+  "controlStyles[10].target": "Windows.UI.Xaml.Controls.Grid#ModalRootGrid > Windows.UI.Xaml.Controls.Border#BackgroundElement ",
+  "controlStyles[10].styles[0]": "CornerRadius = $radius",
+  "controlStyles[10].styles[1]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[11].target": "Windows.UI.Xaml.Controls.Border#BackgroundDimmingLayer",
+  "controlStyles[11].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[11].styles[1]": "CornerRadius = $radius",
+  "controlStyles[12].target": "Windows.UI.Xaml.Shapes.Rectangle#HorizontalTrackRect",
+  "controlStyles[12].styles[0]": "Height = 5",
+  "controlStyles[13].target": "TextBlock#InnerTextBlock[Text=]",
+  "controlStyles[13].styles[0]": "Text = ",
+  "controlStyles[13].styles[1]": "Margin = 5",
+  "controlStyles[14].target": "Taskbar.TaskListLabeledButtonPanel@RunningIndicatorStates > Rectangle#RunningIndicator",
+  "controlStyles[14].styles[0]": "BackGround := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" TintOpacity=\"0.8\" FallbackColor=\"{ThemeResource SystemAltLowColor}\" />",
+  "controlStyles[15].target": "Taskbar.TaskItemThumbnailView > Grid > Border",
+  "controlStyles[15].styles[0]": "CornerRadius = $radius",
+  "controlStyles[15].styles[1]": "BorderThickness = $thickness",
+  "controlStyles[15].styles[2]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[15].styles[3]": "BorderBrush := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.8\" FallbackColor=\"Transparent\" />",
+  "controlStyles[16].target": "Border#ProgressBarRoot > Border > Grid > Rectangle",
+  "controlStyles[16].styles[0]": "Fill := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" TintOpacity=\"0.4\" FallbackColor=\"{ThemeResource SystemAltLowColor}\" />",
+  "controlStyles[17].target": "Border#ProgressBarRoot > Border > Grid > Rectangle#ProgressBarTrack",
+  "controlStyles[17].styles[0]": "Fill := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" TintOpacity=\"0.8\" FallbackColor=\"{ThemeResource SystemAltLowColor}\" />",
+  "controlStyles[18].target": "Taskbar.TaskListButtonPanel@CommonStates > Border#BackgroundElement",
+  "controlStyles[18].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0\" FallbackColor=\"Transparent\" />",
+  "controlStyles[18].styles[1]": "Background@ActiveNormal := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[18].styles[2]": "Background@ActivePressed := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" TintOpacity=\"0.6\" FallbackColor=\"{ThemeResource SystemAltLowColor}\" />",
+  "controlStyles[18].styles[3]": "Background@ActivePointerOver := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" TintOpacity=\"0.8\" FallbackColor=\"{ThemeResource SystemAltLowColor}\" />",
+  "controlStyles[18].styles[4]": "Background@InactiveNormal := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[18].styles[5]": "Background@InactivePressed := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" TintOpacity=\"0.6\" FallbackColor=\"{ThemeResource SystemAltLowColor}\" />",
+  "controlStyles[18].styles[6]": "Background@InactivePointerOver := <AcrylicBrush TintColor=\"{ThemeResource SystemAltLowColor}\" TintOpacity=\"0.8\" FallbackColor=\"{ThemeResource SystemAltLowColor}\" />",
+  "controlStyles[18].styles[7]": "Padding = 1,0,-10,0",
+  "controlStyles[18].styles[8]": "Margin = 3",
+  "controlStyles[18].styles[9]": "CornerRadius = $radius",
+  "controlStyles[19].target": "Taskbar.TaskListLabeledButtonPanel",
+  "controlStyles[19].styles[0]": "Margin = 3",
+  "controlStyles[20].target": "taskbar:TaskListLabeledButtonPanel@CommonStates > Border#BackgroundElement",
+  "controlStyles[20].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0\" FallbackColor=\"Transparent\" />",
+  "controlStyles[20].styles[1]": "Background@ActiveNormal := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[20].styles[2]": "Background@ActivePressed := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.6\" FallbackColor=\"Transparent\" />",
+  "controlStyles[20].styles[3]": "Background@ActivePointerOver := $altLow",
+  "controlStyles[20].styles[4]": "Background@InactiveNormal := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0\" FallbackColor=\"Transparent\" />",
+  "controlStyles[20].styles[5]": "Background@InactivePressed := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[20].styles[6]": "Background@InactivePointerOver := $altLow",
+  "controlStyles[20].styles[7]": "Background@MultiWindowNormal := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.4\" FallbackColor=\"Transparent\" />",
+  "controlStyles[20].styles[8]": "Background@MultiWindowPressed := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0.6\" FallbackColor=\"Transparent\" />",
+  "controlStyles[20].styles[9]": "Background@MultiWindowPointerOver := $altLow",
+  "controlStyles[21].target": "Taskbar.TaskbarBackground#HoverFlyoutBackgroundControl > Grid > Rectangle#BackgroundFill",
+  "controlStyles[21].styles[0]": "Fill := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0\" FallbackColor=\"Transparent\" />",
+  "controlStyles[22].target": "Rectangle#BackgroundStroke",
+  "controlStyles[22].styles[0]": "Fill := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0\" FallbackColor=\"Transparent\" />",
+  "controlStyles[23].target": "TextBlock#SearchBoxTextBlock",
+  "controlStyles[23].styles[0]": "Foreground = $foreground",
+  "controlStyles[23].styles[1]": "FontSize = $fontSize",
+  "controlStyles[24].target": "ToolTip",
+  "controlStyles[24].styles[0]": "Background := <AcrylicBrush TintColor=\"Transparent\" TintOpacity=\"0\" FallbackColor=\"Transparent\" />",
+  "controlStyles[24].styles[1]": "CornerRadius = $radius",
+  "controlStyles[24].styles[2]": "BorderThickness = $thickness",
+  "controlStyles[24].styles[3]": "FontSize = $fontSize",
+  "controlStyles[24].styles[4]": "Foreground = $foreground",
+  "controlStyles[24].styles[5]": "Margin = 3",
+  "styleConstants[0]": "radius = 2",
+  "styleConstants[1]": "thickness = 1",
+  "styleConstants[2]": "fontSize = 10",
+  "styleConstants[3]": "forground = White"
+}
+```
+3. **Notification Center and Quick Settings**: Copy and paste the code below into `Windhawk >> Windows 11 Notification Center Styler >> Advanced >> Mod Settings` and click `Save`
 
 ```json
 {

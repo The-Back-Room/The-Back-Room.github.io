@@ -18,16 +18,9 @@ A NSFW theme pack featuring futanari hentai artwork for Windows 10 and 11.
 > 
 > By downloading and using these themes, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. If you are not of legal age or do not wish to view such content, please leave this page and do not download or use these themes. The creator of these themes is not responsible for any misuse or inappropriate distribution of the content provided. Please use these themes responsibly and respect the rights of others. 
 
-{: .note }
-> {: .opaque }
-> {: .important }
-> The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme.
-> 
-> You can find instructions on how to obtain and set that up [here](/WindowsThemes/WindhawkThemes/DownAeroSquared).
+The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](/WindowsThemes/WindhawkThemes/DownAeroSquared).
 
-{: .note }
-> {: .opaque }
-> Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
+Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 
 ### Features
 
@@ -40,7 +33,7 @@ A NSFW theme pack featuring futanari hentai artwork for Windows 10 and 11.
 - Download and extract the archive via the download button below.
 - Double-Click the `.deskthemepack` file included to install the theme.
 
-[![Download](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/futanari-hentai/-/archive/main/futanari-hentai-main.zip)
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/futanari-hentai/-/archive/main/futanari-hentai-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Futanari Hentai</a>
 
 ---
 
