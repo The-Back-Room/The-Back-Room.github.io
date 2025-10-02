@@ -40,8 +40,8 @@ Themes for Windows 10 and 11 based off of popular video games
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Gaming/FinalFantasyXIVWaifus">
-<img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/raw/main/Extras/Preview.bmp" alt="Final Fantasy XIV Waifus" width="600" height="400">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/raw/main/Extras/Preview.bmp" alt="FFXIV Waifus" width="600" height="400">
 </a>
-<div class="desc">Final Fantasy XIV Waifus</div>
+<div class="desc">FFXIV Waifus</div>
 </div>
 </div>
