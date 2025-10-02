@@ -13,7 +13,7 @@ We offer a variety of custom Windows Themes that you can download and install to
 > {: .important }
 > ⚠️ **Important**: Due to the increasing difficulty with using custom MSSTYLE themes on modern versions of Windows, we have shifted our focus to providing Deskthemepacks and Windhawk themes. These formats are more compatible with the latest Windows updates and offer a smoother user experience. Visit our [GitLab Repo](https://gitlab.com/the-back-room/) to download our existing MSSTYLE themes.
 > 
-> Please note that while we strive to ensure compatibility support for MSSTYLE themes is discontinued here. As such, available themes may not work perfectly on all systems or Windows versions. Always back up your system before applying new themes or visual styles.
+> Please note that while we strive to ensure compatibility, support for MSSTYLE themes has been discontinued. As such, available themes may not work perfectly on all systems or Windows versions. Always back up your system before applying new themes or visual styles.
 
 {: .note }
 > {: .opaque }

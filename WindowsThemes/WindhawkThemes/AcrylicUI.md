@@ -24,3 +24,7 @@ Complete overhaul for Windows 11 with squared window corners and acrylic blur.
 - **Start Menu**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/StartMenuStyler/AcrylicUI)
 - **Taskbar**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/TaskbarStyler/AcrylicUI.md)
 - **Notification Center and Quick Settings**: Follow the instructions listed [here](https://the-back-room.info/Windhawk/NotificationCenterStyler/AcrylicUI.md)
+
+---
+
+<a href="/WindowsThemes" class="btn btn--secondary btn--sm">Back to Windows Themes</a>
