@@ -12,7 +12,7 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Dates are formatted as `YYYY-MM-DD`
 - Entries are listed in reverse chronological order, with the most recent changes at the top.
 
-### 2025-10-01 - 2025-10-02
+### 2025-09-30 - 2025-10-02
 
 - Project Updates:
   - None this update.
