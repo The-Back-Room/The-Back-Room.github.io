@@ -28,15 +28,12 @@ callouts:
     color: yellow 
   important:
     color: blue
-    title: "ℹ️"
   new:
     color: green
-    title: "🆕"
   note:
     color: purple
   warning:
     color: red
-    title: "⚠️"
 
 plugins:
   - jekyll-seo-tag

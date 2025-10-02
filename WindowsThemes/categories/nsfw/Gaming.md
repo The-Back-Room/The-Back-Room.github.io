@@ -13,13 +13,13 @@ Themes for Windows 10 and 11 based off of popular video games
 {: .important }
 > {: .opaque }
 > {: .warning }
-> These theme packs contains adult content and are intended for mature audiences only.
+> ⚠️ These theme packs contains adult content and are intended for mature audiences only.
 > 
-> By downloading and using these themes, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. The creator of these themes is not responsible for any misuse or inappropriate distribution of the content provided. Please use these themes responsibly and respect the rights of others.
+> ℹ️ By downloading and using these themes, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. The creator of these themes is not responsible for any misuse or inappropriate distribution of the content provided. Please use these themes responsibly and respect the rights of others.
 
 {: .warning }
 > {: .opaque }
-> These theme packs may include, but are not limited to the following types of content:
+> ⚠️ These theme packs may include, but are not limited to the following types of content:
 > 
 > - Nudity or Partial Nudity
 > - Erotic or Sexual Imagery
@@ -42,6 +42,6 @@ Themes for Windows 10 and 11 based off of popular video games
 {: .note }
 > {: .opaque }
 > {: .important }
-> These theme packs are based off of popular video games. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
+> ℹ️ These theme packs are based off of popular video games. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
 > 
 > This collection is intended for personal use only and should not be redistributed or used for commercial purposes.

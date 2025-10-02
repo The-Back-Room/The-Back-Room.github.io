@@ -15,7 +15,7 @@ Themes for Windows 10 and 11 based off of popular horror films and series
 
 {: .warning }
 > {: .opaque }
-> These theme packs may include, but are not limited to the following types of content:
+> ⚠️ These theme packs may include, but are not limited to the following types of content:
 > 
 > - Graphic Violence or Gore
 > - Disturbing or Macabre Imagery
@@ -44,6 +44,6 @@ Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, 
 {: .note }
 > {: .opaque }
 > {: .important }
-> These theme packs are based off of popular horror films and series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
+> ℹ️ These theme packs are based off of popular horror films and series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
 >
 > These theme packs are intended for personal use only and should not be redistributed or used for commercial purposes.

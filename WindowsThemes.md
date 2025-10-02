@@ -10,7 +10,7 @@ We offer a variety of custom Windows Themes that you can download and install to
 {: .note }
 > {: .opaque }
 > {: .important }
-> Some of these themes are based off of games, tv shows, movies, anime, or manga series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
+> ℹ️ Some of these themes are based off of games, tv shows, movies, anime, or manga series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
 > 
 > This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
 

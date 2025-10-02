@@ -21,6 +21,6 @@ Themes for Windows 10 and 11 based off of popular western animation and cartoons
 {: .note }
 > {: .opaque }
 > {: .important }
-> These theme packs are based off of popular western animation and cartoon series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
+> ℹ️ These theme packs are based off of popular western animation and cartoon series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
 > 
 > These theme packs are intended for personal use only and should not be redistributed or used for commercial purposes.
