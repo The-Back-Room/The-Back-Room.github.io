@@ -12,6 +12,17 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Dates are formatted as `YYYY-MM-DD`
 - Entries are listed in reverse chronological order, with the most recent changes at the top.
 
+### 2025-10-01 - 2025-10-02
+
+- General Improvements:
+  - Fixed minor typos and grammatical errors across multiple pages.
+  - Created and applied dracula color scheme for the website.
+  - Updated screenshots across multiple projects to display them being used alongside the DownAero Squared Windhawk theme.
+  - Improved callouts and warnings across multiple theme packs for better clarity and consistency.
+  - Restructured site navigation for better user experience.
+  - Added theme categories for better organization and easier browsing.
+  - Created gallery pages for SFW and NSFW themes to showcase available themes in a more visually appealing way.
+
 ### 2025-09-29
 
 - Project Updates:
