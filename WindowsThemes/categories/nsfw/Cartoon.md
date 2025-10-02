@@ -17,7 +17,7 @@ published: false
 {: .note }
 > {: .opaque }
 > {: .important }
-> **Disclaimer**: These themes are based off of western animation and cartoon series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
+> **Disclaimer**: These themes are based off of popular western animation and cartoon series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
 > 
 > This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
 

@@ -16,7 +16,7 @@ permalink: /WindowsThemes/c/nsfw/Anime
 {: .note }
 > {: .opaque }
 > {: .important }
-> **Disclaimer**: The following theme packs are based off of anime and manga series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
+> **Disclaimer**: The following theme packs are based off of popular anime and manga series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
 > 
 > This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
 

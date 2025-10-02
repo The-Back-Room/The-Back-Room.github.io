@@ -5,6 +5,11 @@ parent: Windows Themes
 permalink: /WindowsThemes/c/Gaming
 ---
 
+{: .note }
+> {: .opaque }
+> {: .important }
+> **Disclaimer**: The following themes are based off of popular video games. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
+
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Gaming/FFXIVARealmReborn">
