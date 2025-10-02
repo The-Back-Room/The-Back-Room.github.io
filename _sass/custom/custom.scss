@@ -12,7 +12,7 @@ div.gallery-item {
   margin: 5px;
   border: 1px solid $border-color;
   width: calc(25% - 20px);
-  background-color: darken($body-background-color, 10%);
+  background-color: darken($body-background-color, 5%);
 }
 
 div.gallery-item:hover {
