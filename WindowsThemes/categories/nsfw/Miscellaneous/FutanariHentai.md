@@ -14,7 +14,7 @@ A NSFW theme pack featuring futanari hentai artwork for Windows 10 and 11.
 {: .note }
 > {: .opaque }
 > {: .important }
-> ⚠️ **Warning**: This theme pack contains adult content and is intended for mature audiences only. Viewer discretion is advised.
+> ⚠️ This theme pack contains adult content and is intended for mature audiences only. Viewer discretion is advised.
 > 
 > By downloading and using these themes, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. If you are not of legal age or do not wish to view such content, please leave this page and do not download or use these themes. The creator of these themes is not responsible for any misuse or inappropriate distribution of the content provided. Please use these themes responsibly and respect the rights of others. 
 
@@ -27,7 +27,7 @@ A NSFW theme pack featuring futanari hentai artwork for Windows 10 and 11.
 
 {: .note }
 > {: .opaque }
-> **Note**: Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
+> Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 
 ### Features
 

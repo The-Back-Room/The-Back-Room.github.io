@@ -33,6 +33,6 @@ Themes for Windows 10 and 11 based off of popular anime and manga series
 {: .note }
 > {: .opaque }
 > {: .important }
-> **Disclaimer**: These theme packs are based off of popular anime and manga series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
+> These theme packs are based off of popular anime and manga series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
 > 
 > These theme packs are intended for personal use only and should not be redistributed or used for commercial purposes.
