@@ -11,9 +11,8 @@ Theme for Windows 10 and 11 inspired by the horror franchise "A Nightmare on Elm
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/raw/main/Extras/Preview.bmp)
 
-{: .note }
+{: .warning }
 > {: .opaque }
-> {: .important }
 > ⚠️ This theme pack contains horror-themed content and may not be suitable for all audiences. Viewer discretion is advised.
 
 Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
