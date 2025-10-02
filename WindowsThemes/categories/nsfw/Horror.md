@@ -1,6 +1,6 @@
 ---
 title: NSFW Horror Themes
-summary: A collection of NSFW themes for Windows 10 and 11 based off of popular horror films and series
+summary: Themes for Windows 10 and 11 based off of popular horror films and series
 nav_order: 2.7.4
 parent: NSFW Themes
 grand_parent: Windows Themes

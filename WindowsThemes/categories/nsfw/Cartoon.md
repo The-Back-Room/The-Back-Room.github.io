@@ -1,6 +1,6 @@
 ---
 title: NSFW Cartoon Themes
-summary: A collection of NSFW themes for Windows 10 and 11 based off of western animation and cartoons
+summary: Themes for Windows 10 and 11 based off of western animation and cartoons
 nav_order: 2.7.2
 parent: NSFW Themes
 grand_parent: Windows Themes

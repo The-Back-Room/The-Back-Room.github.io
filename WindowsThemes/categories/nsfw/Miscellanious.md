@@ -1,6 +1,6 @@
 ---
 title: NSFW Miscellaneous Themes
-summary: A collection of NSFW themes for Windows 10 and 11 that don't fit into other categories
+summary: Themes for Windows 10 and 11 that don't fit into other categories
 nav_order: 2.7.5
 parent: NSFW Themes
 grand_parent: Windows Themes

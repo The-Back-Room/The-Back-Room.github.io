@@ -1,6 +1,6 @@
 ---
 title: NSFW Gaming Themes
-summary: A collection of NSFW themes for Windows 10 and 11 based off of popular games
+summary: Themes for Windows 10 and 11 based off of popular games
 nav_order: 2.7.3
 parent: NSFW Themes
 grand_parent: Windows Themes

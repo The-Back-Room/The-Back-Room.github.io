@@ -1,6 +1,6 @@
 ---
 title: Windhawk Themes
-summary: A collection of Windhawk themes for Windows 10 and 11
+summary: Windhawk themes for Windows 10 and 11
 nav_order: 2.6
 parent: Windows Themes
 permalink: /WindowsThemes/c/windhawk
