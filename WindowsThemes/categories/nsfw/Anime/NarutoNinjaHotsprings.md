@@ -26,11 +26,16 @@ A NSFW theme pack for Windows 10 and 11 featuring wallpapers of girls from the N
 > - Erotic or Sexual Imagery
 > - Suggestive or Provocative Poses
 
-The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](/WindowsThemes/c/windhawk/DownAeroSquared).
+{: .note }
+> {: .opaque }
+> {: .highlight }
+> The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](/WindowsThemes/c/windhawk/DownAeroSquared).
+> 
+> Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 
-Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
-
-The wallpapers in this theme pack were illustrated by [Sakimichan](https://www.deviantart.com/sakimichan), a well-known digital artist famous for her detailed and vibrant character art. Please support her work by visiting her [DeviantArt profile](https://www.deviantart.com/sakimichan) and considering purchasing her art through her [Patreon](https://www.patreon.com/sakimichan) or other official channels.
+{: .highlight }
+> {: .opaque }
+> The wallpapers in this theme pack were illustrated by [Sakimichan](https://www.deviantart.com/sakimichan), a well-known digital artist famous for her detailed and vibrant character art. Please support her work by visiting her [DeviantArt profile](https://www.deviantart.com/sakimichan) and considering purchasing her art through her [Patreon](https://www.patreon.com/sakimichan) or other official channels.
 
 ### Features
 

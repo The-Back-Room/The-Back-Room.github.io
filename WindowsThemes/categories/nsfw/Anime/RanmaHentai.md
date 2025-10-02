@@ -18,7 +18,9 @@ A NSFW theme pack for Windows 10 and 11 inspired by the Ranma ½ anime and manga
 > 
 > By downloading and using these themes, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. The creator of these themes is not responsible for any misuse or inappropriate distribution of the content provided. Please use these themes responsibly and respect the rights of others.
 
-The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](/WindowsThemes/WindhawkThemes/DownAeroSquared).
+{: .highlight }
+> {: .opaque }
+> The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](/WindowsThemes/c/windhawk/DownAeroSquared).
 
 {: .warning }
 > {: .opaque }
