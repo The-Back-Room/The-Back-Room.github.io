@@ -7,7 +7,7 @@ permalink: /WindowsThemes/c/Cartoon
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/CourageTCD">
+<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Cartoon/CourageTCD">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/raw/main/Extras/Preview.bmp" alt="Courage the Cowardly Dog" width="600" height="400">
 </a>
 <div class="desc">Courage the Cowardly Dog</div>

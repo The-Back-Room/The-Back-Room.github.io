@@ -35,31 +35,31 @@ permalink: /WindowsThemes/c/nsfw/Anime
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/BLEACHHentai">
+<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Anime/BLEACHHentai">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/-/raw/main/Extras/Preview.bmp" alt="BLEACH Hentai" width="600" height="400">
 </a>
 <div class="desc">BLEACH Hentai</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/RanmaHentai">
+<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Anime/RanmaHentai">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/raw/main/Extras/Preview.bmp" alt="Ranma Hentai" width="600" height="400">
 </a>
 <div class="desc">Ranma Hentai</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/NarutoHentai">
+<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Anime/NarutoHentai">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/-/raw/main/Extras/Preview.bmp" alt="Naruto Hentai" width="600" height="400">
 </a>
 <div class="desc">Naruto Hentai</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/NarutoNinjaHotsprings">
+<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Anime/NarutoNinjaHotsprings">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-ninja-hotsprings/-/raw/main/Extras/Preview.bmp" alt="Naruto Ninja Hotsprings" width="600" height="400">
 </a>
 <div class="desc">Naruto Ninja Hotsprings</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/LoveStage">
+<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Anime/LoveStage">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/raw/main/Extras/Preview.bmp" alt="Love Stage!!" width="600" height="400">
 </a>
 <div class="desc">Love Stage!!</div>

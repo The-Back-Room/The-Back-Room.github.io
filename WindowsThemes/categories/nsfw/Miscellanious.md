@@ -1,9 +1,9 @@
 ---
-title: NSFW Miscellanious Themes
+title: NSFW Miscellaneous Themes
 summary: A collection of NSFW themes for Windows 10 and 11 that don't fit into other categories
 parent: NSFW Themes
 grand_parent: Windows Themes
-permalink: /WindowsThemes/c/nsfw/Miscellanious
+permalink: /WindowsThemes/c/nsfw/Miscellaneous
 ---
 
 {: .note }
@@ -28,19 +28,19 @@ permalink: /WindowsThemes/c/nsfw/Miscellanious
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/Ecchi">
+<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/nsfw/Miscellaneous/Ecchi">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/-/raw/main/Extras/Preview.bmp" alt="Ecchi" width="600" height="400">
 </a>
 <div class="desc">Ecchi</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/LewdGamerWaifus">
+<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/nsfw/Miscellaneous/LewdGamerWaifus">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/raw/main/Extras/Preview.bmp" alt="Lewd Gamer Waifus" width="600" height="400">
 </a>
 <div class="desc">Lewd Gamer Waifus</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="https://the-back-room.info/WindowsThemes/Deskthemepacks/FutanariHentai">
+<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/nsfw/Miscellaneous/FutanariHentai">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/futanari-hentai/-/raw/main/Extras/Preview.bmp" alt="Futanari Hentai" width="600" height="400">
 </a>
 <div class="desc">Futanari Hentai</div>

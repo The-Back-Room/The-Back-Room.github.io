@@ -1,0 +1,30 @@
+---
+title: Once Human
+summary: A theme pack inspired by the game "Once Human"
+nav_exclude: true
+permalink: /WindowsThemes/Deskthemepacks/c/Gaming/OnceHuman
+---
+
+## Once Human
+
+A theme pack for Windows 10 and 11 inspired by the game "Once Human"
+
+![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/raw/main/Extras/Preview.bmp)
+
+### Features
+
+- Multiple Backgrounds
+- Custom Cursors
+- Supports 4k Resolutions
+
+### Instructions
+
+- Download and extract the archive via the download button below.
+- Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes\`
+- Apply the theme via `Settings > Personalization > Themes`
+
+[![Download](https://img.shields.io/badge/Download-black?style=for-the-badge&logo=gitlab&logoColor=white&logoSize=auto&labelColor=red&color=black&cacheSeconds=3600)](https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip)
+
+---
+
+<a href="/WindowsThemes" class="btn btn--secondary btn--sm">Back to Windows Themes</a>

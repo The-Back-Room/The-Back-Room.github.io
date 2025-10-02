@@ -4,6 +4,7 @@ summary: A collection of NSFW themes for Windows 10 and 11 based off of popular 
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /WindowsThemes/c/nsfw/Horror
+published: false
 ---
 
 {: .note }
