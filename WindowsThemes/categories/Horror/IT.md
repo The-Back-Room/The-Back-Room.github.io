@@ -10,7 +10,7 @@ Theme for Windows 10 and 11 inspired by the horror movie franchise IT.
 
 {: .warning }
 > {: .opaque }
-> **Content Warning**: This theme pack includes imagery and themes related to horror, violence, and supernatural elements that may be disturbing to some viewers. Viewer discretion is advised.
+> ⚠️ **Content Warning**: This theme pack includes imagery and themes related to horror, violence, and supernatural elements that may be disturbing to some viewers. Viewer discretion is advised.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/raw/main/Extras/Preview.bmp)
 
