@@ -3,20 +3,18 @@
 // Original color values from: https://draculatheme.com/colors
 
 $color-scheme: dracula;
-$body-background-color: #282a36; // dracula background
-$body-heading-color: #f8f8f2; // dracula heading
-$body-text-color: #f8f8f2; // dracula text
-$link-color: #bd93f9; // dracula link
-$nav-child-link-color: #f8f8f2; // dracula nav child link
-$sidebar-color: #44475a; // dracula sidebar
-$base-button-color: #44475a; // dracula button
-$btn-primary-color: #6272a4; // dracula button primary
-$code-background-color: #44475a; // dracula code background
-$code-linenumber-color: #6272a4; // dracula code line number
+$body-background-color: #282a36;
+$body-heading-color: #f8f8f2;
+$body-text-color: #f8f8f2;
+$link-color: #bd93f9;
+$nav-child-link-color: #f8f8f2;
+$sidebar-color: #35363c;
+$base-button-color: #44475a;
+$btn-primary-color: #6272a4;
+$code-background-color: #44475a;
+$code-linenumber-color: #6272a4;
 $feedback-color: darken($sidebar-color, 3%);
-$table-background-color: #44475a; // dracula table background
-$search-background-color: #44475a; // dracula search background
-$search-result-preview-color: #f8f8f2; // dracula search result preview
-$border-color: #6272a4; // dracula border color
-
-// @import "./vendor/OneDarkJekyll/syntax"; // this is the one-dark-vivid atom syntax theme
+$table-background-color: #44475a;
+$search-background-color: #44475a;
+$search-result-preview-color: #f8f8f2;
+$border-color: #6272a4;
