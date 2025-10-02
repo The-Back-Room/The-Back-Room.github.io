@@ -2,7 +2,6 @@
 title: License
 summary: Creative Commons Attribution 4.0 International Public License
 nav_exclude: true
-has_toc: false
 permalink: /License
 ---
 

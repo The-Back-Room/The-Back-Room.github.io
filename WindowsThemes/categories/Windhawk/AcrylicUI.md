@@ -2,7 +2,6 @@
 title: Acrylic UI
 summary: Theme for Windows 11 with squared window corners and acrylic blur.
 nav_exclude: true
-has_toc: false
 permalink: /WindowsThemes/c/windhawk/AcrylicUI
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Social
 summary: Social communities hosted by members of our community
-nav_order: 9
+nav_order: 9.0
 permalink: /Social
 ---
 
