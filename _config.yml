@@ -25,15 +25,15 @@ liquid:
 callouts_level: quiet
 callouts:
   highlight:
-    color: "#f1fa8c" # dracula yellow (RGB 241 250 140 )
+    color: yellow
   important:
-    color: "#8be9fd" # dracula cyan (RGB 139 233 253)
+    color: blue
   new:
-    color: "#50fa7b" # dracula green (RGB 80 250 123)
+    color: green
   note:
-    color: "#bd93f9" # dracula purple (RGB 189 147 249)
+    color: purple
   warning:
-    color: "#ff5555" # dracula red (RGB 255 85 85)
+    color: red
 
 plugins:
   - jekyll-seo-tag
