@@ -1,7 +1,7 @@
 ---
 title: Cartoon Themes
 summary: A collection of themes for Windows 10 and 11 based of of western animation and cartoons
-nav_order: 1.2
+nav_order: 2.2
 parent: Windows Themes
 permalink: /WindowsThemes/c/Cartoon
 ---

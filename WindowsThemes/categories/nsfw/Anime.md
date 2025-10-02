@@ -1,7 +1,7 @@
 ---
 title: NSFW Anime Themes
 summary: A collection of NSFW themes for Windows 10 and 11 based off of anime and manga
-nav_order: 2.1
+nav_order: 2.7.1
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /WindowsThemes/c/nsfw/Anime

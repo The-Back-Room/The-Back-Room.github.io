@@ -1,7 +1,7 @@
 ---
 title: Horror Themes
 summary: A collection of themes for Windows 10 and 11 based off of popular horror films and series
-nav_order: 1.4
+nav_order: 2.4
 parent: Windows Themes
 permalink: /WindowsThemes/c/Horror
 ---
