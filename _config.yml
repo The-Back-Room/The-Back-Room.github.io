@@ -34,7 +34,6 @@ callouts:
     title: "🆕"
   note:
     color: purple
-    title: "📝"
   warning:
     color: red
     title: "⚠️"
