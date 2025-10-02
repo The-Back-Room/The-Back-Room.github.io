@@ -28,12 +28,16 @@ callouts:
     color: yellow # custom color for highlight callout
   important:
     color: blue # custom color for important callout
+    title: "ℹ️ Important" # custom title for important callout
   new:
     color: green # custom color for new callout
+    title: "🆕 New" # custom title for new callout
   note:
     color: purple # custom color for note callout
+    title: "📝 Note" # custom title for note callout
   warning:
     color: red # custom color for warning callout
+    title: "⚠️ Warning" # custom title for warning callout
 
 plugins:
   - jekyll-seo-tag

@@ -11,11 +11,11 @@ Themes for Windows 10 and 11 based off of popular horror films and series
 
 {: .important }
 > {: .opaque }
-> ⚠️ These theme packs contain horror-themed content and may not be suitable for all audiences. Viewer discretion is advised.
+> These theme packs contain horror-themed content and may not be suitable for all audiences. Viewer discretion is advised.
 
 {: .warning }
 > {: .opaque }
-> ⚠️ These theme packs may include, but are not limited to the following types of content:
+> These theme packs may include, but are not limited to the following types of content:
 > 
 > - Graphic Violence or Gore
 > - Disturbing or Macabre Imagery
