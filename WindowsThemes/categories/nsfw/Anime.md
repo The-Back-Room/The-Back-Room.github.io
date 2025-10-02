@@ -50,13 +50,13 @@ Themes for Windows 10 and 11 based off of popular anime and manga series
 <div class="desc">Naruto Hentai</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/c/nsfw/nsfw/Anime/NarutoNinjaHotsprings">
+<a target="_blank" href="/WindowsThemes/c/nsfw/Anime/NarutoNinjaHotsprings">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-ninja-hotsprings/-/raw/main/Extras/Preview.bmp" alt="Naruto Ninja Hotsprings" width="600" height="400">
 </a>
 <div class="desc">Naruto Ninja Hotsprings</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/c/nsfw/nsfw/Anime/LoveStage">
+<a target="_blank" href="/WindowsThemes/c/nsfw/Anime/LoveStage">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/raw/main/Extras/Preview.bmp" alt="Love Stage!!" width="600" height="400">
 </a>
 <div class="desc">Love Stage!!</div>
