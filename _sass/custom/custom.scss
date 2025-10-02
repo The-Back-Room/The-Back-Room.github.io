@@ -10,12 +10,13 @@ div.gallery {
 
 div.gallery-item {
   margin: 5px;
-  border: 1px solid $grey-dk-200;
+  border: 1px solid $border-color;
   width: calc(25% - 20px);
+  background-color: darken($body-background-color, 10%);
 }
 
 div.gallery-item:hover {
-  border: 1px solid darken($grey-dk-200, 10%);
+  border: 1px solid darken($border-color, 10%);
 }
 
 div.gallery-item img {
@@ -26,7 +27,6 @@ div.gallery-item img {
 div.gallery-item div.desc {
   padding: 15px;
   text-align: center;
-  background-color: $grey-dk-350;
 }
 
 @media only screen and (max-width: 768px) {
