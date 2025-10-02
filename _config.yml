@@ -26,14 +26,19 @@ callouts_level: quiet
 callouts:
   highlight:
     color: yellow
+    appearance: minimal
   important:
     color: blue
+    appearance: minimal
   new:
     color: green
+    appearance: minimal
   note:
     color: purple
+    appearance: minimal
   warning:
     color: red
+    appearance: minimal
 
 plugins:
   - jekyll-seo-tag
