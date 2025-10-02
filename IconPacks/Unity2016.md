@@ -1,13 +1,11 @@
 ---
 title: Unity 2016
 summary: neiio's Unity 2016 icons ported to Resource Redirect.
-nav_exclude: true
+parent: Icon Packs
 permalink: /IconPacks/Unity2016
 ---
 
-<div align="center">
-  <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2016/-/raw/main/Extras/Preview.bmp" alt="Unity 2016 Preview" style="max-width: 100%; height: auto;">
-</div>
+![Unity 2016 Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2016/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 

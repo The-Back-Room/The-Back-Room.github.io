@@ -1,9 +1,12 @@
 ---
 title: Gen2 Plasma Blue
 summary: devillnside's Gen2 Plasma Blue icons ported to Resource Redirect.
-nav_exclude: true
+parent: Icon Packs
 permalink: /IconPacks/Gen2PlasmaBlue
 ---
+
+<!-- ![Gen2 Plasma Blue V1 Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/raw/main/Extras/v1/Preview.bmp) -->
+<!-- ![Gen2 Plasma Blue V2 Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/raw/main/Extras/v2/Preview.bmp) -->
 
 ### Requirements
 

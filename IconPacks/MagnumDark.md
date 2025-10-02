@@ -1,13 +1,11 @@
 ---
 title: Magnum Dark
 summary: Razorsedges's Magnum Dark icons ported to Resource Redirect.
-nav_exclude: true
+parent: Icon Packs
 permalink: /IconPacks/MagnumDark
 ---
 
-<div align="center">
-  <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp" alt="Magnum Dark Preview" style="max-width: 100%; height: auto;">
-</div>
+![Magnum Dark Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 

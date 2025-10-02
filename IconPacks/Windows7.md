@@ -1,13 +1,11 @@
 ---
 title: Windows 7
 summary: Windows 7 icons ported to Resource Redirect.
-nav_exclude: true
+parent: Icon Packs
 permalink: /IconPacks/Windows7
 ---
 
-<div align="center">
-  <!-- <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/raw/main/Extras/Preview.bmp" alt="Windows 7 Preview" style="max-width: 100%; height: auto;"> -->
-</div>
+<!-- ![Windows 7 Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/raw/main/Extras/Preview.bmp) -->
 
 ### Requirements
 

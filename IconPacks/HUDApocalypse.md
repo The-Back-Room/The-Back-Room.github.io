@@ -1,13 +1,11 @@
 ---
 title: HUD Apocalypse
 summary: Mr GRiM's HUD Apocalypse icons ported to Resource Redirect.
-nav_exclude: true
+parent: Icon Packs
 permalink: /IconPacks/HUDApocalypse
 ---
 
-<div align="center">
-  <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp" alt="HUD Apocalypse Preview" style="max-width: 100%; height: auto;">
-</div>
+![HUD Apocalypse Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 

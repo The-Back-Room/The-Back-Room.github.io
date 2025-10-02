@@ -1,13 +1,11 @@
 ---
 title: Windows Vista
 summary: Windows Vista icons ported to Resource Redirect.
-nav_exclude: true
+parent: Icon Packs
 permalink: /IconPacks/WindowsVista
 ---
 
-<div align="center">
-  <!-- <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-vista/-/raw/main/Extras/Preview.bmp" alt="Windows Vista Preview" style="max-width: 100%; height: auto;"> -->
-</div>
+<!-- ![Windows Vista Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-vista/-/raw/main/Extras/Preview.bmp) -->
 
 ### Requirements
 

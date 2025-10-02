@@ -1,13 +1,11 @@
 ---
 title: Jarvis
 summary: Tornado's Jarvis icons ported to Resource Redirect.
-nav_exclude: true
+parent: Icon Packs
 permalink: /IconPacks/Jarvis
 ---
 
-<div align="center">
-  <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp" alt="Jarvis Preview" style="max-width: 100%; height: auto;">
-</div>
+![Jarvis Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 
