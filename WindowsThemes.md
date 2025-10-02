@@ -28,11 +28,11 @@ We offer a variety of custom Windows Themes that you can download and install to
 - [Cartoon Themes](/WindowsThemes/c/Cartoon) - Themes for Windows 10 and 11 based off of western animation and cartoons
 - [Gaming Themes](/WindowsThemes/c/Gaming) - Themes for Windows 10 and 11 based off of popular games
 - [Horror Themes](/WindowsThemes/c/Horror) - Themes for Windows 10 and 11 based off of popular horror films and series
+- [Windhawk Themes](/WindowsThemes/c/windhawk) - A collection of Windhawk themes for Windows 10 and 11
 - [Miscellaneous Themes](/WindowsThemes/c/Miscellaneous) - Themes for Windows 10 and 11 that don't fit into other categories
 
 ---
 
 <div class="text-delta">
-<a href="/WindowsThemes/NSFWThemes" class="btn btn--secondary btn--sm">NSFW Themes</a> 
-<a href="/WindowsThemes/WindhawkThemes" class="btn btn--secondary btn--sm">Windhawk Themes</a>
+<a href="/WindowsThemes/c/nsfw" class="btn btn--secondary btn--sm">NSFW Themes</a> 
 </div>
