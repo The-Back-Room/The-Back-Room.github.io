@@ -18,7 +18,7 @@ Subreddits hosted by or supported by our community.
 ### Discord Servers
 Discord servers hosted by or supported by our community.
 
-- [The Back Room](https://discord.gg/Yxj2t8ZbvX) - Official Discord server for The Back Room, where you can get support, share your themes, and connect with other members of the community.
+- [The Back Room](https://discord.gg/Yxj2t8ZbvX) - Official Discord server for The Back Room, where you can get support, share your projects, and connect with other members of the community.
 
 ### Development Communities
 Development communities hosted by or supported by our community.
