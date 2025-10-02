@@ -17,6 +17,7 @@ Theme for Windows 10 and 11 inspired by the horror movie franchise IT.
 > - Horror Imagery
 > - Supernatural Themes
 > - Disturbing Visuals
+> - Disturbing Audio
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/raw/main/Extras/Preview.bmp)
 

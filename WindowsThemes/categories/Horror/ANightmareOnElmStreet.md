@@ -15,9 +15,9 @@ Theme for Windows 10 and 11 inspired by the horror franchise "A Nightmare on Elm
 > 
 > Content Types:
 > - Horror Imagery
-> - Violence and Gore
 > - Supernatural Themes
 > - Disturbing Visuals
+> - Disturbing Audio
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/raw/main/Extras/Preview.bmp)
 
