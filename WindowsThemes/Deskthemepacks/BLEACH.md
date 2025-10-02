@@ -7,15 +7,14 @@ permalink: /WindowsThemes/Deskthemepacks/BLEACH
 
 ## BLEACH
 
-A theme pack for Windows 10 and 11 inspired by the BLEACH anime and manga series.
+A theme pack for Windows 10 and 11 inspired by the BLEACH anime and manga series. This pack contains both the `BLEACH` and `BLEACH: Thousand-Year Blood War` deskthemepacks.
 
 ![Preview 1](https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview.bmp)
 ![Preview 2](https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview-2.bmp)
 
 {: .note }
 > {: .opaque }
-> - This pack contains both the `BLEACH` and `BLEACH: Thousand-Year Blood War` deskthemepacks.
-> - Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
+> **Note**: Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 
 ### Features
 
