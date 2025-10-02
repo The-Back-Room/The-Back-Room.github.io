@@ -2,7 +2,7 @@
 title: DownAero Squared
 summary: Complete overhaul for Windows 11 based off of the Windhawk DownAero theme
 nav_exclude: true
-permalink: /WindowsThemes/WindhawkThemes/DownAeroSquared
+permalink: /WindowsThemes/c/windhawk/DownAeroSquared
 ---
 
 ## DownAero Squared

@@ -3,7 +3,7 @@ title: Acrylic UI
 summary: Complete overhaul for Windows 11 23H1+ with squared window corners and acrylic blur
 nav_exclude: true
 has_toc: false
-permalink: /WindowsThemes/WindhawkThemes/AcrylicUI
+permalink: /WindowsThemes/c/windhawk/AcrylicUI
 ---
 
 ## Acrylic UI
