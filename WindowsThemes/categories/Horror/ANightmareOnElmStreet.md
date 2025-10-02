@@ -11,7 +11,7 @@ Theme for Windows 10 and 11 inspired by the horror franchise "A Nightmare on Elm
 {: .important }
 > {: .opaque }
 > {: .warning }
-> Content Warning: This theme pack includes imagery and themes related to horror, violence, and supernatural elements that may be disturbing to some viewers. Please ensure you are comfortable with such content before downloading or using this theme.
+> **Content Warning**: This theme pack includes imagery and themes related to horror, violence, and supernatural elements that may be disturbing to some viewers. Please ensure you are comfortable with such content before downloading or using this theme.
 > 
 > - Horror Imagery
 > - Supernatural Themes
