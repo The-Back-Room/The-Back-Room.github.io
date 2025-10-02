@@ -14,6 +14,12 @@ This page provides a detailed log of changes, updates, and improvements made to 
 
 ### 2025-10-01 - 2025-10-02
 
+- Project Updates:
+  - None this update.
+
+- Content Management:
+  - None this update.
+
 - General Improvements:
   - Fixed minor typos and grammatical errors across multiple pages.
   - Created and applied dracula color scheme for the website.
@@ -33,6 +39,9 @@ This page provides a detailed log of changes, updates, and improvements made to 
   - Consolidate theme categories on the Windows Themes page by merging SFW and NSFW sections into a single list for better organization.
   - Remove the ROADMAP page as it is not necessary for our website.
 
+- General Improvements:
+  - None this update.
+
 ### 2025-09-28
 
 - Project Updates:
@@ -42,6 +51,12 @@ This page provides a detailed log of changes, updates, and improvements made to 
     - Restored accent colorization and reverted full transparency for better visibility.
     - Updated preview images to reflect changes.
 
+- Content Management:
+  - None this update.
+
+- General Improvements:
+  - None this update.
+
 ### 2025-09-21
 
 - Project Updates:
@@ -50,6 +65,9 @@ This page provides a detailed log of changes, updates, and improvements made to 
 
 - Content Management:
   - Updated preview images for DownAero Squared to reflect recent changes.
+
+- General Improvements:
+  - None this update.
 
 ### 2025-09-17
 
@@ -89,6 +107,9 @@ This page provides a detailed log of changes, updates, and improvements made to 
   - Updated Roadmap to remove A Nightmare on Elm Street from planned projects as it has been completed.
   - Updated Roadmap to mark Annabelle and IT as "In Progress" and "Incomplete".
 
+- Content Management:
+  - None this update.
+
 - General Improvements:
   - Improved formatting and structure of the Changelog page for better readability.
   - Fixed minor typos and grammatical errors across multiple pages.
@@ -101,6 +122,12 @@ This page provides a detailed log of changes, updates, and improvements made to 
   - Updated DownAero Squared Taskbar Styler theme to improve appearance and fix minor issues.
   - Updated DownAero Squared File Explorer Styler theme to improve appearance and fix minor issues.
   - Updated DownAero Squared Notification Center Styler theme to improve appearance and fix minor issues.
+
+- Content Management:
+  - None this update.
+
+- General Improvements:
+  - None this update.
 
 ### 2025-09-13
 
@@ -130,6 +157,9 @@ This page provides a detailed log of changes, updates, and improvements made to 
   
 ### 2025-09-12
 
+- Project Updates:
+  - None this update.
+
 - Content Management:
   - Updated the DownAero Squared screenshot images to better reflect the theme's appearance.
   - Changed the DownAero Squared title from "Down Aero Squared" to "DownAero Squared" for consistency.
@@ -153,6 +183,9 @@ This page provides a detailed log of changes, updates, and improvements made to 
   - Updated the Home page to include a centered logo image at the top of the page for better branding.
 
 ### 2025-09-11
+
+- Project Updates:
+  - None this update.
 
 - Content Management:
   - Fixed broken links in the Windows Themes section and improved theme descriptions.
