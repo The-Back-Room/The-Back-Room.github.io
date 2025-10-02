@@ -153,7 +153,7 @@ We offer a variety of custom Windows Themes that you can download and install to
 </div>
 
 </div>
-
+<br /><br />
 <div class="text-delta">
 <a href="https://the-back-room.info/WindowsThemes/NSFWThemes"><button type="button" name="button" class="btn">NSFW Themes</button></a> 
 <a href="https://the-back-room.info/WindowsThemes/WindhawkThemes"><button type="button" name="button" class="btn">Windhawk Themes</button></a>
