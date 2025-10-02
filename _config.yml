@@ -3,17 +3,24 @@ title: The Back Room
 description: Open-Source Development and Customization
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://the-back-room.info" # the base hostname & protocol for your site
+
 remote_theme: "just-the-docs/just-the-docs" # using the Just the Docs theme
 color_scheme: twotone-dark # options: light, dark, twotone-light, twotone-dark
+
 social_image: "/assets/images/logo.png" # for SEO and social media cards
 favicon_ico: "/favicon.ico" # path to your favicon
+
 permalink: pretty # clean URLs without .html
+
 search_enabled: true # enable search
+
 mermaid:
   version: "9.1.6" # specify mermaid version
+
 liquid:
   error_mode: strict # fail build on liquid errors
   strict_filters: true # fail build on unknown filters
+
 callouts_level: quiet # options: quiet, normal, loud
 callouts:
   highlight:
@@ -26,15 +33,18 @@ callouts:
     color: purple # custom color for note callout
   warning:
     color: red # custom color for warning callout
+
 plugins:
   - jekyll-seo-tag
   - jekyll-github-metadata
   - jekyll-include-cache
   - jekyll-sitemap
+
 kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false # disable line numbers in code blocks
+
 compress_html:
   clippings: all # options: none, comments, endings, all, startings
   comments: all # options: none, comments, endings, all, startings
