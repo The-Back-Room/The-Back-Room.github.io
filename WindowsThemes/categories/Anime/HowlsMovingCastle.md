@@ -2,7 +2,7 @@
 title: Howl's Moving Castle
 summary: Theme for Windows 10 and 11 inspired by the Studio Ghibli film "Howl's Moving Castle".
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/Anime/HowlsMovingCastle
+permalink: /WindowsThemes/c/Anime/HowlsMovingCastle
 ---
 
 ## Howl's Moving Castle

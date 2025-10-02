@@ -2,7 +2,7 @@
 title: BLEACH
 summary: Theme for Windows 10 and 11 inspired by the BLEACH anime and manga series
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/Anime/BLEACH
+permalink: /WindowsThemes/c/Anime/BLEACH
 ---
 
 ## BLEACH

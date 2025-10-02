@@ -2,7 +2,7 @@
 title: Naruto Hentai
 summary: A NSFW theme pack inspired by the Naruto anime and manga series
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/nsfw/Anime/NarutoHentai
+permalink: /WindowsThemes/c/nsfw/Anime/NarutoHentai
 ---
 
 ## Naruto Hentai

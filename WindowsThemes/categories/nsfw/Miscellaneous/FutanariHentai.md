@@ -2,7 +2,7 @@
 title: Futanari Hentai
 summary: A NSFW theme pack featuring futanari hentai artwork for Windows 10 and 11.
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/nsfw/Miscellaneous/FutanariHentai
+permalink: /WindowsThemes/c/nsfw/Miscellaneous/FutanariHentai
 ---
 
 ## Futanari Hentai

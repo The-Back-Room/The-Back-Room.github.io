@@ -2,7 +2,7 @@
 title: Love Stage!!
 summary: Windows theme pack inspired by the anime and manga "Love Stage!!"
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/nsfw/Anime/LoveStage
+permalink: /WindowsThemes/c/nsfw/Anime/LoveStage
 ---
 
 ## Love Stage!!

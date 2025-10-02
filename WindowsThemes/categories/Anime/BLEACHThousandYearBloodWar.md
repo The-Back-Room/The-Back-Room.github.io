@@ -2,7 +2,7 @@
 title: BLEACH Thousand Year Blood War
 summary: Theme for Windows 10 and 11 inspired by the BLEACH Thousand Year Blood War anime series
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/Anime/BLEACHThousandYearBloodWar
+permalink: /WindowsThemes/c/Anime/BLEACHThousandYearBloodWar
 ---
 
 ## BLEACH Thousand Year Blood War

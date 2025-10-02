@@ -2,7 +2,7 @@
 title: Final Fantasy XIV Shadowbringers
 summary: Theme for Windows 10 and 11 inspired by Final Fantasy XIV - Shadowbringers
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/Gaming/FFXIVShadowbringers
+permalink: /WindowsThemes/c/Gaming/FFXIVShadowbringers
 ---
 
 ## Final Fantasy XIV - Shadowbringers

@@ -2,7 +2,7 @@
 title: Final Fantasy XIV Heavensward
 summary: Theme for Windows 10 and 11 inspired by Final Fantasy XIV - Heavensward
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/Gaming/FFXIVHeavensward
+permalink: /WindowsThemes/c/Gaming/FFXIVHeavensward
 ---
 
 ## Final Fantasy XIV - Heavensward

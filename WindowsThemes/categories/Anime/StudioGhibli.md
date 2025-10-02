@@ -2,7 +2,7 @@
 title: Studio Ghibli
 summary: Theme for Windows 10 and 11 inspired by the films of Studio Ghibli
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/Anime/StudioGhibli
+permalink: /WindowsThemes/c/Anime/StudioGhibli
 ---
 
 ## Studio Ghibli

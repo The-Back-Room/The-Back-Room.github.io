@@ -2,7 +2,7 @@
 title: Ecchi
 summary: A NSFW theme pack inspired by Ecchi anime and manga
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/nsfw/Miscellaneous/Ecchi
+permalink: /WindowsThemes/c/nsfw/Miscellaneous/Ecchi
 ---
 
 ## Ecchi

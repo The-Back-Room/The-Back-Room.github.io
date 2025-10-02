@@ -2,7 +2,7 @@
 title: Courage TCD
 summary: Theme inspired by the classic animated TV series Courage the Cowardly Dog
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/Cartoon/CourageTCD
+permalink: /WindowsThemes/c/Cartoon/CourageTCD
 ---
 
 ## Courage TCD

@@ -2,7 +2,7 @@
 title: Naruto - Ninja Hotsprings
 summary: A NSFW theme pack featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/nsfw/Anime/NarutoNinjaHotsprings
+permalink: /WindowsThemes/c/nsfw/Anime/NarutoNinjaHotsprings
 ---
 
 ## Naruto - Ninja Hotsprings

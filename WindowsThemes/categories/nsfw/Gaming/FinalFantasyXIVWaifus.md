@@ -2,7 +2,7 @@
 title: Final Fantasy XIV Waifus
 summary: A theme pack featuring wallpapers of Final Fantasy XIV waifus
 nav_exclude: true
-permalink: /WindowsThemes/Deskthemepacks/c/nsfw/Gaming/FinalFantasyXIVWaifus
+permalink: /WindowsThemes/c/nsfw/Gaming/FinalFantasyXIVWaifus
 ---
 
 ## Final Fantasy XIV Waifus
