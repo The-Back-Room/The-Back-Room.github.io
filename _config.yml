@@ -25,19 +25,19 @@ liquid:
 callouts_level: quiet
 callouts:
   highlight:
-    color: yellow
+    color: 241, 250, 140
     appearance: minimal
   important:
-    color: blue
+    color: 139, 233, 253
     appearance: minimal
   new:
-    color: green
+    color: 80, 250, 123
     appearance: minimal
   note:
-    color: purple
+    color: 189, 147, 249
     appearance: minimal
   warning:
-    color: red
+    color: 255, 85, 85
     appearance: minimal
 
 plugins:
