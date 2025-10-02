@@ -17,8 +17,8 @@ Themes for Windows 10 and 11 based off of popular anime and manga series
 <div class="desc">Bleach</div>
 </div>
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Anime/BLEACH">
-<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview-2.bmp" alt="Bleach: Thousand Year Blood War" width="600" height="400">
+<a target="_blank" href="/WindowsThemes/Deskthemepacks/c/Anime/BLEACHThousandYearBloodWar">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/raw/main/Extras/Preview.bmp" alt="Bleach: Thousand Year Blood War" width="600" height="400">
 </a>
 <div class="desc">Bleach: Thousand Year Blood War</div>
 </div>
