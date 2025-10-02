@@ -25,19 +25,19 @@ liquid:
 callouts_level: quiet
 callouts:
   highlight:
-    color: dracula-yellow
+    color: yellow
     appearance: minimal
   important:
-    color: dracula-blue
+    color: blue
     appearance: minimal
   new:
-    color: dracula-green
+    color: green
     appearance: minimal
   note:
-    color: dracula-purple
+    color: purple
     appearance: minimal
   warning:
-    color: dracula-red
+    color: red
     appearance: minimal
 
 plugins:
