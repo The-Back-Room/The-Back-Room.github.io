@@ -6,7 +6,7 @@ url: "https://the-back-room.info"
 
 remote_theme: "just-the-docs/just-the-docs"
 
-color_scheme: light
+color_scheme: night
 
 social_image: "/assets/images/logo.png"
 favicon_ico: "/favicon.ico"
