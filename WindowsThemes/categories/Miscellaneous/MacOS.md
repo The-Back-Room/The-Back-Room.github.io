@@ -6,7 +6,6 @@ permalink: /WindowsThemes/c/Miscellaneous/MacOS
 ---
 
 ## MacOS Themes for Windows 10 and 11
-
 Theme packs for Windows 10 and 11 inspired by the MacOS operating system.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/raw/main/Extras/Preview.bmp)
