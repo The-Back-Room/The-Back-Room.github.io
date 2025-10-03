@@ -16,15 +16,15 @@ Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, 
 
 ### Features
 
-- Multiple Theme Packs
-- Custom Sounds
-- Custom Cursors
-- Supports 4k Resolutions
+- Multiple Theme Packs.
+- Custom Sounds.
+- Custom Cursors.
+- Supports 4k Resolutions.
 
 ### Instructions
 
 - Download and extract the archive via the download button below.
-- Double-Click the `.deskthemepack` file included to install the theme.
+- Double-Click the `.deskthemepack` file for your desired theme to install it.
 
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/archive/main/macos-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download MacOS Themes</a>
 
