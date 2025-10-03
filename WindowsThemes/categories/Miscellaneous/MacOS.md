@@ -11,20 +11,21 @@ Theme packs for Windows 10 and 11 inspired by the MacOS operating system.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/raw/main/Extras/Preview.bmp)
 
-{: .note }
-> {: .opaque }
-> Due to the amount of themes included in this suite and the size of some of the resources, these themes require manual installation. Please follow the instructions below to install the themes.
+The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](/WindowsThemes/c/windhawk/DownAeroSquared).
+
+Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 
 ### Features
 
+- Multiple Theme Packs
+- Custom Sounds
 - Custom Cursors
 - Supports 4k Resolutions
 
 ### Instructions
 
 - Download and extract the archive via the download button below.
-- Copy the contents of the `Themes` folder into `%LOCALAPPDATA%\Microsoft\Windows\Themes\`
-- Apply the theme via `Settings > Personalization > Themes`
+- Double-Click the `.deskthemepack` file included to install the theme.
 
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/archive/main/macos-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download MacOS Themes</a>
 
