@@ -34,10 +34,11 @@ Theme for Windows 11 based off of the Windhawk [DownAero](https://github.com/ram
 
 ### Requirements
 
-- **Windhawk Plugin**: Windows 11 Start Menu Styler
-- **Windhawk Plugin**: Windows 11 Taskbar Styler
-- **Windhawk Plugin**: Windows 11 Notification Center Styler
-- **Windhawk Plugin**: Taskbar Clock Customization
+- [Windhawk](https://windhawk.net/)
+- [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
+- [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
+- [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
+- [Taskbar Clock Customization](https://windhawk.net/mods/taskbar-clock-customization)
 
 ### Instructions
 

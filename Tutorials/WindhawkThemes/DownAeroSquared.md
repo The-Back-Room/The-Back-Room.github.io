@@ -34,10 +34,10 @@ Instructions for setting up our DownAero Squared Windhawk theme
 ### Requirements
 
 - [Windhawk](https://windhawk.net/)
-- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
-- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
-- [Windhawk](https://windhawk.net/) Plugin: [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
-- [Windhawk](https://windhawk.net/) Plugin: [Taskbar Clock Customization](https://windhawk.net/mods/taskbar-clock-customization)
+- [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
+- [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
+- [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
+- [Taskbar Clock Customization](https://windhawk.net/mods/taskbar-clock-customization)
 
 ### Instructions
 
