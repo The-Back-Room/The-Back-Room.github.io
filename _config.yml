@@ -33,19 +33,19 @@ liquid:
 callouts_level: quiet
 callouts:
   highlight:
-    color: yellow-000
+    color: yellow
     appearance: minimal
   important:
-    color: blue-000
+    color: blue
     appearance: minimal
   new:
-    color: green-000
+    color: green
     appearance: minimal
   note:
-    color: purple-000
+    color: purple
     appearance: minimal
   warning:
-    color: red-000
+    color: red
     appearance: minimal
 
 plugins:
