@@ -13,7 +13,3 @@ We offer a variety of custom Windows Themes that you can download and install to
 > ℹ️ Some of these themes are based off of games, tv shows, movies, anime, or manga series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
 > 
 > This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
-
-{: .note  }
-> {: .opaque }
-> Due to the increasing difficulty with using custom MSSTYLE themes on modern versions of Windows, we have shifted our focus to providing Deskthemepacks and Windhawk themes. These formats are more compatible with the latest Windows updates and offer a smoother user experience. Visit our [GitLab Repo](https://gitlab.com/the-back-room/) to download our existing MSSTYLE themes.
