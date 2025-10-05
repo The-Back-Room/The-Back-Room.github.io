@@ -38,19 +38,15 @@ callouts:
   important:
     color: blue-000
     appearance: minimal
-    title: Important
   new:
     color: green-000
     appearance: minimal
-    title: New
   note:
     color: purple-000
     appearance: minimal
-    title: Note
   warning:
     color: red-000
     appearance: minimal
-    title: Warning
 
 plugins:
   - jekyll-seo-tag
