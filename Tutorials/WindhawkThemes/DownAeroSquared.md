@@ -9,26 +9,26 @@ permalink: /Tutorials/WindhawkThemes/DownAeroSquared
 Instructions for setting up our DownAero Squared Windhawk theme
 
 <div class="gallery text-delta">
-  <div class="gallery-item">
-    <a href="/assets/images/previews/taskbar-styler/down-aero-squared.bmp" target="_blank" ref="noopener noreferrer">
-    <img src="/assets/images/previews/taskbar-styler/down-aero-squared.bmp"  width="600" height="400"></a>
-    <div class="desc">Taskbar</div>
-  </div>
-  <div class="gallery-item">
-    <a href="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" target="_blank" ref="noopener noreferrer">
-    <img src="/assets/images/previews/start-menu-styler/down-aero-squared.bmp"  width="600" height="400"></a>
-    <div class="desc">Start Menu</div>
-  </div>
-  <div class="gallery-item">
-    <a href="/assets/images/previews/notification-center-styler/downaero-squared/action-center.bmp" target="_blank" ref="noopener noreferrer">
-    <img src="/assets/images/previews/notification-center-styler/downaero-squared/action-center.bmp" width="600" height="400"></a>
-    <div class="desc">Action Center</div>
-  </div>
-  <div class="gallery-item">
-    <a href="/assets/images/previews/notification-center-styler/downaero-squared/notification-center.bmp" target="_blank" ref="noopener noreferrer">
-    <img src="/assets/images/previews/notification-center-styler/downaero-squared/notification-center.bmp" width="600" height="400"></a>
-    <div class="desc">Notification Center</div>
-  </div>
+<div class="gallery-item">
+<a href="/assets/images/previews/taskbar-styler/down-aero-squared.bmp" target="_blank" ref="noopener noreferrer">
+<img src="/assets/images/previews/taskbar-styler/down-aero-squared.bmp" width="600" height="400"></a>
+<div class="desc">Taskbar</div>
+</div>
+<div class="gallery-item">
+<a href="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" target="_blank" ref="noopener noreferrer">
+<img src="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" width="600" height="400"></a>
+<div class="desc">Start Menu</div>
+</div>
+<div class="gallery-item">
+<a href="/assets/images/previews/notification-center-styler/downaero-squared/action-center.bmp" target="_blank" ref="noopener noreferrer">
+<img src="/assets/images/previews/notification-center-styler/downaero-squared/action-center.bmp" width="600" height="400"></a>
+<div class="desc">Action Center</div>
+</div>
+<div class="gallery-item">
+<a href="/assets/images/previews/notification-center-styler/downaero-squared/notification-center.bmp" target="_blank" ref="noopener noreferrer">
+<img src="/assets/images/previews/notification-center-styler/downaero-squared/notification-center.bmp" width="600" height="400"></a>
+<div class="desc">Notification Center</div>
+</div>
 </div>
 
 ### Requirements
