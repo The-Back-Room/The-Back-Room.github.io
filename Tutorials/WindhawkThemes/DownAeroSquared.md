@@ -9,11 +9,11 @@ permalink: /Tutorials/WindhawkThemes/DownAeroSquared
 Instructions for setting up our DownAero Squared Windhawk theme
 
 <div>
-  <img src="/assets/images/previews/taskbar-styler/down-aero-squared.bmp" alt="Preview" class="width=20%" />
-  <img src="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" alt="Preview" class="width=20%" />
-  <img src="/assets/images/previews/notification-center-styler/downaero-squared/Preview-1.bmp" alt="Preview" class="width=20%" />
-  <img src="/assets/images/previews/notification-center-styler/downaero-squared/Preview-2.bmp" alt="Preview" class="width=20%" />
-  <img src="/assets/images/previews/notification-center-styler/downaero-squared/Preview-3.bmp" alt="Preview" class="width=20%" />
+  <img src="/assets/images/previews/taskbar-styler/down-aero-squared.bmp" alt="Preview" width="20%" />
+  <img src="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" alt="Preview" width="20%" />
+  <img src="/assets/images/previews/notification-center-styler/downaero-squared/Preview-1.bmp" alt="Preview" width="20%" />
+  <img src="/assets/images/previews/notification-center-styler/downaero-squared/Preview-2.bmp" alt="Preview" width="20%" />
+  <img src="/assets/images/previews/notification-center-styler/downaero-squared/Preview-3.bmp" alt="Preview" width="20%" />
 </div>
 
 ### Requirements
