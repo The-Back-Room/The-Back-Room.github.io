@@ -30,6 +30,6 @@ Development communities hosted by or supported by our community.
 ### Twitch Channels
 These Twitch streamers are supported by our community.
 
-- [Gixxium](https://www.twitch.tv/gixxium) - Streams a variety of games, often with a focus on horror and indie titles.
-- [DoctorWurm](https://www.twitch.tv/doctorwurm) - Streams a variety of games, often with a focus on retro, indie, and classic titles.
-- [PheonixDaBoss](https://www.twitch.tv/pheonixdaboss) - Streams a variety of games, often with a focus on action and fps titles.
+- [Gixxium](https://www.twitch.tv/gixxium) - Streams a variety of games, often with a focus on horror and indie titles. Hop on over and join the Goblin Army if you want to have a good time.
+- [DoctorWurm](https://www.twitch.tv/doctorwurm) - Streams a variety of games, often with a focus on retro, indie, and classic titles. Hop on over and join the Wurmlings if you want to have a good time.
+- [PheonixDaBoss](https://www.twitch.tv/pheonixdaboss) - Streams a variety of games, often with a focus on action, fps, and shooter titles. Hop on over if you want to have a good time.
