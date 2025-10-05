@@ -12,27 +12,22 @@ Instructions for setting up our DownAero Squared Windhawk theme
   <div class="gallery-item">
     <a href="/assets/images/previews/taskbar-styler/down-aero-squared.bmp" target="_blank" ref="noopener noreferrer">
     <img src="/assets/images/previews/taskbar-styler/down-aero-squared.bmp" /></a>
-    <div class="desc">Taskbar - Preview</div>
+    <div class="desc">Taskbar</div>
   </div>
   <div class="gallery-item">
     <a href="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" target="_blank" ref="noopener noreferrer">
     <img src="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" /></a>
-    <div class="desc">Start Menu - Preview</div>
+    <div class="desc">Start Menu</div>
   </div>
   <div class="gallery-item">
     <a href="/assets/images/previews/notification-center-styler/downaero-squared/Preview-1.bmp" target="_blank" ref="noopener noreferrer">
     <img src="/assets/images/previews/notification-center-styler/downaero-squared/Preview-1.bmp" /></a>
-    <div class="desc">Notification Center - Preview 1</div>
+    <div class="desc">Action Center</div>
   </div>
   <div class="gallery-item">
     <a href="/assets/images/previews/notification-center-styler/downaero-squared/Preview-2.bmp" target="_blank" ref="noopener noreferrer">
     <img src="/assets/images/previews/notification-center-styler/downaero-squared/Preview-2.bmp" /></a>
-    <div class="desc">Notification Center - Preview 2</div>
-  </div>
-  <div class="gallery-item">
-    <a href="/assets/images/previews/notification-center-styler/downaero-squared/Preview-3.bmp" target="_blank" ref="noopener noreferrer">
-    <img src="/assets/images/previews/notification-center-styler/downaero-squared/Preview-3.bmp" /></a>
-    <div class="desc">Notification Center - Preview 3</div>
+    <div class="desc">Notification Center</div>
   </div>
 </div>
 
