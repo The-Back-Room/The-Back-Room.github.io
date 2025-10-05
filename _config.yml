@@ -35,18 +35,23 @@ callouts:
   highlight:
     color: yellow
     appearance: minimal
+    opacity: 0.3
   important:
     color: blue
     appearance: minimal
+    opacity: 0.3
   new:
     color: green
     appearance: minimal
+    opacity: 0.3
   note:
     color: purple
     appearance: minimal
+    opacity: 0.3
   warning:
     color: red
     appearance: minimal
+    opacity: 0.3
 
 plugins:
   - jekyll-seo-tag
