@@ -2,6 +2,7 @@
 title: Miscellaneous Themes
 summary: Themes for Windows 10 and 11 that don't fit into other categories
 nav_order: 2.7.5
+has_toc: false
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /WindowsThemes/c/nsfw/Miscellaneous

@@ -2,6 +2,7 @@
 title: Gaming Themes
 summary: Themes for Windows 10 and 11 based off of popular video games
 nav_order: 2.7.3
+has_toc: false
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /WindowsThemes/c/nsfw/nsfw/Gaming

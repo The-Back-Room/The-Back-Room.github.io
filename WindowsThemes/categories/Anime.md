@@ -2,6 +2,7 @@
 title: Anime Themes
 summary: Themes for Windows 10 and 11 based off of anime and manga series
 nav_order: 2.1
+has_toc: false
 parent: Windows Themes
 permalink: /WindowsThemes/c/Anime
 ---
