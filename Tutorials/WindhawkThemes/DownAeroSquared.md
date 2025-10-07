@@ -246,19 +246,15 @@ Instructions for setting up our DownAero Squared Windhawk theme
     "controlStyles[7].styles[8]": "BorderThickness@Pressed=$n1",
     "controlStyles[6].styles[9]": "BorderThickness@PointerOver=$n1",
     "controlStyles[44].target": "Grid#ActionsBar",
-    "controlStyles[44].styles[0]": "Background:=$accent",
-    "controlStyles[44].styles[1]": "Height=120",
+    "controlStyles[44].styles[0]": "Height=120",
     "controlStyles[39].styles[0]": "CornerRadius=$n1",
-    "controlStyles[41].styles[1]": "BorderThickness=$n2",
-    "controlStyles[44].styles[2]": "BorderThickness=$n2",
-    "controlStyles[41].styles[2]": "BorderBrush:=$transparent",
-    "controlStyles[44].styles[3]": "BorderBrush:=$transparent",
-    "controlStyles[40].styles[1]": "BorderThickness=$n2",
-    "controlStyles[40].styles[2]": "BorderBrush:=$transparent",
     "controlStyles[32].styles[3]": "CornerRadius=$n1",
-    "controlStyles[41].styles[3]": "Background:=$card",
-    "controlStyles[40].styles[3]": "Background:=$accent",
-    "controlStyles[39].styles[1]": "Background:=Transparent"
+    "controlStyles[41].styles[1]": "BorderThickness=$n2",
+    "controlStyles[40].styles[1]": "BorderThickness=$n2",
+    "controlStyles[41].styles[2]": "Background:=$card",
+    "controlStyles[41].styles[3]": "BorderBrush:=$transparent",
+    "controlStyles[40].styles[2]": "Background:=$accent",
+    "controlStyles[40].styles[3]": "BorderBrush:=$transparent"
   }
   ```
 2. **Taskbar**: Copy and paste the code below into `Windhawk >> Windows 11 Taskbar Styler >> Advanced >> Mod Settings` and click `Save`:
