@@ -10,16 +10,23 @@ Theme pack for Windows 10 and 11 inspired by the Naruto anime and manga series.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/-/raw/main/Extras/Preview.bmp)
 
-The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](/WindowsThemes/c/windhawk/DownAeroSquared).
+The screenshot displays the theme being used alongside my DownAero Squared Windhawk Theme. You can find it [here](https://the-back-room.info/WindowsThemes/WindhawkThemes/DownAeroSquared).
 
 Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 
+Due to changes in windows breaking sounds the sound scheme has been packaged into a sound pack for Orelio's Sound Manager. As such, you will need to download that to use the sound scheme.
+
+### Requirements
+
+- [ORelio/Sound-Manager](https://github.com/ORelio/Sound-Manager) for the sound pack
+
 ### Features
 
-- Multiple Wallpapers
-- Custom Cursors
-- Custom Logon, Logoff, and Shutdown Sounds
-- Supports 4k Resolutions
+- Multiple wallpapers
+- Custom cursors
+- Custom sound pack
+- Supports 4k resolutions
+- Optional alternate backgrounds included
 
 ### Instructions
 
