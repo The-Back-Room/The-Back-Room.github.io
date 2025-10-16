@@ -6,6 +6,7 @@ has_toc: false
 parent: NSFW Themes
 grand_parent: Windows Themes
 permalink: /WindowsThemes/c/nsfw/Cartoon
+published: false
 ---
 
 ## Cartoon Themes
