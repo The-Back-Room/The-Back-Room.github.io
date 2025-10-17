@@ -41,8 +41,7 @@ Instructions for setting up our DownAero Squared Windhawk theme
 
 ### Instructions
 
-<details>
-<summary>Start Menu</summary>
+#### Start Menu
 
 Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> Advanced >> Mod Settings` and click `Save`:
 
@@ -261,10 +260,7 @@ Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> 
 }
 ```
 
-</details>
-
-<details>
-<summary>Alternate Start Menu (Optional)</summary>
+#### Alternate Start Menu (Optional)
 
 Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> Advanced >> Mod Settings` and click `Save`:
 
@@ -333,10 +329,7 @@ Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> 
 }
 ```
 
-</details>
-
-<details>
-<summary>Taskbar</summary>
+#### Taskbar
 
 Copy and paste the code below into `Windhawk >> Windows 11 Taskbar Styler >> Advanced >> Mod Settings` and click `Save`:
 
@@ -460,10 +453,7 @@ To get the taskbar clock to display the system performance metrics like in the s
 - **Top Line**: `CPU %cpu% RAM %ram% | %date%`
 - **Bottom Line**: `🔽 %download_speed% 🔼 %upload_speed% | %time%`
 
-</details>
-
-<details>
-<summary>Notification Center</summary>
+#### Notification Center
 
 Copy and paste the code below into `Windhawk >> Windows 11 Notification Center Styler >> Advanced >> Mod Settings` and click `Save`:
 
@@ -776,5 +766,3 @@ Copy and paste the code below into `Windhawk >> Windows 11 Notification Center S
 "controlStyles[2].styles[4]": "Margin=-16,15,-16,-14"
 }
 ```
-
-</details>
