@@ -17,6 +17,7 @@ div.gallery-item {
 
 div.gallery-item:hover {
   border: 1px solid darken($border-color, 10%);
+  border-radius: 2px;
 }
 
 div.gallery-item img {
