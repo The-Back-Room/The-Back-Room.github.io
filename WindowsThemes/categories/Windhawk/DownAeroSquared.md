@@ -9,45 +9,307 @@ permalink: /WindowsThemes/c/windhawk/DownAeroSquared
 
 Theme for Windows 11 based off of the Windhawk [DownAero](https://github.com/ramensoftware/windows-11-start-menu-styling-guide/tree/main/Themes/Down%20Aero) start menu theme. This theme extends the DownAero design to the taskbar and notification center for a more complete look while adding in a few tweaks and improvements.
 
-<div class="gallery text-delta">
-<div class="gallery-item">
-<a href="/assets/images/previews/taskbar-styler/down-aero-squared.bmp" target="_blank" ref="noopener noreferrer">
-<img src="/assets/images/previews/taskbar-styler/down-aero-squared.bmp" width="600" height="400"></a>
-<div class="desc">Taskbar</div>
-</div>
-<div class="gallery-item">
+
 <a href="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" target="_blank" ref="noopener noreferrer">
 <img src="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" width="600" height="400"></a>
-<div class="desc">Start Menu</div>
-</div>
-<div class="gallery-item">
-<a href="/assets/images/previews/notification-center-styler/downaero-squared/action-center.bmp" target="_blank" ref="noopener noreferrer">
-<img src="/assets/images/previews/notification-center-styler/downaero-squared/action-center.bmp" width="600" height="400"></a>
-<div class="desc">Action Center</div>
-</div>
-<div class="gallery-item">
-<a href="/assets/images/previews/notification-center-styler/downaero-squared/notification-center.bmp" target="_blank" ref="noopener noreferrer">
-<img src="/assets/images/previews/notification-center-styler/downaero-squared/notification-center.bmp" width="600" height="400"></a>
-<div class="desc">Notification Center</div>
-</div>
-</div>
 
 ### Requirements
 
 - [Windhawk](https://windhawk.net/)
-- [Windows 11 Notification Center Styler](https://windhawk.net/mods/windows-11-notification-center-styler)
 - [Windows 11 Start Menu Styler](https://windhawk.net/mods/windows-11-start-menu-styler)
-- [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
-- [Taskbar Clock Customization](https://windhawk.net/mods/taskbar-clock-customization)
 
-### Instructions
+### Installation
 
-To set up the theme, follow the instructions listed on each of the following pages:
+- Open the Windows 11 Start Menu Styler mod in Windhawk.
+- Go to the "Advanced" tab.
+- Copy the content below to the text box under "Mod settings" and click "Save".
 
-- [Start Menu](/Tutorials/WindhawkThemes/DownAeroSquared/StartMenu)
-    - [Alternate Start Menu (Optional)](/Tutorials/WindhawkThemes/DownAeroSquared/AlternateStartMenu)
-- [Taskbar](/Tutorials/WindhawkThemes/DownAeroSquared/Taskbar)
-- [Notification Center](/Tutorials/WindhawkThemes/DownAeroSquared/NotificationCenter)
+
+```json
+{
+"disableNewStartMenuLayout": 0,
+"controlStyles[0].target": "StartDocked.StartSizingFrame",
+"controlStyles[0].styles[0]": "MaxHeight=540",
+"controlStyles[1].target": "Grid#TopLevelSuggestionsListHeader",
+"controlStyles[1].styles[0]": "Visibility=1",
+"controlStyles[2].target": "StartMenu.PinnedList",
+"controlStyles[2].styles[0]": "Height=300",
+"controlStyles[3].target": "Grid#AllAppsRoot",
+"controlStyles[3].styles[0]": "Margin=0,0,0,40",
+"controlStyles[4].target": "Grid#UndockedRoot",
+"controlStyles[4].styles[0]": "Margin=0,-70,0,-90",
+"controlStyles[5].target": "StartDocked.AppListView#NavigationPanePlacesListView > Border",
+"controlStyles[5].styles[0]": "CornerRadius=$n1",
+"controlStyles[5].styles[1]": "Margin=0,0,15,0",
+"controlStyles[5].styles[2]": "Height=38",
+"controlStyles[5].styles[3]": "Background:=$card",
+"controlStyles[6].target": "StartDocked.NavigationPaneButton#PowerButton > Grid@CommonStates > Border#BackgroundBorder",
+"controlStyles[6].styles[0]": "CornerRadius=$n1",
+"controlStyles[6].styles[1]": "Margin=-7",
+"controlStyles[6].styles[2]": "Height=38",
+"controlStyles[6].styles[3]": "Width=38",
+"controlStyles[6].styles[4]": "Background:=$card",
+"controlStyles[6].styles[5]": "BorderBrush@Normal:=$transparent",
+"controlStyles[7].target": "StartDocked.NavigationPaneButton#UserTileButton > Grid@CommonStates > Border#BackgroundBorder",
+"controlStyles[7].styles[0]": "CornerRadius=$n1",
+"controlStyles[7].styles[1]": "Height=38",
+"controlStyles[7].styles[2]": "Background:=$card",
+"controlStyles[8].target": "Button#ShowAllAppsButton > ContentPresenter#ContentPresenter@CommonStates",
+"controlStyles[8].styles[0]": "CornerRadius=$n1",
+"controlStyles[8].styles[1]": "BorderThickness=$n2",
+"controlStyles[8].styles[2]": "Background@Normal:=$accent",
+"controlStyles[8].styles[3]": "Background@Pressed:=$accentDark1",
+"controlStyles[9].target": "Button#CloseAllAppsButton > ContentPresenter#ContentPresenter@CommonStates",
+"controlStyles[9].styles[0]": "CornerRadius=$n1",
+"controlStyles[10].target": "MenuFlyoutPresenter > Border",
+"controlStyles[10].styles[0]": "Shadow:=",
+"controlStyles[11].target": "TextBlock[Text=]",
+"controlStyles[11].styles[0]": "Text=",
+"controlStyles[12].target": "TextBlock[Text=]",
+"controlStyles[12].styles[0]": "Text=",
+"webContentStyles[0].target": "h4, .suggContainer, .groupTitle, .suggsListContainer, .title, .details, .secondaryText, .scope-tile > div, .menu-item_details",
+"webContentStyles[0].styles[0]": "font-family: '$textFont' !important",
+"webContentStyles[1].target": ".cortanaFontIcon, .iconContent",
+"webContentStyles[1].styles[0]": "font-family: '$iconFont' !important",
+"webContentStyles[2].target": "#scopesHeader",
+"controlStyles[6].styles[6]": "BorderBrush@PointerOver:=$accent",
+"controlStyles[9].styles[1]": "BorderThickness=$n2",
+"controlStyles[9].styles[2]": "Background@Normal:=$accent",
+"controlStyles[9].styles[3]": "Background@Pressed:=$accentDark1",
+"controlStyles[9].styles[4]": "Background@PointerOver:=$accentDark2",
+"controlStyles[8].styles[4]": "Background@PointerOver:=$accentDark2",
+"styleConstants[0]": "card=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"1\" Opacity=\"1\" />",
+"styleConstants[1]": "surface=<AcrylicBrush TintColor=\"{ThemeResource SurfaceStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource SurfaceStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"1\" Opacity=\"1\" />",
+"styleConstants[2]": "accent=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" FallbackColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\"0.4\" TintLuminosityOpacity=\"0.4\" />",
+"styleConstants[3]": "accentLight1=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorLight1}\" FallbackColor=\"{ThemeResource SystemAccentColorLight1}\" TintOpacity=\"0.4\" TintLuminosityOpacity=\"0.4\" />",
+"styleConstants[4]": "accentLight2=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorLight2}\" FallbackColor=\"{ThemeResource SystemAccentColorLight2}\" TintOpacity=\"0.4\" TintLuminosityOpacity=\"0.4\" />",
+"styleConstants[5]": "accentLight3=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorLight3}\" FallbackColor=\"{ThemeResource SystemAccentColorLight3}\" TintOpacity=\"0.4\" TintLuminosityOpacity=\"0.4\" />",
+"styleConstants[6]": "accentDark1=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorDark1}\" FallbackColor=\"{ThemeResource SystemAccentColorDark1}\" TintOpacity=\"0.4\" TintLuminosityOpacity=\"0.4\" />",
+"styleConstants[7]": "accentDark2=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorDark2}\" FallbackColor=\"{ThemeResource SystemAccentColorDark2}\" TintOpacity=\"0.4\" TintLuminosityOpacity=\"0.4\" />",
+"styleConstants[8]": "accentDark3=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColorDark3}\" FallbackColor=\"{ThemeResource SystemAccentColorDark3}\" TintOpacity=\"0.4\" TintLuminosityOpacity=\"0.4\" />",
+"styleConstants[9]": "transparent=<AcrylicBrush TintColor=\"Transparent\" FallbackColor=\"Transparent\" TintOpacity=\"0.1\" TintLuminosityOpacity=\"0.1\" />",
+"styleConstants[10]": "n1=2",
+"styleConstants[11]": "n2=1",
+"styleConstants[12]": "textFont=Segoe UI",
+"controlStyles[8].styles[5]": "BorderBrush:=$transparent",
+"controlStyles[9].styles[5]": "BorderBrush:=$transparent",
+"controlStyles[13].target": "Grid#NoTopLevelSuggestionsText",
+"controlStyles[13].styles[0]": "Visibility=1",
+"controlStyles[14].target": "Grid#TopLevelSuggestionsListHeader",
+"controlStyles[15].target": "Grid#TopLevelSuggestionsContainer",
+"controlStyles[16].target": "Grid#ShowMoreSuggestions",
+"controlStyles[14].styles[0]": "Visibility=1",
+"controlStyles[15].styles[0]": "Visibility=1",
+"controlStyles[16].styles[0]": "Visibility=1",
+"controlStyles[17].target": "SemanticZoom#ZoomControl",
+"controlStyles[17].styles[0]": "IsZoomOutButtonEnabled=True",
+"controlStyles[18].target": "Button#ZoomOutButton",
+"controlStyles[18].styles[0]": "Width=40",
+"controlStyles[18].styles[1]": "Height=40",
+"controlStyles[19].target": "Button#ZoomOutButton > ContentPresenter#ContentPresenter > TextBlock",
+"controlStyles[19].styles[0]": "Text=",
+"controlStyles[19].styles[1]": "FontSize=28",
+"controlStyles[20].target": "Button#ZoomOutButton >  ContentPresenter#ContentPresenter@CommonStates",
+"controlStyles[20].styles[0]": "Background@Normal:=$accent",
+"controlStyles[20].styles[1]": "Background@PointerOver:=$accentDark2",
+"controlStyles[20].styles[2]": "Background@Pressed:=$accentDark1",
+"controlStyles[20].styles[3]": "CornerRadius=$n1",
+"controlStyles[20].styles[4]": "BorderThickness=$n2",
+"controlStyles[20].styles[5]": "BorderBrush:=$transparent",
+"controlStyles[21].target": "StartDocked.SearchBoxToggleButton",
+"controlStyles[21].styles[0]": "Width=480",
+"controlStyles[21].styles[1]": "Height=40",
+"controlStyles[21].styles[2]": "Margin=-100,0,0,30",
+"controlStyles[21].styles[3]": "Canvas.ZIndex=1",
+"controlStyles[22].target": "StartDocked.SearchBoxToggleButton > Grid > Border",
+"controlStyles[22].styles[0]": "CornerRadius=$n1",
+"controlStyles[22].styles[1]": "BorderThickness=$n2",
+"controlStyles[22].styles[2]": "Background:=$accent",
+"controlStyles[22].styles[3]": "BorderBrush:=$transparent",
+"controlStyles[23].target": "TextBlock#PinnedListHeaderText",
+"controlStyles[23].styles[0]": "Visibility=1",
+"controlStyles[24].target": "StartDocked.LauncherFrame > Grid#RootGrid > Grid#RootContent > Grid#MainContent > Grid#InnerContent > Rectangle",
+"controlStyles[24].styles[0]": "Visibility=1",
+"controlStyles[25].target": "Button#ShowAllAppsButton > ContentPresenter#ContentPresenter > StackPanel > TextBlock",
+"controlStyles[26].target": "Button#CloseAllAppsButton",
+"controlStyles[27].target": "Button#ShowAllAppsButton",
+"controlStyles[26].styles[0]": "Margin=0,-142,-32,0",
+"controlStyles[26].styles[1]": "Height=38",
+"controlStyles[26].styles[2]": "Width=80",
+"controlStyles[27].styles[0]": "Margin=0,-2,30,2",
+"controlStyles[27].styles[1]": "Height=38",
+"controlStyles[27].styles[2]": "Width=80",
+"controlStyles[20].styles[6]": "Shadow:=",
+"controlStyles[11].styles[1]": "Margin=4,0,0,0",
+"controlStyles[28].target": "ToolTip > ContentPresenter#LayoutRoot",
+"controlStyles[28].styles[0]": "Background:=$card",
+"controlStyles[28].styles[1]": "BorderBrush:=$transparent",
+"controlStyles[28].styles[2]": "CornerRadius=$n1",
+"controlStyles[28].styles[3]": "BorderThickness=$n2",
+"controlStyles[25].styles[0]": "Text=Apps",
+"controlStyles[29].target": "StartMenu.ExpandedFolderList > Grid > Border",
+"controlStyles[30].target": "StartMenu.ExpandedFolderList > Grid > Grid",
+"controlStyles[31].target": "StartMenu.ExpandedFolderList > Grid > Grid > PipsPager#PinnedListPipsPager",
+"controlStyles[29].styles[0]": "CornerRadius=$n1",
+"controlStyles[29].styles[1]": "BorderThickness=$n2",
+"controlStyles[29].styles[2]": "Background:=$accent",
+"controlStyles[29].styles[3]": "BorderBrush:=$transparent",
+"controlStyles[29].styles[4]": "Height=325",
+"styleConstants[13]": "iconFont=Segoe Fluent Icons",
+"webContentStyles[2].styles[0]": "font-family: '$textFont' !important",
+"webContentStyles[3].target": "#qfPreviewPane",
+"webContentStyles[3].styles[0]": "min-width: 300px !important",
+"controlStyles[31].styles[0]": "Margin=-18,0,0,0",
+"controlStyles[30].styles[0]": "Margin=0,0,0,50",
+"controlStyles[29].styles[5]": "Margin=0,0,0,50",
+"webContentStyles[3].styles[1]": "max-height: 550px !important",
+"webContentCustomJs": "",
+"webContentStyles[0].styles[1]": "font-size: 12px !Important",
+"controlStyles[32].target": "Border#AcrylicOverlay",
+"controlStyles[33].target": "Border#AcrylicBorder",
+"controlStyles[33].styles[0]": "Background:=$accent",
+"controlStyles[33].styles[1]": "BorderBrush:=$transparent",
+"controlStyles[33].styles[2]": "BorderThickness=$n2",
+"controlStyles[33].styles[3]": "CornerRadius=$n1",
+"controlStyles[32].styles[0]": "Background:=$card",
+"controlStyles[32].styles[1]": "BorderBrush:=$transparent",
+"controlStyles[32].styles[2]": "BorderThickness=$n2",
+"controlStyles[34].target": "Border#StartDropShadow",
+"controlStyles[35].target": "Border#DropShadow",
+"controlStyles[34].styles[0]": "CornerRadius=$n1",
+"controlStyles[35].styles[0]": "CornerRadius=$n1",
+"controlStyles[36].target": "Border#AppBorder",
+"controlStyles[36].styles[0]": "Background:=$card",
+"controlStyles[36].styles[1]": "BorderBrush:=$transparent",
+"controlStyles[36].styles[2]": "CornerRadius=$n1",
+"controlStyles[36].styles[3]": "BorderThickness=$n2",
+"controlStyles[37].target": "Border#TaskbarSearchBackground",
+"controlStyles[37].styles[0]": "Background:=$accent",
+"controlStyles[37].styles[1]": "BorderBrush:=$transparent",
+"controlStyles[37].styles[2]": "CornerRadius=$n1",
+"controlStyles[37].styles[3]": "BorderThickness=$n2",
+"controlStyles[38].target": "Windows.UI.Xaml.Controls.Primitives.ScrollBar#VerticalScrollBar",
+"controlStyles[38].styles[0]": "Visibility=1",
+"controlStyles[39].target": "StartDocked.StartMenuCompanion#RightCompanion > Grid#CompanionRoot > Grid",
+"controlStyles[40].target": "StartDocked.StartMenuCompanion#RightCompanion > Grid#CompanionRoot > Grid > Border#AcrylicBorder",
+"controlStyles[40].styles[0]": "CornerRadius=$n1",
+"controlStyles[41].target": "StartDocked.StartMenuCompanion#RightCompanion > Grid#CompanionRoot > Grid > Border#AcrylicOverlay",
+"controlStyles[41].styles[0]": "CornerRadius=$n1",
+"controlStyles[42].target": "Button#PrimaryActionBarButton > ContentPresenter@CommonStates",
+"controlStyles[42].styles[0]": "CornerRadius=$n1",
+"controlStyles[42].styles[1]": "BorderThickness=$n2",
+"controlStyles[42].styles[2]": "Background:=$card",
+"controlStyles[43].target": "Button#ActionBarOverflowButton > ContentPresenter@CommonStates",
+"controlStyles[43].styles[0]": "CornerRadius=$n1",
+"controlStyles[43].styles[1]": "Background:=$card",
+"controlStyles[43].styles[2]": "Height=40",
+"controlStyles[43].styles[3]": "Width=40",
+"controlStyles[42].styles[3]": "Height=40",
+"controlStyles[42].styles[4]": "Width=120",
+"controlStyles[43].styles[4]": "BorderBrush@Normal:=$transparent",
+"controlStyles[43].styles[5]": "BorderBrush@PointerOver:=$accent",
+"controlStyles[43].styles[6]": "BorderBrush@Pressed:=$accentDark2",
+"controlStyles[43].styles[7]": "BorderThickness@Normal=$n2",
+"controlStyles[43].styles[8]": "BorderThickness@PointerOver=$n1",
+"controlStyles[43].styles[9]": "BorderThickness@Pressed=$n1",
+"controlStyles[42].styles[5]": "BorderBrush@Normal:=$transparent",
+"controlStyles[42].styles[6]": "BorderBrush@PointerOver:=$accent",
+"controlStyles[42].styles[7]": "BorderBrush@Pressed:=$accentDark2",
+"controlStyles[42].styles[8]": "BorderThickness@Normal=$n2",
+"controlStyles[42].styles[9]": "BorderThickness@PointerOver=$n1",
+"controlStyles[42].styles[10]": "BorderThickness@Pressed=$n1",
+"controlStyles[6].styles[7]": "BorderBrush@Pressed:=$accentDark3",
+"controlStyles[6].styles[8]": "BorderThickness@Normal=$n2",
+"controlStyles[7].styles[3]": "BorderBrush@Normal:=$transparent",
+"controlStyles[7].styles[4]": "BorderBrush@PointerOver:=$accent",
+"controlStyles[7].styles[5]": "BorderBrush@Pressed:=$accentDark3",
+"controlStyles[7].styles[6]": "BorderThickness@Normal=$n2",
+"controlStyles[7].styles[7]": "BorderThickness@PointerOver=$n1",
+"controlStyles[7].styles[8]": "BorderThickness@Pressed=$n1",
+"controlStyles[6].styles[9]": "BorderThickness@PointerOver=$n1",
+"controlStyles[44].target": "Grid#ActionsBar",
+"controlStyles[44].styles[0]": "Height=120",
+"controlStyles[39].styles[0]": "CornerRadius=$n1",
+"controlStyles[32].styles[3]": "CornerRadius=$n1",
+"controlStyles[41].styles[1]": "BorderThickness=$n2",
+"controlStyles[40].styles[1]": "BorderThickness=$n2",
+"controlStyles[41].styles[2]": "Background:=$card",
+"controlStyles[41].styles[3]": "BorderBrush:=$transparent",
+"controlStyles[40].styles[2]": "Background:=$accent",
+"controlStyles[40].styles[3]": "BorderBrush:=$transparent"
+}
+```
+
+---
+
+**Alternate Start Menu (Optional)**
+
+- To use the alternate start menu layout, copy the content below to the text box under "Mod settings" and click "Save":
+
+```json
+{
+"disableNewStartMenuLayout": 0,
+"theme": "Down Aero",
+"controlStyles[0].target": "Border#AcrylicBorder",
+"controlStyles[0].styles[0]": "CornerRadius=2",
+"controlStyles[1].target": "Border#AcrylicOverlay",
+"controlStyles[1].styles[0]": "CornerRadius=2",
+"controlStyles[2].target": "Button#ActionBarOverflowButton > ContentPresenter#ContentPresenter@CommonStates",
+"controlStyles[3].target": "Button#PrimaryActionBarButton > ContentPresenter#ContentPresenter@CommonStates",
+"controlStyles[3].styles[0]": "CornerRadius=2",
+"controlStyles[3].styles[1]": "Height=38",
+"controlStyles[4].target": "Button#HideMoreSuggestionsButton > ContentPresenter#ContentPresenter",
+"controlStyles[4].styles[0]": "CornerRadius=2",
+"controlStyles[5].target": "Button#CloseAllAppsButton > ContentPresenter#ContentPresenter",
+"controlStyles[5].styles[0]": "CornerRadius=2",
+"controlStyles[6].target": "Button#ShowMoreSuggestionsButton > ContentPresenter#ContentPresenter@CommonStates",
+"controlStyles[6].styles[0]": "CornerRadius=2,0,0,2",
+"controlStyles[7].target": "Button#ShowAllAppsButton > ContentPresenter#ContentPresenter@CommonStates",
+"controlStyles[7].styles[0]": "CornerRadius=0,2,2,0",
+"controlStyles[8].target": "StartDocked.NavigationPaneButton#PowerButton > Grid@CommonStates > Border#BackgroundBorder",
+"controlStyles[8].styles[0]": "BorderBrush@Normal:=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\".1\" Opacity=\"1\" />",
+"controlStyles[8].styles[1]": "BorderBrush@PointerOver:=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" FallbackColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\".8\" TintLuminosityOpacity=\".5\" Opacity=\"1\" />",
+"controlStyles[8].styles[2]": "Background:=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"1\" Opacity=\"1\" />",
+"controlStyles[8].styles[3]": "BorderThickness=2",
+"controlStyles[8].styles[4]": "CornerRadius=2",
+"controlStyles[2].styles[0]": "CornerRadius=2",
+"controlStyles[2].styles[1]": "Height=38",
+"controlStyles[2].styles[2]": "Width=38",
+"controlStyles[1].styles[1]": "Margin=0,0,0,2",
+"controlStyles[9].target": "StartDocked.NavigationPaneButton#UserTileButton > Grid > Border#BackgroundBorder",
+"controlStyles[9].styles[0]": "CornerRadius=2",
+"controlStyles[10].target": "StartDocked.AppListView#NavigationPanePlacesListView",
+"controlStyles[10].styles[0]": "Visibility=1",
+"controlStyles[11].target": "StartDocked.NavigationPaneView#NavigationPane > Grid#RootPanel",
+"controlStyles[11].styles[0]": "Margin=0,-2,0,2",
+"controlStyles[12].target": "StartDocked.SearchBoxToggleButton",
+"controlStyles[12].styles[0]": "Visibility=0",
+"controlStyles[13].target": "Windows.UI.Xaml.Controls.Primitives.ScrollBar#VerticalScrollBar",
+"controlStyles[13].styles[0]": "Visibility=1",
+"controlStyles[14].target": "Border#AppBorder",
+"controlStyles[14].styles[0]": "CornerRadius=2",
+"controlStyles[15].target": "StartDocked.StartMenuCompanion#RightCompanion > Grid#CompanionRoot > Grid",
+"controlStyles[15].styles[0]": "CornerRadius=2",
+"controlStyles[16].target": "Border#DropShadow",
+"controlStyles[17].target": "Border#StartDropShadow",
+"controlStyles[16].styles[0]": "CornerRadius=2",
+"controlStyles[17].styles[0]": "CornerRadius=2",
+"controlStyles[18].target": "StartMenu.ExpandedFolderList > Grid > Border",
+"controlStyles[18].styles[0]": "CornerRadius=2",
+"controlStyles[2].styles[3]": "Background:=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"1\" Opacity=\"1\" />",
+"controlStyles[3].styles[2]": "Background:=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"1\" Opacity=\"1\" />",
+"controlStyles[19].target": "Border#AppOverlay",
+"controlStyles[19].styles[0]": "CornerRadius=2",
+"controlStyles[20].target": "Border#TaskbarSearchBackground",
+"controlStyles[20].styles[0]": "CornerRadius=2",
+"controlStyles[12].styles[1]": "Height=0",
+"controlStyles[12].styles[2]": "Margin=0,0,0,30",
+"controlStyles[7].styles[1]": "Margin=0,0,-35,0",
+"controlStyles[18].styles[1]": "Height=325",
+"controlStyles[8].styles[5]": "Height=38",
+"controlStyles[8].styles[6]": "Width=38"
+}
+```
 
 ---
 
