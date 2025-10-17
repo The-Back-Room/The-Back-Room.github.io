@@ -11,8 +11,6 @@ Theme for Windows 10 and 11 inspired by the Naruto anime and manga series.
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/raw/main/Extras/Preview.bmp)
 
-The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](/WindowsThemes/c/windhawk/DownAeroSquared).
-
 Due to changes in windows breaking sounds the sound scheme has been packaged into a sound pack for Orelio's Sound Manager. As such, you will need to download that to use the sound scheme.
 
 ### Requirements

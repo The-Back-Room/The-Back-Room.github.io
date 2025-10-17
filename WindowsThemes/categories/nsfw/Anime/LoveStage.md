@@ -10,8 +10,6 @@ Theme pack for Windows 10 and 11 inspired by the anime and manga "Love Stage!!"
 
 ![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/raw/main/Extras/Preview.bmp)
 
-The screenshot displays the theme being used alongside our DownAero Squared Windhawk theme. You can find instructions on how to obtain and set that up [here](/WindowsThemes/c/windhawk/DownAeroSquared).
-
 ### Features
 
 - Multiple Backgrounds
