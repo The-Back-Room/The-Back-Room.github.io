@@ -12,6 +12,12 @@ Themes for Windows 10 and 11 based off of popular anime and manga series
 
 <div class="gallery text-delta">
 <div class="gallery-item">
+<a target="_blank" href="/WindowsThemes/c/Anime/Naruto">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/raw/main/Extras/Preview.bmp" alt="Naruto" width="600" height="400">
+</a>
+<div class="desc">Naruto</div>
+</div>
+<div class="gallery-item">
 <a target="_blank" href="/WindowsThemes/c/Anime/BLEACH">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview.bmp" alt="BLEACH" width="600" height="400">
 </a>
