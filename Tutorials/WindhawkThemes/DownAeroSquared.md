@@ -46,7 +46,7 @@ Instructions for setting up our DownAero Squared Windhawk theme
 
 Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> Advanced >> Mod Settings` and click `Save`:
 
-<pre><code class="language-json">
+```json
 {
 "disableNewStartMenuLayout": 0,
 "controlStyles[0].target": "StartDocked.StartSizingFrame",
@@ -259,9 +259,7 @@ Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> 
 "controlStyles[40].styles[2]": "Background:=$accent",
 "controlStyles[40].styles[3]": "BorderBrush:=$transparent"
 }
-</code></pre>
-
-</details>
+```
 
 </details>
 
@@ -270,7 +268,7 @@ Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> 
 
 Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> Advanced >> Mod Settings` and click `Save`:
 
-<pre><code class="language-json">
+```json
 {
 "disableNewStartMenuLayout": 0,
 "theme": "Down Aero",
@@ -333,7 +331,7 @@ Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> 
 "controlStyles[8].styles[5]": "Height=38",
 "controlStyles[8].styles[6]": "Width=38"
 }
-</code></pre>
+```
 
 </details>
 
@@ -342,7 +340,7 @@ Copy and paste the code below into `Windhawk >> Windows 11 Start Menu Styler >> 
 
 Copy and paste the code below into `Windhawk >> Windows 11 Taskbar Styler >> Advanced >> Mod Settings` and click `Save`:
 
-<pre><code class="language-json">
+```json
 {
 "controlStyles[0].target": "Taskbar.TaskbarFrame > Grid#RootGrid > Taskbar.TaskbarBackground",
 "controlStyles[0].styles[0]": "Visibility=1",
@@ -455,7 +453,7 @@ Copy and paste the code below into `Windhawk >> Windows 11 Taskbar Styler >> Adv
 "controlStyles[15].styles[4]": "Background:=$card",
 "controlStyles[14].styles[4]": "Background:=$card"
 }
-</code></pre>
+```
 
 To get the taskbar clock to display the system performance metrics like in the screenshot, set the following in `Windhawk >> Taskbar Clock Customization >> Settings`:
 
@@ -469,7 +467,7 @@ To get the taskbar clock to display the system performance metrics like in the s
 
 Copy and paste the code below into `Windhawk >> Windows 11 Notification Center Styler >> Advanced >> Mod Settings` and click `Save`:
 
-<pre><code class="language-json">
+```json
 {
 "controlStyles[0].target": "Grid#NotificationCenterGrid",
 "controlStyles[0].styles[0]": "Background:=$accent",
@@ -777,6 +775,6 @@ Copy and paste the code below into `Windhawk >> Windows 11 Notification Center S
 "controlStyles[2].styles[3]": "BorderThickness=$n4",
 "controlStyles[2].styles[4]": "Margin=-16,15,-16,-14"
 }
-</code></pre>
+```
 
 </details>
