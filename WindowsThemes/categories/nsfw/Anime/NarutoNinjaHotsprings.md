@@ -18,6 +18,10 @@ Due to changes in windows breaking sounds the sound scheme has been packaged int
 
 The wallpapers in this theme pack were illustrated by [Sakimichan](https://www.deviantart.com/sakimichan), a well-known digital artist famous for her detailed and vibrant character art. Please support her work by visiting her [DeviantArt profile](https://www.deviantart.com/sakimichan) and considering purchasing her art through her [Patreon](https://www.patreon.com/sakimichan) or other official channels.
 
+### Requirements
+
+- [ORelio/Sound-Manager](https://github.com/ORelio/Sound-Manager) for the sound pack
+
 ### Features
 
 - Wallpapers by Sakimichan
