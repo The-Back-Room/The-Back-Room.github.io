@@ -42,7 +42,12 @@ Theme for Windows 11 based off of the Windhawk [DownAero](https://github.com/ram
 
 ### Instructions
 
-To set up the theme, follow the instructions listed [here](/Tutorials/WindhawkThemes/DownAeroSquared).
+To set up the theme, follow the instructions listed on each of the following pages:
+
+- [Start Menu](/Tutorials/WindhawkThemes/DownAeroSquared/StartMenu)
+    - [Alternate Start Menu (Optional)](/Tutorials/WindhawkThemes/DownAeroSquared/AlternateStartMenu)
+- [Taskbar](/Tutorials/WindhawkThemes/DownAeroSquared/Taskbar)
+- [Notification Center](/Tutorials/WindhawkThemes/DownAeroSquared/NotificationCenter)
 
 ---
 
