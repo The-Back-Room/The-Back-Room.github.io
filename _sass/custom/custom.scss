@@ -11,14 +11,14 @@ div.gallery {
 div.gallery-item {
   margin: 5px;
   border: 1px solid $border-color;
-  border-radius: 2px;
+  border-radius: 4px;
   width: calc(25% - 20px);
   background-color: $sidebar-color;
 }
 
 div.gallery-item:hover {
   border: 1px solid darken($border-color, 10%);
-  border-radius: 2px;
+  border-radius: 4px;
 }
 
 div.gallery-item img {
