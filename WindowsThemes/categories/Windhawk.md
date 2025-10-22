@@ -20,12 +20,6 @@ Windhawk themes for Windows 10 and 11
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a target="_blank" href="/WindowsThemes/c/windhawk/AcrylicUI">
-<img src="/assets/images/previews/start-menu-styler/acrylic.bmp" alt="Acrylic UI" width="600" height="400">
-</a>
-<div class="desc">Acrylic UI</div>
-</div>
-<div class="gallery-item">
 <a target="_blank" href="/WindowsThemes/c/windhawk/DownAeroSquared">
 <img src="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" alt="DownAero Squared" width="600" height="400">
 </a>
