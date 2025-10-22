@@ -3,6 +3,7 @@ title: Notification Center Styler Themes
 summary: Windhawk themes for Windows 11 Notification Center Styler
 nav_order: 3.3
 has_toc: false
+parent: Windhawk Themes
 permalink: /WindhawkThemes/c/NotificationCenterStyler
 published: false
 ---

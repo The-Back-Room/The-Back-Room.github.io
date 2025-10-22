@@ -3,6 +3,7 @@ title: Start Menu Styler Themes
 summary: Windhawk themes for Windows 11 Start Menu Styler
 nav_order: 3.1
 has_toc: false
+parent: Windhawk Themes
 permalink: /WindhawkThemes/c/StartMenuStyler
 ---
 

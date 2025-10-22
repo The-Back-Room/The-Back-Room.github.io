@@ -3,7 +3,6 @@ title: Windhawk Themes
 summary: Windhawk themes for Windows 10 and 11
 nav_order: 3.0
 has_toc: false
-parent: Windows Themes
 permalink: /WindhawkThemes
 ---
 
