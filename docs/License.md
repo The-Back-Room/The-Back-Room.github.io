@@ -1,7 +1,9 @@
 ---
-published: false
+title: License
+summary: Creative Commons Attribution 4.0 International Public License
 nav_exclude: true
 search_exclude: true
+permalink: /License
 ---
 
 ## Attribution 4.0 International
