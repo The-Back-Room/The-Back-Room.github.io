@@ -15,9 +15,6 @@ favicon_ico: "/favicon.ico"
 
 permalink: pretty
 
-time: 
-  zone: "America/Phoenix"
-
 search_enabled: true
 search.button: true
 search.previews: 3
