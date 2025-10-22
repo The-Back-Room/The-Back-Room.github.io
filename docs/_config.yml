@@ -25,9 +25,6 @@ search:
 
 heading_anchors: true
 
-footer_content: >
-  &copy; {{ site.name | default: site.title }}. Powered by <a href="https://jekyllrb.com/">Jekyll</a> and <a href="https://just-the-docs.github.io/just-the-docs/">Just the Docs</a>.
-
 mermaid:
   version: "9.1.6"
 
