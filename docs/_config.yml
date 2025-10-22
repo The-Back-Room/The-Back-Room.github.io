@@ -23,6 +23,10 @@ search:
 
 heading_anchors: true
 
+footer_content: >
+ &copy; {{ site.time | date: "%Y" }} The Back Room. All rights reserved.  
+  Built with [Jekyll](https://jekyllrb.com/) and [Just the Docs](https://just-the-docs.github.io/just-the-docs/).
+
 mermaid:
   version: "9.1.6"
 
