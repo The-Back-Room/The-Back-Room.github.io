@@ -1,6 +1,7 @@
 ---
 title: Love Stage!!
-summary: Theme pack for Windows 10 and 11 inspired by the anime and manga "Love Stage!!"
+summary: >
+ Theme pack for Windows 10 and 11 inspired by the anime and manga "Love Stage!!"
 nav_exclude: true
 permalink: /WindowsThemes/c/nsfw/Anime/LoveStage
 ---

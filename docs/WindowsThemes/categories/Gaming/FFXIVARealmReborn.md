@@ -1,6 +1,7 @@
 ---
 title: Final Fantasy XIV A Realm Reborn
-summary: Theme for Windows 10 and 11 inspired by Final Fantasy XIV - A Realm Reborn
+summary: >
+  Theme for Windows 10 and 11 inspired by Final Fantasy XIV - A Realm Reborn.
 nav_exclude: true
 permalink: /WindowsThemes/c/Gaming/FFXIVARealmReborn
 ---

@@ -1,13 +1,14 @@
 ---
 title: Social
-summary: Social communities hosted by members of our community
+summary: >
+  Social communities hosted by members of The Back Room community.
 nav_order: 9.0
 permalink: /Social
 ---
 
 
 ## Social
-We have several social communities where you can connect with other members, share your experiences, and get support. Whether you're looking for help with our themes, want to discuss your favorite shows, or just want to hang out with like-minded individuals, we have a community for you.
+We have several social communities hosted by members of The Back Room community. Feel free to join and participate in discussions, share content, and connect with others who share your interests.
 
 ### Check Out Our Subreddits
 Subreddits hosted by members of our community:

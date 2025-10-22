@@ -1,6 +1,7 @@
 ---
 title: Unity 2016
-summary: neiio's Unity 2016 icons ported to Resource Redirect.
+summary: >
+  neiio's Unity 2016 icons ported to Resource Redirect.
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/Unity2016
 ---

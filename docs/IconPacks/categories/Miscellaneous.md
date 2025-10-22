@@ -1,7 +1,7 @@
 ---
 title: Miscellaneous Icon Packs
-summary: A collection of icon packs for Resource Redirect that don't fit into other categories.
-nav_order: 4.3
+summary: >
+  A collection of icon packs for Resource Redirect that don't fit into other categories.
 has_toc: false
 parent: Icon Packs
 permalink: /IconPacks/c/Miscellaneous

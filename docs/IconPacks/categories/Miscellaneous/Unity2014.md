@@ -1,6 +1,7 @@
 ---
 title: Unity 2014
-summary: neiio's Unity 2014 icons ported to Resource Redirect.
+summary: >
+  neiio's Unity 2014 icons ported to Resource Redirect.
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/Unity2014
 ---

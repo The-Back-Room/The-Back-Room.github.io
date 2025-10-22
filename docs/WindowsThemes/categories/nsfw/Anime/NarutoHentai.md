@@ -1,6 +1,7 @@
 ---
 title: Naruto Hentai
-summary: Theme pack inspired by the Naruto anime and manga series
+summary: >
+ Theme pack for Windows 10 and 11 inspired by the Naruto anime and manga series.
 nav_exclude: true
 permalink: /WindowsThemes/c/nsfw/Anime/NarutoHentai
 ---

@@ -1,6 +1,7 @@
 ---
 title: Final Fantasy XIV Dawntrail
-summary: Theme for Windows 10 and 11 inspired by Final Fantasy XIV - Dawntrail
+summary: >
+  Theme for Windows 10 and 11 inspired by Final Fantasy XIV - Dawntrail.
 nav_exclude: true
 permalink: /WindowsThemes/c/Gaming/FFXIVDawntrail
 ---

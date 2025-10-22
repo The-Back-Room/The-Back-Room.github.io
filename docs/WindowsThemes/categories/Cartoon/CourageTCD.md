@@ -1,6 +1,7 @@
 ---
 title: Courage TCD
-summary: Theme inspired by the classic animated TV series Courage the Cowardly Dog
+summary: >
+  Theme for Windows 10 and 11 inspired by the classic animated TV series Courage the Cowardly Dog.
 nav_exclude: true
 permalink: /WindowsThemes/c/Cartoon/CourageTCD
 ---

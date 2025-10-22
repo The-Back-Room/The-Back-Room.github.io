@@ -1,6 +1,7 @@
 ---
 title: Icon Packs
-summary: A collection of icon packs for Windhawk
+summary: >
+  Icon packs for Windows 10 and 11 using Windhawk.
 nav_order: 4.0
 permalink: /IconPacks
 ---

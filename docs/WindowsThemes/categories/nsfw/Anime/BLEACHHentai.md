@@ -1,6 +1,7 @@
 ---
 title: Bleach Hentai
-summary: Theme pack for Windows 10 and 11 inspired by the Bleach anime and manga series
+summary: >
+ Theme pack for Windows 10 and 11 inspired by the Bleach anime and manga series.
 nav_exclude: true
 permalink: /WindowsThemes/c/nsfw/Anime/BLEACHHentai
 ---

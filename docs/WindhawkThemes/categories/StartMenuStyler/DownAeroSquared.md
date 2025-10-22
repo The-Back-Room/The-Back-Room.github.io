@@ -1,14 +1,13 @@
 ---
 title: DownAero Squared
-summary: Theme for Windows 11 based off of the Windhawk DownAero start menu theme.
+summary: >
+  Theme for Windows 11 Start Menu Styler based off of the DownAero theme.
 nav_exclude: true
 permalink: /WindhawkThemes/c/StartMenuStyler/DownAeroSquared
 ---
 
 ## DownAero Squared
-
-Theme for Windows 11 based off of the Windhawk [DownAero](https://github.com/ramensoftware/windows-11-start-menu-styling-guide/tree/main/Themes/Down%20Aero) start menu theme. This theme extends the DownAero design to the taskbar and notification center for a more complete look while adding in a few tweaks and improvements.
-
+Theme for Windows 11 Start Menu Styler based off of the DownAero theme.
 
 [![Down Aero Squared Preview](/assets/images/previews/start-menu-styler/down-aero-squared.bmp)](/assets/images/previews/start-menu-styler/down-aero-squared.bmp)
 

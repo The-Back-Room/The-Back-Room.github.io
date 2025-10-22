@@ -1,6 +1,7 @@
 ---
 title: Notification Center Styler Themes
-summary: Windhawk themes for Windows 11 Notification Center Styler
+summary: >
+  Themes for customizing the Windows 11 Notification Center using Windhawk.
 nav_order: 3.3
 has_toc: false
 parent: Windhawk Themes

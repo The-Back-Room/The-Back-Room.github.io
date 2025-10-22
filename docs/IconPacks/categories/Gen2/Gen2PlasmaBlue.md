@@ -1,6 +1,7 @@
 ---
 title: Gen2 Plasma Blue
-summary: devillnside's Gen2 Plasma Blue icons ported to Resource Redirect.
+summary: >
+  devillnside's Gen2 Plasma Blue icons ported to Resource Redirect.
 nav_exclude: true
 permalink: /IconPacks/c/Gen2/Gen2PlasmaBlue
 ---

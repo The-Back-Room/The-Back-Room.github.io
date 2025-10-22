@@ -1,6 +1,7 @@
 ---
 title: Naruto
-summary: Theme for Windows 10 and 11 inspired by the Naruto anime and manga series
+summary: >
+  Theme for Windows 10 and 11 inspired by the Naruto anime and manga series.
 nav_exclude: true
 permalink: /WindowsThemes/c/Anime/Naruto
 ---

@@ -1,6 +1,7 @@
 ---
 title: Naruto - Ninja Hotsprings
-summary: Theme pack for Windows 10 and 11 featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan
+summary: >
+ Theme pack for Windows 10 and 11 featuring wallpapers of girls from the Naruto anime series, illustrated by Sakimichan.
 nav_exclude: true
 permalink: /WindowsThemes/c/nsfw/Anime/NarutoNinjaHotsprings
 ---

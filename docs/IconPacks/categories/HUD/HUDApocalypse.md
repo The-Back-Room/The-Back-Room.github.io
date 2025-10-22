@@ -1,6 +1,7 @@
 ---
 title: HUD Apocalypse
-summary: Mr GRiM's HUD Apocalypse icons ported to Resource Redirect.
+summary: >
+  MrGRIM's HUD Apocalypse icons ported to Resource Redirect.
 nav_exclude: true
 permalink: /IconPacks/c/HUD/HUDApocalypse
 ---

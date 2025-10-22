@@ -1,6 +1,7 @@
 ---
 title: IT
-summary: Theme for Windows 10 and 11 inspired by the horror movie franchise IT
+summary: >
+  Theme for Windows 10 and 11 inspired by the horror movie franchise IT.
 nav_exclude: true
 permalink: /WindowsThemes/c/Horror/IT
 ---

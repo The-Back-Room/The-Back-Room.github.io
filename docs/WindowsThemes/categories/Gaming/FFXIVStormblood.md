@@ -1,6 +1,7 @@
 ---
 title: Final Fantasy XIV Stormblood
-summary: Theme for Windows 10 and 11 inspired by Final Fantasy XIV - Stormblood
+summary: >
+  Theme for Windows 10 and 11 inspired by Final Fantasy XIV - Stormblood.
 nav_exclude: true
 permalink: /WindowsThemes/c/Gaming/FFXIVStormblood
 ---

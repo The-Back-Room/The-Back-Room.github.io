@@ -1,6 +1,7 @@
 ---
 title: Final Fantasy XIV Endwalker
-summary: Theme for Windows 10 and 11 inspired by Final Fantasy XIV - Endwalker
+summary: >
+  Theme for Windows 10 and 11 inspired by Final Fantasy XIV - Endwalker.
 nav_exclude: true
 permalink: /WindowsThemes/c/Gaming/FFXIVEW
 ---

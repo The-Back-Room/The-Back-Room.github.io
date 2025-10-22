@@ -1,6 +1,7 @@
 ---
 title: Start Menu Styler Themes
-summary: Windhawk themes for Windows 11 Start Menu Styler
+summary: >
+  Themes for customizing the Windows 11 Start Menu using Windhawk.
 nav_order: 3.1
 has_toc: false
 parent: Windhawk Themes
