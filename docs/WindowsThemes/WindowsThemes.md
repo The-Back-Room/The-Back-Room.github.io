@@ -1,6 +1,7 @@
 ---
 title: Windows Themes
-summary: A collection of custom themes and visual styles for Windows operating systems.
+summary: >
+  A variety of custom Windows Themes to enhance your desktop experience.
 nav_order: 2.0
 permalink: /WindowsThemes
 ---

@@ -1,6 +1,7 @@
 ---
 title: Windhawk Themes
-summary: Windhawk themes for Windows 10 and 11
+summary: >
+  Windhawk themes for Windows 10 and 11
 nav_order: 3.0
 has_toc: false
 permalink: /WindhawkThemes

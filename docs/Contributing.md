@@ -1,6 +1,7 @@
 ---
 title: Contributing guidelines
-summary: Guidelines for contributing to The Back Room documentation.
+summary: >
+  Guidelines for contributing to The Back Room documentation, including navigational structure, content standards, and submission process.
 nav_exclude: true
 search_exclude: true
 permalink: /Contributing

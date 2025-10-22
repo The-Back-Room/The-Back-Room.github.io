@@ -1,6 +1,7 @@
 ---
 title: Home
-summary: Open-Source Development and Customization
+summary: >
+  A hub for open-source projects, custom themes, and software tweaks. Explore our resources to enhance your digital experience.
 has_toc: false
 nav_order: 1.0
 permalink: /
