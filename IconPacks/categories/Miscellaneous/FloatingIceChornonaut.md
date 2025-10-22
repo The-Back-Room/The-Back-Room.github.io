@@ -1,7 +1,6 @@
 ---
 title: Floating Ice Chrononaut
 summary: Razorsedge's Floating Ice Chrononaut icons ported to Resource Redirect.
-parent: Icon Packs
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/FloatingIceChrononaut
 ---

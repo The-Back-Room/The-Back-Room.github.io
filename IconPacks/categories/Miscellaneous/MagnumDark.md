@@ -1,7 +1,6 @@
 ---
 title: Magnum Dark
 summary: Razorsedges's Magnum Dark icons ported to Resource Redirect.
-parent: Icon Packs
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/MagnumDark
 ---

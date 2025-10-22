@@ -1,7 +1,6 @@
 ---
 title: Jarvis
 summary: Tornado's Jarvis icons ported to Resource Redirect.
-parent: Icon Packs
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/Jarvis
 ---

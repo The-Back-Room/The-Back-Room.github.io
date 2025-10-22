@@ -1,7 +1,6 @@
 ---
 title: Windows 7
 summary: Windows 7 icons ported to Resource Redirect.
-parent: Icon Packs
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/Windows7
 ---

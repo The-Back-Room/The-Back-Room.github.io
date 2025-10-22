@@ -1,7 +1,6 @@
 ---
 title: Windows Vista
 summary: Windows Vista icons ported to Resource Redirect.
-parent: Icon Packs
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/WindowsVista
 ---

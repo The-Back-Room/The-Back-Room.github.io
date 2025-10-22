@@ -1,7 +1,7 @@
 ---
 title: Icon Packs
 summary: A collection of icon packs for Windhawk
-nav_order: 3.0
+nav_order: 4.0
 permalink: /IconPacks
 ---
 

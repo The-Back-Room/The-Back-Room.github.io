@@ -1,7 +1,6 @@
 ---
 title: Windows XP
 summary: Windows XP icons ported to Resource Redirect.
-parent: Icon Packs
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/WindowsXP
 ---

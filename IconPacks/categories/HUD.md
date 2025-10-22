@@ -1,7 +1,7 @@
 ---
 title: HUD Icon Packs
 summary: MrGRIM's HUD icon packs ported to Resource Redirect.
-nav_order: 3.2
+nav_order: 4.2
 has_toc: false
 parent: Icon Packs
 permalink: /IconPacks/c/HUD
