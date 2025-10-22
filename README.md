@@ -12,10 +12,10 @@ search_exclude: true
 
 ---
 
-<p style="text-align: center;">
+<p align="center">
     <a href="https://the-back-room.info">Website</a> | 
     <a href="https://gitlab.com/the-back-room">GitLab</a> | 
-    <a href="https://discord.gg/Yxj2t8ZbvX">Discord</a> | 
+    <a href="https://dsc.gg/the-back-room">Discord</a> | 
     <a href="https://the-back-room.info/Contributing">Contributing</a> | 
     <a href="https://the-back-room.info/License">License</a>
 </p>

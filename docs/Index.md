@@ -31,7 +31,7 @@ We welcome contributions from developers, designers, and enthusiasts. Whether yo
 Here are some ways to get involved:
 
 - **GitLab Repository**: Check out our [GitLab repository](https://gitlab.com/the-back-room) to explore our projects, report issues, and submit merge requests.
-- **Discord Community**: Join our [Discord server](https://discord.gg/Yxj2t8ZbvX) to connect with other members, share ideas, and get support.
+- **Discord Community**: Join our [Discord server](https://dsc.gg/the-back-room) to connect with other members, share ideas, and get support.
 - **Social Communities**: We have a few social communities hosted by some of our members that we proudly invite you to join. You can find them on our [Social](https://the-back-room.info/Social) page.
 
 ### Contributing
