@@ -1,11 +1,12 @@
 ---
-title: Windows XP
-summary: Windows XP icons ported to Resource Redirect.
+title: Magnum Dark
+summary: Razorsedges's Magnum Dark icons ported to Resource Redirect.
 parent: Icon Packs
-permalink: /IconPacks/WindowsXP
+nav_exclude: true
+permalink: /IconPacks/c/Miscellaneous/MagnumDark
 ---
 
-<!-- ![Windows XP Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/raw/main/Extras/Preview.bmp) -->
+![Magnum Dark Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 
@@ -19,7 +20,7 @@ permalink: /IconPacks/WindowsXP
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/archive/main/windows-xp-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Windows XP</a>
+<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/archive/main/magnum-dark-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Magnum Dark</a>
 
 ---
 

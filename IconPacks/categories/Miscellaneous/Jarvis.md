@@ -1,11 +1,12 @@
 ---
-title: HUD Apocalypse
-summary: Mr GRiM's HUD Apocalypse icons ported to Resource Redirect.
+title: Jarvis
+summary: Tornado's Jarvis icons ported to Resource Redirect.
 parent: Icon Packs
-permalink: /IconPacks/HUDApocalypse
+nav_exclude: true
+permalink: /IconPacks/c/Miscellaneous/Jarvis
 ---
 
-![HUD Apocalypse Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp)
+![Jarvis Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 
@@ -19,7 +20,7 @@ permalink: /IconPacks/HUDApocalypse
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/archive/main/hud-apocalypse-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download HUD Apocalypse</a>
+<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/archive/main/jarvis-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Jarvis</a>
 
 ---
 

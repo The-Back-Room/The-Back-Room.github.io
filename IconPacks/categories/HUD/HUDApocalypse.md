@@ -1,11 +1,12 @@
 ---
-title: Unity 2014
-summary: neiio's Unity 2014 icons ported to Resource Redirect.
+title: HUD Apocalypse
+summary: Mr GRiM's HUD Apocalypse icons ported to Resource Redirect.
 parent: Icon Packs
-permalink: /IconPacks/Unity2014
+nav_exclude: true
+permalink: /IconPacks/c/HUD/HUDApocalypse
 ---
 
-![Unity 2014 Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/raw/main/Extras/Preview.bmp)
+![HUD Apocalypse Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 
@@ -19,7 +20,7 @@ permalink: /IconPacks/Unity2014
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/archive/main/unity-2014-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Unity 2014</a>
+<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/archive/main/hud-apocalypse-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download HUD Apocalypse</a>
 
 ---
 

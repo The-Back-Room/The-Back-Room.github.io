@@ -1,11 +1,12 @@
 ---
-title: Magnum Dark
-summary: Razorsedges's Magnum Dark icons ported to Resource Redirect.
+title: Unity 2016
+summary: neiio's Unity 2016 icons ported to Resource Redirect.
 parent: Icon Packs
-permalink: /IconPacks/MagnumDark
+nav_exclude: true
+permalink: /IconPacks/c/Miscellaneous/Unity2016
 ---
 
-![Magnum Dark Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp)
+![Unity 2016 Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2016/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 
@@ -19,7 +20,7 @@ permalink: /IconPacks/MagnumDark
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/archive/main/magnum-dark-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Magnum Dark</a>
+<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2016/-/archive/main/unity-2016-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Unity 2016</a>
 
 ---
 

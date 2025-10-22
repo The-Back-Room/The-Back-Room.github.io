@@ -1,11 +1,12 @@
 ---
-title: Jarvis
-summary: Tornado's Jarvis icons ported to Resource Redirect.
+title: Gen2 Plasma Blue
+summary: devillnside's Gen2 Plasma Blue icons ported to Resource Redirect.
 parent: Icon Packs
-permalink: /IconPacks/Jarvis
+nav_exclude: true
+permalink: /IconPacks/c/Gen2/Gen2PlasmaBlue
 ---
 
-![Jarvis Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp)
+![Gen2 Plasma Blue Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 
@@ -19,7 +20,7 @@ permalink: /IconPacks/Jarvis
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/archive/main/jarvis-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Jarvis</a>
+<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/archive/main/plasma-blue-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Gen2 Plasma Blue</a>
 
 ---
 

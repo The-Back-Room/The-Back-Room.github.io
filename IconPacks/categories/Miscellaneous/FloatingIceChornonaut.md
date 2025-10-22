@@ -2,7 +2,8 @@
 title: Floating Ice Chrononaut
 summary: Razorsedge's Floating Ice Chrononaut icons ported to Resource Redirect.
 parent: Icon Packs
-permalink: /IconPacks/FloatingIceChrononaut
+nav_exclude: true
+permalink: /IconPacks/c/Miscellaneous/FloatingIceChrononaut
 ---
 
 <!-- ![Floating Ice Chrononaut Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp) -->

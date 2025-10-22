@@ -1,11 +1,12 @@
 ---
-title: Gen2 Plasma Blue
-summary: devillnside's Gen2 Plasma Blue icons ported to Resource Redirect.
+title: Windows XP
+summary: Windows XP icons ported to Resource Redirect.
 parent: Icon Packs
-permalink: /IconPacks/Gen2PlasmaBlue
+nav_exclude: true
+permalink: /IconPacks/c/Miscellaneous/WindowsXP
 ---
 
-![Gen2 Plasma Blue Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/raw/main/Extras/Preview.bmp)
+<!-- ![Windows XP Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/raw/main/Extras/Preview.bmp) -->
 
 ### Requirements
 
@@ -19,7 +20,7 @@ permalink: /IconPacks/Gen2PlasmaBlue
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/archive/main/plasma-blue-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Gen2 Plasma Blue</a>
+<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/archive/main/windows-xp-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Windows XP</a>
 
 ---
 
