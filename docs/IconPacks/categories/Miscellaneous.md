@@ -21,12 +21,12 @@ A collection of icon packs for Resource Redirect that don't fit into other categ
 
 ---
 
-- [Floating Ice Chrononaut](/IconPacks/c/Miscellaneous/FloatingIceChrononaut): Razorsedge's Floating Ice Chrononaut icons ported to Resource Redirect.
-- [Magnum Dark](/IconPacks/c/Miscellaneous/MagnumDark): Razorsedges's Magnum Dark icons ported to Resource Redirect.
-- [Unity 2014](/IconPacks/c/Miscellaneous/Unity2014): neiio's Unity 2014 icons ported to Resource Redirect.
-- [Unity 2016](/IconPacks/c/Miscellaneous/Unity2016): neiio's Unity 2016 icons ported to Resource Redirect.
-- [Windows 7](/IconPacks/c/Miscellaneous/Windows7): Windows 7 icons ported to Resource Redirect.
-- [Windows Vista](/IconPacks/c/Miscellaneous/WindowsVista): Windows Vista icons ported to Resource Redirect.
-- [Windows XP](/IconPacks/c/Miscellaneous/WindowsXP): Windows XP icons ported to Resource Redirect.
+- [Floating Ice Chrononaut](/IconPacks/c/Miscellaneous/FloatingIceChrononaut) - Razorsedge's Floating Ice Chrononaut icons ported to Resource Redirect.
+- [Magnum Dark](/IconPacks/c/Miscellaneous/MagnumDark) - Razorsedges's Magnum Dark icons ported to Resource Redirect.
+- [Unity 2014](/IconPacks/c/Miscellaneous/Unity2014) - neiio's Unity 2014 icons ported to Resource Redirect.
+- [Unity 2016](/IconPacks/c/Miscellaneous/Unity2016) - neiio's Unity 2016 icons ported to Resource Redirect.
+- [Windows 7](/IconPacks/c/Miscellaneous/Windows7) - Windows 7 icons ported to Resource Redirect.
+- [Windows Vista](/IconPacks/c/Miscellaneous/WindowsVista) - Windows Vista icons ported to Resource Redirect.
+- [Windows XP](/IconPacks/c/Miscellaneous/WindowsXP) - Windows XP icons ported to Resource Redirect.
 
 ---

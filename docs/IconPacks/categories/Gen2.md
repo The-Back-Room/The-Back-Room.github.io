@@ -21,9 +21,9 @@ devillnside's Gen2 icon packs ported to Resource Redirect.
 
 ---
 
-- [Gen2 Plasma Blue](/IconPacks/c/Gen2/Gen2PlasmaBlue): devillnside's Gen2 Plasma Blue icons ported to Resource Redirect.
+- [Gen2 Plasma Blue](/IconPacks/c/Gen2/Gen2PlasmaBlue) - devillnside's Gen2 Plasma Blue icons ported to Resource Redirect.
 
 <!-- 
-- [Gen2 Lady Pink](/IconPacks/c/Gen2/Gen2LadyPink): devillnside's Gen2 Lady Pink icons ported to Resource Redirect.
-- [Gen2 Lazer Red](/IconPacks/c/Gen2/Gen2LazerRed): devillnside's Gen2 Lazer Red icons ported to Resource Redirect.
+- [Gen2 Lady Pink](/IconPacks/c/Gen2/Gen2LadyPink) - devillnside's Gen2 Lady Pink icons ported to Resource Redirect.
+- [Gen2 Lazer Red](/IconPacks/c/Gen2/Gen2LazerRed) - devillnside's Gen2 Lazer Red icons ported to Resource Redirect.
 -->

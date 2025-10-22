@@ -21,9 +21,9 @@ MrGRIM's HUD icon packs ported to Resource Redirect.
 
 ---
 
-- [HUD Apocalypse](/IconPacks/c/HUD/HUDApocalypse): MrGRIM's HUD Apocalypse icons ported to Resource Redirect.
+- [HUD Apocalypse](/IconPacks/c/HUD/HUDApocalypse) - MrGRIM's HUD Apocalypse icons ported to Resource Redirect.
 
 <!-- 
-- [HUD Launch](/IconPacks/c/HUD/HUDLaunch): MrGRIM's HUD Launch icons ported to Resource Redirect.
-- [HUD Evolution](/IconPacks/c/HUD/HUDEvolution): MrGRIM's HUD Evolution icons ported to Resource Redirect.
+- [HUD Launch](/IconPacks/c/HUD/HUDLaunch) - MrGRIM's HUD Launch icons ported to Resource Redirect.
+- [HUD Evolution](/IconPacks/c/HUD/HUDEvolution) - MrGRIM's HUD Evolution icons ported to Resource Redirect.
 -->
