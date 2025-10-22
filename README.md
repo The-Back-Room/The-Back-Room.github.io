@@ -4,4 +4,4 @@ nav_exclude: true
 search_exclude: true
 ---
 
-[![Logo](/assets/images/logo.png)](/assets/images/logo.png)
+[![Logo](/docs/assets/images/logo.png)](/docs/assets/images/logo.png)
