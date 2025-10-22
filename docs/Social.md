@@ -15,6 +15,14 @@ Subreddits hosted by or supported by our community.
 - [r/NSFW_Hentai_AI](https://www.reddit.com/r/NSFW_Hentai_AI) - AI generated Hentai images and gifs.
 - [r/Ranma_Hentai](https://www.reddit.com/r/Ranma_Hentai) - Ranma ½ themed Hentai images and gifs.
 
-### DeviantArt Pages
+### Development Tools and Communities
+Tools and communities used by our members for development and collaboration.
 
-- [The Back Room](https://www.deviantart.com/the-back-room) - Our official DeviantArt page featuring various artworks and themes.
+- [DeviantArt](https://wwww.deviantart.com) - A community for artists and designers to share their work and get feedback.
+- [Virtual Customs](https://virtualcustoms.net) - A community for desktop customizers and modders to share their work and get support.
+- [Sinkin AI](https://sinkin.ai) - An AI art generator used by our members for some of the artwork featured in our projects.
+- [Better Waifu](https://betterwaifu.com/) - An AI art generator used by our members for some of the artwork featured in our projects.
+
+
+### Join Our Discord
+We also have a Discord server where you can chat with other members, get support, and stay up-to-date with the latest news and updates from The Back Room. Join us [here](https://dsc.gg/the-back-room).
