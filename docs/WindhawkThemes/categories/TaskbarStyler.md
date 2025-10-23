@@ -6,7 +6,6 @@ nav_order: 3.2
 has_toc: false
 parent: Windhawk Themes
 permalink: /WindhawkThemes/c/TaskbarStyler
-published: false
 ---
 
 ## Taskbar Styler Themes
@@ -19,3 +18,12 @@ Themes for customizing the Windows 11 Taskbar using Windhawk.
 > 
 > - For more information about Windhawk, please visit the [Windhawk website](https://windhawk.net) or join the [Windhawk Discord](https://discord.com/servers/windhawk-923944342991818753) server.
 > - For source code and to report issues, please visit the [Windhawk GitHub](https://github.com/ramensoftware/windhawk) page.
+
+<div class="gallery text-delta">
+<div class="gallery-item">
+<a target="_blank" href="/WindhawkThemes/c/TaskbarStyler/MatterSquared">
+<img src="/assets/images/previews/taskbar-styler/matter-squared.bmp" alt="Matter Squared" width="600" height="400">
+</a>
+<div class="desc">Matter Squared</div>
+</div>
+</div>

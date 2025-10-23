@@ -34,7 +34,7 @@ Theme for Windows 11 Start Menu Styler based off of the DownAero theme.
   "controlStyles[2].target": "Button#ActionBarOverflowButton > ContentPresenter#ContentPresenter@CommonStates",
   "controlStyles[3].target": "Button#PrimaryActionBarButton > ContentPresenter#ContentPresenter@CommonStates",
   "controlStyles[3].styles[0]": "CornerRadius=2",
-  "controlStyles[3].styles[1]": "Height=38",
+  "controlStyles[3].styles[1]": "Height=40",
   "controlStyles[4].target": "Button#HideMoreSuggestionsButton > ContentPresenter#ContentPresenter",
   "controlStyles[4].styles[0]": "CornerRadius=2",
   "controlStyles[5].target": "Button#CloseAllAppsButton > ContentPresenter#ContentPresenter",
@@ -50,8 +50,8 @@ Theme for Windows 11 Start Menu Styler based off of the DownAero theme.
   "controlStyles[8].styles[3]": "BorderThickness=2",
   "controlStyles[8].styles[4]": "CornerRadius=2",
   "controlStyles[2].styles[0]": "CornerRadius=2",
-  "controlStyles[2].styles[1]": "Height=38",
-  "controlStyles[2].styles[2]": "Width=38",
+  "controlStyles[2].styles[1]": "Height=40",
+  "controlStyles[2].styles[2]": "Width=40",
   "controlStyles[1].styles[1]": "Margin=0,0,0,2",
   "controlStyles[9].target": "StartDocked.NavigationPaneButton#UserTileButton > Grid > Border#BackgroundBorder",
   "controlStyles[9].styles[0]": "CornerRadius=2",
@@ -79,14 +79,15 @@ Theme for Windows 11 Start Menu Styler based off of the DownAero theme.
   "controlStyles[19].styles[0]": "CornerRadius=2",
   "controlStyles[20].target": "Border#TaskbarSearchBackground",
   "controlStyles[20].styles[0]": "CornerRadius=2",
-  "controlStyles[12].styles[1]": "CornerRadius=2",
-  "controlStyles[12].styles[2]": "BorderThickness=1",
   "controlStyles[7].styles[1]": "Margin=0,0,-35,0",
   "controlStyles[18].styles[1]": "Height=325",
-  "controlStyles[8].styles[5]": "Height=38",
-  "controlStyles[8].styles[6]": "Width=38",
-  "controlStyles[12].styles[3]": "BorderBrush:=<AcrylicBrush TintColor=\"{ThemeResource SystemAccentColor}\" FallbackColor=\"{ThemeResource SystemAccentColor}\" TintOpacity=\".8\" TintLuminosityOpacity=\".5\" Opacity=\"1\" />",
-  "controlStyles[12].styles[4]": "Background:=<AcrylicBrush TintColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" FallbackColor=\"{ThemeResource CardStrokeColorDefaultSolid}\" TintOpacity=\"0\" TintLuminosityOpacity=\"1\" Opacity=\"1\" />"
+  "controlStyles[8].styles[5]": "Height=40",
+  "controlStyles[8].styles[6]": "Width=40",
+  "controlStyles[21].target": "StartDocked.SearchBoxToggleButton > Grid > Border",
+  "controlStyles[21].styles[0]": "BorderThickness=1",
+  "controlStyles[21].styles[1]": "CornerRadius=2",
+  "controlStyles[21].styles[2]": "BorderBrush:=<AcrylicBrush TintColor=\"{ThemeResource SurfaceStrokeColorDefault}\" FallbackColor=\"{ThemeResource SurfaceStrokeColorDefault}\" TintOpacity=\"0\" TintLuminosityOpacity=\".1\" Opacity=\"1\" />",
+  "controlStyles[21].styles[3]": "Background:=<AcrylicBrush TintColor=\"{ThemeResource SurfaceStrokeColorDefault}\" FallbackColor=\"{ThemeResource SurfaceStrokeColorDefault}\" TintOpacity=\".3\" TintLuminosityOpacity=\".5\" Opacity=\"1\" />"
 }
 ```
 
