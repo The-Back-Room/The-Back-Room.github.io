@@ -19,8 +19,5 @@ Windhawk themes for Windows 10 and 11
 > - For source code and to report issues, please visit the [Windhawk GitHub](https://github.com/ramensoftware/windhawk) page.
 
 - [Start Menu Styler Themes](/WindhawkThemes/c/StartMenuStyler): Themes for customizing the Windows 11 Start Menu using Windhawk.
-
-<!--
 - [Taskbar Styler Themes](/WindhawkThemes/c/TaskbarStyler): Themes for customizing the Windows 11 Taskbar using Windhawk.
 - [Notification Center Styler Themes](/WindhawkThemes/c/NotificationCenterStyler): Themes for customizing the Windows 11 Notification Center using Windhawk.
--->
