@@ -41,21 +41,25 @@ Theme for Windows 11 Taskbar Styler based off of the Matter theme.
   "controlStyles[6].styles[0]": "CornerRadius=$CornerRadius",
   "controlStyles[7].target": "Grid#OverflowRootGrid > Border",
   "controlStyles[7].styles[0]": "CornerRadius=$CornerRadius",
-  "controlStyles[8].target": "Windows.UI.Xaml.Controls.Grid#VolumeConfirmator",
+  "controlStyles[8].target": "Grid#VolumeConfirmator",
   "controlStyles[8].styles[0]": "CornerRadius=$CornerRadius",
-  "controlStyles[9].target": "Windows.UI.Xaml.Controls.Grid#ConfirmatorMainGrid",
+  "controlStyles[9].target": "Grid#ConfirmatorMainGrid",
   "controlStyles[9].styles[0]": "CornerRadius=$CornerRadius",
-  "controlStyles[10].target": "Windows.UI.Xaml.Controls.Grid#BrightnessConfirmator",
+  "controlStyles[10].target": "Grid#BrightnessConfirmator",
   "controlStyles[10].styles[0]": "CornerRadius=$CornerRadius",
   "controlStyles[11].target": "Taskbar.Badge#BadgeControl",
   "controlStyles[11].styles[0]": "CornerRadius=$CornerRadius",
-  "controlStyles[12].target": "Windows.UI.Xaml.Shapes.Rectangle#BackgroundRect",
+  "controlStyles[12].target": "Rectangle#BackgroundRect",
   "controlStyles[12].styles[0]": "RadiusX=$CornerRadius",
   "controlStyles[12].styles[1]": "RadiusY=$CornerRadius",
   "controlStyles[13].target": "MenuFlyoutPresenter",
   "controlStyles[13].styles[0]": "CornerRadius=$CornerRadius",
   "theme": "Matter",
-  "styleConstants[0]": "CornerRadius=2"
+  "styleConstants[0]": "CornerRadius=2",
+  "controlStyles[14].target": "Border#BackgroundElement",
+  "controlStyles[14].styles[0]": "CornerRadius=$CornerRadius",
+  "controlStyles[14].styles[1]": "Height=30",
+  "controlStyles[5].styles[1]": "Height=30"
 }
 ```
 
