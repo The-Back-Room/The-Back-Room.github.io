@@ -21,7 +21,7 @@ Themes for customizing the Windows 11 Taskbar using Windhawk.
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a target="_blank" href="/WindhawkThemes/c/TaskbarStyler/MatterSquared">
+<a href="/WindhawkThemes/c/TaskbarStyler/MatterSquared">
 <img src="/assets/images/previews/taskbar-styler/matter-squared.bmp" alt="Matter Squared" width="600" height="400">
 </a>
 <div class="desc">Matter Squared</div>

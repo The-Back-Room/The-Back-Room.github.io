@@ -21,7 +21,7 @@ Themes for customizing the Windows 11 Start Menu using Windhawk.
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a target="_blank" href="/WindhawkThemes/c/StartMenuStyler/DownAeroSquared">
+<a href="/WindhawkThemes/c/StartMenuStyler/DownAeroSquared">
 <img src="/assets/images/previews/start-menu-styler/down-aero-squared.bmp" alt="Down Aero Squared" width="600" height="400">
 </a>
 <div class="desc">Down Aero Squared</div>
