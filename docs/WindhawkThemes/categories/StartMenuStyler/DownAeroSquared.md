@@ -90,7 +90,3 @@ Theme for Windows 11 Start Menu Styler based off of the Down Aero theme.
   "controlStyles[21].styles[3]": "Background:=<AcrylicBrush TintColor=\"{ThemeResource SurfaceStrokeColorDefault}\" FallbackColor=\"{ThemeResource SurfaceStrokeColorDefault}\" TintOpacity=\".3\" TintLuminosityOpacity=\".5\" Opacity=\"1\" />"
 }
 ```
-
----
-
-<a href="/WindowsThemes" class="btn btn--secondary btn--sm">Back to Windows Themes</a>
