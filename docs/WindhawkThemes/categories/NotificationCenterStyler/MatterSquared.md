@@ -128,3 +128,7 @@ Theme for Windows 11 Notification Center Styler based off of the Matter theme.
   "theme": "Matter"
 }
 ```
+
+---
+
+<a href="/WindhawkThemes" class="btn btn--secondary btn--sm">Back to Windhawk Themes</a>
