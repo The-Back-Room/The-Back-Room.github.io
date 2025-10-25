@@ -4,7 +4,7 @@ tags: [Windhawk Themes, Advanced Customization, Notification Center Theme]
 summary: >
   A Windows 11-style Notification Center theme with a squared glass design based off of the WindowsGlass theme.
 nav_exclude: true
-permalink: /WindhawkThemes/NotificationCenterStyler/WindowsGlassSquared/
+permalink: /WindhawkThemes/c/NotificationCenterStyler/WindowsGlassSquared/
 ---
 
 ## Windows Glass Squared
