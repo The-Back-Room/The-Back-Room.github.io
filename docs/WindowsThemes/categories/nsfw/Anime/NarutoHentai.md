@@ -1,5 +1,6 @@
 ---
 title: Naruto Hentai
+tags: [NSFW, NSFW Theme, Nudity, Hentai, Sexual Content]
 summary: >
  Theme pack for Windows 10 and 11 inspired by the Naruto anime and manga series.
 nav_exclude: true
@@ -9,7 +10,7 @@ permalink: /WindowsThemes/c/nsfw/Anime/NarutoHentai
 ## Naruto Hentai
 Theme pack for Windows 10 and 11 inspired by the Naruto anime and manga series.
 
-![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/-/raw/main/Extras/Preview.bmp)
+[![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/-/raw/main/Extras/Preview.bmp)
 
 The screenshot displays the theme being used alongside my DownAero Squared Windhawk Theme. You can find it [here](https://the-back-room.info/WindowsThemes/WindhawkThemes/DownAeroSquared).
 

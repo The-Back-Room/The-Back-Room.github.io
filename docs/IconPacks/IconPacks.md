@@ -1,5 +1,6 @@
 ---
 title: Icon Packs
+tags: [Windhawk Themes, Advanced Customization, Icon Packs, ResourceRedirect]
 summary: >
   Icon packs for Windows 10 and 11 using Windhawk.
 nav_order: 4.0

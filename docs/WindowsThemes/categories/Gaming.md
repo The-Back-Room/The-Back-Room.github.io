@@ -1,5 +1,6 @@
 ---
 title: Gaming Themes
+tags: [Windows, Themes]
 summary: >
   Themes for Windows 10 and 11 based off of popular video games
 nav_order: 2.3

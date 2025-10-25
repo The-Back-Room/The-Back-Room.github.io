@@ -1,12 +1,16 @@
 ---
 title: Jarvis
+tags: [Windhawk Themes, Advanced Customization, Icon Packs, ResourceRedirect, Miscellaneous, Tornado]
 summary: >
-  Jarvis icon pack for Resource Redirect.
+  Tornado's Jarvis icon pack for Resource Redirect.
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/Jarvis
 ---
 
-![Jarvis Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp)
+## Jarvis
+Tornado's Jarvis icon pack for Resource Redirect.
+
+[![Jarvis Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 

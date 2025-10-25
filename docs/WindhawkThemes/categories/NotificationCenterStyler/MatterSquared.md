@@ -1,5 +1,6 @@
 ---
 title: Matter Squared
+tags: [Windhawk Themes, Advanced Customization, Notification Center Theme]
 summary: >
   Theme for Windows 11 Notification Center Styler based off of the Matter theme.
 nav_exclude: true

@@ -1,12 +1,16 @@
 ---
 title: Windows XP
+tags: [Windhawk, IconPacks, ResourceRedirect, Miscellaneous, Windows]
 summary: >
   Windows XP icons ported to Resource Redirect.
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/WindowsXP
 ---
 
-<!-- ![Windows XP Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/raw/main/Extras/Preview.bmp) -->
+## Windows XP
+Windows XP icons ported to Resource Redirect.
+
+[![Windows XP Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 

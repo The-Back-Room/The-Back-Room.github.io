@@ -1,5 +1,6 @@
 ---
 title: HUD Icon Packs
+tags: [Windhawk Themes, Advanced Customization, Icon Packs, ResourceRedirect, HUD, MrGRIM]
 summary: >
   MrGRIM's HUD icon packs ported to Resource Redirect.
 nav_order: 4.2

@@ -1,5 +1,6 @@
 ---
 title: Love Stage!!
+tags: [NSFW, NSFW Theme, Sexual Themes, Yaoi]
 summary: >
  Theme pack for Windows 10 and 11 inspired by the anime and manga "Love Stage!!"
 nav_exclude: true
@@ -9,7 +10,7 @@ permalink: /WindowsThemes/c/nsfw/Anime/LoveStage
 ## Love Stage!!
 Theme pack for Windows 10 and 11 inspired by the anime and manga "Love Stage!!"
 
-![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/raw/main/Extras/Preview.bmp)
+[![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/raw/main/Extras/Preview.bmp)
 
 ### Features
 

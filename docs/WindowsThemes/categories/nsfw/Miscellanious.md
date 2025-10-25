@@ -1,5 +1,6 @@
 ---
 title: Miscellaneous Themes
+tags: [NSFW, NSFW Themes]
 summary: Themes for Windows 10 and 11 that don't fit into other categories
 nav_order: 2.7.5
 has_toc: false

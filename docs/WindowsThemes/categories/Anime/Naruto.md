@@ -1,5 +1,6 @@
 ---
 title: Naruto
+tags: [Windows, Themes, Anime, Naruto]
 summary: >
   Theme for Windows 10 and 11 inspired by the Naruto anime and manga series.
 nav_exclude: true
@@ -7,10 +8,9 @@ permalink: /WindowsThemes/c/Anime/Naruto
 ---
 
 ## Naruto
-
 Theme for Windows 10 and 11 inspired by the Naruto anime and manga series.
 
-![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/raw/main/Extras/Preview.bmp)
+[![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/raw/main/Extras/Preview.bmp)
 
 Due to changes in windows breaking sounds the sound scheme has been packaged into a sound pack for Orelio's Sound Manager. As such, you will need to download that to use the sound scheme.
 

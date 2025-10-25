@@ -1,5 +1,6 @@
 ---
 title: Ranma Hentai
+tags: [NSFW, NSFW Theme, Nudity, Hentai, Sexual Content]
 summary: >
  Theme pack for Windows 10 and 11 inspired by the Ranma ½ anime and manga series.
 nav_exclude: true
@@ -9,7 +10,7 @@ permalink: /WindowsThemes/c/nsfw/Anime/RanmaHentai
 ## Ranma Hentai
 Theme pack for Windows 10 and 11 inspired by the Ranma ½ anime and manga series.
 
-![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/raw/main/Extras/Preview.bmp)
+[![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/raw/main/Extras/Preview.bmp)
 
 Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 

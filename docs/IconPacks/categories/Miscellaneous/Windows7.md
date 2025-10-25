@@ -1,12 +1,16 @@
 ---
 title: Windows 7
+tags: [Windhawk, IconPacks, ResourceRedirect, Miscellaneous, Windows]
 summary: >
   Windows 7 icons ported to Resource Redirect.
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/Windows7
 ---
 
-<!-- ![Windows 7 Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/raw/main/Extras/Preview.bmp) -->
+## Windows 7
+Windows 7 icons ported to Resource Redirect.
+
+[![Windows 7 Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 

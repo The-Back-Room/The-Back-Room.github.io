@@ -1,5 +1,6 @@
 ---
 title: Miscellaneous Icon Packs
+tags: [Windhawk Themes, Advanced Customization, Icon Packs, ResourceRedirect, Miscellaneous]
 summary: >
   A collection of icon packs for Resource Redirect that don't fit into other categories.
 has_toc: false

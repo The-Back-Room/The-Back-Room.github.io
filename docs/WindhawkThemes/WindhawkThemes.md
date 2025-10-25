@@ -1,5 +1,6 @@
 ---
 title: Windhawk Themes
+tags: [Windhawk Themes, Advanced Customization]
 summary: >
   Windhawk themes for Windows 10 and 11
 nav_order: 3.0

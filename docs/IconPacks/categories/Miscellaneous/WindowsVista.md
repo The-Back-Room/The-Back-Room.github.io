@@ -1,12 +1,16 @@
 ---
 title: Windows Vista
+tags: [Windhawk, IconPacks, ResourceRedirect, Miscellaneous, Windows]
 summary: >
   Windows Vista icons ported to Resource Redirect.
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/WindowsVista
 ---
 
-<!-- ![Windows Vista Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-vista/-/raw/main/Extras/Preview.bmp) -->
+## Windows Vista
+Windows Vista icons ported to Resource Redirect.
+
+[![Windows Vista Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-vista/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-vista/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 

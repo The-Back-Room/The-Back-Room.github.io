@@ -1,12 +1,16 @@
 ---
 title: HUD Apocalypse
+tags: [Windhawk Themes, Advanced Customization, Icon Packs, ResourceRedirect, HUD, MrGRIM]
 summary: >
   MrGRIM's HUD Apocalypse icons ported to Resource Redirect.
 nav_exclude: true
 permalink: /IconPacks/c/HUD/HUDApocalypse
 ---
 
-![HUD Apocalypse Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp)
+## HUD Apocalypse
+MrGRIM's HUD Apocalypse icons ported to Resource Redirect.
+
+[![HUD Apocalypse Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 

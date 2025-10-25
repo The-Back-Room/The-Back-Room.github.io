@@ -1,5 +1,6 @@
 ---
 title: Matter Squared
+tags: [Windhawk Themes, Advanced Customization, Taskbar Theme]
 summary: >
   Theme for Windows 11 Taskbar Styler based off of the Matter theme.
 nav_exclude: true

@@ -14,6 +14,22 @@ This page provides a detailed log of changes, updates, and improvements made to 
 - Dates are formatted as `YYYY-MM-DD`
 - Entries are listed in reverse chronological order, with the most recent changes at the top.
 
+### 2025-10-22 - 2025-10-25
+
+- Project Updates:
+  - Created new Windhawk themes: 
+    - Matter Squared for Start Menu Styler, Taskbar Styler, and Notification Center Styler.
+    - Windows Glass Squared for Start Menu Styler, Taskbar Styler, and Notification Center Styler.
+  - Updated DownAero Squared Windhawk themes with improved styling and dark mode support.
+
+- Content Management:
+  - None this update.
+
+- General Improvements:
+  - Improved overall formatting and organization of the Windhawk Themes page.
+  - Fixed minor typos and grammatical errors across multiple pages.
+  - Added tags to all pages for better categorization and searchability.
+
 ### 2025-09-30 - 2025-10-02
 
 - Project Updates:

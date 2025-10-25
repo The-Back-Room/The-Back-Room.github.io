@@ -1,5 +1,6 @@
 ---
 title: Cartoon Themes
+tags: [Windows, Themes]
 summary: >
   Themes for Windows 10 and 11 based off of popular western animation and cartoons
 nav_order: 2.2

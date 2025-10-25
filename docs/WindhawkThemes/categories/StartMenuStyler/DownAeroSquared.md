@@ -1,5 +1,6 @@
 ---
 title: Down Aero Squared
+tags: [Windhawk Themes, Advanced Customization, Start Menu Theme]
 summary: >
   Theme for Windows 11 Start Menu Styler based off of the Down Aero theme.
 nav_exclude: true

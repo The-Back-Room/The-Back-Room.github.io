@@ -1,5 +1,6 @@
 ---
 title: BLEACH Thousand Year Blood War
+tags: [Windows, Themes, Anime, BLEACH]
 summary: >
   Theme for Windows 10 and 11 inspired by the BLEACH Thousand Year Blood War anime series.
 nav_exclude: true
@@ -10,7 +11,7 @@ permalink: /WindowsThemes/c/Anime/BLEACHThousandYearBloodWar
 
 Theme for Windows 10 and 11 inspired by the BLEACH Thousand Year Blood War anime series.
 
-![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/raw/main/Extras/Preview.bmp)
+[![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/raw/main/Extras/Preview.bmp)
 
 Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 

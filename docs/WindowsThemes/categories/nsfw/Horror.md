@@ -1,5 +1,6 @@
 ---
 title: Horror Themes
+tags: [NSFW, NSFW Themes]
 summary: Themes for Windows 10 and 11 based off of popular horror films and series
 nav_order: 2.7.4
 has_toc: false

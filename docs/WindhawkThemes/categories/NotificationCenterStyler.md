@@ -1,5 +1,6 @@
 ---
 title: Notification Center Styler Themes
+tags: [Windhawk Themes, Advanced Customization]
 summary: >
   Themes for customizing the Windows 11 Notification Center using Windhawk.
 nav_order: 3.3
@@ -25,5 +26,11 @@ Themes for customizing the Windows 11 Notification Center using Windhawk.
 <img src="/assets/images/previews/notification-center-styler/matter-squared.bmp" alt="Matter Squared" width="600" height="400">
 </a>
 <div class="desc">Matter Squared</div>
+</div>
+<div class="gallery-item">
+<a href="/WindhawkThemes/c/NotificationCenterStyler/WindowsGlassSquared">
+<img src="/assets/images/previews/notification-center-styler/windows-glass-squared.bmp" alt="Windows Glass Squared" width="600" height="400">
+</a>
+<div class="desc">Windows Glass Squared</div>
 </div>
 </div>

@@ -1,5 +1,6 @@
 ---
 title: IT
+tags: [Windows, Themes, Horror, IT]
 summary: >
   Theme for Windows 10 and 11 inspired by the horror movie franchise IT.
 nav_exclude: true
@@ -13,7 +14,7 @@ Theme for Windows 10 and 11 inspired by the horror movie franchise IT.
 > {: .opaque }
 > ⚠️ **Content Warning**: This theme pack includes imagery and themes related to horror, violence, and supernatural elements that may be disturbing to some viewers. Viewer discretion is advised.
 
-![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/raw/main/Extras/Preview.bmp)
+[![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/raw/main/Extras/Preview.bmp)
 
 Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 

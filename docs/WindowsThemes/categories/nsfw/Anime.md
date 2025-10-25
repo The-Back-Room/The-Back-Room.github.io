@@ -1,5 +1,6 @@
 ---
 title: Anime Themes
+tags: [NSFW, NSFW Themes]
 summary: Themes for Windows 10 and 11 based off of popular anime and manga series
 nav_order: 2.7.1
 has_toc: false

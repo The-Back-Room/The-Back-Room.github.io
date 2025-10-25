@@ -1,5 +1,6 @@
 ---
 title: Gen2 Icon Packs
+tags: [Windhawk Themes, Advanced Customization, Icon Packs, ResourceRedirect, Gen2, devillnside]
 summary: >
     devillnside's Gen2 icon packs ported to Resource Redirect.
 nav_order: 4.1

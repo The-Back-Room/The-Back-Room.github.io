@@ -1,5 +1,6 @@
 ---
 title: Lewd Gamer Waifus
+tags: [NSFW, NSFW Theme, Sexual Themes, Ecchi, Nudity, Partial Nudity]
 summary: Theme pack for Windows 10 and 11 featuring wallpapers of lewd gamer waifus.
 nav_exclude: true
 permalink: /WindowsThemes/c/nsfw/Miscellaneous/LewdGamerWaifus
@@ -8,7 +9,7 @@ permalink: /WindowsThemes/c/nsfw/Miscellaneous/LewdGamerWaifus
 ## Lewd Gamer Waifus
 Theme pack for Windows 10 and 11 featuring wallpapers of lewd gamer waifus.
 
-![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/raw/main/Extras/Preview.bmp)
+[![Preview](https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/raw/main/Extras/Preview.bmp)
 
 Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
 

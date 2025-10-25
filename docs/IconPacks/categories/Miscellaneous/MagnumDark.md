@@ -1,12 +1,16 @@
 ---
 title: Magnum Dark
+tags: [Windhawk, IconPacks, ResourceRedirect, Miscellaneous, Razorsedge]
 summary: >
   Razorsedge's Magnum Dark icons ported to Resource Redirect.
 nav_exclude: true
 permalink: /IconPacks/c/Miscellaneous/MagnumDark
 ---
 
-![Magnum Dark Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp)
+## Magnum Dark
+Razorsedge's Magnum Dark icons ported to Resource Redirect.
+
+[![Magnum Dark Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp)
 
 ### Requirements
 

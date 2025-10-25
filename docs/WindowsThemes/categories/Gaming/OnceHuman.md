@@ -1,5 +1,6 @@
 ---
 title: Once Human
+tags: [Windows, Themes, Gaming, OnceHuman]
 summary: >
  Theme for Windows 10 and 11 inspired by the game "Once Human"
  --- IGNORE ---
@@ -8,10 +9,9 @@ permalink: /WindowsThemes/c/Gaming/OnceHuman
 ---
 
 ## Once Human
-
 Theme for Windows 10 and 11 inspired by the game "Once Human"
 
-![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/raw/main/Extras/Preview.bmp)
+[![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/raw/main/Extras/Preview.bmp)
 
 ### Features
 
