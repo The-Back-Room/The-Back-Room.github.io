@@ -179,3 +179,7 @@ A Windows 11-style Taskbar theme with a squared glass design based off of the Wi
   "styleConstants[9]": "ElementBorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"1\" /><GradientStop Color=\"#50606060\" Offset=\"0.15\" /></LinearGradientBrush>"
 }
 ```
+
+---
+
+<a href="/WindhawkThemes" class="btn btn--secondary btn--sm">Back to Windhawk Themes</a>

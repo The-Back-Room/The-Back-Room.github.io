@@ -329,3 +329,7 @@ A Windows 11-style Notification Center theme with a squared glass design based o
   "styleConstants[13]": "ElementSysColor4=<SolidColorBrush Color=\"{ThemeResource SystemAccentColorDark1}\" Opacity=\"1\" />"
 }
 ```
+
+---
+
+<a href="/WindhawkThemes" class="btn btn--secondary btn--sm">Back to Windhawk Themes</a>

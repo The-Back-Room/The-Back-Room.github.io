@@ -306,3 +306,7 @@ A Windows 11-style Start Menu theme with a squared glass design based off of the
   "styleConstants[11]": "BorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"0.0\" /><GradientStop Color=\"#50404040\" Offset=\"0.25\" /><GradientStop Color=\"#50808080\" Offset=\"1\" /></LinearGradientBrush>"
 }
 ```
+
+---
+
+<a href="/WindhawkThemes" class="btn btn--secondary btn--sm">Back to Windhawk Themes</a>
