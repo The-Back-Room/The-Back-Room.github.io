@@ -12,8 +12,6 @@ A collection of MacOS inspired themes for Windows 10 and 11.
 
 [![Preview](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/raw/main/Extras/Preview.bmp)
 
-Due to changes in Windows 11, you will need the Windhawk plugin [Logon, Logoff, and Shutdown Sounds Restored](https://windhawk.net/mods/logon-logoff-shutdown-sounds) to enable the Logon, Logoff, and Shutdown sounds on Windows 11.
-
 ### Features
 
 - Multiple Theme Packs.
