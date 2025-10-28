@@ -17,6 +17,7 @@ Theme for Windows 11 Taskbar Styler based off of the Matter theme.
 
 - [Windhawk](https://windhawk.net/)
 - [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
+- [Taskbar height and icon size](https://windhawk.net/mods/taskbar-icon-size) (optional, but recommended)
 
 ### Installation
 
@@ -59,6 +60,22 @@ Theme for Windows 11 Taskbar Styler based off of the Matter theme.
   "styleConstants[0]": "CornerRadius=4",
   "controlStyles[14].target": "Border#BackgroundElement",
   "controlStyles[14].styles[0]": "CornerRadius=$CornerRadius"
+}
+```
+
+### Optional: Adjust Taskbar height and icon size
+
+- Open the Taskbar height and icon size mod in Windhawk.
+- Go to the "Advanced Settings" tab.
+- Copy the content below to the text box under "Mod settings" and click "Save".
+
+```json
+{
+  "TaskbarHeight": 48,
+  "IconSize": 24,
+  "TaskbarButtonWidth": 44,
+  "IconSizeSmall": 16,
+  "TaskbarButtonWidthSmall": 32
 }
 ```
 
