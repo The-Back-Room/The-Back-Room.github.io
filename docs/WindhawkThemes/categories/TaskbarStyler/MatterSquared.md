@@ -56,11 +56,9 @@ Theme for Windows 11 Taskbar Styler based off of the Matter theme.
   "controlStyles[13].target": "MenuFlyoutPresenter",
   "controlStyles[13].styles[0]": "CornerRadius=$CornerRadius",
   "theme": "Matter",
-  "styleConstants[0]": "CornerRadius=2",
+  "styleConstants[0]": "CornerRadius=4",
   "controlStyles[14].target": "Border#BackgroundElement",
-  "controlStyles[14].styles[0]": "CornerRadius=$CornerRadius",
-  "controlStyles[14].styles[1]": "Height=30",
-  "controlStyles[5].styles[1]": "Height=30"
+  "controlStyles[14].styles[0]": "CornerRadius=$CornerRadius"
 }
 ```
 
