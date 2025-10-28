@@ -12,7 +12,6 @@ Theme for Windows 11 Taskbar Styler based off of the Matter theme.
 
 [![Matter Squared Preview](/assets/images/previews/taskbar-styler/matter-squared.bmp)](/assets/images/previews/taskbar-styler/matter-squared.bmp)
 
-
 ### Requirements
 
 - [Windhawk](https://windhawk.net/)

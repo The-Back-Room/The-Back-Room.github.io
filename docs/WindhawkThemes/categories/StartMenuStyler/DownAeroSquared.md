@@ -12,6 +12,10 @@ Theme for Windows 11 Start Menu Styler based off of the Down Aero theme.
 
 [![Down Aero Squared Preview](/assets/images/previews/start-menu-styler/down-aero-squared.bmp)](/assets/images/previews/start-menu-styler/down-aero-squared.bmp)
 
+{: .note }
+> {: .opaque }
+> This theme is for the new Windows 11 start menu redesign being rolled out in version 24H2 and later. As such, it may not work properly on earlier versions of Windows 11.
+
 ### Requirements
 
 - [Windhawk](https://windhawk.net/)
