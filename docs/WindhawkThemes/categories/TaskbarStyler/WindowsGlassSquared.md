@@ -16,6 +16,7 @@ A Windows 11-style Taskbar theme with a squared glass design based off of the Wi
 
 - [Windhawk](https://windhawk.net/)
 - [Windows 11 Taskbar Styler](https://windhawk.net/mods/windows-11-taskbar-styler)
+- [Taskbar height and icon size](https://windhawk.net/mods/taskbar-icon-size) (optional, but recommended)
 
 ### Installation
 
@@ -177,6 +178,22 @@ A Windows 11-style Taskbar theme with a squared glass design based off of the Wi
   "styleConstants[7]": "ElementBG=<SolidColorBrush Color=\"#202020\" Opacity=\"0.2\" />",
   "styleConstants[8]": "ElementBorderThickness=0.3,0.3,0.3,1",
   "styleConstants[9]": "ElementBorderBrush=<LinearGradientBrush StartPoint=\"0,0\" EndPoint=\"0,1\"><GradientStop Color=\"#50808080\" Offset=\"1\" /><GradientStop Color=\"#50606060\" Offset=\"0.15\" /></LinearGradientBrush>"
+}
+```
+
+### Optional: Adjust Taskbar height and icon size
+
+- Open the Taskbar height and icon size mod in Windhawk.
+- Go to the "Advanced Settings" tab.
+- Copy the content below to the text box under "Mod settings" and click "Save".
+
+```json
+{
+  "IconSize": 30,
+  "TaskbarHeight": 70,
+  "TaskbarButtonWidth": 44,
+  "IconSizeSmall": 20,
+  "TaskbarButtonWidthSmall": 30
 }
 ```
 
