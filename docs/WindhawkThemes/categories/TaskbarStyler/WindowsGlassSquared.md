@@ -2,13 +2,13 @@
 title: Windows Glass Squared
 tags: [Windhawk Themes, Advanced Customization, Taskbar Theme]
 summary: >
-  A Windows 11-style Taskbar theme with a squared glass design based off of the WindowsGlass theme.
+  A Windows 11 Taskbar theme with a squared glass design based off of the WindowsGlass theme.
 nav_exclude: true
 permalink: /WindhawkThemes/c/TaskbarStyler/WindowsGlassSquared/
 ---
 
 ## Windows Glass Squared
-A Windows 11-style Taskbar theme with a squared glass design based off of the WindowsGlass theme.
+A Windows 11 Taskbar theme with a squared glass design based off of the WindowsGlass theme.
 
 [![Preview](/assets/images/previews/taskbar-styler/windows-glass-squared.bmp)](/assets/images/previews/taskbar-styler/windows-glass-squared.bmp)
 
