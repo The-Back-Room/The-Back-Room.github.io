@@ -2,13 +2,13 @@
 title: Windows Glass Squared
 tags: [Windhawk Themes, Advanced Customization, Start Menu Theme]
 summary: >
-    A Windows 11-style Start Menu theme with a squared glass design based off of the WindowsGlass theme.
+    A Windows 11 Start Menu theme with a squared glass design based off of the WindowsGlass theme.
 nav_exclude: true
 permalink: /WindhawkThemes/c/StartMenuStyler/WindowsGlassSquared/
 ---
 
 ## Windows Glass Squared
-A Windows 11-style Start Menu theme with a squared glass design based off of the WindowsGlass theme.
+A Windows 11 Start Menu theme with a squared glass design based off of the WindowsGlass theme.
 
 [![Preview](/assets/images/previews/start-menu-styler/windows-glass-squared.bmp)](/assets/images/previews/start-menu-styler/windows-glass-squared.bmp)
 
