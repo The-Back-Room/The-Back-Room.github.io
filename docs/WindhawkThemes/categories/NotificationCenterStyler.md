@@ -22,14 +22,14 @@ Themes for customizing the Windows 11 Notification Center using Windhawk.
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a href="/WindhawkThemes/c/NotificationCenterStyler/MatterSquared">
-<img src="/assets/images/previews/notification-center-styler/matter-squared.bmp" alt="Matter Squared" width="600" height="400">
+<a href="https://gitlab.com/the-back-room/windhawk/windows-11-notification-center-styler/matter-squared/">
+<img src="https://gitlab.com/the-back-room/windhawk/windows-11-notification-center-styler/matter-squared/-/raw/main/Extras/preview.bmp" alt="Matter Squared" width="600" height="400">
 </a>
 <div class="desc">Matter Squared</div>
 </div>
 <div class="gallery-item">
-<a href="/WindhawkThemes/c/NotificationCenterStyler/WindowsGlassSquared">
-<img src="/assets/images/previews/notification-center-styler/windows-glass-squared.bmp" alt="Windows Glass Squared" width="600" height="400">
+<a href="https://gitlab.com/the-back-room/windhawk/windows-11-notification-center-styler/windows-glass-squared/">
+<img src="https://gitlab.com/the-back-room/windhawk/windows-11-notification-center-styler/windows-glass-squared/-/raw/main/Extras/preview.bmp" alt="Windows Glass Squared" width="600" height="400">
 </a>
 <div class="desc">Windows Glass Squared</div>
 </div>
