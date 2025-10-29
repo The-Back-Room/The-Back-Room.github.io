@@ -22,14 +22,14 @@ Themes for customizing the Windows 11 Taskbar using Windhawk.
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a href="/WindhawkThemes/c/TaskbarStyler/MatterSquared">
-<img src="/assets/images/previews/taskbar-styler/matter-squared.bmp" alt="Matter Squared" width="600" height="400">
+<a href="https://gitlab.com/the-back-room/windhawk/windows-11-taskbar-styler/windows-glass-squared">
+<img src="https://gitlab.com/the-back-room/windhawk/windows-11-taskbar-styler/matter-squared/-/raw/main/Extras/preview.bmp" alt="Matter Squared" width="600" height="400">
 </a>
 <div class="desc">Matter Squared</div>
 </div>
 <div class="gallery-item">
-<a href="/WindhawkThemes/c/TaskbarStyler/WindowsGlassSquared">
-<img src="/assets/images/previews/taskbar-styler/windows-glass-squared.bmp" alt="Windows Glass Squared" width="600" height="400">
+<a href="https://gitlab.com/the-back-room/windhawk/windows-11-taskbar-styler/windows-glass-squared>
+<img src="https://gitlab.com/the-back-room/windhawk/windows-11-taskbar-styler/windows-glass-squared/-/raw/main/Extras/preview.bmp" alt="Windows Glass Squared" width="600" height="400">
 </a>
 <div class="desc">Windows Glass Squared</div>
 </div>
