@@ -22,3 +22,4 @@ Windhawk themes for Windows 10 and 11
 - [Start Menu Styler Themes](/WindhawkThemes/c/StartMenuStyler) - Themes for customizing the Windows 11 Start Menu using Windhawk.
 - [Taskbar Styler Themes](/WindhawkThemes/c/TaskbarStyler) - Themes for customizing the Windows 11 Taskbar using Windhawk.
 - [Notification Center Styler Themes](/WindhawkThemes/c/NotificationCenterStyler) - Themes for customizing the Windows 11 Notification Center using Windhawk.
+- [File Explorer Styler Themes](/WindhawkThemes/c/FileExplorerStyler) - Themes for customizing File Explorer using Windhawk.
