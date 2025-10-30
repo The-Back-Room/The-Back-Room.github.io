@@ -22,13 +22,13 @@ Themes for customizing the Windows 11 Start Menu using Windhawk.
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a href="https://gitlab.com/the-back-room/windhawk/windows-11-start-menu-styler/down-aero-squared">
+<a href="https://gitlab.com/the-back-room/windhawk/windows-11-start-menu-styler/down-aero-squared" target="_blank">
 <img src="https://gitlab.com/the-back-room/windhawk/windows-11-start-menu-styler/down-aero-squared/-/raw/main/Extras/preview.bmp" alt="Down Aero Squared" width="600" height="400">
 </a>
 <div class="desc">Down Aero Squared</div>
 </div>
 <div class="gallery-item">
-<a href="https://gitlab.com/the-back-room/windhawk/windows-11-start-menu-styler/windows-glass-squared">
+<a href="https://gitlab.com/the-back-room/windhawk/windows-11-start-menu-styler/windows-glass-squared" target="_blank">
 <img src="https://gitlab.com/the-back-room/windhawk/windows-11-start-menu-styler/windows-glass-squared/-/raw/main/Extras/preview.bmp" alt="Windows Glass Squared" width="600" height="400">
 </a>
 <div class="desc">Windows Glass Squared</div>
