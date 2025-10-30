@@ -28,6 +28,7 @@ Themes for customizing the Windows 11 File Explorer using Windhawk.
 <div class="desc">Matter Squared</div>
 </div>
 
+
 ### Windows 11 Taskbar Styler Themes
 Themes for customizing the Windows 11 Taskbar using Windhawk.
 
@@ -46,6 +47,7 @@ Themes for customizing the Windows 11 Taskbar using Windhawk.
 </div>
 </div>
 
+
 ### Windows 11 Start Menu Styler Themes
 Themes for customizing the Windows 11 Start Menu using Windhawk.
 
@@ -63,6 +65,7 @@ Themes for customizing the Windows 11 Start Menu using Windhawk.
 <div class="desc">Windows Glass Squared</div>
 </div>
 </div>
+
 
 ### Windows 11 Notification Center Styler Themes
 Themes for customizing the Windows 11 Notification Center using Windhawk.
