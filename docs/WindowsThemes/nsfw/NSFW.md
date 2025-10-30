@@ -109,4 +109,4 @@ Themes for Windows 10 and 11 that don't fit into other categories
 
 ---
 
-[Back to Windows Themes](/WindowsThemes){: .btn .btn-outline }
+[Back to Windows Themes](/WindowsThemes){: .btn }
