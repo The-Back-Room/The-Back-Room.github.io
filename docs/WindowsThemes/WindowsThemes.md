@@ -132,10 +132,6 @@ Themes for Windows 10 and 11 based off of popular horror movies and franchises
 ### Miscellaneous Themes
 A collection of various themes for Windows 10 and 11 that don't fit into the other categories
 
-{: .note }
-> {: .opaque }
-> These theme packs are a collection of various themes that don't fit into other categories. This includes themes based off of operating systems, software, and other miscellaneous topics.
-
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/">
