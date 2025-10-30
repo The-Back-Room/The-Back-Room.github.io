@@ -86,6 +86,12 @@ Themes for Windows 10 and 11 based off of popular horror movies and franchises
 ### Miscellaneous Themes
 Themes for Windows 10 and 11 that don't fit into other categories
 
+{: .gallery }
+[![Ecchi](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/){: .gallery-item }
+[![Lewd Gamer Waifus](https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/){: .gallery-item }
+[![Futanari Hentai](https://gitlab.com/the-back-room/deskthemepacks/nsfw/futanari-hentai/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/deskthemepacks/nsfw/futanari-hentai/){: .gallery-item }
+
+<!-- 
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/">
@@ -106,6 +112,7 @@ Themes for Windows 10 and 11 that don't fit into other categories
 <div class="desc">Futanari Hentai</div>
 </div>
 </div>
+-->
 
 ---
 
