@@ -3,7 +3,7 @@ title: NSFW Themes
 tags: [NSFW, NSFW Themes]
 summary: >
   Themes for Windows 10 and 11 containing adult content
-nav_order: 2.7
+nav_exclude: true
 has_toc: false
 permalink: /WindowsThemes/nsfw
 ---
