@@ -26,6 +26,7 @@ MrGRIM's HUD icon packs ported to Resource Redirect.
 <a target="_blank" href="https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse">
 <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp" alt="HUD Apocalypse" />
 </a>
+<div class="desc">HUD Apocalypse</div>
 </div>
 </div>
 
@@ -37,6 +38,7 @@ devillnside's Gen2 icon packs ported to Resource Redirect.
 <a target="_blank" href="https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue">
 <img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/raw/main/Extras/Preview.bmp" alt="Gen2 Plasma Blue" />
 </a>
+<div class="desc">Gen2 Plasma Blue</div>
 </div>
 </div>
 
