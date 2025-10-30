@@ -37,7 +37,7 @@ Themes for Windows 10 and 11 based off of popular anime and manga series
 <a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/raw/main/Extras/Preview.bmp" alt="BLEACH Thousand Year Blood War" width="600" height="400">
 </a>
-<div class="desc">BLEACH Thousand Year Blood War</div>
+<div class="desc">BLEACH TYBW</div>
 </div>
 <div class="gallery-item">
 <a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/">
