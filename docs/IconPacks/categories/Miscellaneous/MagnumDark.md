@@ -10,7 +10,7 @@ permalink: /IconPacks/c/Miscellaneous/MagnumDark
 ## Magnum Dark
 Razorsedge's Magnum Dark icons ported to Resource Redirect.
 
-[![Magnum Dark Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
+[![Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/magnum-dark/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
 
 ### Requirements
 

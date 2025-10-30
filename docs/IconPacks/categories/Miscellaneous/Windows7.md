@@ -11,7 +11,7 @@ permalink: /IconPacks/c/Miscellaneous/Windows7
 Windows 7 icons ported to Resource Redirect.
 
 <!-- 
-[![Windows 7 Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
+[![Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-7/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
 -->
 
 ### Requirements

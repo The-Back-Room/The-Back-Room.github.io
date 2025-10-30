@@ -11,7 +11,7 @@ permalink: /IconPacks/c/Miscellaneous/WindowsXP
 Windows XP icons ported to Resource Redirect.
 
 <!-- 
-[![Windows XP Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
+[![Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/windows-series/windows-xp/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
 -->
 
 ### Requirements

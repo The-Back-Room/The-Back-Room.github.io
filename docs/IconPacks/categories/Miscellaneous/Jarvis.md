@@ -10,7 +10,7 @@ permalink: /IconPacks/c/Miscellaneous/Jarvis
 ## Jarvis
 Tornado's Jarvis icon pack for Resource Redirect.
 
-[![Jarvis Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
+[![Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/jarvis/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
 
 ### Requirements
 

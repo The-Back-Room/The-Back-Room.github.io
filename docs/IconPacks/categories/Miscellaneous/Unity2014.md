@@ -10,7 +10,7 @@ permalink: /IconPacks/c/Miscellaneous/Unity2014
 ## Unity 2014
 neiio's Unity 2014 icons ported to Resource Redirect.
 
-[![Unity 2014 Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
+[![Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/unity-series/unity-2014/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
 
 ### Requirements
 

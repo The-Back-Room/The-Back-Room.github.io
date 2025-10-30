@@ -10,7 +10,7 @@ permalink: /IconPacks/c/Gen2/Gen2PlasmaBlue
 ## Gen2 Plasma Blue
 devillnside's Gen2 Plasma Blue icons ported to Resource Redirect.
 
-[![Gen2 Plasma Blue Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
+[![Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/gen2-series/plasma-blue/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
 
 ### Requirements
 

@@ -11,7 +11,7 @@ permalink: /IconPacks/c/Miscellaneous/FloatingIceChrononaut
 Razorsedge's Floating Ice Chrononaut icons ported to Resource Redirect.
 
 <!-- 
-[![Floating Ice Chrononaut Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
+[![Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
 -->
 
 ### Requirements

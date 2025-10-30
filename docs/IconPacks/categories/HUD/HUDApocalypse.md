@@ -10,7 +10,7 @@ permalink: /IconPacks/c/HUD/HUDApocalypse
 ## HUD Apocalypse
 MrGRIM's HUD Apocalypse icons ported to Resource Redirect.
 
-[![HUD Apocalypse Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
+[![Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/hud-series/hud-apocalypse/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
 
 ### Requirements
 
