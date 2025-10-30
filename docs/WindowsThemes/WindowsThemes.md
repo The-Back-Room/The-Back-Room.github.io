@@ -4,6 +4,7 @@ tags: [Windows, Themes, Customization]
 summary: >
   A variety of custom Windows Themes to enhance your desktop experience.
 nav_order: 2.0
+has_toc: false
 permalink: /WindowsThemes
 ---
 

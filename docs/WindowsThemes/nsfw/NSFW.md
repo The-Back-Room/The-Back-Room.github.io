@@ -4,7 +4,7 @@ tags: [NSFW, NSFW Themes]
 summary: >
   Themes for Windows 10 and 11 containing adult content
 nav_order: 2.7
-parent: Windows Themes
+has_toc: false
 permalink: /WindowsThemes/nsfw
 ---
 
@@ -106,4 +106,8 @@ Themes for Windows 10 and 11 that don't fit into other categories
 <div class="desc">Futanari Hentai</div>
 </div>
 </div>
+
+---
+
+<a href="/WindowsThemes" class="button">Back to Windows Themes</a>
 
