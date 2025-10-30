@@ -109,5 +109,4 @@ Themes for Windows 10 and 11 that don't fit into other categories
 
 ---
 
-<a href="/WindowsThemes" class="button">Back to Windows Themes</a>
-
+[Back to Windows Themes](/WindowsThemes){: .btn .btn-outline }

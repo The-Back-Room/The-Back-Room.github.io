@@ -143,4 +143,4 @@ A collection of various themes for Windows 10 and 11 that don't fit into the oth
 
 ---
 
-<a href="/WindowsThemes/nsfw" class="button">View NSFW Themes</a>
+[View NSFW Themes](/WindowsThemes/nsfw){: .btn .btn-outline }
