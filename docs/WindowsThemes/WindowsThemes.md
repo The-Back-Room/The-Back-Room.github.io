@@ -15,3 +15,135 @@ We offer a variety of custom Windows Themes that you can download and install to
 > ℹ️ Some of these themes are based off of games, tv shows, movies, anime, or manga series. We do not claim any ownership of the characters or series depicted in these themes. All rights belong to their respective creators and copyright holders.
 > 
 > This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
+
+### Anime Themes
+Themes for Windows 10 and 11 based off of popular anime and manga series
+
+<div class="gallery text-delta">
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/raw/main/Extras/Preview.bmp" alt="Naruto" width="600" height="400">
+</a>
+<div class="desc">Naruto</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview.bmp" alt="BLEACH" width="600" height="400">
+</a>
+<div class="desc">BLEACH</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/raw/main/Extras/Preview.bmp" alt="BLEACH Thousand Year Blood War" width="600" height="400">
+</a>
+<div class="desc">BLEACH Thousand Year Blood War</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/-/raw/main/Extras/Preview.bmp" alt="Studio Ghibli" width="600" height="400">
+</a>
+<div class="desc">Studio Ghibli</div>
+</div>
+</div>
+
+### Cartoon Themes
+Themes for Windows 10 and 11 based off of popular western animation and cartoons
+
+<div class="gallery text-delta">
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/raw/main/Extras/Preview.bmp" alt="Courage the Cowardly Dog" width="600" height="400">
+</a>
+<div class="desc">Courage the Cowardly Dog</div>
+</div>
+</div>
+
+### Gaming Themes
+Themes for Windows 10 and 11 based off of popular video game franchises
+
+<div class="gallery text-delta">
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/-/raw/main/Extras/Preview.bmp" alt="FFXIV A Realm Reborn" width="600" height="400">
+</a>
+<div class="desc">FFXIV A Realm Reborn</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-heavensward/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-heavensward/-/raw/main/Extras/Preview.bmp" alt="FFXIV Heavensward" width="600" height="400">
+</a>
+<div class="desc">FFXIV Heavensward</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-stormblood/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-stormblood/-/raw/main/Extras/Preview.bmp" alt="FFXIV Stormblood" width="600" height="400">
+</a>
+<div class="desc">FFXIV Stormblood</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-shadowbringers/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-shadowbringers/-/raw/main/Extras/Preview.bmp" alt="FFXIV Shadowbringers" width="600" height="400">
+</a>
+<div class="desc">FFXIV Shadowbringers</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-endwalker/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-endwalker/-/raw/main/Extras/Preview.bmp" alt="FFXIV Endwalker" width="600" height="400">
+</a>
+<div class="desc">FFXIV Endwalker</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-dawntrail/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-dawntrail/-/raw/main/Extras/Preview.bmp" alt="FFXIV Dawntrail" width="600" height="400">
+</a>
+<div class="desc">FFXIV Dawntrail</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/raw/main/Extras/Preview.bmp" alt="Once Human" width="600" height="400">
+</a>
+<div class="desc">Once Human</div>
+</div>
+</div>
+
+### Horror Themes
+Themes for Windows 10 and 11 based off of popular horror movies and franchises
+
+{: .warning }
+> {: .opaque }
+> ⚠️ **Content Warning**: These theme packs include imagery and themes related to horror, violence, and supernatural elements that may be disturbing to some viewers. Viewer discretion is advised.
+
+<div class="gallery text-delta">
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/raw/main/Extras/Preview.bmp" alt="A Nightmare on Elm Street" width="600" height="400">
+</a>
+<div class="desc">A Nightmare on Elm Street</div>
+</div> 
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/it/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/raw/main/Extras/Preview.bmp" alt="IT" width="600" height="400">
+</a>
+<div class="desc">IT</div>
+</div>
+</div>
+
+### Miscellaneous Themes
+A collection of various themes for Windows 10 and 11 that don't fit into the other categories
+
+{: .note }
+> {: .opaque }
+> These theme packs are a collection of various themes that don't fit into other categories. This includes themes based off of operating systems, software, and other miscellaneous topics.
+
+<div class="gallery text-delta">
+<div class="gallery-item">
+<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/raw/main/Extras/Preview.bmp" alt="MacOS" width="600" height="400">
+</a>
+<div class="desc">MacOS Themes for Windows</div>
+</div>
+</div>
+
+---
+
+<a href="/WindowsThemes/nsfw" class="button">View NSFW Themes</a>
