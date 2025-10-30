@@ -22,6 +22,6 @@ Themes for customizing the Windows 11 File Explorer using Windhawk.
 
 <div class="gallery text-delta">
 <div class="gallery-item">
-<a href="/WindhawkThemes/c/FileExplorerStyler/MatterSquared"><img src="/assets/images/previews/file-explorer-styler/matter-squared.bmp" alt="Matter Squared" width="600" height="400"></a>
+<a href="https://gitlab.com/the-back-room/windhawk/windows-11-file-explorer-styler/matter-squared/"><img src="https://gitlab.com/the-back-room/windhawk/windows-11-file-explorer-styler/matter-squared/-/raw/main/Extras/preview.bmp" alt="Matter Squared" width="600" height="400"></a>
 <div class="desc">Matter Squared</div>
 </div>
