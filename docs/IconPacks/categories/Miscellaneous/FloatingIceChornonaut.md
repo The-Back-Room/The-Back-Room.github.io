@@ -11,13 +11,13 @@ permalink: /IconPacks/c/Miscellaneous/FloatingIceChrononaut
 Razorsedge's Floating Ice Chrononaut icons ported to Resource Redirect.
 
 <!-- 
-[![Floating Ice Chrononaut Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp)
+[![Floating Ice Chrononaut Preview](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp)](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp){: target="_blank" rel="noopener noreferrer" }
 -->
 
 ### Requirements
 
-- [Windhawk](https://windhawk.net/)
-- [Windhawk](https://windhawk.net/) Plugin: [Resource Redirect](https://windhawk.net/mods/icon-resource-redirect)
+- [Windhawk](https://windhawk.net/){: target="_blank" rel="noopener noreferrer" }
+- [Windhawk](https://windhawk.net/){: target="_blank" rel="noopener noreferrer" } Plugin: [Resource Redirect](https://windhawk.net/mods/icon-resource-redirect){: target="_blank" rel="noopener noreferrer" }
 
 ### Instructions
 
@@ -26,8 +26,8 @@ Razorsedge's Floating Ice Chrononaut icons ported to Resource Redirect.
  - Add the path of the theme.ini folder to **Windhawk >> Resource Redirect >> Settings >> Theme paths**
  - Click the **Save settings** button and refresh your icon cache
 
-<a href="https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/archive/main/floating-ice-chrononaut-main.zip" class="btn btn--primary btn--lg" target="_blank" rel="noopener noreferrer">Download Floating Ice Chrononaut</a>
+[Download Floating Ice Chrononaut](https://gitlab.com/the-back-room/windhawk/resource-redirect/floating-ice-chrononaut/-/archive/main/floating-ice-chrononaut-main.zip){: .btn .btn--primary .btn--lg target="_blank" rel="noopener noreferrer" }
 
 ---
 
-<a href="/IconPacks" class="btn btn--secondary btn--sm">Back to Icon Packs</a>
+[Back to Icon Packs](/IconPacks){: .btn .btn--secondary .btn--sm }

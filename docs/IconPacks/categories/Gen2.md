@@ -14,12 +14,12 @@ devillnside's Gen2 icon packs ported to Resource Redirect.
 
 {: .note }
 > {: .opaque }
-> The following icon packs use the Windhawk plugin [Resource Redirect](https://windhawk.net/plugins/resource-redirect/) to change system icons. You must have Windhawk and the Resource Redirect plugin installed to use these icon packs.
+> The following icon packs use the Windhawk plugin [Resource Redirect](https://windhawk.net/plugins/resource-redirect/){: target="_blank" rel="noopener noreferrer" } to change system icons. You must have Windhawk and the Resource Redirect plugin installed to use these icon packs.
 {: .important }
 > {: .opaque }
 > These icon packs are not officially affiliated with Windhawk and are created by independent developers.
-> - For more information about Windhawk, please visit the [Windhawk website](https://windhawk.net) or join the [Windhawk Discord](https://discord.com/servers/windhawk-923944342991818753) server.
-> - For source code and to report issues, please visit the [Windhawk GitHub](https://github.com/Windhawk/Windhawk) repository.
+> - For more information about Windhawk, please visit the [Windhawk website](https://windhawk.net){: target="_blank" rel="noopener noreferrer" } or join the [Windhawk Discord](https://discord.com/servers/windhawk-923944342991818753){: target="_blank" rel="noopener noreferrer" } server.
+> - For source code and to report issues, please visit the [Windhawk GitHub](https://github.com/Windhawk/Windhawk){: target="_blank" rel="noopener noreferrer" } repository.
 
 ---
 
@@ -29,3 +29,7 @@ devillnside's Gen2 icon packs ported to Resource Redirect.
 - [Gen2 Lady Pink](/IconPacks/c/Gen2/Gen2LadyPink) - devillnside's Gen2 Lady Pink icons ported to Resource Redirect.
 - [Gen2 Lazer Red](/IconPacks/c/Gen2/Gen2LazerRed) - devillnside's Gen2 Lazer Red icons ported to Resource Redirect.
 -->
+
+---
+
+[Back to Icon Packs](/IconPacks){: .btn .btn--secondary .btn--sm }
