@@ -17,9 +17,6 @@ We offer a variety of custom Windows Themes that you can download and install to
 > 
 > This collection is intended for personal use only and should not be redistributed or used for commercial purposes.
 
-### Anime Themes
-Themes for Windows 10 and 11 based off of popular anime and manga series
-
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/">
@@ -45,23 +42,6 @@ Themes for Windows 10 and 11 based off of popular anime and manga series
 </a>
 <div class="desc">Studio Ghibli</div>
 </div>
-</div>
-
-### Cartoon Themes
-Themes for Windows 10 and 11 based off of popular western animation and cartoons
-
-<div class="gallery text-delta">
-<div class="gallery-item">
-<a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/">
-<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/raw/main/Extras/Preview.bmp" alt="Courage the Cowardly Dog" width="600" height="400">
-</a>
-<div class="desc">Courage the Cowardly Dog</div>
-</div>
-</div>
-
-### Gaming Themes
-Themes for Windows 10 and 11 based off of popular video game franchises
-
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/">
@@ -105,15 +85,6 @@ Themes for Windows 10 and 11 based off of popular video game franchises
 </a>
 <div class="desc">Once Human</div>
 </div>
-</div>
-
-### Horror Themes
-Themes for Windows 10 and 11 based off of popular horror movies and franchises
-
-{: .warning }
-> {: .opaque }
-> ⚠️ **Content Warning**: These theme packs include imagery and themes related to horror, violence, and supernatural elements that may be disturbing to some viewers. Viewer discretion is advised.
-
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/">
@@ -127,11 +98,6 @@ Themes for Windows 10 and 11 based off of popular horror movies and franchises
 </a>
 <div class="desc">IT</div>
 </div>
-</div>
-
-### Miscellaneous Themes
-A collection of various themes for Windows 10 and 11 that don't fit into the other categories
-
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/">
