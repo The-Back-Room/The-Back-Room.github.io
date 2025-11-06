@@ -48,7 +48,7 @@ A collection of icon packs for Resource Redirect that don't fit into other categ
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="https://gitlab.com/the-back-room/windhawk/resource-redirect/chrononaut-series/floating-ice-chrononaut/">
-<img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/chrononaut-series/floating-ice-chrononaut/-/blob/main/Extras/Preview.bmp" alt="Floating Ice Chrononaut" />
+<img src="https://gitlab.com/the-back-room/windhawk/resource-redirect/chrononaut-series/floating-ice-chrononaut/-/raw/main/Extras/Preview.bmp" alt="Floating Ice Chrononaut" />
 </a>
 <div class="desc">Floating Ice Chrononaut</div>
 </div>
