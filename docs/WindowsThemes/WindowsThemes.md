@@ -42,7 +42,6 @@ We offer a variety of custom Windows Themes that you can download and install to
 </a>
 <div class="desc">Studio Ghibli</div>
 </div>
-<div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/-/raw/main/Extras/Preview.bmp" alt="FFXIV A Realm Reborn" width="600" height="400">
@@ -85,7 +84,6 @@ We offer a variety of custom Windows Themes that you can download and install to
 </a>
 <div class="desc">Once Human</div>
 </div>
-<div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/raw/main/Extras/Preview.bmp" alt="A Nightmare on Elm Street" width="600" height="400">
