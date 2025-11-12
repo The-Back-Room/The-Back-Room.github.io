@@ -54,7 +54,7 @@ Themes for customizing the Windows 11 Taskbar using Windhawk.
 <a href="https://gitlab.com/the-back-room/windhawk/windows-11-taskbar-styler/down-aero-squared" target="_blank">
 <img src="https://gitlab.com/the-back-room/windhawk/windows-11-taskbar-styler/down-aero-squared/-/raw/main/Extras/preview.bmp" alt="Down Aero Squared" width="600" height="400">
 </a>
-<div class="desc">Windows Glass Squared</div>
+<div class="desc">Down Aero Squared</div>
 </div>
 </div>
 
