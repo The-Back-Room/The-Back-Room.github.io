@@ -20,7 +20,7 @@ We offer a variety of custom Windows Themes that you can download and install to
 <div class="gallery text-delta">
   <div class="gallery-item">
     <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/raw/main/Extras/Preview.bmp" alt="Naruto"width="400" height="auto">
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/raw/main/Extras/Preview.bmp" alt="Naruto" width="400" height="auto">
     </a>
     <div class="desc">Naruto</div>
   </div>
