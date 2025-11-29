@@ -3,7 +3,7 @@ title: Comics
 tags: [Comics]
 summary: >
   Manga, Comics, and Webtoons created by our community.
-nav_order: 5.0
+nav_order: 3.0
 has_toc: false
 permalink: /WebComics
 ---
