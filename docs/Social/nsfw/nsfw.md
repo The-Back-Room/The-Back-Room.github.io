@@ -1,5 +1,5 @@
 ---
-Title: NSFW Social
+title: NSFW Social
 tags: [NSFW, NSFW Social]
 summary: >
   Subreddits hosted by members of The Back Room community that contain adult content.
