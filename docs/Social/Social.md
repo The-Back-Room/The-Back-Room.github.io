@@ -15,7 +15,7 @@ We have several social communities hosted by members of The Back Room community.
 <img align="right" src="../assets/images/discord-logo.png" alt="The Back Room Discord" width="100" />
 
 **Community**: [The Back Room Discord](https://dsc.gg/the-back-room)
-**Summary**: A vibrant community where members can discuss various topics, share their projects, and get support related to The Back Room.
+**Summary**: A community where members can discuss various topics, share their projects, and get support related to The Back Room.
 
 ---
 
