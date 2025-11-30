@@ -13,6 +13,8 @@ Social communities hosted by members of The Back Room community that contain adu
 ## Subreddits
 We have several subreddits hosted by members of The Back Room community that contain adult content. Feel free to join and participate in discussions, share content, and connect with others who share your interests.
 
+---
+
 <img align="right" src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" width="100" />
 
 **Community**: [r/NSFW_Hentai_AI](https://www.reddit.com/r/NSFW_Hentai_AI/)
