@@ -15,15 +15,15 @@ We have several social communities hosted by members of The Back Room community.
 <div class="gallery text-delta">
   <div class="gallery-item">
     <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/the-back-room">
-      <img src="../assets/images/discord-logo.png" alt="The Back Room Discord" width="400" height="auto">
+      <img src="../assets/images/discord-logo.png" alt="The Back Room Discord" width="150" height="150">
     </a>
-    <div class="desc">The Back Room Discord - Our main server for discussions, support, and updates.</div>
+    <div class="desc">Discord</div>
   </div>
   <div class="gallery-item">
     <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room">
-      <img src="../assets/images/gitlab-logo.png" alt="GitLab" width="400" height="auto">
+      <img src="../assets/images/gitlab-logo.png" alt="GitLab" width="150" height="150">
     </a>
-    <div class="desc">The Back Room GitLab - Our main repository for projects and collaboration.</div>
+    <div class="desc">GitLab</div>
   </div>
 </div>
 
