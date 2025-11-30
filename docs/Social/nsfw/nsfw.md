@@ -16,13 +16,13 @@ We have several subreddits hosted by members of The Back Room community that con
 <div class="gallery text-delta">
   <div class="gallery-item">
     <a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/r/NSFW_Hentai_AI">
-      <img src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" width="150" height="150">
+      <img src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" width="150" />
     </a>
     <div class="desc">r/NSFW_Hentai_AI</div>
   </div>
   <div class="gallery-item">
     <a target="_blank" rel="noopener noreferrer" href="https://www.reddit.com/r/Ranma_Hentai">
-      <img src="https://styles.redditmedia.com/t5_dn30ob/styles/communityIcon_c9vt4n7ad44f1.png" alt="r/Ranma_Hentai" width="150" height="150">
+      <img src="https://styles.redditmedia.com/t5_dn30ob/styles/communityIcon_c9vt4n7ad44f1.png" alt="r/Ranma_Hentai" width="150" />
     </a>
     <div class="desc">r/Ranma_Hentai</div>
   </div>
