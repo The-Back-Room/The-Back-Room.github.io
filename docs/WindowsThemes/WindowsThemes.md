@@ -106,4 +106,4 @@ We offer a variety of custom Windows Themes that you can download and install to
 
 ---
 
-[View NSFW Themes](/WindowsThemes/nsfw){: .btn .btn--secondary .btn--sm }
+[NSFW](/WindowsThemes/nsfw){: .btn .btn--secondary .btn--sm }

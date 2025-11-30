@@ -8,9 +8,6 @@ has_toc: false
 permalink: /WebComics/nsfw
 ---
 
-## NSFW Comics
-Manga, Comics, and Doujinshi containing adult content
-
 {: .important }
 > {: .opaque }
 > {: .warning }

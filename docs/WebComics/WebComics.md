@@ -17,4 +17,4 @@ We feature a selection of manga, comics, and webtoons created by our talented co
 
 ---
 
-[View NSFW Comics](/WebComics/nsfw){: .btn .btn--secondary .btn--sm }
+[NSFW](/WebComics/nsfw){: .btn .btn--secondary .btn--sm }

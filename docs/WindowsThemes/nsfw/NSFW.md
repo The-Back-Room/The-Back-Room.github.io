@@ -8,9 +8,6 @@ has_toc: false
 permalink: /WindowsThemes/nsfw
 ---
 
-## NSFW Themes
-Themes for Windows 10 and 11 containing adult content
-
 {: .important }
 > {: .opaque }
 > {: .warning }
