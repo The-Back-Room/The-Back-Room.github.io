@@ -17,15 +17,15 @@ We have several subreddits hosted by members of The Back Room community that con
 
 <img align="right" src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" width="100" />
 
-**Community**: [r/NSFW_Hentai_AI](https://www.reddit.com/r/NSFW_Hentai_AI/)
-**Summary**: A subreddit dedicated to sharing and discussing AI-generated hentai artwork. Join the community to explore the latest creations and share your own!
+**Community**: [r/NSFW_Hentai_AI](https://www.reddit.com/r/NSFW_Hentai_AI/)  
+**Summary**: A subreddit dedicated to sharing and discussing AI-generated hentai artwork. Join the community to explore the latest creations and share your own!  
 
 ---
 
 <img align="right" src="https://styles.redditmedia.com/t5_dn30ob/styles/communityIcon_c9vt4n7ad44f1.png" alt="r/Ranma_Hentai" width="100" />
 
-**Community**: [r/Ranma_Hentai](https://www.reddit.com/r/Ranma_Hentai/)
-**Summary**: A subreddit for fans of Ranma ½ hentai content. Share and discuss your favorite adult-themed artwork and stories related to the Ranma ½ series.
+**Community**: [r/Ranma_Hentai](https://www.reddit.com/r/Ranma_Hentai/)  
+**Summary**: A subreddit for fans of Ranma ½ hentai content. Share and discuss your favorite adult-themed artwork and stories related to the Ranma ½ series.  
 
 ---
 
