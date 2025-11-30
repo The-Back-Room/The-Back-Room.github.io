@@ -12,16 +12,16 @@ We have several social communities hosted by members of The Back Room community.
 
 ---
 
-<img align="right" src="../assets/images/discord-logo.png" alt="The Back Room Discord" width="100" />
+<img align="right" src="../assets/images/discord-logo.png" alt="Discord" width="100" />
 
-**Community**: [The Back Room Discord](https://dsc.gg/the-back-room)  
+**Community**: [Discord](https://dsc.gg/the-back-room)  
 **Summary**: A community where members can discuss various topics, share their projects, and get support related to The Back Room.  
 
 ---
 
-<img align="right" src="../assets/images/gitlab-logo.png" alt="The Back Room GitLab" width="100" />
+<img align="right" src="../assets/images/gitlab-logo.png" alt="GitLab" width="100" />
 
-**Community**: [The Back Room GitLab](https://gitlab.com/the-back-room)  
+**Community**: [GitLab](https://gitlab.com/the-back-room)  
 **Summary**: Follow our GitLab group to explore our projects, contribute to development, and collaborate with other community members.  
 
 ---
