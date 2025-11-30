@@ -11,21 +11,8 @@ permalink: /Social
 We have several social communities hosted by members of The Back Room community. Feel free to join and participate in discussions, share content, and connect with others who share your interests.
 
 
-
-<div class="gallery text-delta">
-  <div class="gallery-item">
-    <a target="_blank" rel="noopener noreferrer" href="https://discord.gg/the-back-room">
-      <img src="../assets/images/discord-logo.png" alt="The Back Room Discord" width="150" />
-    </a>
-    <div class="desc">Discord</div>
-  </div>
-  <div class="gallery-item">
-    <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room">
-      <img src="../assets/images/gitlab-logo.png" alt="GitLab" width="150" />
-    </a>
-    <div class="desc">GitLab</div>
-  </div>
-</div>
+- **Discord**: Join our [Discord server](https://dsc.gg/the-back-room) to chat with community members, get support, and stay updated on the latest news and releases.
+- **GitLab**: Follow our [GitLab group](https://gitlab.com/the-back-room) to explore our projects, contribute to development, and collaborate with other community members.
 
 ---
 
