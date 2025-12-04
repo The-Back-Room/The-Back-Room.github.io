@@ -104,7 +104,7 @@ We offer a variety of custom Windows Themes that you can download and install to
   </div>
   <div class="gallery-item">
     <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos-abstract-themes/">
-    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos-abstract-themes/-/raw/main/Extras/Preview.bmp" alt="LinMacOS Abstract Themes" width="400" height="auto">
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos-abstract-themes/-/raw/main/Extras/Preview.bmp" alt="MacOS Abstract Themes" width="400" height="auto">
     </a>
     <div class="desc">MacOS Abstract Themes</div>
 </div>
