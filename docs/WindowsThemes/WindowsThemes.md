@@ -43,6 +43,12 @@ We offer a variety of custom Windows Themes that you can download and install to
     <div class="desc">Studio Ghibli</div>
   </div>
   <div class="gallery-item">
+    <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/final-fantasy-xiv/">
+    <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/final-fantasy-xiv/-/raw/main/Extras/Preview.bmp" alt="Final Fantasy XIV" width="400" height="auto">
+    </a>
+    <div class="desc">Final Fantasy XIV</div>
+  </div>
+  <div class="gallery-item">
     <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/">
     <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/-/raw/main/Extras/Preview.bmp" alt="FFXIV A Realm Reborn" width="400" height="auto">
     </a>
