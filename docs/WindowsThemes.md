@@ -4,7 +4,6 @@ tags: [Windows, Themes, Customization]
 summary: >
   A variety of custom Windows Themes to enhance your desktop experience.
 nav_order: 2.0
-has_toc: false
 permalink: /WindowsThemes
 ---
 
@@ -115,7 +114,3 @@ We offer a variety of custom Windows Themes that you can download and install to
     <div class="desc">MacOS Abstract Themes</div>
   </div>
 </div>
-
----
-
-[NSFW](/WindowsThemes/nsfw){: .btn .btn--secondary .btn--sm }

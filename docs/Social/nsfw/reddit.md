@@ -4,7 +4,6 @@ tags: [NSFW, NSFW Social, Reddit]
 summary: >
   Subreddits hosted by members of The Back Room community that contain adult content.
 parent: NSFW Social
-nav_order: 5.1
 permalink: /Social/nsfw/reddit
 ---
 
