@@ -1,21 +1,46 @@
 ---
-title: NSFW Themes
-tags: [NSFW, NSFW Themes]
+title: Anime
+tags: [Windows Themes, Anime]
 summary: >
-  Themes for Windows 10 and 11 containing adult content
+    Themes for Windows 10 and 11 inspired by popular anime and manga series.
 parent: Windows Themes
-permalink: /WindowsThemes/nsfw
+permalink: /WindowsThemes/anime
 ---
 
 {: .important }
 > {: .opaque }
 > {: .warning }
-> ⚠️ **Content Warning**: These theme packs contain adult content and are intended for mature audiences only.
-> 
-> ℹ️ By downloading and using these themes, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. The creator of these themes is not responsible for any misuse or inappropriate distribution of the content provided. Please use these themes responsibly and respect the rights of others.
+> ⚠️ **Content Warning**: Some themes listed here may contain content that is not suitable for all audiences. Viewer discretion is advised.
+>
+> ℹ️ The themes featured here are created by independent artists and designers. We do not claim any ownership of the characters or imagery depicted in these themes. All rights belong to their respective creators and copyright holders.
 
+The following is a collection of themes for Windows 10 and 11 inspired by popular anime and manga series. These themes include wallpapers, color schemes, and sounds that bring the essence of your favorite anime to your desktop.
 
 <div class="gallery text-delta">
+<div class="gallery-item">
+<a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/raw/main/Extras/Preview.bmp" alt="Naruto" width="400" height="auto">
+</a>
+<div class="desc">Naruto</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Preview.bmp" alt="BLEACH" width="400" height="auto">
+</a>
+<div class="desc">BLEACH</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/raw/main/Extras/Preview.bmp" alt="BLEACH Thousand Year Blood War" width="400" height="auto">
+</a>
+<div class="desc">BLEACH TYBW</div>
+</div>
+<div class="gallery-item">
+<a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/">
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/-/raw/main/Extras/Preview.bmp" alt="Studio Ghibli" width="400" height="auto">
+</a>
+<div class="desc">Studio Ghibli</div>
+</div>
 <div class="gallery-item">
 <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/-/raw/main/Extras/Preview.bmp" alt="BLEACH Hentai" width="400" height="auto">
@@ -45,12 +70,6 @@ permalink: /WindowsThemes/nsfw
 <img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/raw/main/Extras/Preview.bmp" alt="Love Stage!!" width="400" height="auto">
 </a>
 <div class="desc">Love Stage!!</div>
-</div>
-<div class="gallery-item">
-<a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/">
-<img src="https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/raw/main/Extras/Preview.bmp" alt="FFXIV Waifus" width="400" height="auto">
-</a>
-<div class="desc">FFXIV Waifus</div>
 </div>
 <div class="gallery-item">
 <a target="_blank" href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/">
