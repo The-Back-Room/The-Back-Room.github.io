@@ -1,6 +1,5 @@
 ---
 title: Anime
-tags: [Windows Themes, Anime]
 social_image: /assets/images/windows-themes.png
 summary: >
     Themes for Windows 10 and 11 inspired by popular anime and manga series.
@@ -17,6 +16,6 @@ permalink: /WindowsThemes/anime
 
 ---
 
-<img src="/assets/images/social/Windows%20Themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 The following is a collection of themes for Windows 10 and 11 inspired by popular anime and manga series. These themes include wallpapers, color schemes, and sounds that bring the essence of your favorite anime to your desktop.

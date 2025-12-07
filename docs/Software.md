@@ -1,5 +1,7 @@
 ---
 title: Software
+tags: [Software, Open-Source, Tools]
+social_image: /assets/images/software.png
 summary: >
   Open-source software built and maintained by members of The Back Room.
 nav_order: 3.0
@@ -13,7 +15,7 @@ permalink: /Software
 
 ---
 
-<img src="/assets/images/social/Software.png" alt="Software" width="100%" height="auto" />
+<img src="/assets/images/software.png" alt="Software" width="100%" height="auto" />
 
 We offer a variety of open-source software projects built and maintained by members of The Back Room community. These projects are designed to enhance your digital experience through customization, optimization, and added functionality.
 
