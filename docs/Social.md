@@ -4,7 +4,6 @@ tags: [Social]
 summary: >
   Social communities hosted by members of The Back Room community.
 nav_order: 8.0
-has_toc: false
 permalink: /Social
 ---
 
