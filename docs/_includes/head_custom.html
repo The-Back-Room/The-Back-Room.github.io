@@ -1,21 +1,39 @@
+<!-- HTML Meta Tags -->
+<meta name="title" content="{{ site.title }}">
+<meta name="description" content="{{ site.subtitle | strip_html | strip_newlines | truncate: 160 }}">
+<meta name="image" content="{{ site.social_image | absolute_url }}">
+<meta name="author" content="{{ site.author }}">
+<meta name="keywords" content="{{ site.keywords | join: ', ' }}">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<meta name="language" content="en">
+
 <!-- Open Graph Protocol Tags -->
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ site.url | absolute_url }}">
 <meta property="og:title" content="{{ site.title }}">
-<meta property="og:description" content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}">
+<meta property="og:description" content="{{ site.subtitle | strip_html | strip_newlines | truncate: 160 }}">
+<meta property="og:image" content="{{ site.social_image | absolute_url }}">
+<meta property="og:image:alt" content="{{ site.title }} - {{ site.subtitle | strip_html | strip_newlines | truncate: 160 }}">
+<meta property="og:image:type" content="image/png">
 
 <!-- Facebook Meta Tags -->
-<meta property="og:url" content="{{ site.url | absolute_url }}">
-<meta property="og:type" content="website">
-<meta property="og:title" content="{{ site.title }}">
-<meta property="og:description" content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}">
-<meta property="og:locale" content="en_US">
+<meta name="facebook:card" content="summary_large_image">
+<meta property="facebook:url" content="{{ site.url | absolute_url }}">
+<meta name="facebook:title" content="{{ site.title }}">
+<meta name="facebook:description" content="{{ site.subtitle | strip_html | strip_newlines | truncate: 160 }}">
+<meta name="facebook:image" content="{{ site.social_image | absolute_url }}">
+<meta name="facebook:image:alt" content="{{ site.title }} - {{ site.subtitle | strip_html | strip_newlines | truncate: 160 }}">
+<meta property="facebook:image:type" content="image/png">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="{{ site.url | absolute_url }}">
 <meta name="twitter:title" content="{{ site.title }}">
-<meta name="twitter:description" content="{{ site.description | strip_html | strip_newlines | truncate: 160 }}">
+<meta name="twitter:description" content="{{ site.subtitle | strip_html | strip_newlines | truncate: 160 }}">
+<meta name="twitter:image" content="{{ site.social_image | absolute_url }}">
+<meta name="twitter:image:alt" content="{{ site.title }} - {{ site.subtitle | strip_html | strip_newlines | truncate: 160 }}">
+<meta property="twitter:image:type" content="image/png">
 
 <!-- Optional: Theme Color for Discord Embeds -->
 <meta name="theme-color" content="#3973ac">

@@ -1,5 +1,6 @@
 
 title: The Back Room
+subtitle: A hub for open-source projects, custom themes, and software tweaks
 description: >
   A hub for open-source projects, custom themes, and software tweaks. Explore our resources to enhance your digital experience.
 
@@ -12,6 +13,15 @@ color_scheme: dracula
 
 social_image: "/assets/images/social-image.png"
 favicon_ico: "/assets/images/favicon.ico"
+
+keywords:
+  - open-source
+  - development
+  - software tweaks
+  - graphic design
+  - windows themes
+  - customization
+  - comics and doujinshi
 
 permalink: pretty
 
