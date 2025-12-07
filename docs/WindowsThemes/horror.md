@@ -16,6 +16,8 @@ permalink: /WindowsThemes/horror
 
 The following is a collection of themes for Windows 10 and 11 inspired by popular horror movies and franchises. These themes include wallpapers, color schemes, and sounds that bring a spooky atmosphere to your desktop.
 
+---
+
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/">

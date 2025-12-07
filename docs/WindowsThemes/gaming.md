@@ -16,6 +16,8 @@ permalink: /WindowsThemes/gaming
 
 The following is a collection of themes for Windows 10 and 11 inspired by popular video games. These themes include wallpapers, color schemes, and sounds that enhance the gaming experience on your desktop.
 
+---
+
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/final-fantasy-xiv/">

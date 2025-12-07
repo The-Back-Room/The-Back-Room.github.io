@@ -16,6 +16,8 @@ permalink: /WindowsThemes/anime
 
 The following is a collection of themes for Windows 10 and 11 inspired by popular anime and manga series. These themes include wallpapers, color schemes, and sounds that bring the essence of your favorite anime to your desktop.
 
+---
+
 <div class="gallery text-delta">
 <div class="gallery-item">
 <a target="_blank" rel="noopener noreferrer" href="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/">
