@@ -1,6 +1,7 @@
 ---
 title: MacOS
 tags: [Windows Themes, Miscellaneous]
+social_image: https://gitlab.com/the-back-room/deskthemepacks/sfw/macOS/-/raw/main/Extras/Preview.bmp
 summary: >
     MacOS themes ported to Windows 10 and 11.
 parent: Miscellaneous

@@ -1,6 +1,7 @@
 ---
 title: Cartoon
 tags: [Windows Themes, Cartoon]
+social_image: /assets/images/windows-themes.png
 summary: >
     A collection of themes for Windows 10 and 11 inspired by popular cult classics from western animation.
 parent: Windows Themes

@@ -1,6 +1,7 @@
 ---
 title: Doujins
 tags: [NSFW, Comics, Doujinshi]
+social_image: /assets/images/social/comics.png
 summary: >
   Manga and Comics containing adult content
 parent: Comics

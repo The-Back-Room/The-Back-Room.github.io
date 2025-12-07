@@ -1,6 +1,7 @@
 ---
 title: Anime
 tags: [Windows Themes, Anime]
+social_image: /assets/images/windows-themes.png
 summary: >
     Themes for Windows 10 and 11 inspired by popular anime and manga series.
 parent: Windows Themes

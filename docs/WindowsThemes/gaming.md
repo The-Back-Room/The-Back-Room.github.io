@@ -1,6 +1,7 @@
 ---
 title: Gaming
 tags: [Windows Themes, Gaming]
+social_image: /assets/images/windows-themes.png
 summary: >
     Themes for Windows 10 and 11 inspired by popular video games.
 parent: Windows Themes

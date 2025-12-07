@@ -1,6 +1,7 @@
 ---
 title: IT
 tags: [Windows Themes, Horror]
+social_image: https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/raw/main/Extras/Preview.bmp
 summary: >
     A theme for Windows 10 and 11 based off of the horror movie IT.
 parent: Horror

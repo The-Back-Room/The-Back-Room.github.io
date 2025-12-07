@@ -1,5 +1,7 @@
 ---
 title: Home
+tags: [Home]
+social_image: /assets/images/social-image.png
 summary: >
   A hub for open-source projects, custom themes, and software tweaks. Explore our resources to enhance your digital experience.
 has_toc: false

@@ -1,6 +1,7 @@
 ---
 title: Horror
 tags: [Windows Themes, Horror]
+social_image: /assets/images/windows-themes.png
 summary: >
     Themes for Windows 10 and 11 inspired by popular horror movies and franchises.
 parent: Windows Themes

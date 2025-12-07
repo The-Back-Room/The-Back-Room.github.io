@@ -1,5 +1,7 @@
 ---
 title: Miscellaneous
+tags: [Windows Themes, Miscellaneous]
+social_image: /assets/images/windows-themes.png
 summary: >
   Themes for Windows 10 and 11 that don't fit into specific categories.
 parent: Windows Themes
