@@ -9,7 +9,7 @@ nav_order: 3.1.1
 permalink: /Comics/nsfw/ranma-12/SummerHeat
 ---
 
-<img align="center" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/cover.webp" alt="Cover Image" width="500" height="auto" />
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/cover.webp" alt="Cover Image" width="100%" height="auto" />
 
 {: .important }
 > {: .opaque }
