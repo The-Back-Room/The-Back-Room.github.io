@@ -23,7 +23,3 @@ We have several social communities hosted by members of The Back Room community.
 
 **Community**: [GitLab](https://gitlab.com/the-back-room)  
 **Summary**: Follow our GitLab group to explore our projects, contribute to development, and collaborate with other community members.  
-
----
-
-[NSFW](/Social/nsfw){: .btn .btn--secondary .btn--sm }

@@ -28,8 +28,12 @@ We offer a variety of projects that cater to different needs and preferences:
 
 ---
 
-All our projects are released under the [Creative Commons Attribution 4.0 License](https://the-back-room.info/License), allowing you to use, share, and adapt our work with proper attribution.
+All our projects are released under the [Creative Commons Attribution 4.0 License](https://the-back-room.info/License), allowing you to use, share, and adapt our work with proper attribution.  
+
+We encourage community involvement and welcome contributions from developers, designers, and enthusiasts. Feel free to explore our [GitLab group](https://gitlab.com/the-back-room) to get involved in our projects.
+
+Stay connected with us through our [Discord community](https://dsc.gg/the-back-room) for discussions, support, and collaboration opportunities.
 
 ---
 
-Thank you for visiting The Back Room. We hope you find our resources valuable and look forward to your contributions!
+Thank you for visiting The Back Room. We hope our resources help you enhance your digital experience!
