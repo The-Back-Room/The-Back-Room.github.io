@@ -18,10 +18,17 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 ---
 
+<h2 style="text-align: center;">SFW Themes</h2>  
+
 - [Naruto](https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/): A theme for Windows 10 and 11 based off of the popular anime and manga series Naruto.
 - [BLEACH](https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/): A theme for Windows 10 and 11 based off of the popular anime and manga series BLEACH.
 - [BLEACH Thousand Year Blood War](https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/): A theme for Windows 10 and 11 based off of the BLEACH: Thousand Year Blood War arc.
 - [Studio Ghibli](https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/): A theme celebrating the magical worlds created by Studio Ghibli.
+
+---
+
+<h2 style="text-align: center;">NSFW Themes</h2>  
+
 - [BLEACH Hentai](https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/): A NSFW theme for Windows 10 and 11 based off of the popular anime and manga series BLEACH.
 - [Ranma Hentai](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/): A NSFW theme for Windows 10 and 11 based off of the popular anime and manga series Ranma ½.
 - [Naruto Hentai](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/): A NSFW theme for Windows 10 and 11 based off of the popular anime and manga series Naruto.
