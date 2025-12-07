@@ -16,18 +16,3 @@ permalink: /WindowsThemes/miscellaneous
 ---
 
 The following is a collection of miscellaneous themes for Windows 10 and 11. These themes include wallpapers, color schemes, and sounds that enhance your desktop experience with a variety of styles and inspirations.
-
----
-
-<h2 style="text-align: center;">SFW Themes</h2>  
-
-- [MacOS](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/): A collection of themes for Windows 10 and 11 that bring the look and feel of MacOS to your desktop.
-- [MacOS Abstract Themes](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos-abstract-themes/): A collection of abstract MacOS-themed wallpapers and themes for Windows 10 and 11.
-
----
-
-<h2 style="text-align: center;">NSFW Themes</h2>  
-
-{: .note }
-> {: .opaque }
-> We currently do not have anything to display in this section. Please check back later for updates!

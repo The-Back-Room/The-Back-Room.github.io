@@ -17,25 +17,3 @@ permalink: /WindowsThemes/anime
 ---
 
 The following is a collection of themes for Windows 10 and 11 inspired by popular anime and manga series. These themes include wallpapers, color schemes, and sounds that bring the essence of your favorite anime to your desktop.
-
----
-
-<h2 style="text-align: center;">SFW Themes</h2>  
-
-- [Naruto](https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/): A theme for Windows 10 and 11 based off of the popular anime and manga series Naruto.
-- [BLEACH](https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/): A theme for Windows 10 and 11 based off of the popular anime and manga series BLEACH.
-- [BLEACH Thousand Year Blood War](https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/): A theme for Windows 10 and 11 based off of the BLEACH: Thousand Year Blood War arc.
-- [Studio Ghibli](https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/): A theme celebrating the magical worlds created by Studio Ghibli.
-
----
-
-<h2 style="text-align: center;">NSFW Themes</h2>  
-
-- [BLEACH Hentai](https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/): A NSFW theme for Windows 10 and 11 based off of the popular anime and manga series BLEACH.
-- [Ranma Hentai](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/): A NSFW theme for Windows 10 and 11 based off of the popular anime and manga series Ranma ½.
-- [Naruto Hentai](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/): A NSFW theme for Windows 10 and 11 based off of the popular anime and manga series Naruto.
-- [Naruto Ninja Hotsprings](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-ninja-hotsprings/): A NSFW theme for Windows 10 and 11 based off of the popular anime and manga series Naruto, featuring wallpapers by the artist Sakimichan.
-- [Love Stage!!](https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/): A theme for Windows 10 and 11 based off of the popular yaoi anime and manga series Love Stage!!.
-- [Ecchi](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/): A NSFW theme for Windows 10 and 11 featuring a collection of ecchi wallpapers.
-- [Lewd Gamer Waifus](https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/): A NSFW theme for Windows 10 and 11 featuring anime gamer waifus.
-- [Futanari Hentai](https://gitlab.com/the-back-room/deskthemepacks/nsfw/futanari-hentai/): A NSFW theme for Windows 10 and 11 featuring hentai futanari-themed wallpapers.
