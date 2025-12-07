@@ -1,5 +1,5 @@
 ---
-title: Bleach
+title: BLEACH
 tags: [Windows Themes, Anime]
 summary: >
     A theme for Windows 10 and 11 based off of the popular anime and manga series Bleach.
