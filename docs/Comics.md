@@ -14,6 +14,4 @@ We feature a selection of manga, comics, and webtoons created by our talented co
 > {: .important }
 > ℹ️ The comics and webtoons featured here are created by independent artists and writers. We do not claim any ownership of the characters or stories depicted in these works. All rights belong to their respective creators and copyright holders.
 
----
 
-[NSFW](/Comics/nsfw){: .btn .btn--secondary .btn--sm }
