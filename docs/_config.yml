@@ -10,8 +10,8 @@ remote_theme: "just-the-docs/just-the-docs"
 
 color_scheme: dracula
 
-social_image: "/assets/images/logo.png"
-favicon_ico: "/favicon.ico"
+social_image: "/assets/images/social-image.png"
+favicon_ico: "/assets/images/favicon.ico"
 
 permalink: pretty
 
