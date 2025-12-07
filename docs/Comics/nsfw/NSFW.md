@@ -3,9 +3,9 @@ title: NSFW Comics
 tags: [NSFW, NSFW Comics]
 summary: >
   Manga, Comics, and Doujinshi containing adult content
-nav_exclude: true
-has_toc: false
-permalink: /WebComics/nsfw
+parent: Comics
+nav_order: 3.1
+permalink: /Comics/nsfw
 ---
 
 {: .important }
@@ -18,11 +18,11 @@ permalink: /WebComics/nsfw
 
 <div class="gallery text-delta">
   <div class="gallery-item">
-    <a href="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/" target="_blank" rel="noopener noreferrer"><img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/cover.webp" alt="Ranma 1/2 - Summer Heat" width="400" height="auto"></a >
+    <a href="/Comics/nsfw/ranma-12/SummerHeat"><img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/cover.webp" alt="Ranma 1/2 - Summer Heat" width="400" height="auto"></a >
     <div class="desc">Ranma 1/2 - Summer Heat</div>
   </div>
 </div>
 
 ---
 
-[Back to WebComics](/WebComics){: .btn .btn--secondary .btn--sm }
+[Back to Comics](/Comics){: .btn .btn--secondary .btn--sm }

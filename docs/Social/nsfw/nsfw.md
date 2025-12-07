@@ -3,8 +3,8 @@ title: NSFW Social
 tags: [NSFW, NSFW Social]
 summary: >
   Subreddits hosted by members of The Back Room community that contain adult content.
-nav_exclude: true
-has_toc: false
+parent: Social
+nav_order: 5.1
 permalink: /Social/nsfw
 ---
 

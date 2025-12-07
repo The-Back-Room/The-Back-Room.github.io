@@ -4,8 +4,7 @@ tags: [Comics]
 summary: >
   Manga, Comics, and Webtoons created by our community.
 nav_order: 3.0
-has_toc: false
-permalink: /WebComics
+permalink: /Comics
 ---
 
 We feature a selection of manga, comics, and webtoons created by our talented community members. These works span various genres and styles, showcasing the creativity and storytelling skills of our contributors. Whether you're looking for action-packed adventures, heartfelt dramas, or lighthearted comedies, there's something here for every comic enthusiast.
@@ -17,4 +16,4 @@ We feature a selection of manga, comics, and webtoons created by our talented co
 
 ---
 
-[NSFW](/WebComics/nsfw){: .btn .btn--secondary .btn--sm }
+[NSFW](/Comics/nsfw){: .btn .btn--secondary .btn--sm }
