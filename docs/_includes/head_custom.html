@@ -1,21 +1,21 @@
 <!-- Open Graph Protocol Tags -->
 <meta property="og:type" content="website">
-<meta property="og:url" content="{{ page.url | default: site.url | relative_url }}">
-<meta property="og:title" content="{{ page.title | default: site.title }}">
-<meta property="og:description" content="{{ page.summary | default: site.description }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.summary }}">
 
 <!-- Facebook Meta Tags -->
-<meta property="og:url" content="{{ page.url | default: site.url | relative_url }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:type" content="website">
-<meta property="og:title" content="{{ page.title | default: site.title }}">
-<meta property="og:description" content="{{ page.summary | default: site.description }}">
+<meta property="og:title" content="{{ page.title }}">
+<meta property="og:description" content="{{ page.summary }}">
 <meta property="og:locale" content="en_US">
 
 <!-- Twitter Meta Tags -->
 <meta name="twitter:card" content="summary_large_image">
-<meta property="twitter:url" content="{{ page.url | default: site.url | relative_url }}">
-<meta name="twitter:title" content="{{ page.title | default: site.title }}">
-<meta name="twitter:description" content="{{ page.summary | default: site.description }}">
+<meta property="twitter:url" content="{{ page.url | absolute_url }}">
+<meta name="twitter:title" content="{{ page.title }}">
+<meta name="twitter:description" content="{{ page.summary }}">
 
 <!-- Optional: Theme Color for Discord Embeds -->
  <meta name="theme-color" content="#3973ac">
