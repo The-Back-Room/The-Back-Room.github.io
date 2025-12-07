@@ -24,7 +24,7 @@ This doujin is designed to be compatible with the local source extension in the 
 - **Mihon**: An open-source manga reader for Android devices.
 - **Aniyomi**: An open-source manga and anime viewer for Android devices.
 
-To read this doujin on Android, simply download the repo and a compatible application and copy the contents of the `src` directory into the local source folder on your device.
+To read this doujin on Android, simply install a compatible application and copy the contents of the `src` directory into the local source folder on your device.
 
 To read on PC or Laptop, simply download the repo and open the files with a compatible image viewer.
 
@@ -112,6 +112,11 @@ To read on PC or Laptop, simply download the repo and open the files with a comp
 **Tags**: To be announced ... 
 
 <br /><br /><br />
+
+---
+<div align="center">
+  <a align="center" href="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Ranma%201-2%20Summer%20Heat.zip" class="btn btn--secondary btn--md">Download</a>
+</div>
 
 ---
 
