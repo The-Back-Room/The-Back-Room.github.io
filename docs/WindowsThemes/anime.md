@@ -14,6 +14,8 @@ permalink: /WindowsThemes/anime
 >
 > ℹ️ The themes featured here are created by independent artists and designers. We do not claim any ownership of the characters or imagery depicted in these themes. All rights belong to their respective creators and copyright holders.
 
+---
+
 The following is a collection of themes for Windows 10 and 11 inspired by popular anime and manga series. These themes include wallpapers, color schemes, and sounds that bring the essence of your favorite anime to your desktop.
 
 ---

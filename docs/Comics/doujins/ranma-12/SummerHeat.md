@@ -10,6 +10,8 @@ permalink: /Comics/doujins/ranma-12/SummerHeat
 
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/cover.webp" alt="Cover Image" width="100%" height="auto" />
 
+---
+
 {: .important }
 > {: .opaque }
 > {: .warning }

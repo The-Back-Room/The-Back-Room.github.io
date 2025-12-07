@@ -6,6 +6,13 @@ nav_order: 3.0
 permalink: /Software
 ---
 
+{: .important 
+}> {: .opaque }
+> {: .info }
+> ℹ️ The software projects featured here are open-source and built by members of The Back Room community. We encourage contributions and collaboration from developers and enthusiasts alike.
+
+---
+
 We offer a variety of open-source software projects built and maintained by members of The Back Room community. These projects are designed to enhance your digital experience through customization, optimization, and added functionality.
 
 Our software offerings include:

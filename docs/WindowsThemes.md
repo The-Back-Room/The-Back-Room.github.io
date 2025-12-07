@@ -14,4 +14,6 @@ permalink: /WindowsThemes
 > 
 > ℹ️ The themes featured here are created by independent artists and designers. We do not claim any ownership of the characters or imagery depicted in these themes. All rights belong to their respective creators and copyright holders.
 
+---
+
 Welcome to the Windows Themes section! Here, you'll find a curated collection of custom themes for Windows 10 and 11 that can transform the look and feel of your desktop. Whether you're into gaming, horror, or just want something unique, we've got themes to suit your style. Explore the different categories below to find themes that resonate with you and enhance your Windows experience.

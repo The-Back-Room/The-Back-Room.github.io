@@ -13,6 +13,8 @@ permalink: /WindowsThemes/miscellaneous
 > 
 > ℹ️ The themes featured here are created by independent artists and designers. We do not claim any ownership of the characters or imagery depicted in these themes. All rights belong to their respective creators and copyright holders.
 
+---
+
 The following is a collection of miscellaneous themes for Windows 10 and 11. These themes include wallpapers, color schemes, and sounds that enhance your desktop experience with a variety of styles and inspirations.
 
 ---
