@@ -1,6 +1,6 @@
 ---
-title: Ranma 1/2 - Summer Heat
-tags: [NSFW, WebComics, Doujinshi, Ranma 1/2]
+title: Summer Heat
+tags: [NSFW, Comics, Doujinshi, Ranma 1/2]
 summary: >
   A NSFW doujinshi based on the Ranma 1/2 series.
 parent: NSFW Comics
@@ -116,5 +116,3 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 <br /><br /><br />
 
 ---
-
-[Back to NSFW Comics](/Comics/nsfw){: .btn .btn--secondary .btn--sm }

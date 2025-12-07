@@ -1,16 +1,13 @@
 ---
-title: NSFW Social
-tags: [NSFW, NSFW Social]
+title: NSFW Subreddits
+tags: [NSFW, NSFW Social, Reddit]
 summary: >
   Subreddits hosted by members of The Back Room community that contain adult content.
-parent: Social
+parent: NSFW Social
 nav_order: 5.1
-permalink: /Social/nsfw
+permalink: /Social/nsfw/reddit
 ---
 
-Social communities hosted by members of The Back Room community that contain adult content.
-
-## Subreddits
 We have several subreddits hosted by members of The Back Room community that contain adult content. Feel free to join and participate in discussions, share content, and connect with others who share your interests.
 
 ---
@@ -28,5 +25,3 @@ We have several subreddits hosted by members of The Back Room community that con
 **Summary**: A subreddit for fans of Ranma ½ hentai content. Share and discuss your favorite adult-themed artwork and stories related to the Ranma ½ series.  
 
 ---
-
-[Back to Social](/Social){: .btn .btn--secondary .btn--sm }

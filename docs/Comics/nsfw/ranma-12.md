@@ -1,11 +1,11 @@
 ---
-title: NSFW Comics
-tags: [NSFW, NSFW Comics]
+title: Ranma 1/2
+tags: [NSFW, Comics, Doujinshi, Ranma 1/2]
 summary: >
-  Manga, Comics, and Doujinshi containing adult content
-parent: Comics
+    A collection of NSFW doujinshi based on the Ranma 1/2 series.
+parent: NSFW Comics
 nav_order: 3.1
-permalink: /Comics/nsfw
+permalink: /Comics/nsfw/ranma-12
 ---
 
 {: .important }
@@ -18,11 +18,9 @@ permalink: /Comics/nsfw
 
 <div class="gallery text-delta">
   <div class="gallery-item">
-    <a href="/Comics/nsfw/ranma-12/SummerHeat"><img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/cover.webp" alt="Ranma 1/2 - Summer Heat" width="400" height="auto"></a >
+    <a href="/Comics/nsfw/ranma-12/SummerHeat"><img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/cover.webp" alt="Summer Heat" width="400" height="auto"></a >
     <div class="desc">Ranma 1/2 - Summer Heat</div>
   </div>
 </div>
 
 ---
-
-[Back to Comics](/Comics){: .btn .btn--secondary .btn--sm }
