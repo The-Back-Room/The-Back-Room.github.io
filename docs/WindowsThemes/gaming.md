@@ -16,6 +16,6 @@ permalink: /WindowsThemes/gaming
 
 ---
 
-<img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/social/Windows%20Themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 The following is a collection of themes for Windows 10 and 11 inspired by popular video games. These themes include wallpapers, color schemes, and sounds that enhance the gaming experience on your desktop.
