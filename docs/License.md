@@ -140,8 +140,6 @@ Creative Commons may be contacted at [creativecommons.org]
 
 <!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
 
-[//]: # Resources and links for this page go here.
-
 [creativecommons.org/policies]: https://creativecommons.org/policies/
 [wiki.creativecommons.org/Considerations_for_licensors]: https://wiki.creativecommons.org/Considerations_for_licensors
 [wiki.creativecommons.org/Considerations_for_licensees]: https://wiki.creativecommons.org/Considerations_for_licensees
