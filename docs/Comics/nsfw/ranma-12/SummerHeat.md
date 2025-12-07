@@ -21,8 +21,6 @@ permalink: /Comics/nsfw/ranma-12/SummerHeat
 
 <h2 style="text-align:center;">How to Read</h2>
 
----
-
 This doujin is designed to be compatible with the local source extension in the following applications:
 
 - **Mihon**: An open-source manga reader for Android devices.  
