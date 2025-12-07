@@ -33,6 +33,12 @@ To read on PC or Laptop, simply download the repo and open the files with a comp
 
 ---
 
+<div align="center">
+  <a align="center" href="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Ranma%201-2%20Summer%20Heat.zip" class="btn btn--secondary btn--md">Download</a>
+</div>
+
+---
+
 <img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Cover Image" width="100" height="auto" />
 
 **Chapter 1**: Ranma Saotome    
@@ -112,11 +118,6 @@ To read on PC or Laptop, simply download the repo and open the files with a comp
 **Tags**: To be announced ... 
 
 <br /><br /><br />
-
----
-<div align="center">
-  <a align="center" href="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Ranma%201-2%20Summer%20Heat.zip" class="btn btn--secondary btn--md">Download</a>
-</div>
 
 ---
 
