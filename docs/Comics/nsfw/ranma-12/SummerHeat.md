@@ -26,10 +26,15 @@ To read this doujin on Android, simply install a compatible application and copy
 
 To read on PC or Laptop, simply open the doujin in a compatible image viewer.  
 
-"Ranma 1/2 - Summer Heat" explores the adventures of Ranma Saotome and his friends during a summer heatwave. The doujin focuses on a different character in each chapter, delving into multiple fetishes such as masturbation, vaginal sex, anal sex, kissing, sweating, and milf.  
-
 <div align="center">
-  <a href="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Ranma%201-2%20Summer%20Heat.zip" class="btn btn--secondary btn--md">Download</a>
+
+## Overview  
+**Ranma 1/2 - Summer Heat** explores the adventures of Ranma Saotome and his friends during a summer heatwave. The doujin focuses on a different character in each chapter, delving into multiple fetishes such as masturbation, vaginal sex, anal sex, kissing, sweating, and milf.  
+
+---
+
+ <a href="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Ranma%201-2%20Summer%20Heat.zip" class="btn btn--secondary btn--md">Download</a>
+
 </div>
 
 ---
