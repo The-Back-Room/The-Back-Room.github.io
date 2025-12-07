@@ -1,7 +1,7 @@
 ---
 title: Naruto
 tags: [Windows Themes, Anime]
-social_image: https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/raw/main/Extras/Preview.bmp
+social_image: /assets/images/social/naruto.bmp
 summary: >
     A theme for Windows 10 and 11 based off of the popular anime and manga series Naruto.
 parent: Anime

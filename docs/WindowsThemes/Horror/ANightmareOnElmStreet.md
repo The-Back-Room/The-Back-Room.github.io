@@ -1,7 +1,7 @@
 ---
 title: A Nightmare On Elm Street
-tags: [Windows Themes, Horror]
-social_image: https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/raw/main/Extras/Preview.bmp
+tags: [Windows Themes, Horror, A Nightmare On Elm Street, Freddy Krueger]
+social_image: /assets/images/social/a-nightmare-on-elm-street.bmp
 summary: >
     A theme for Windows 10 and 11 based off of the popular horror movie franchise A Nightmare on Elm Street.
 parent: Horror

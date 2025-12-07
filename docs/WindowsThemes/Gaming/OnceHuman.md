@@ -1,7 +1,7 @@
 ---
 title: Once Human
 tags: [Windows Themes, Gaming, Once Human]
-social_image: https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/raw/main/Extras/Preview.bmp
+social_image: /assets/images/social/once-human.bmp
 summary: >
     A theme for Windows 10 and 11 based off of the Final Fantasy XIV: Stormblood expansion.
 parent: Gaming

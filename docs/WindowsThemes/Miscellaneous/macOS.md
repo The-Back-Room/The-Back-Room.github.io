@@ -1,7 +1,7 @@
 ---
 title: MacOS
-tags: [Windows Themes, Miscellaneous]
-social_image: https://gitlab.com/the-back-room/deskthemepacks/sfw/macOS/-/raw/main/Extras/Preview.bmp
+tags: [Windows Themes, Miscellaneous, macOS]
+social_image: /assets/images/social/macOS.bmp
 summary: >
     MacOS themes ported to Windows 10 and 11.
 parent: Miscellaneous
@@ -16,13 +16,12 @@ permalink: /WindowsThemes/Miscellaneous/macOS
 {: .important }
 > {: .opaque }
 > {: .info }
-> ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers, color schemes, and sounds inspired by the horror movie A Nightmare On Elm Street. All content is sourced from the movie and is intended for personal use only.
+> ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers ported from various macOS versions. All content is sourced from the original creators and is intended for personal use only.
 
 ---
 
 ## Features
 * Multiple Themes
-* Custom Sounds
 * Custom Cursors
 * Supports 4k Resolutions
 
