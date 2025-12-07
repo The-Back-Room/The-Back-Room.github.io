@@ -9,15 +9,7 @@ nav_order: 3.1.1
 permalink: /Comics/nsfw/ranma-12/SummerHeat
 ---
 
-<div align="center">
-
-
-## Ranma 1/2 - Summer Heat  
-A fan-made doujin based on the popular anime and manga series Ranma 1/2.  
-
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/cover.webp" alt="Cover Image" width="400" height="auto" />
-
-</div>
+<img align="center" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/cover.webp" alt="Cover Image" width="500" height="auto" />
 
 {: .important }
 > {: .opaque }
