@@ -1,16 +1,16 @@
 ---
-title: NSFW Comics
-tags: [NSFW, NSFW Comics]
+title: Doujins
+tags: [NSFW, Comics, Doujinshi]
 summary: >
-  Manga, Comics, and Doujinshi containing adult content
+  Manga and Comics containing adult content
 parent: Comics
-permalink: /Comics/nsfw
+permalink: /Comics/doujins
 ---
 
 {: .important }
 > {: .opaque }
 > {: .warning }
-> ⚠️ **Content Warning**: The comics and doujinshi listed here contain adult content and are intended for mature audiences only.
+> ⚠️ **Content Warning**: The manga and comics listed here contain adult content and are intended for mature audiences only.
 >
 > ℹ️ By accessing these comics, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. The creators of these comics are not responsible for any misuse or inappropriate distribution of the content provided. Please read and share these comics responsibly and respect the rights of others.
 

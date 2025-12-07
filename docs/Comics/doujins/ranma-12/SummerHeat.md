@@ -4,8 +4,8 @@ tags: [NSFW, Comics, Doujinshi, Ranma 1/2]
 summary: >
   A NSFW doujinshi based on the Ranma 1/2 series.
 parent: Ranma 1/2
-grand_parent: NSFW Comics
-permalink: /Comics/nsfw/ranma-12/SummerHeat
+grand_parent: Doujins
+permalink: /Comics/doujins/ranma-12/SummerHeat
 ---
 
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/cover.webp" alt="Cover Image" width="100%" height="auto" />
