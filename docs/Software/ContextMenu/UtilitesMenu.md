@@ -11,6 +11,8 @@ A simple set of utilities added to the Windows 11 desktop context menu for quick
 
 <img src="https://github.com/The-Back-Room/Utilities-Menu-for-Windows-11-Desktop-Context-Menu/raw/main/Extras/Preview.bmp" alt="Utilities Menu Preview" width="100%" height="auto" />
 
+---
+
 <h2 style="text-align: center;">Features</h2>
 
 - **Kill Not Responding Tasks**: Finds and kills all non-responding tasks
@@ -20,6 +22,8 @@ A simple set of utilities added to the Windows 11 desktop context menu for quick
 - **Restart Explorer**: Restarts Windows Explorer to resolve various UI issues
 - **Restart Start Menu**: Restarts the Start Menu to resolve various UI issues
 - **Verify Windows Integrity**: Verify and repair system files using the System File Checker (SFC) tool and Deployment Imaging Service and Management Tool (DISM)
+
+---
 
 <h2 style="text-align: center;">Installation Instructions</h2>
 
