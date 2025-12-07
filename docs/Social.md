@@ -16,7 +16,7 @@ We have several social communities hosted by members of The Back Room community.
 **Community**: [Discord](https://dsc.gg/the-back-room)  
 **Summary**: A community where members can discuss various topics, share their projects, and get support related to The Back Room.
 
-<br /><br /><br />
+<br />
 
 ---
 
@@ -25,7 +25,7 @@ We have several social communities hosted by members of The Back Room community.
 **Community**: [GitLab](https://gitlab.com/the-back-room)  
 **Summary**: Follow our GitLab group to explore our projects, contribute to development, and collaborate with other community members.
 
-<br /><br /><br />
+<br />
 
 ---
 
@@ -34,7 +34,7 @@ We have several social communities hosted by members of The Back Room community.
 **Community**: [r/NSFW_Hentai_AI](https://www.reddit.com/r/NSFW_Hentai_AI/)  
 **Summary**: A NSFW subreddit dedicated to sharing and discussing AI-generated hentai artwork. Join the community to explore the latest creations and share your own!
 
-<br /><br /><br />
+<br />
 
 ---
 
@@ -43,4 +43,4 @@ We have several social communities hosted by members of The Back Room community.
 **Community**: [r/Ranma_Hentai](https://www.reddit.com/r/Ranma_Hentai/)  
 **Summary**: A NSFW subreddit for fans of Ranma ½ hentai content. Share and discuss your favorite adult-themed artwork and stories related to the Ranma ½ series.  
 
-<br /><br /><br />
+<br />
