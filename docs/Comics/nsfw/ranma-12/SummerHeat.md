@@ -87,8 +87,8 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 <img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 
 **Chapter 6**: Shampoo  
-**Summary**: To be announced ...  
-**Tags**: To be announced ...  
+**Summary**: Not yet available.   
+**Tags**: `W.I.P`  
 
 <br /><br /><br />
 
@@ -97,8 +97,8 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 <img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 
 **Chapter 7**: Kodachi Kuno  
-**Summary**: To be announced ...  
-**Tags**: To be announced ...  
+**Summary**: Not yet available.   
+**Tags**: `W.I.P`  
 
 <br /><br /><br />
 
@@ -107,8 +107,8 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 <img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 
 **Chapter 8**: Nodoka Saotome  
-**Summary**: To be announced ...  
-**Tags**: To be announced ... 
+**Summary**: Not yet available.   
+**Tags**: `W.I.P`  
 
 <br /><br /><br />
 
