@@ -1,8 +1,7 @@
 
 title: The Back Room
-subtitle: A hub for open-source projects, custom themes, and software tweaks
 description: >
-  A hub for open-source projects, custom themes, and software tweaks. Explore our resources to enhance your digital experience.
+  A hub for open-source projects, custom themes, and software tweaks
 
 baseurl: ""
 url: "https://the-back-room.info"
@@ -46,23 +45,18 @@ callouts:
   highlight:
     color: yellow
     appearance: minimal
-    opacity: 0.3
   important:
     color: blue
     appearance: minimal
-    opacity: 0.3
   new:
     color: green
     appearance: minimal
-    opacity: 0.3
   note:
     color: purple
     appearance: minimal
-    opacity: 0.3
   warning:
     color: red
     appearance: minimal
-    opacity: 0.3
 
 plugins:
   - jekyll-seo-tag
