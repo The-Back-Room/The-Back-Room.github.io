@@ -1,5 +1,5 @@
 ---
-title: Context Menu Customization
+title: Context Menu
 tags: [Software, Context Menu]
 summary: >
   A collection of tools and tweaks to customize the Windows context menu for enhanced usability.
