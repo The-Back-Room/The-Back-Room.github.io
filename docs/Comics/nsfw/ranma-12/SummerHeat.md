@@ -34,9 +34,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-<div align="center">
-  <a href="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Ranma%201-2%20Summer%20Heat.zip" class="btn btn--secondary btn--md">Download</a>
-</div>
+<h2 style="text-align:center;">Chapters</h2>
 
 ---
 
@@ -119,5 +117,11 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 **Tags**: To be announced ... 
 
 <br /><br /><br />
+
+---
+
+<div align="center">
+  <a href="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Ranma%201-2%20Summer%20Heat.zip" class="btn btn--secondary btn--md">Download</a>
+</div>
 
 ---
