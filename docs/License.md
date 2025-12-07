@@ -80,6 +80,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
     - You may satisfy the conditions in Section 3 in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.  
     - If requested by the Licensor, You must remove any of the information required by Section 3 to the extent reasonably practicable.  
     - If You Share Adapted Material You produce, the Adapter's License You apply must not prevent recipients of the Adapted Material from complying with this Public License.
+
 ---
 
 ### Section 4 -- Sui Generis Database Rights
