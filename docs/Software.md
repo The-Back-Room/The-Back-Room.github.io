@@ -2,7 +2,7 @@
 title: Software
 summary: >
   Open-source software built and maintained by members of The Back Room.
-nav_order: 2.0
+nav_order: 3.0
 permalink: /Software
 ---
 
