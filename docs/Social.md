@@ -37,5 +37,3 @@ We have several social communities hosted by members of The Back Room community.
 
 **Community**: [r/Ranma_Hentai](https://www.reddit.com/r/Ranma_Hentai/)  
 **Summary**: A NSFW subreddit for fans of Ranma ½ hentai content. Share and discuss your favorite adult-themed artwork and stories related to the Ranma ½ series.  
-
----
