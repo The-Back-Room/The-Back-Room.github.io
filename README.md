@@ -5,9 +5,7 @@ search_exclude: true
 ---
 
 <div align="center">
-  <a href="/docs/assets/images/logo.png">
-    <img alt="The Back Room Logo" src="/docs/assets/images/logo.png" width="80%" height="auto" />
-  </a>
+<img src="/docs/assets/images/software.png" width="80%" height="auto" />
 </div>
 
 ---
