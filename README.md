@@ -4,8 +4,7 @@ nav_exclude: true
 search_exclude: true
 ---
 
-
-![The Back Room](https://the-back-room.info/assets/images/software.png){: .align-center width="80%" height="auto" }
+<img src="/src/assets/images/software.png" alt="The Back Room" width="80%" height="auto" align="center" />
 
 ---
 
