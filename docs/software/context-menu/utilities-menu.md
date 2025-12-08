@@ -9,7 +9,7 @@ grand_parent: Software
 permalink: /software/context-menu/utilities-menu
 ---
 
-<img src="/assets/images/context-menu/utilities-menu.png" alt="Utilities Menu Preview" width="100%" height="auto" />
+<img src="/assets/images/context-menu/utilities-menu.png" alt="Preview" width="100%" height="auto" />
 
 ---
 
