@@ -5,7 +5,7 @@ search_exclude: true
 ---
 
 
-![The Back Room](https://the-back-room.info/assets/images/banner.png){: .align-center width="80%" height="auto" }
+![The Back Room](https://the-back-room.info/assets/images/software.png){: .align-center width="80%" height="auto" }
 
 ---
 
