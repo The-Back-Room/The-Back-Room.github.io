@@ -5,9 +5,7 @@ search_exclude: true
 ---
 
 <div align="center">
-<img src="/docs/assets/images/software.png" alt="The Back Room" width="80%" height="auto" />
-
----
+<img src="/docs/assets/images/software.png" alt="The Back Room" width="80%" height="auto" />  
 
 <a href="https://the-back-room.info">Website</a> | 
 <a href="https://gitlab.com/the-back-room">GitLab</a> | 
