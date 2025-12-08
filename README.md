@@ -1,10 +1,6 @@
----
-published: false
-nav_exclude: true
-search_exclude: true
----
 
 <div align="center">
+<h2>The Back Room</h2>
 <img src="/docs/assets/images/software.png" alt="The Back Room" width="80%" height="auto" />  
 
 <a href="https://the-back-room.info">Website</a> | 
