@@ -117,6 +117,4 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-<div align="center">
-  <a href="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/archive/main/summer-heat-main.zip" class="btn btn--secondary btn--md">Download</a>
-</div>
+[Download](https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/archive/main/summer-heat-main.zip){: .btn .btn-primary .btn-md }
