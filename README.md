@@ -4,7 +4,7 @@ nav_exclude: true
 search_exclude: true
 ---
 
-<img src="/src/assets/images/software.png" alt="The Back Room" width="80%" height="auto" align="center" />
+<img src="/docs/assets/images/software.png" alt="The Back Room" width="80%" height="auto" align="center" />
 
 ---
 
