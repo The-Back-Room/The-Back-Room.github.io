@@ -13,7 +13,7 @@ permalink: /windows-themes/anime/studio-ghibli
 {: .important }
 > {: .opaque }
 > {: .info }
-> ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers, color schemes, and sounds inspired by the popular MMORPG Final Fantasy XIV. All content is sourced from the game and is intended for personal use only.
+> ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers, color schemes, and sounds inspired by the films of Studio Ghibli. It is intended for personal use only.
 
 ---
 
