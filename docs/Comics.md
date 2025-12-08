@@ -7,8 +7,6 @@ nav_order: 5.0
 permalink: /comics
 ---
 
-<img src="/assets/images/comics.png" alt="Comics" width="100%" height="auto" />
-
 {: .important }
 > {: .opaque }
 > {: .warning }

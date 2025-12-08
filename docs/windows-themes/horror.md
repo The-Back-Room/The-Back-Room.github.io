@@ -18,4 +18,6 @@ permalink: /windows-themes/horror
 
 <img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
+---
+
 The following is a collection of themes for Windows 10 and 11 inspired by popular horror movies and franchises. These themes include wallpapers, color schemes, and sounds that bring the chilling atmosphere of horror to your desktop.
