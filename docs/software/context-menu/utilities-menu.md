@@ -8,7 +8,6 @@ parent: Context Menu
 grand_parent: Software
 permalink: /software/context-menu/utilities-menu
 ---
-A simple set of utilities added to the Windows 11 desktop context menu for quick access to common tasks.
 
 <img src="/assets/images/context-menu/utilities-menu.png" alt="Utilities Menu Preview" width="100%" height="auto" />
 
