@@ -4,7 +4,7 @@ tags: [Windows Themes, NSFW, Anime]
 social_image: /assets/images/windows-themes/naruto-ninja-hotsprings.png
 summary: >
     A NSFW theme for Windows 10 and 11 based off of the popular anime and manga series Naruto, featuring wallpapers by the artist Sakimichan.
-nav_order: 3
+nav_order: 2
 parent: Anime
 grand_parent: Windows Themes
 permalink: /windows-themes/anime/naruto-ninja-hotsprings
