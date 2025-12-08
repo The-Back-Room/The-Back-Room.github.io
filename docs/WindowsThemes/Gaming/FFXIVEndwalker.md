@@ -1,7 +1,7 @@
 ---
 title: FFXIV Endwalker
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
-social_image: /assets/images/social/ffxiv-endwalker.bmp
+social_image: /assets/images/social/ffxiv-endwalker.png
 summary: >
     A theme for Windows 10 and 11 based off of the Final Fantasy XIV: Endwalker expansion.
 parent: Gaming

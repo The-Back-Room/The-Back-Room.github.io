@@ -1,7 +1,7 @@
 ---
 title: FFXIV Stormblood
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
-social_image: /assets/images/social/ffxiv-stormblood.bmp
+social_image: /assets/images/social/ffxiv-stormblood.png
 summary: >
     A theme for Windows 10 and 11 based off of the Final Fantasy XIV: Stormblood expansion.
 parent: Gaming

@@ -1,7 +1,7 @@
 ---
 title: Naruto
 tags: [Windows Themes, Anime]
-social_image: /assets/images/social/naruto.bmp
+social_image: /assets/images/social/naruto.png
 summary: >
     A theme for Windows 10 and 11 based off of the popular anime and manga series Naruto.
 parent: Anime

@@ -1,7 +1,7 @@
 ---
 title: FFXIV Dawntrail
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
-social_image: /assets/images/social/ffxiv-dawntrail.bmp
+social_image: /assets/images/social/ffxiv-dawntrail.png
 summary: >
     A theme for Windows 10 and 11 based off of the Final Fantasy XIV: Dawntrail expansion.
 parent: Gaming
