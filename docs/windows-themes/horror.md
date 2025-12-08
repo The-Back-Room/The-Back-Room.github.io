@@ -10,7 +10,7 @@ permalink: /windows-themes/horror
 {: .important }
 > {: .opaque }
 > {: .warning }
-> ⚠️ **Content Warning**: Some themes listed here may contain mature content. Viewer discretion is advised.
+> ⚠️ Some themes listed here may contain mature content. Viewer discretion is advised.
 > 
 > ℹ️ The themes featured here are created by independent artists and designers. We do not claim any ownership of the characters or imagery depicted in these themes. All rights belong to their respective creators and copyright holders.
 

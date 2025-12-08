@@ -10,7 +10,7 @@ permalink: /social
 {: .important }
 > {: .opaque }
 > {: .warning }
-> ⚠️ **Content Warning**: Some social communities listed here may contain mature content. Viewer discretion is advised.
+> ⚠️ Some social communities listed here may contain mature content. Viewer discretion is advised.
 > 
 > ℹ️ The social communities featured here are hosted by members of The Back Room community. We encourage respectful participation and engagement within these communities.
 
