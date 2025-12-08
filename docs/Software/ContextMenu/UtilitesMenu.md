@@ -5,7 +5,7 @@ summary: >
   Utlities menu for Windows 11 desktop context menu.
 parent: Context Menu
 grand_parent: Software
-permalink: /Software/ContextMenu/UtilitesMenu
+permalink: /software/context-menu/utilities-menu
 ---
 A simple set of utilities added to the Windows 11 desktop context menu for quick access to common tasks.
 

@@ -5,7 +5,7 @@ social_image: /assets/images/software.png
 summary: >
   Open-source software built and maintained by members of The Back Room.
 nav_order: 3.0
-permalink: /Software
+permalink: /software
 ---
 
 {: .important 

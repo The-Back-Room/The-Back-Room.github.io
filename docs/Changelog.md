@@ -4,7 +4,7 @@ summary: >
   A detailed log of changes, updates, and improvements made to The Back Room website and its content.
 nav_exclude: true
 search_exclude: true
-permalink: /Changelog
+permalink: /changelog
 ---
 
 ## Changelog

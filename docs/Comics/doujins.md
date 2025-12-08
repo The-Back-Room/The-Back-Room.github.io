@@ -5,7 +5,7 @@ social_image: /assets/images/social/comics.png
 summary: >
   Manga and Comics containing adult content
 parent: Comics
-permalink: /Comics/doujins
+permalink: /comics/doujins
 ---
 
 {: .important }

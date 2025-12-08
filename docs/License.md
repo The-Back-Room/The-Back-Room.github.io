@@ -3,7 +3,7 @@ title: License
 summary: >
   The Back Room's content is licensed under the Creative Commons Attribution 4.0 International License. This page outlines the terms and conditions of this license.
 nav_order: 9.0
-permalink: /License
+permalink: /license
 ---
 
 ## Attribution 4.0 International
