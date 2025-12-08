@@ -18,7 +18,7 @@ permalink: /comics/doujins/ranma-12/summer-heat
 > {: .warning }
 > **Content Warning**: This doujin contains explicit adult content and is intended for mature audiences only. Reader discretion is advised.  
 > 
-> **Disclaimer**: This is a fan-made work and is not officially affiliated with or endorsed by the original creators of Ranma 1/2. All characters and settings belong to their respective owners. This doujin is created for entertainment purposes only. 
+> ℹ️ This is a fan-made work and is not officially affiliated with or endorsed by the original creators of Ranma 1/2. All characters and settings belong to their respective owners. This doujin is created for entertainment purposes only. 
 
 ---
 
