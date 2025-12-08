@@ -1,11 +1,15 @@
 ---
 title: Doujins
 tags: [NSFW, Comics, Doujinshi]
-social_image: /assets/images/windows-themes/comics.png
+social_image: /assets/images/comics.png
 summary: >
   Manga and Comics containing adult content
 parent: Comics
 permalink: /comics/doujins
+---
+
+<img src="/assets/images/comics.png" alt="Comics Image" width="100%" height="auto" />
+
 ---
 
 {: .important }

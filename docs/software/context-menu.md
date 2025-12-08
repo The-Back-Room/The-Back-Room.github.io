@@ -1,6 +1,7 @@
 ---
 title: Context Menu
 tags: [Software, Context Menu]
+social_image: /assets/images/software.png
 summary: >
   A collection of tools and tweaks to customize the Windows context menu for enhanced usability.
 parent: Software

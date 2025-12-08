@@ -1,6 +1,7 @@
 ---
 title: Utilities Menu
 tags: [Software, Context Menu, Utilities]
+social_image: /assets/images/context-menu/utilities-menu.png
 summary: >
   Utlities menu for Windows 11 desktop context menu.
 parent: Context Menu
@@ -9,7 +10,7 @@ permalink: /software/context-menu/utilities-menu
 ---
 A simple set of utilities added to the Windows 11 desktop context menu for quick access to common tasks.
 
-<img src="https://github.com/The-Back-Room/Utilities-Menu-for-Windows-11-Desktop-Context-Menu/raw/main/Extras/Preview.bmp" alt="Utilities Menu Preview" width="100%" height="auto" />
+<img src="/assets/images/context-menu/utilities-menu.png" alt="Utilities Menu Preview" width="100%" height="auto" />
 
 ---
 
