@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2>The Back Room</h2>
+<h3>The Back Room</h3>
 <img src="/docs/assets/images/software.png" alt="The Back Room" width="80%" height="auto" />  
 
 <a href="https://the-back-room.info">Website</a> | 
