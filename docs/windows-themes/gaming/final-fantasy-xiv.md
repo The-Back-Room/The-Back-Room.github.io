@@ -1,7 +1,7 @@
 ---
 title: Final Fantasy XIV
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
-social_image: /assets/images/social/ffxiv.png
+social_image: /assets/images/windows-themes/ffxiv.png
 summary: >
     A theme for Windows 10 and 11 based off of the popular MMORPG Final Fantasy XIV.
 parent: Gaming
@@ -9,7 +9,7 @@ grand_parent: Windows Themes
 permalink: /windows-themes/gaming/final-fantasy-xiv
 ---
 
-<img src="/assets/images/social/ffxiv.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/ffxiv.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

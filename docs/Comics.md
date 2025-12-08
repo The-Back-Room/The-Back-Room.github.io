@@ -1,11 +1,13 @@
 ﻿---
 title: Comics
-social_image: /assets/images/social/comics.bmp
+social_image: /assets/images/comics.bmp
 summary: >
   Manga, Comics, and Webtoons created by our community.
 nav_order: 5.0
 permalink: /comics
 ---
+
+<img src="/assets/images/comics.bmp" alt="Comics" width="100%" height="auto" />
 
 {: .important }
 > {: .opaque }
@@ -13,6 +15,10 @@ permalink: /comics
 > ⚠️ **Content Warning**: Some comics and webtoons listed here may contain mature content. Viewer discretion is advised.
 > 
 > ℹ️ The comics and webtoons featured here are created by independent artists and writers. We do not claim any ownership of the characters or stories depicted in these works. All rights belong to their respective creators and copyright holders.
+
+---
+
+<img src="/assets/images/comics.bmp" alt="Comics" width="100%" height="auto" />
 
 ---
 

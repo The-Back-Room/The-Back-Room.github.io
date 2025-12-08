@@ -1,7 +1,7 @@
 ---
 title: BLEACH
 tags: [Windows Themes, Anime]
-social_image: /assets/images/social/bleach.png
+social_image: /assets/images/windows-themes/bleach.png
 summary: >
     A theme for Windows 10 and 11 based off of the popular anime and manga series Bleach.
 parent: Anime
@@ -9,7 +9,7 @@ grand_parent: Windows Themes
 permalink: /windows-themes/anime/bleach
 ---
 
-<img src="/assets/images/social/bleach.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/bleach.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

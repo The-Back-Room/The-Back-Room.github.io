@@ -1,7 +1,7 @@
 ---
 title: MacOS
 tags: [Windows Themes, Miscellaneous, macOS]
-social_image: /assets/images/social/maos.png
+social_image: /assets/images/windows-themes/maos.png
 summary: >
     MacOS themes ported to Windows 10 and 11.
 parent: Miscellaneous
@@ -9,7 +9,7 @@ grand_parent: Windows Themes
 permalink: /windows-themes/miscellaneous/macos
 ---
 
-<img src="/assets/images/social/macos.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/macos.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

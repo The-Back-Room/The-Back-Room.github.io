@@ -1,7 +1,7 @@
 ---
 title: Naruto Hentai
 tags: [Windows Themes, NSFW, Anime]
-social_image: /assets/images/social/naruto-hentai.png
+social_image: /assets/images/windows-themes/naruto-hentai.png
 summary: >
     A theme for Windows 10 and 11 featuring explicit hentai artwork based on the popular anime and manga series Naruto.
 parent: Anime
@@ -9,7 +9,7 @@ grand_parent: Windows Themes
 permalink: /windows-themes/anime/naruto-hentai
 ---
 
-<img src="/assets/images/social/naruto-hentai.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/naruto-hentai.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

@@ -18,4 +18,6 @@ permalink: /windows-themes
 
 <img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
+---
+
 Welcome to the Windows Themes section! Here, you'll find a curated collection of custom themes for Windows 10 and 11 that can transform the look and feel of your desktop. Whether you're into gaming, horror, or just want something unique, we've got themes to suit your style. Explore the different categories below to find themes that resonate with you and enhance your Windows experience.
