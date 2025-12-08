@@ -4,19 +4,20 @@ tags: [Windows Themes, Cartoon]
 social_image: /assets/images/windows-themes/courage-tcd.png
 summary: >
     A theme for Windows 10 and 11 based off of the cult classic animated series Courage the Cowardly Dog.
+nav_order: 1
 parent: Cartoon
 grand_parent: Windows Themes
 permalink: /windows-themes/cartoon/courage-tcd
----
-
-<img src="/assets/images/windows-themes/courage-tcd.png" alt="Preview" width="100%" height="auto" />
-
 ---
 
 {: .important }
 > {: .opaque }
 > {: .info }
 > ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers, color schemes, and sounds inspired by the popular MMORPG Final Fantasy XIV. All content is sourced from the game and is intended for personal use only.
+
+---
+
+<img src="/assets/images/windows-themes/courage-tcd.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

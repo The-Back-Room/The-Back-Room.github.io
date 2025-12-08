@@ -4,19 +4,20 @@ tags: [Windows Themes, Miscellaneous, macOS]
 social_image: /assets/images/windows-themes/macos-abstract.png
 summary: >
     MacOS abstract themes ported to Windows 10 and 11.
+nav_order: 1
 parent: Miscellaneous
 grand_parent: Windows Themes
 permalink: /windows-themes/miscellaneous/macos-abstract
----
-
-<img src="/assets/images/windows-themes/macos-abstract.png" alt="Preview" width="100%" height="auto" />
-
 ---
 
 {: .important }
 > {: .opaque }
 > {: .info }
 > ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers ported from various macOS versions. All content is sourced from the original creators and is intended for personal use only.
+
+---
+
+<img src="/assets/images/windows-themes/macos-abstract.png" alt="Preview" width="100%" height="auto" />
 
 ---
 
