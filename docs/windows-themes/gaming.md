@@ -88,8 +88,8 @@ the popular MMORPG Final Fantasy XIV.
 <img align="right" src="/assets/images/windows-themes/ffxiv-waifus.png" alt="FFXIV Waifus" width="250" height="auto" style="padding: 2px;" />
 
 * **Title**: FFXIV Waifus
-* **Description**: A NSFW theme for Windows 10 and 11 inspired by  
-the popular MMORPG Final Fantasy XIV.
+* **Description**: A NSFW theme for Windows 10 and 11 inspired  
+by the popular MMORPG Final Fantasy XIV.
 
 [View Page](/windows-themes/gaming/ffxiv-waifus){: .btn .btn-primary .btn-sm }
 
