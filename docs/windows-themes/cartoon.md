@@ -3,6 +3,7 @@ title: Cartoon
 social_image: /assets/images/windows-themes.png
 summary: >
     A collection of themes for Windows 10 and 11 inspired by popular cult classics from western animation.
+has_toc: false
 parent: Windows Themes
 permalink: /windows-themes/Cartoon
 ---
@@ -19,3 +20,13 @@ permalink: /windows-themes/Cartoon
 ---
 
 The following is a collection of themes for Windows 10 and 11 inspired by popular cult classics from western animation. These themes include wallpapers, color schemes, and sounds that bring the charm of these cartoons to your desktop.
+
+---
+
+<img align="right" src="/assets/images/windows-themes/courage-tcd.png" alt="Courage the Cowardly Dog Theme" width="300" height="auto" />
+
+* **Title**: Courage the Cowardly Dog
+* **Description**: A theme for Windows 10 and 11 based off of the popular animated series Courage the Cowardly Dog.
+
+[View Page](/windows-themes/cartoon/courage-tcd){: .btn .btn-primary .btn-sm }
+

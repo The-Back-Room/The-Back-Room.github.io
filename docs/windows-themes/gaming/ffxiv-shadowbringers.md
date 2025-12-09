@@ -4,7 +4,7 @@ tags: [Windows Themes, Gaming, Final Fantasy XIV]
 social_image: /assets/images/windows-themes/ffxiv-shadowbringers.png
 summary: >
     A theme for Windows 10 and 11 based off of the Final Fantasy XIV: Shadowbringers expansion.
-nav_order: 1
+nav_exclude: true
 parent: Gaming
 grand_parent: Windows Themes
 permalink: /windows-themes/gaming/ffxiv-shadowbringers
@@ -38,3 +38,7 @@ permalink: /windows-themes/gaming/ffxiv-shadowbringers
 ---
 
 [Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-shadowbringers/-/archive/main/ffxiv-shadowbringers-main.zip){: .btn .btn-primary .btn-md }
+
+---
+
+[Back to Gaming Themes](/windows-themes/gaming){: .btn .btn-secondary .btn-md }

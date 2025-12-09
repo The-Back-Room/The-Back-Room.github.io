@@ -4,7 +4,7 @@ tags: [Windows Themes, Cartoon]
 social_image: /assets/images/windows-themes/courage-tcd.png
 summary: >
     A theme for Windows 10 and 11 based off of the cult classic animated series Courage the Cowardly Dog.
-nav_order: 1
+nav_exclude: true
 parent: Cartoon
 grand_parent: Windows Themes
 permalink: /windows-themes/cartoon/courage-tcd
@@ -38,3 +38,7 @@ permalink: /windows-themes/cartoon/courage-tcd
 ---
 
 [Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/archive/main/courage-tcd-main.zip){: .btn .btn-primary .btn-md }
+
+---
+
+[Back to Cartoon Themes](/windows-themes/cartoon){: .btn .btn-secondary .btn-md }

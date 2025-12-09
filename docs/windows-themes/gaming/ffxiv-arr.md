@@ -4,7 +4,7 @@ tags: [Windows Themes, Gaming, Final Fantasy XIV]
 social_image: /assets/images/windows-themes/ffxiv-arr.png
 summary: >
     A theme for Windows 10 and 11 based off of the Final Fantasy XIV: A Realm Reborn expansion.
-nav_order: 1
+nav_exclude: true
 parent: Gaming
 grand_parent: Windows Themes
 permalink: /windows-themes/gaming/ffxiv-arr
@@ -38,3 +38,7 @@ permalink: /windows-themes/gaming/ffxiv-arr
 ---
 
 [Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/-/archive/main/ffxiv-arr-main.zip){: .btn .btn-primary .btn-md }
+
+---
+
+[Back to Gaming Themes](/windows-themes/gaming){: .btn .btn-secondary .btn-md }

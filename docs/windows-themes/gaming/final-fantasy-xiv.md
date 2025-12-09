@@ -4,7 +4,7 @@ tags: [Windows Themes, Gaming, Final Fantasy XIV]
 social_image: /assets/images/windows-themes/final-fantasy-xiv.png
 summary: >
     A theme for Windows 10 and 11 based off of the popular MMORPG Final Fantasy XIV.
-nav_order: 1
+nav_exclude: true
 parent: Gaming
 grand_parent: Windows Themes
 permalink: /windows-themes/gaming/final-fantasy-xiv
@@ -38,3 +38,7 @@ permalink: /windows-themes/gaming/final-fantasy-xiv
 ---
 
 [Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/final-fantasy-xiv/-/archive/main/final-fantasy-xiv-main.zip){: .btn .btn-primary .btn-md }
+
+---
+
+[Back to Gaming Themes](/windows-themes/gaming){: .btn .btn-secondary .btn-md }

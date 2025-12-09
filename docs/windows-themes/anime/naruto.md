@@ -4,9 +4,7 @@ tags: [Windows Themes, Anime]
 social_image: /assets/images/windows-themes/naruto.png
 summary: >
     A theme for Windows 10 and 11 based off of the popular anime and manga series Naruto.
-nav_order: 1
-parent: Anime
-grand_parent: Windows Themes
+nav_exclude: true
 permalink: /windows-themes/anime/naruto
 ---
 
@@ -38,3 +36,7 @@ permalink: /windows-themes/anime/naruto
 ---
 
 [Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/archive/main/naruto-main.zip){: .btn .btn-primary .btn-md }
+
+---
+
+[Back to Anime Themes](/windows-themes/anime){: .btn .btn-secondary .btn-md }

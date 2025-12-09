@@ -4,7 +4,7 @@ tags: [Windows Themes, Horror, A Nightmare On Elm Street, Freddy Krueger]
 social_image: /assets/images/windows-themes/a-nightmare-on-elm-street.png
 summary: >
     A theme for Windows 10 and 11 based off of the popular horror movie franchise A Nightmare on Elm Street.
-nav_order: 1
+nav_exclude: true
 parent: Horror
 grand_parent: Windows Themes
 permalink: /windows-themes/horror/a-nightmare-on-elm-street
@@ -38,3 +38,7 @@ permalink: /windows-themes/horror/a-nightmare-on-elm-street
 ---
 
 [Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/archive/main/a-nightmare-on-elm-street-main.zip){: .btn .btn-primary .btn-md }
+
+---
+
+[Back to Horror Themes](/windows-themes/horror){: .btn .btn-secondary .btn-md }

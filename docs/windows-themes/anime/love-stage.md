@@ -5,8 +5,6 @@ social_image: /assets/images/windows-themes/love-stage.png
 summary: >
     A theme for Windows 10 and 11 based off of the popular yaoi anime and manga series Love Stage!!.
 nav_order: 1
-parent: Anime
-grand_parent: Windows Themes
 permalink: /windows-themes/anime/love-stage
 ---
 
@@ -40,3 +38,7 @@ permalink: /windows-themes/anime/love-stage
 ---
 
 [Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/archive/main/love-stage-main.zip){: .btn .btn-primary .btn-md }
+
+---
+
+[Back to Anime Themes](/windows-themes/anime){: .btn .btn-secondary .btn-md }

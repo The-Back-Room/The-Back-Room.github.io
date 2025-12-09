@@ -4,7 +4,7 @@ tags: [Windows Themes, Miscellaneous, macOS]
 social_image: /assets/images/windows-themes/macos-abstract.png
 summary: >
     MacOS abstract themes ported to Windows 10 and 11.
-nav_order: 1
+nav_exclude: true
 parent: Miscellaneous
 grand_parent: Windows Themes
 permalink: /windows-themes/miscellaneous/macos-abstract
@@ -37,3 +37,7 @@ permalink: /windows-themes/miscellaneous/macos-abstract
 ---
 
 [Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos-abstract-themes/-/archive/main/macos-abstract-themes-main.zip){: .btn .btn-primary .btn-md }
+
+---
+
+[Back to Miscellaneous Themes](/windows-themes/miscellaneous){: .btn .btn-secondary .btn-md }
