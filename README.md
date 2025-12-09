@@ -1,7 +1,6 @@
 
 <div align="center">
-<h3>The Back Room</h3>
-<p>Open-Source Software Development and Customization</p>
+<h3>The Back Room</h3><p>Open-Source Software Development and Customization</p>
 <img src="/docs/assets/images/software.png" alt="The Back Room" width="80%" height="auto" />
 <p>
 <a href="https://the-back-room.info">Website</a> | 
