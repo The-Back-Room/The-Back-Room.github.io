@@ -28,9 +28,10 @@ The comics listed here may parody popular series or feature original content. Pl
 
 ---
 
-<img align="right" src="/assets/images/ranma-12.png" alt="Ranma 1/2 Doujinshi Collection" width="200" height="auto" />
+<img src="/assets/images/ranma-12.png" alt="Ranma 1/2 Doujinshi Collection" width="200" height="auto" />
 
-<div align="left" class="card">
+<div class="card">
+<div class="preview">
 
 <b>Series</b>: Ranma 1/2<br />
 <b>Description</b>: A collection of NSFW doujinshi inspired by the popular anime and manga series Ranma 1/2.

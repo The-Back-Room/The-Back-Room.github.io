@@ -30,15 +30,15 @@
   margin-bottom: 20px;
   background-color: $sidebar-color;
 
+  .preview {
+    float: right;
+    margin: auto;
+  }
+
   .description {
     font-size: 14px;
     line-height: 1.5;
     float: left;
-    margin: auto;
-  }
-
-  img {
-    float: right;
     margin: auto;
   }
 }
