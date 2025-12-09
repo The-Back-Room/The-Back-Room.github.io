@@ -4,9 +4,8 @@ tags: [NSFW, Comics, Doujinshi, Ranma 1/2]
 social_image: /assets/images/ranma-12.png
 summary: >
     A collection of NSFW doujinshi based on the Ranma 1/2 series.
+nav_exclude: true
 has_toc: false
-parent: Doujins
-grand_parent: Comics
 permalink: /comics/doujins/ranma-12
 ---
 

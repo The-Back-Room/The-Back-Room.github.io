@@ -5,7 +5,6 @@ social_image: /assets/images/comics.png
 summary: >
   Manga and Comics containing adult content
 has_toc: false
-parent: Comics
 permalink: /comics/doujins
 ---
 
@@ -25,3 +24,12 @@ permalink: /comics/doujins
 The following is a collection of NSFW (Not Safe For Work) manga, comics, and doujinshi available for reading. These works explore various adult themes and fetishes, and are created by independent artists and writers. Enjoy responsibly!
 
 The comics listed here may parody popular series or feature original content. Please ensure you have the appropriate permissions to view and share these works, and always respect the rights of the creators.
+
+---
+
+<img align="right" src="/assets/images/ranma-12.png" alt="Ranma 1/2 Doujinshi Collection" width="300" height="auto" />
+
+* **Title**: Ranma 1/2
+* **Description**: A collection of NSFW doujinshi based on the Ranma 1/2 series.
+
+[View Page](/comics/doujins/ranma-12){: .btn .btn-primary .btn-sm }
