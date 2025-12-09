@@ -53,6 +53,15 @@ A theme for Windows 10 and 11 inspired by the popular anime and manga series Ble
 </div>
 
 <div class="card text-delta">
+<img src="/assets/images/windows-themes/studio-ghibli.png" alt="Futanari Hentai Theme" width="200" height="auto" />
+<div class="description">
+<h3>Studio Ghibli</h3>
+A theme for Windows 10 and 11 celebrating the magical worlds created by Studio Ghibli. <br /><br />
+<a href="/windows-themes/anime/studio-ghibli" class="btn btn-secondary btn-sm">More Info ...</a>
+</div>
+</div>
+
+<div class="card text-delta">
 <img src="/assets/images/windows-themes/love-stage.png" alt="Love Stage!! Theme" width="200" height="auto" />
 <div class="description">
 <h3>Love Stage!!</h3>
