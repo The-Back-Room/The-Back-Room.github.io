@@ -14,8 +14,8 @@ The context menu in Windows provides quick access to various functions and featu
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/context-menu/utilities-menu.png" alt="Utilities Menu" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/context-menu/utilities-menu.png" alt="Utilities Menu" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Utilities Menu<br />

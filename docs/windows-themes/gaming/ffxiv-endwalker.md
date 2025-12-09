@@ -15,7 +15,7 @@ permalink: /windows-themes/gaming/ffxiv-endwalker
 
 ---
 
-<img align="right" src="/assets/images/windows-themes/ffxiv-endwalker.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/ffxiv-endwalker.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

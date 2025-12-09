@@ -26,8 +26,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/windows-themes/naruto.png" alt="Naruto Theme" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/windows-themes/naruto.png" alt="Naruto Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Naruto
@@ -39,8 +39,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/windows-themes/bleach.png" alt="Bleach Theme" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/windows-themes/bleach.png" alt="Bleach Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Bleach<br />
@@ -52,8 +52,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/windows-themes/bleach-tybw.png" alt="Bleach TYBW Theme" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/windows-themes/bleach-tybw.png" alt="Bleach TYBW Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Bleach: Thousand-Year Blood War<br />
@@ -66,8 +66,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/windows-themes/love-stage.png" alt="Love Stage!! Theme" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/windows-themes/love-stage.png" alt="Love Stage!! Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Love Stage!!<br />
@@ -79,8 +79,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/windows-themes/ecchi.png" alt="Ecchi Anime Theme" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/windows-themes/ecchi.png" alt="Ecchi Anime Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Ecchi<br />
@@ -91,8 +91,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/windows-themes/lewd-gamer-waifus.png" alt="Lewd Gamer Waifus Theme" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/windows-themes/lewd-gamer-waifus.png" alt="Lewd Gamer Waifus Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Lewd Gamer Waifus<br />
@@ -103,8 +103,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/windows-themes/ranma-hentai.png" alt="Ranma ½ Hentai Theme" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/windows-themes/ranma-hentai.png" alt="Ranma ½ Hentai Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Ranma ½ Hentai<br />
@@ -116,8 +116,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/windows-themes/naruto-ninja-hotsprings.png" alt="Naruto Ninja Hotsprings Theme" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/windows-themes/naruto-ninja-hotsprings.png" alt="Naruto Ninja Hotsprings Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Naruto Ninja Hotsprings<br />
@@ -129,8 +129,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/windows-themes/naruto-hentai.png" alt="Naruto Hentai Theme" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/windows-themes/naruto-hentai.png" alt="Naruto Hentai Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Naruto Hentai<br />
@@ -142,8 +142,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/windows-themes/bleach-hentai.png" alt="Bleach Hentai Theme" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/windows-themes/bleach-hentai.png" alt="Bleach Hentai Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Bleach Hentai<br />
@@ -155,8 +155,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="/assets/images/windows-themes/futanari-hentai.png" alt="Futanari Hentai Theme" width="200" height="auto" />
+<div align="right" class="preview">
+<img src="/assets/images/windows-themes/futanari-hentai.png" alt="Futanari Hentai Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Futanari Hentai<br />

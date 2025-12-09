@@ -38,8 +38,8 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100" height="auto" />
+<div align="right" class="preview">
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Chapter 1</b>: Ranma Saotome<br />
@@ -51,8 +51,8 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100" height="auto" />
+<div align="right" class="preview">
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Chapter 2</b>: Akane Tendo<br />
@@ -64,8 +64,8 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100" height="auto" />
+<div align="right" class="preview">
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Chapter 3</b>: Nabiki Tendo<br />
@@ -77,8 +77,8 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100" height="auto" />
+<div align="right" class="preview">
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Chapter 4</b>: Kasumi Tendo<br />
@@ -90,8 +90,8 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 ---
 
 <div class="card">
-<div class="preview">
-<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100" height="auto" />
+<div align="right" class="preview">
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Chapter 5</b>: Ukyo Kuonji<br />
@@ -103,7 +103,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 ---
 
 <div class="card">
-<div class="preview">
+<div align="right" class="preview">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 </div>
 <div align="left" class="description">
@@ -116,7 +116,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 ---
 
 <div class="card">
-<div class="preview">
+<div align="right" class="preview">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 </div>
 <div align="left" class="description">

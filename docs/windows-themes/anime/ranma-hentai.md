@@ -17,7 +17,7 @@ permalink: /windows-themes/anime/ranma-hentai
 
 ---
 
-<img align="right" src="/assets/images/windows-themes/ranma-hentai.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/ranma-hentai.png" alt="Preview" width="100%" height="auto" />
 
 ---
 
