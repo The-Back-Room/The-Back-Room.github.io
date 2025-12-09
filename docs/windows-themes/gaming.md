@@ -27,7 +27,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="card">
 <div class="preview">
-<img align="right"  src="/assets/images/windows-themes/ffxiv-arr.png" alt="FFXIV ARR" width="200" height="auto" />
+<img align="right" src="/assets/images/windows-themes/ffxiv-arr.png" alt="FFXIV ARR" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Final Fantasy XIV: A Realm Reborn<br />
@@ -40,7 +40,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="card">
 <div class="preview">
-<img align="right"  src="/assets/images/windows-themes/ffxiv-shadowbringers.png" alt="FFXIV Shadowbringers" width="200" height="auto" />
+<img align="right" src="/assets/images/windows-themes/ffxiv-shadowbringers.png" alt="FFXIV Shadowbringers" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Final Fantasy XIV: Shadowbringers<br />
@@ -53,7 +53,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="card">
 <div class="preview">
-<img align="right"  src="/assets/images/windows-themes/ffxiv-endwalker.png" alt="FFXIV Endwalker" width="200" height="auto" />
+<img align="right" src="/assets/images/windows-themes/ffxiv-endwalker.png" alt="FFXIV Endwalker" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Final Fantasy XIV: Endwalker<br />
@@ -66,7 +66,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="card">
 <div class="preview">
-<img align="right"  src="/assets/images/windows-themes/ffxiv-heavensward.png" alt="FFXIV Heavensward" width="200" height="auto" />
+<img align="right" src="/assets/images/windows-themes/ffxiv-heavensward.png" alt="FFXIV Heavensward" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Final Fantasy XIV: Heavensward<br />
@@ -79,7 +79,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="card">
 <div class="preview">
-<img align="right"  src="/assets/images/windows-themes/ffxiv-stormblood.png" alt="FFXIV Stormblood" width="200" height="auto" />
+<img align="right" src="/assets/images/windows-themes/ffxiv-stormblood.png" alt="FFXIV Stormblood" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Final Fantasy XIV: Stormblood<br />
@@ -92,7 +92,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="card">
 <div class="preview">
-<img align="right"  src="/assets/images/windows-themes/final-fantasy-xiv.png" alt="Final Fantasy XIV" width="200" height="auto" />
+<img align="right" src="/assets/images/windows-themes/final-fantasy-xiv.png" alt="Final Fantasy XIV" width="200" height="auto" />
 </div>
 <div align="left" class="description"><b>Title</b>: Final Fantasy XIV<br />
 <b>Description</b>: A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
@@ -104,7 +104,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="card">
 <div class="preview">
-<img align="right"  src="/assets/images/windows-themes/ffxiv-waifus.png" alt="FFXIV Waifus" width="200" height="auto" />
+<img align="right" src="/assets/images/windows-themes/ffxiv-waifus.png" alt="FFXIV Waifus" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: FFXIV Waifus<br />
@@ -117,7 +117,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="card">
 <div class="preview">
-<img align="right"  src="/assets/images/windows-themes/once-human.png" alt="Once Human Theme" width="200" height="auto" />
+<img align="right" src="/assets/images/windows-themes/once-human.png" alt="Once Human Theme" width="200" height="auto" />
 </div>
 <div align="left" class="description">
 <b>Title</b>: Once Human<br />

@@ -15,7 +15,7 @@ permalink: /windows-themes/anime/bleach-tybw
 
 ---
 
-<img align="right"  src="/assets/images/windows-themes/bleach-tybw.png" alt="Preview" width="100%" height="auto" />
+<img align="right" src="/assets/images/windows-themes/bleach-tybw.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

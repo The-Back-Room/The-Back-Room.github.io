@@ -17,7 +17,7 @@ permalink: /windows-themes/anime/ecchi
 
 ---
 
-<img align="right"  src="/assets/images/windows-themes/ecchi.png" alt="Preview" width="100%" height="auto" />
+<img align="right" src="/assets/images/windows-themes/ecchi.png" alt="Preview" width="100%" height="auto" />
 
 ---
 
