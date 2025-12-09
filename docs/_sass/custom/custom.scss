@@ -23,49 +23,7 @@
   }
 }
 
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
-}
-
-.gallery-item {
-  margin: 5px;
+img {
   border: 1px solid $border-color;
-  border-radius: 2px;
-  width: calc(50% - 20px);
-  background-color: $sidebar-color;
-}
-
-.gallery-item:hover {
-  border: 1px solid darken($border-color, 10%);
-  border-radius: 2px;
-}
-
-.gallery-item img {
-  width: 100%;
-  height: auto;
-}
-
-.gallery-item .desc {
-  padding: 15px;
-  text-align: center;
-}
-
-@media only screen and (max-width: 768px) {
-  .gallery-item {
-    width: calc(50% - 20px);
-  }
-  .markdown-body {
-		padding: 15px;
-	}
-}
-
-@media only screen and (max-width: 480px) {
-  .gallery-item {
-    width: calc(100% - 20px);
-  }
-  .markdown-body {
-		padding: 15px;
-	}
+  border-radius: 4px;
 }
