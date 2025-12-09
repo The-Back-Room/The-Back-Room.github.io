@@ -32,8 +32,6 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 [View Page](/windows-themes/horror/it){: .btn .btn-primary .btn-sm }
 
-<br /><br />
-
 ---
 
 <img align="right" src="/assets/images/windows-themes/a-nightmare-on.png" alt="SAW Theme" width="250" height="auto" />

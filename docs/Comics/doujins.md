@@ -18,7 +18,7 @@ permalink: /comics/doujins
 
 ---
 
-<img src="/assets/images/comics.png" alt="Comics Image" width="100%" height="auto" />
+<img src="/assets/images/comics.png" alt="Comics Image" width="100%" height="auto" style="padding: 2px;" />
 
 ---
 

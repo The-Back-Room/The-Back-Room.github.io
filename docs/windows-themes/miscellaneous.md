@@ -32,8 +32,6 @@ The following is a collection of miscellaneous themes for Windows 10 and 11. The
 
 [View Page](/windows-themes/macos-abstract){: .btn .btn-primary .btn-sm }
 
-<br /><br />
-
 ---
 
 <img align="right" src="/assets/images/windows-themes/macos.png" alt="MacOS" width="250" height="auto" />
@@ -42,7 +40,5 @@ The following is a collection of miscellaneous themes for Windows 10 and 11. The
 * **Description**: MacOS themes ported to Windows 10 and 11.
 
 [View Page](/windows-themes/macos){: .btn .btn-primary .btn-sm }
-
-<br /><br />
 
 ---

@@ -25,25 +25,21 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 ---
 
-<img align="right" src="/assets/images/windows-themes/ffxiv-arr.png" alt="FFXIV ARR" width="250" height="auto" />
+<img align="right" src="/assets/images/windows-themes/ffxiv-arr.png" alt="FFXIV ARR" width="250" height="auto" style="padding: 2px;" />
 
 * **Title**: Final Fantasy XIV: A Realm Reborn
 * **Description**: A theme for Windows 10 and 11 based off of the popular MMORPG Final Fantasy XIV.
 
 [View Page](/windows-themes/gaming/ffxiv-arr){: .btn .btn-primary .btn-sm }
 
-<br /><br />
-
 ---
 
-<img align="right" src="/assets/images/windows-themes/ffxiv-shadowbringers.png" alt="FFXIV Shadowbringers" width="250" height="auto" />
+<img align="right" src="/assets/images/windows-themes/ffxiv-shadowbringers.png" alt="FFXIV Shadowbringers" width="250" height="auto" style="padding: 2px;" />
 
 * **Title**: Final Fantasy XIV: Shadowbringers
 * **Description**: A theme for Windows 10 and 11 based off of the popular MMORPG Final Fantasy XIV.
 
 [View Page](/windows-themes/gaming/ffxiv-shadowbringers){: .btn .btn-primary .btn-sm }
-
-<br /><br />
 
 ---
 
@@ -54,8 +50,6 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 [View Page](/windows-themes/gaming/ffxiv-endwalker){: .btn .btn-primary .btn-sm }
 
-<br /><br />
-
 ---
 
 <img align="right" src="/assets/images/windows-themes/ffxiv-heavensward.png" alt="FFXIV Heavensward" width="250" height="auto" />
@@ -64,8 +58,6 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 * **Description**: A theme for Windows 10 and 11 based off of the popular MMORPG Final Fantasy XIV.
 
 [View Page](/windows-themes/gaming/ffxiv-heavensward){: .btn .btn-primary .btn-sm }
-
-<br /><br />
 
 ---
 
@@ -76,8 +68,6 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 [View Page](/windows-themes/gaming/ffxiv-stormblood){: .btn .btn-primary .btn-sm }
 
-<br /><br />
-
 ---
 
 <img align="right" src="/assets/images/windows-themes/final-fantasy-xiv.png" alt="Final Fantasy XIV" width="250" height="auto" />
@@ -87,8 +77,6 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 [View Page](/windows-themes/gaming/final-fantasy-xiv){: .btn .btn-primary .btn-sm }
 
-<br /><br />
-
 ---
 
 <img align="right" src="/assets/images/windows-themes/ffxiv-waifus.png" alt="FFXIV Waifus" width="250" height="auto" />
@@ -97,8 +85,6 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 * **Description**: A NSFW theme for Windows 10 and 11 based off of the popular MMORPG Final Fantasy XIV.
 
 [View Page](/windows-themes/gaming/ffxiv-waifus){: .btn .btn-primary .btn-sm }
-
-<br /><br />
 
 ---
 
