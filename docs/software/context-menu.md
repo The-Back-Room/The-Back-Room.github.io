@@ -17,8 +17,8 @@ The context menu in Windows provides quick access to various functions and featu
 <div class="card">
 <img src="/assets/images/context-menu/utilities-menu.png" alt="Utilities Menu" width="200" height="auto" />
 <div class="description">
-<b>Title</b>: Utilities Menu<br />
-<b>Description</b>: A context menu extension that adds a "Utilities" submenu to the right-click context menu in Windows Explorer. This submenu provides quick access to various system utilities and tools.<br /><br />
+<h2>Utilities Menu</h2>
+A context menu extension that adds a "Utilities" submenu to the right-click context menu in Windows Explorer. This submenu provides quick access to various system utilities and tools.<br /><br />
 <a href="/software/context-menu/utilities-menu" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>

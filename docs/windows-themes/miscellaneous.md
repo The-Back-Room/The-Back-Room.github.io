@@ -28,8 +28,8 @@ The following is a collection of miscellaneous themes for Windows 10 and 11. The
 <div class="card">
 <img src="/assets/images/windows-themes/macos-abstract.png" alt="MacOS Abstract Theme" width="200" height="auto" />
 <div class="description">
-<b>Title</b>: MacOS Abstract<br />
-<b>Description</b>: MacOS abstract themes ported to Windows 10 and 11.<br /><br />
+<h2>MacOS Abstract</h2>
+MacOS abstract themes ported to Windows 10 and 11.<br /><br />
 <a href="/windows-themes/macos-abstract" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
@@ -37,8 +37,8 @@ The following is a collection of miscellaneous themes for Windows 10 and 11. The
 <div class="card">
 <img src="/assets/images/windows-themes/macos.png" alt="MacOS" width="200" height="auto" />
 <div class="description">
-<b>Title</b>: MacOS Themes for Windows<br />
-<b>Description</b>: MacOS themes ported to Windows 10 and 11.<br /><br />
+<h2>MacOS Themes for Windows</h2>
+MacOS themes ported to Windows 10 and 11.<br /><br />
 <a href="/windows-themes/macos" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
