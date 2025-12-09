@@ -29,7 +29,7 @@ We have several social communities hosted by members of The Back Room community.
 <img src="../assets/images/discord-logo.png" alt="Discord" width="100px" height="auto" />
 <div class="description">
 <h3>Discord</h3>
-Hang out, chat with friends, share projects, and get support related to The Back Room.<br /><br />
+Hang out, chat with friends, share projects, and get support related to any of our projects.<br /><br />
 <a href="https://dsc.gg/the-back-room" class="btn btn-secondary btn-sm">Discord</a>
 </div>
 </div>
