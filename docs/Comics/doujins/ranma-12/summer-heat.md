@@ -38,66 +38,90 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 ---
 
 <img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100" height="auto" />
+<div align="left" class="card">
 
 **Chapter 1**: Ranma Saotome    
 **Summary**: Ranma tries to find relief from the summer heat and has a steamy encounter.  
 **Tags**: `Masturbation` `Gender Bender` `Vaginal Sex` `Kissing` `Sweating`  
 
+</div>
+
 ---
 
 <img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100" height="auto" />
+<div align="left" class="card">
 
 **Chapter 2**: Akane Tendo  
 **Summary**: Akane navigates her feelings for Ranma while dealing with the oppressive heat.  
 **Tags**: `Masturbation` `Dildo` `Vaginal Sex` `Kissing` `Sweating` `Creampie`  
 
+</div>
+
 ---
 
 <img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100" height="auto" />
+<div align="left" class="card">
 
 **Chapter 3**: Nabiki Tendo  
 **Summary**: Nabiki takes advantage of the summer heat and has a passionate encounter with Ryoga.  
 **Tags**: `Masturbation` `Vaginal Sex` `Sweating` `Creampie` `Kissing`
 
+</div>
+
 ---
 
 <img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100" height="auto" />
+<div align="left" class="card">
 
 **Chapter 4**: Kasumi Tendo  
 **Summary**: Kasumi enjoys some alone time in the bath while dealing with the summer heat.  
 **Tags**: `Masturbation` `Solo` `Sweating` `Full-Package Futanari` `Milf` `Large Breasts` `Large Penis`  
 
+</div>
+
 ---
 
 <img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100" height="auto" />
+<div align="left" class="card">
 
 **Chapter 5**: Ukyo Kuonji  
 **Summary**: Ukyo finds a unique way to cool down during the heatwave.  
 **Tags**: `Masturbation` `Solo` `Sweating` `Squirting`  
 
+</div>
+
 ---
 
 <img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
+<div align="left" class="card">
 
 **Chapter 6**: Shampoo  
 **Summary**: Not yet available.   
 **Tags**: `W.I.P`  
 
+</div>
+
 ---
 
 <img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
+<div align="left" class="card">
 
 **Chapter 7**: Kodachi Kuno  
 **Summary**: Not yet available.   
 **Tags**: `W.I.P`  
 
+</div>
+
 ---
 
 <img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
+<div align="left" class="card">
 
 **Chapter 8**: Nodoka Saotome  
 **Summary**: Not yet available.   
 **Tags**: `W.I.P`  
+
+</div>
 
 ---
 
