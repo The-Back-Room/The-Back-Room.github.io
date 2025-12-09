@@ -4,7 +4,6 @@ social_image: /assets/images/comics.png
 summary: >
   Manga, Comics, and Webtoons created by our community.
 nav_order: 5.0
-has_toc: false
 permalink: /comics
 ---
 

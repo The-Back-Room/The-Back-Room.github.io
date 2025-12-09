@@ -5,8 +5,6 @@ social_image: /assets/images/windows-themes/macos-abstract.png
 summary: >
     MacOS abstract themes ported to Windows 10 and 11.
 nav_exclude: true
-parent: Miscellaneous
-grand_parent: Windows Themes
 permalink: /windows-themes/miscellaneous/macos-abstract
 ---
 

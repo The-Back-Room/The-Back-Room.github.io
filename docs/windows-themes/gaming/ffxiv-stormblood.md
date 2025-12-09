@@ -5,8 +5,6 @@ social_image: /assets/images/windows-themes/ffxiv-stormblood.png
 summary: >
     A theme for Windows 10 and 11 based off of the Final Fantasy XIV: Stormblood expansion.
 nav_exclude: true
-parent: Gaming
-grand_parent: Windows Themes
 permalink: /windows-themes/gaming/ffxiv-stormblood
 ---
 

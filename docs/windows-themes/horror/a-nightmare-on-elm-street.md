@@ -5,8 +5,6 @@ social_image: /assets/images/windows-themes/a-nightmare-on-elm-street.png
 summary: >
     A theme for Windows 10 and 11 based off of the popular horror movie franchise A Nightmare on Elm Street.
 nav_exclude: true
-parent: Horror
-grand_parent: Windows Themes
 permalink: /windows-themes/horror/a-nightmare-on-elm-street
 ---
 

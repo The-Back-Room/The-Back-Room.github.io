@@ -5,8 +5,6 @@ social_image: /assets/images/windows-themes/ffxiv-waifus.png
 summary: >
     A NSFW theme for Windows 10 and 11 based off of the popular MMORPG Final Fantasy XIV.
 nav_exclude: true
-parent: Gaming
-grand_parent: Windows Themes
 permalink: /windows-themes/gaming/ffxiv-waifus
 ---
 
