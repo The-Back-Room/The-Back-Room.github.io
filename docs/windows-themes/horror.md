@@ -34,8 +34,6 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 </div>
 </div>
 
----
-
 <div class="card">
 <img src="/assets/images/windows-themes/a-nightmare-on-elm-street.png" alt="A Nightmare On Elm Street Theme" width="200" height="auto" />
 <div class="description">

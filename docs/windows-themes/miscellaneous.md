@@ -34,8 +34,6 @@ The following is a collection of miscellaneous themes for Windows 10 and 11. The
 </div>
 </div>
 
----
-
 <div class="card">
 <img src="/assets/images/windows-themes/macos.png" alt="MacOS" width="200" height="auto" />
 <div class="description">

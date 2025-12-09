@@ -46,8 +46,6 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 </div>
 </div>
 
----
-
 <div class="card">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100" height="auto" />
 <div class="description">
@@ -56,8 +54,6 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 <b>Tags</b>: <code>Masturbation</code> <code>Dildo</code> <code>Vaginal Sex</code> <code>Kissing</code> <code>Sweating</code> <code>Creampie</code> 
 </div>
 </div>
-
----
 
 <div class="card">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100" height="auto" />
@@ -68,8 +64,6 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 </div>
 </div>
 
----
-
 <div class="card">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100" height="auto" />
 <div class="description">
@@ -78,8 +72,6 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 <b>Tags</b>: <code>Masturbation</code> <code>Solo</code> <code>Sweating</code> <code>Full-Package Futanari</code> <code>Milf</code> <code>Large Breasts</code> <code>Large Penis</code> 
 </div>
 </div>
-
----
 
 <div class="card">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100" height="auto" />
@@ -90,8 +82,6 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 </div>
 </div>
 
----
-
 <div class="card">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 <div class="description">
@@ -101,8 +91,6 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 </div>
 </div>
 
----
-
 <div class="card">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 <div class="description">
@@ -111,8 +99,6 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 <b>Tags</b>: <code>W.I.P</code> 
 </div>
 </div>
-
----
 
 <div class="card">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
