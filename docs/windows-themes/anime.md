@@ -28,7 +28,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/naruto.png" alt="Naruto Theme" width="200" height="auto" />
 <div class="description">
-h3>Naruto</h3>
+<h3>Naruto</h3>
 A theme for Windows 10 and 11 inspired by the popular anime and manga series Naruto.<br /><br />
 <a href="/windows-themes/anime/naruto" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -37,7 +37,7 @@ A theme for Windows 10 and 11 inspired by the popular anime and manga series Nar
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/bleach.png" alt="Bleach Theme" width="200" height="auto" />
 <div class="description">
-h3>Bleach</h3>
+<h3>Bleach</h3>
 A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach.<br /><br />
 <a href="/windows-themes/anime/bleach" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -46,7 +46,7 @@ A theme for Windows 10 and 11 inspired by the popular anime and manga series Ble
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/bleach-tybw.png" alt="Bleach TYBW Theme" width="200" height="auto" />
 <div class="description">
-h3>Bleach: Thousand-Year Blood War</h3>
+<h3>Bleach: Thousand-Year Blood War</h3>
 A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach: Thousand-Year Blood War.<br /><br />
 <a href="/windows-themes/anime/bleach-tybw" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -55,7 +55,7 @@ A theme for Windows 10 and 11 inspired by the popular anime and manga series Ble
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/love-stage.png" alt="Love Stage!! Theme" width="200" height="auto" />
 <div class="description">
-h3>Love Stage!!</h3>
+<h3>Love Stage!!</h3>
 A theme for Windows 10 and 11 inspired by the popular yaoi anime and manga series Love Stage!!.<br /><br />
 <a href="/windows-themes/anime/love-stage" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -64,7 +64,7 @@ A theme for Windows 10 and 11 inspired by the popular yaoi anime and manga serie
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/ecchi.png" alt="Ecchi Anime Theme" width="200" height="auto" />
 <div class="description">
-h3>Ecchi</h3>
+<h3>Ecchi</h3>
 A theme for Windows 10 and 11 featuring various ecchi anime artwork.<br /><br />
 <a href="/windows-themes/anime/ecchi" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -73,7 +73,7 @@ A theme for Windows 10 and 11 featuring various ecchi anime artwork.<br /><br />
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/lewd-gamer-waifus.png" alt="Lewd Gamer Waifus Theme" width="200" height="auto" />
 <div class="description">
-h3>Lewd Gamer Waifus</h3>
+<h3>Lewd Gamer Waifus</h3>
 A NSFW theme for Windows 10 and 11 featuring lewd anime gamer waifu artwork.<br /><br />
 <a href="/windows-themes/anime/lewd-gamer-waifus" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -82,7 +82,7 @@ A NSFW theme for Windows 10 and 11 featuring lewd anime gamer waifu artwork.<br 
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/ranma-hentai.png" alt="Ranma ½ Hentai Theme" width="200" height="auto" />
 <div class="description">
-h3>Ranma ½ Hentai</h3>
+<h3>Ranma ½ Hentai</h3>
 A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork based on the popular anime and manga series Ranma ½.<br /><br />
 <a href="/windows-themes/anime/ranma-hentai" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -91,7 +91,7 @@ A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork based on th
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/naruto-ninja-hotsprings.png" alt="Naruto Ninja Hotsprings Theme" width="200" height="auto" />
 <div class="description">
-h3>Naruto Ninja Hotsprings</h3>
+<h3>Naruto Ninja Hotsprings</h3>
 A NSFW theme for Windows 10 and 11 inspired by the popular anime and manga series Naruto, featuring ninja characters in a hot springs setting.<br /><br />
 <a href="/windows-themes/anime/naruto-ninja-hotsprings" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -100,7 +100,7 @@ A NSFW theme for Windows 10 and 11 inspired by the popular anime and manga serie
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/naruto-hentai.png" alt="Naruto Hentai Theme" width="200" height="auto" />
 <div class="description">
-h3>Naruto Hentai</h3>
+<h3>Naruto Hentai</h3>
 A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork inspired by the popular anime and manga series Naruto.<br /><br />
 <a href="/windows-themes/anime/naruto-hentai" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -109,7 +109,7 @@ A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork inspired by
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/bleach-hentai.png" alt="Bleach Hentai Theme" width="200" height="auto" />
 <div class="description">
-h3>Bleach Hentai</h3>
+<h3>Bleach Hentai</h3>
 A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork inspired by the popular anime and manga series Bleach.<br /><br />
 <a href="/windows-themes/anime/bleach-hentai" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -118,7 +118,7 @@ A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork inspired by
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/futanari-hentai.png" alt="Futanari Hentai Theme" width="200" height="auto" />
 <div class="description">
-h3>Futanari Hentai</h3>
+<h3>Futanari Hentai</h3>
 A NSFW theme for Windows 10 and 11 featuring explicit futanari hentai artwork.<br /><br />
 <a href="/windows-themes/anime/futanari-hentai" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>

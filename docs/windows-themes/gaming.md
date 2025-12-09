@@ -28,7 +28,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/ffxiv-arr.png" alt="FFXIV ARR" width="200" height="auto" />
 <div class="description">
-h3>Final Fantasy XIV: A Realm Reborn</h3>
+<h3>Final Fantasy XIV: A Realm Reborn</h3>
 A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
 <a href="/windows-themes/gaming/ffxiv-arr" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -37,7 +37,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/ffxiv-shadowbringers.png" alt="FFXIV Shadowbringers" width="200" height="auto" />
 <div class="description">
-h3>Final Fantasy XIV: Shadowbringers</h3>
+<h3>Final Fantasy XIV: Shadowbringers</h3>
 A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
 <a href="/windows-themes/gaming/ffxiv-shadowbringers" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -46,7 +46,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/ffxiv-endwalker.png" alt="FFXIV Endwalker" width="200" height="auto" />
 <div class="description">
-h3>Final Fantasy XIV: Endwalker</h3>
+<h3>Final Fantasy XIV: Endwalker</h3>
 A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
 <a href="/windows-themes/gaming/ffxiv-endwalker" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -55,7 +55,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/ffxiv-heavensward.png" alt="FFXIV Heavensward" width="200" height="auto" />
 <div class="description">
-h3>Final Fantasy XIV: Heavensward</h3>
+<h3>Final Fantasy XIV: Heavensward</h3>
 A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
 <a href="/windows-themes/gaming/ffxiv-heavensward" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -64,7 +64,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/ffxiv-stormblood.png" alt="FFXIV Stormblood" width="200" height="auto" />
 <div class="description">
-h3>Final Fantasy XIV: Stormblood</h3>
+<h3>Final Fantasy XIV: Stormblood</h3>
 A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
 <a href="/windows-themes/gaming/ffxiv-stormblood" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -72,7 +72,8 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/final-fantasy-xiv.png" alt="Final Fantasy XIV" width="200" height="auto" />
-<div class="description">h3>Final Fantasy XIV</h3>
+<div class="description">
+<h3>Final Fantasy XIV</h3>
 A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
 <a href="/windows-themes/gaming/final-fantasy-xiv" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -81,7 +82,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/ffxiv-waifus.png" alt="FFXIV Waifus" width="200" height="auto" />
 <div class="description">
-h3>FFXIV Waifus</h3>
+<h3>FFXIV Waifus</h3>
 A NSFW theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
 <a href="/windows-themes/gaming/ffxiv-waifus" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
@@ -90,7 +91,7 @@ A NSFW theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy 
 <div class="card" style="text-delta">
 <img src="/assets/images/windows-themes/once-human.png" alt="Once Human Theme" width="200" height="auto" />
 <div class="description">
-h3>Once Human</h3>
+<h3>Once Human</h3>
 A theme for Windows 10 and 11 inspired by the popular video game Once Human.<br /><br />
 <a href="/windows-themes/gaming/once-human" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
