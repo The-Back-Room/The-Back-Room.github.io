@@ -17,7 +17,7 @@ permalink: /windows-themes/anime/lewd-gamer-waifus
 
 ---
 
-<img src="/assets/images/windows-themes/lewd-gamer-waifus.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/lewd-gamer-waifus.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
 
 ---
 

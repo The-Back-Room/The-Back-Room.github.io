@@ -15,7 +15,7 @@ permalink: /windows-themes/miscellaneous/macos
 
 ---
 
-<img src="/assets/images/windows-themes/macos.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/macos.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
 
 ---
 

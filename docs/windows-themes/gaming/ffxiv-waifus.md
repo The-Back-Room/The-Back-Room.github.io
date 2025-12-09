@@ -17,7 +17,7 @@ permalink: /windows-themes/gaming/ffxiv-waifus
 
 ---
 
-<img src="/assets/images/windows-themes/ffxiv-waifus.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/ffxiv-waifus.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
 
 ---
 

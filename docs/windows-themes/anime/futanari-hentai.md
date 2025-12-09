@@ -17,7 +17,7 @@ permalink: /windows-themes/anime/futanari-hentai
 
 ---
 
-<img src="/assets/images/windows-themes/futanari-hentai.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/futanari-hentai.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
 
 ---
 

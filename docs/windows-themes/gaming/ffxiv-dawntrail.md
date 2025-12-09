@@ -15,7 +15,7 @@ permalink: /windows-themes/gaming/ffxiv-dawntrail
 
 ---
 
-<img src="/assets/images/windows-themes/ffxiv-dawntrail.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/ffxiv-dawntrail.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
 
 ---
 

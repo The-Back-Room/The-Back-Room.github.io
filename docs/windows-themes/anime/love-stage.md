@@ -17,7 +17,7 @@ permalink: /windows-themes/anime/love-stage
 
 ---
 
-<img src="/assets/images/windows-themes/love-stage.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/windows-themes/love-stage.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
 
 ---
 

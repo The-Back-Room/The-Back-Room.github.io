@@ -2,7 +2,7 @@
 <div align="center">
 <h3>The Back Room</h3>
 <p>Open-Source Software Development and Customization</p>
-<img src="/docs/assets/images/software.png" alt="The Back Room" width="80%" height="auto" />
+<img src="/docs/assets/images/software.png" alt="The Back Room" width="80%" height="auto" style="padding: 2px;" />
 <p>
 <a href="https://the-back-room.info">Website</a> | 
 <a href="https://gitlab.com/the-back-room">GitLab</a> | 
