@@ -28,8 +28,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <img align="right" src="/assets/images/windows-themes/naruto.png" alt="Naruto Theme" width="250" height="auto" />
 
 * **Title**: Naruto
-* **Description**: A theme for Windows 10 and 11 inspired by  
-the popular anime and manga series Naruto.
+* **Description**: A theme for Windows 10 and 11 inspired by the popular anime and manga series Naruto.
 
 [View Page](/windows-themes/anime/naruto){: .btn .btn-primary .btn-sm }
 
@@ -38,8 +37,7 @@ the popular anime and manga series Naruto.
 <img align="right" src="/assets/images/windows-themes/bleach.png" alt="Bleach Theme" width="250" height="auto" />
 
 * **Title**: Bleach
-* **Description**: A theme for Windows 10 and 11 inspired by  
-the popular anime and manga series Bleach.
+* **Description**: A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach.
 
 [View Page](/windows-themes/anime/bleach){: .btn .btn-primary .btn-sm }
 
@@ -48,8 +46,7 @@ the popular anime and manga series Bleach.
 <img align="right" src="/assets/images/windows-themes/bleach-tybw.png" alt="Bleach TYBW Theme" width="250" height="auto" />
 
 * **Title**: Bleach: Thousand-Year Blood War
-* **Description**: A theme for Windows 10 and 11 inspired by  
-the popular anime and manga series Bleach: Thousand-Year Blood War.
+* **Description**: A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach: Thousand-Year Blood War.
 
 [View Page](/windows-themes/anime/bleach-tybw){: .btn .btn-primary .btn-sm }
 
@@ -58,8 +55,7 @@ the popular anime and manga series Bleach: Thousand-Year Blood War.
 <img align="right" src="/assets/images/windows-themes/love-stage.png" alt="Love Stage!! Theme" width="250" height="auto" />
 
 * **Title**: Love Stage!!
-* **Description**: A theme for Windows 10 and 11 inspired by  
-the popular yaoi anime and manga series Love Stage!!.
+* **Description**: A theme for Windows 10 and 11 inspired by the popular yaoi anime and manga series Love Stage!!.
 
 [View Page](/windows-themes/anime/love-stage){: .btn .btn-primary .btn-sm }
 
@@ -95,8 +91,7 @@ the popular yaoi anime and manga series Love Stage!!.
 <img align="right" src="/assets/images/windows-themes/naruto-ninja-hotsprings.png" alt="Naruto Ninja Hotsprings Theme" width="250" height="auto" />
 
 * **Title**: Naruto Ninja Hotsprings
-* **Description**: A NSFW theme for Windows 10 and 11 inspired by  
-the popular anime and manga series Naruto, featuring ninja characters in a hot springs setting.
+* **Description**: A NSFW theme for Windows 10 and 11 inspired by the popular anime and manga series Naruto, featuring ninja characters in a hot springs setting.
 
 [View Page](/windows-themes/anime/naruto-ninja-hotsprings){: .btn .btn-primary .btn-sm }
 
@@ -105,8 +100,7 @@ the popular anime and manga series Naruto, featuring ninja characters in a hot s
 <img align="right" src="/assets/images/windows-themes/naruto-hentai.png" alt="Naruto Hentai Theme" width="250" height="auto" />
 
 * **Title**: Naruto Hentai
-* **Description**: A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork  
-inspired by the popular anime and manga series  Naruto.
+* **Description**: A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork inspired by the popular anime and manga series  Naruto.
 
 [View Page](/windows-themes/anime/naruto-hentai){: .btn .btn-primary .btn-sm }
 
@@ -115,8 +109,7 @@ inspired by the popular anime and manga series  Naruto.
 <img align="right" src="/assets/images/windows-themes/bleach-hentai.png" alt="Bleach Hentai Theme" width="250" height="auto" />
 
 * **Title**: Bleach Hentai
-* **Description**: A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork  
-inspired by the popular anime and manga series Bleach.
+* **Description**: A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork inspired by the popular anime and manga series Bleach.
 
 [View Page](/windows-themes/anime/bleach-hentai){: .btn .btn-primary .btn-sm }
 
