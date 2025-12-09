@@ -5,6 +5,7 @@ social_image: /assets/images/comics.png
 summary: >
   Manga and Comics containing adult content
 has_toc: false
+parent: Comics
 permalink: /comics/doujins
 ---
 
