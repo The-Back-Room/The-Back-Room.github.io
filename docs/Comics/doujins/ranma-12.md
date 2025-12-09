@@ -26,7 +26,7 @@ The comics listed here are based off of the popular Ranma 1/2 series created by 
 
 ---
 
-<img align="right" src="/assets/images/doujins/ranma-12-summer-heat.png" alt="Ranma 1/2 Summer Heat" width="300" height="auto" />
+<img align="right" src="/assets/images/doujins/ranma-12-summer-heat.png" alt="Ranma 1/2 Summer Heat" width="300" height="auto" style="padding: 2px;" />
 
 * **Title**: Ranma 1/2 Summer Heat
 * **Description**: A fan-made doujinshi inspired by  
