@@ -31,25 +31,8 @@
   background-color: $sidebar-color;
 }
 
-.preview {
-    border: 1px solid $border-color;
-    max-width: 250px;
-    max-height: fit-content;
-    border-radius: 4px;
-    box-shadow: 0 2px 4px darken($sidebar-color, 5%);
-    img {
-      display: block;
-      max-height: fit-content;
-      height: auto;
-      width: 100%;
-    }
-}
-
 .description {
   margin-top: 10px;
   font-size: 14px;
   text-align: left;
-  text {
-    justify-content: left;
-  }
 }
