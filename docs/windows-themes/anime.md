@@ -28,7 +28,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="card">
 <img align="right" src="/assets/images/windows-themes/naruto.png" alt="Naruto Theme" width="auto" height="100" />
 <div align="left" class="description">
-<b>Title</b>: Naruto
+<b>Title</b>: Naruto<br />
 <b>Description</b>: A theme for Windows 10 and 11 inspired by the popular anime and manga series Naruto.<br /><br />
 <a href="/windows-themes/anime/naruto" class="btn btn-primary btn-sm">View Page</a>
 </div>
