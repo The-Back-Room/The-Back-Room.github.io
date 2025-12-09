@@ -26,7 +26,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="card text-delta">
 <img src="/assets/images/windows-themes/courage-tcd.png" alt="Courage the Cowardly Dog Theme" width="200" height="auto" />
 <div class="description">
-<h4>Courage the Cowardly Dog</h4>A theme for Windows 10 and 11 inspired by the popular animated series Courage the Cowardly Dog.<br /><br />
+<h3>Courage the Cowardly Dog</h3>A theme for Windows 10 and 11 inspired by the popular animated series Courage the Cowardly Dog.<br /><br />
 <a href="/windows-themes/cartoon/courage-tcd" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>

@@ -12,7 +12,7 @@ permalink: /software/context-menu/utilities-menu
 
 ---
 
-<h2 style="text-align: center;">Features</h4>
+<h2 style="text-align: center;">Features</h3>
 
 - **Kill Not Responding Tasks**: Finds and kills all non-responding tasks
 - **Kill Task Manager**: Forcibly closes the Task Manager process to resolve issues
@@ -24,7 +24,7 @@ permalink: /software/context-menu/utilities-menu
 
 ---
 
-<h2 style="text-align: center;">Installation Instructions</h4>
+<h2 style="text-align: center;">Installation Instructions</h3>
 
 1. Download the ZIP file from the link below.
 2. Extract the contents of the ZIP file to a folder of your choice.
