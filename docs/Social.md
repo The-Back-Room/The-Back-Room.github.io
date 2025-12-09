@@ -47,7 +47,7 @@ Explore our projects, contribute to development, and collaborate with other comm
 <img src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" width="100px" height="auto" />
 <div class="description">
 <h3>r/NSFW_Hentai_AI</h3>
-A NSFW subreddit dedicated to sharing and discussing AI-generated hentai artwork.<br /><br />
+NSFW subreddit dedicated to sharing and discussing AI-generated hentai artwork.<br /><br />
 <a href="https://www.reddit.com/r/NSFW_Hentai_AI/" class="btn btn-secondary btn-sm">NSFW Hentai AI</a>
 </div>
 </div>
@@ -56,7 +56,7 @@ A NSFW subreddit dedicated to sharing and discussing AI-generated hentai artwork
 <img src="https://styles.redditmedia.com/t5_dn30ob/styles/communityIcon_c9vt4n7ad44f1.png" alt="r/Ranma_Hentai" width="100px" height="auto" />
 <div class="description">
 <h3>r/Ranma_Hentai</h3>
-A NSFW subreddit for fans of Ranma ½ hentai content.<br /><br />
+NSFW subreddit for fans of Ranma ½ hentai content.<br /><br />
 <a href="https://www.reddit.com/r/Ranma_Hentai/" class="btn btn-secondary btn-sm">Ranma Hentai</a>
 </div>
 </div>
