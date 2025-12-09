@@ -4,6 +4,7 @@ tags: [NSFW, Comics, Doujinshi, Ranma 1/2]
 social_image: /assets/images/ranma-12.png
 summary: >
     A collection of NSFW doujinshi based on the Ranma 1/2 series.
+has_toc: false
 parent: Doujins
 grand_parent: Comics
 permalink: /comics/doujins/ranma-12
@@ -23,3 +24,12 @@ permalink: /comics/doujins/ranma-12
 ---
 
 The comics listed here are based off of the popular Ranma 1/2 series created by Rumiko Takahashi. These doujinshi explore various adult themes and fetishes, and are created by independent artists and writers. Enjoy responsibly!
+
+---
+
+<img align="right" src="/assets/images/doujins/ranma-12-summer-heat.png" alt="Ranma 1/2 Summer Heat" width="300" height="auto" />
+
+* **Title**: Ranma 1/2 Summer Heat
+* **Description**: A fan-made doujinshi based on the Ranma 1/2 series.
+
+[View Page](/comics/doujins/ranma-12/summer-heat){: .btn .btn-primary .btn-sm }
