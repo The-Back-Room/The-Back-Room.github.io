@@ -15,7 +15,7 @@ permalink: /windows-themes/horror/a-nightmare-on-elm-street
 
 ---
 
-<img src="/assets/images/windows-themes/a-nightmare-on-elm-street.png" alt="Preview" width="100%" height="auto" />
+<img align="right"  src="/assets/images/windows-themes/a-nightmare-on-elm-street.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

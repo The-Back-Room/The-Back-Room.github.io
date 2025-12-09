@@ -29,28 +29,21 @@
   padding: 10px;
   margin-bottom: 20px;
   background-color: $sidebar-color;
-  display: flex;
-  flex-wrap: wrap;
 
   .preview {
-    flex: 0 0 auto;
-    width: 200px;
-    height: auto;
+    border: 1px solid $border-color;
+    max-width: 250px;
+    border-radius: 4px;
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      border-radius: 4px;
+    }
   }
-
-  .description {
-    flex: 1;
-    padding-left: 10px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-  }
-
-  img {
-    justify-content: right;
-  }
-
+  
   text {
-    justify-content: left;
+    font-size: 14px;
+    text-align: left;
   }
 }

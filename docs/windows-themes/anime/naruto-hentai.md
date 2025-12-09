@@ -17,7 +17,7 @@ permalink: /windows-themes/anime/naruto-hentai
 
 ---
 
-<img src="/assets/images/windows-themes/naruto-hentai.png" alt="Preview" width="100%" height="auto" />
+<img align="right"  src="/assets/images/windows-themes/naruto-hentai.png" alt="Preview" width="100%" height="auto" />
 
 ---
 
