@@ -16,7 +16,7 @@ permalink: /windows-themes
 
 ---
 
-<img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 

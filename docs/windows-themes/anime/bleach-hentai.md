@@ -17,7 +17,7 @@ permalink: /windows-themes/anime/bleach-hentai
 
 ---
 
-<img src="/assets/images/windows-themes/bleach-hentai.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/windows-themes/bleach-hentai.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

@@ -15,7 +15,7 @@ permalink: /software
 
 ---
 
-<img src="/assets/images/software.png" alt="Software" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/software.png" alt="Software" width="100%" height="auto" />
 
 ---
 

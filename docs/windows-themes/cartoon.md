@@ -15,7 +15,7 @@ permalink: /windows-themes/Cartoon
 
 ---
 
-<img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 
@@ -23,7 +23,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 ---
 
-<img align="right" src="/assets/images/windows-themes/courage-tcd.png" alt="Courage the Cowardly Dog Theme" width="250" height="auto" style="padding: 2px;" />
+<img align="right" src="/assets/images/windows-themes/courage-tcd.png" alt="Courage the Cowardly Dog Theme" width="250" height="auto" />
 
 * **Title**: Courage the Cowardly Dog
 * **Description**: A theme for Windows 10 and 11 inspired by  

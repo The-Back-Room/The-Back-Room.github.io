@@ -15,7 +15,7 @@ permalink: /windows-themes/anime/bleach
 
 ---
 
-<img src="/assets/images/windows-themes/bleach.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/windows-themes/bleach.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

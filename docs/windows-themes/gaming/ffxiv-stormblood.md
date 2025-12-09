@@ -15,7 +15,7 @@ permalink: /windows-themes/gaming/ffxiv-stormblood
 
 ---
 
-<img src="/assets/images/windows-themes/ffxiv-stormblood.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/windows-themes/ffxiv-stormblood.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

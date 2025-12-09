@@ -18,7 +18,7 @@ permalink: /comics/doujins/ranma-12/summer-heat
 
 ---
 
-<img src="/assets/images/doujins/ranma-12-summer-heat.png" alt="Cover Image" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/doujins/ranma-12-summer-heat.png" alt="Cover Image" width="100%" height="auto" />
 
 ---
 
@@ -37,7 +37,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100" height="auto" style="padding: 2px;" />
+<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100" height="auto" />
 
 **Chapter 1**: Ranma Saotome    
 **Summary**: Ranma tries to find relief from the summer heat and has a steamy encounter.  
@@ -45,7 +45,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100" height="auto" style="padding: 2px;" />
+<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100" height="auto" />
 
 **Chapter 2**: Akane Tendo  
 **Summary**: Akane navigates her feelings for Ranma while dealing with the oppressive heat.  
@@ -53,7 +53,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100" height="auto" style="padding: 2px;" />
+<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100" height="auto" />
 
 **Chapter 3**: Nabiki Tendo  
 **Summary**: Nabiki takes advantage of the summer heat and has a passionate encounter with Ryoga.  
@@ -61,7 +61,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100" height="auto" style="padding: 2px;" />
+<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100" height="auto" />
 
 **Chapter 4**: Kasumi Tendo  
 **Summary**: Kasumi enjoys some alone time in the bath while dealing with the summer heat.  
@@ -69,7 +69,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100" height="auto" style="padding: 2px;" />
+<img align="right" src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100" height="auto" />
 
 **Chapter 5**: Ukyo Kuonji  
 **Summary**: Ukyo finds a unique way to cool down during the heatwave.  
@@ -77,7 +77,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-<img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" style="padding: 2px;" />
+<img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 
 **Chapter 6**: Shampoo  
 **Summary**: Not yet available.   
@@ -85,7 +85,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-<img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" style="padding: 2px;" />
+<img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 
 **Chapter 7**: Kodachi Kuno  
 **Summary**: Not yet available.   
@@ -93,7 +93,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-<img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" style="padding: 2px;" />
+<img align="right" src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 
 **Chapter 8**: Nodoka Saotome  
 **Summary**: Not yet available.   

@@ -15,7 +15,7 @@ permalink: /windows-themes/gaming/once-human
 
 ---
 
-<img src="/assets/images/windows-themes/once-human.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/windows-themes/once-human.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

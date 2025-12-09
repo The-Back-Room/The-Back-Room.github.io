@@ -16,7 +16,7 @@ permalink: /comics
 
 ---
 
-<img src="/assets/images/comics.png" alt="Comics" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/comics.png" alt="Comics" width="100%" height="auto" />
 
 ---
 

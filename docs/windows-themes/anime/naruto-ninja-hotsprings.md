@@ -17,7 +17,7 @@ permalink: /windows-themes/anime/naruto-ninja-hotsprings
 
 ---
 
-<img src="/assets/images/windows-themes/naruto-ninja-hotsprings.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/windows-themes/naruto-ninja-hotsprings.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

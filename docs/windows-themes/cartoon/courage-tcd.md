@@ -15,7 +15,7 @@ permalink: /windows-themes/cartoon/courage-tcd
 
 ---
 
-<img src="/assets/images/windows-themes/courage-tcd.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/windows-themes/courage-tcd.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

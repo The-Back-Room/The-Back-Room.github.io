@@ -15,7 +15,7 @@ permalink: /windows-themes/horror/it
 
 ---
 
-<img src="/assets/images/windows-themes/it.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/windows-themes/it.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

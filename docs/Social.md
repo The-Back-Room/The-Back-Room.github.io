@@ -17,7 +17,7 @@ permalink: /social
 
 ---
 
-<img src="/assets/images/social-communities.png" alt="Social Communities" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/social-communities.png" alt="Social Communities" width="100%" height="auto" />
 
 ---
 

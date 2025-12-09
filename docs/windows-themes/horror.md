@@ -17,7 +17,7 @@ permalink: /windows-themes/horror
 
 ---
 
-<img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 
@@ -25,7 +25,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 ---
 
-<img align="right" src="/assets/images/windows-themes/it.png" alt="IT" width="250" height="auto" style="padding: 2px;" />
+<img align="right" src="/assets/images/windows-themes/it.png" alt="IT" width="250" height="auto" />
 
 * **Title**: IT
 * **Description**: A horror theme for Windows 10 and 11 inspired by 
@@ -35,7 +35,7 @@ the popular horror novel and movie franchise IT.
 
 ---
 
-<img align="right" src="/assets/images/windows-themes/a-nightmare-on-elm-street.png" alt="A Nightmare On Elm Street Theme" width="250" height="auto" style="padding: 2px;" />
+<img align="right" src="/assets/images/windows-themes/a-nightmare-on-elm-street.png" alt="A Nightmare On Elm Street Theme" width="250" height="auto" />
 
 * **Title**: A Nightmare On Elm Street
 * **Description**: A horror theme for Windows 10 and 11 inspired by   

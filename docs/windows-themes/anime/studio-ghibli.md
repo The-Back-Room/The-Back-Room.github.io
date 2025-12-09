@@ -15,7 +15,7 @@ permalink: /windows-themes/anime/studio-ghibli
 
 ---
 
-<img src="/assets/images/windows-themes/studio-ghibli.png" alt="Preview" width="100%" height="auto" style="padding: 2px;" />
+<img src="/assets/images/windows-themes/studio-ghibli.png" alt="Preview" width="100%" height="auto" />
 
 ---
 
