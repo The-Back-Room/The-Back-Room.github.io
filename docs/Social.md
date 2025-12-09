@@ -25,7 +25,7 @@ We have several social communities hosted by members of The Back Room community.
 
 ---
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="../assets/images/discord-logo.png" alt="Discord" width="100px" height="auto" />
 <div class="description">
 <b>Community</b>: Discord<br />
@@ -34,7 +34,7 @@ We have several social communities hosted by members of The Back Room community.
 </div>
 </div>
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="../assets/images/gitlab-logo.png" alt="GitLab" width="100px" height="auto" />
 <div class="description">
 <b>Community</b>: GitLab<br />
@@ -43,7 +43,7 @@ We have several social communities hosted by members of The Back Room community.
 </div>
 </div>
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" width="100px" height="auto" />
 <div class="description">
 <b>Community</b>: r/NSFW_Hentai_AI<br />
@@ -52,7 +52,7 @@ We have several social communities hosted by members of The Back Room community.
 </div>
 </div>
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="https://styles.redditmedia.com/t5_dn30ob/styles/communityIcon_c9vt4n7ad44f1.png" alt="r/Ranma_Hentai" width="100px" height="auto" />
 <div class="description">
 <b>Community</b>: r/Ranma_Hentai<br />

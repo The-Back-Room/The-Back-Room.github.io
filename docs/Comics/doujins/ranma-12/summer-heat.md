@@ -41,7 +41,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100px" height="auto" />
 <div class="description">
 <h3>Chapter 1: Ranma Saotome</h3>
@@ -50,7 +50,7 @@ Ranma tries to find relief from the summer heat and has a steamy encounter.<br /
 </div>
 </div>
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100px" height="auto" />
 <div class="description">
 <h3>Chapter 2: Akane Tendo</h3>
@@ -59,7 +59,7 @@ Ranma tries to find relief from the summer heat and has a steamy encounter.<br /
 </div>
 </div>
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100px" height="auto" />
 <div class="description">
 <h3>Chapter 3: Nabiki Tendo</h3>
@@ -68,7 +68,7 @@ Ranma tries to find relief from the summer heat and has a steamy encounter.<br /
 </div>
 </div>
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100px" height="auto" />
 <div class="description">
 <h3>Chapter 4: Kasumi Tendo</h3>
@@ -77,7 +77,7 @@ Ranma tries to find relief from the summer heat and has a steamy encounter.<br /
 </div>
 </div>
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100px" height="auto" />
 <div class="description">
 <h3>Chapter 5: Ukyo Kuonji</h3>
@@ -86,7 +86,7 @@ Ranma tries to find relief from the summer heat and has a steamy encounter.<br /
 </div>
 </div>
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100px" height="auto" />
 <div class="description">
 <h3>Chapter 6: Shampoo</h3>
@@ -95,7 +95,7 @@ Ranma tries to find relief from the summer heat and has a steamy encounter.<br /
 </div>
 </div>
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100px" height="auto" />
 <div class="description">
 <h3>Chapter 7: Kodachi Kuno</h3>
@@ -104,7 +104,7 @@ Ranma tries to find relief from the summer heat and has a steamy encounter.<br /
 </div>
 </div>
 
-<div class="card" style="text-delta">
+<div class="card text-delta">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100px" height="auto" />
 <div class="description">
 <h3>Chapter 8: Nodoka Saotome</h3>
