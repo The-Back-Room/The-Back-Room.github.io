@@ -37,7 +37,7 @@ permalink: /windows-themes/anime/naruto-hentai
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/-/archive/main/naruto-hentai-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/-/archive/main/naruto-hentai-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

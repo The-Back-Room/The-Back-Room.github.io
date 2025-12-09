@@ -35,7 +35,7 @@ permalink: /windows-themes/horror/a-nightmare-on-elm-street
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/archive/main/a-nightmare-on-elm-street-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/archive/main/a-nightmare-on-elm-street-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

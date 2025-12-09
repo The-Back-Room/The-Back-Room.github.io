@@ -35,7 +35,7 @@ permalink: /windows-themes/gaming/once-human
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

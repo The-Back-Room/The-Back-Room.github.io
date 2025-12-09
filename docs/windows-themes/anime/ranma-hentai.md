@@ -37,7 +37,7 @@ permalink: /windows-themes/anime/ranma-hentai
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/archive/main/ranma-hentai-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/archive/main/ranma-hentai-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

@@ -30,7 +30,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description">
 <b>Title</b>: Naruto<br />
 <b>Description</b>: A theme for Windows 10 and 11 inspired by the popular anime and manga series Naruto.<br /><br />
-<a href="/windows-themes/anime/naruto" class="btn btn-primary btn-sm">More Info ...</a>
+<a href="/windows-themes/anime/naruto" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 
@@ -39,7 +39,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description">
 <b>Title</b>: Bleach<br />
 <b>Description</b>: A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach.<br /><br />
-<a href="/windows-themes/anime/bleach" class="btn btn-primary btn-sm">More Info ...</a>
+<a href="/windows-themes/anime/bleach" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 
@@ -48,7 +48,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description">
 <b>Title</b>: Bleach: Thousand-Year Blood War<br />
 <b>Description</b>: A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach: Thousand-Year Blood War.<br /><br />
-<a href="/windows-themes/anime/bleach-tybw" class="btn btn-primary btn-sm">More Info ...</a>
+<a href="/windows-themes/anime/bleach-tybw" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 
@@ -57,7 +57,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description">
 <b>Title</b>: Love Stage!!<br />
 <b>Description</b>: A theme for Windows 10 and 11 inspired by the popular yaoi anime and manga series Love Stage!!.<br /><br />
-<a href="/windows-themes/anime/love-stage" class="btn btn-primary btn-sm">More Info ...</a>
+<a href="/windows-themes/anime/love-stage" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 
@@ -66,7 +66,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description">
 <b>Title</b>: Ecchi<br />
 <b>Description</b>: A theme for Windows 10 and 11 featuring various ecchi anime artwork.<br /><br />
-<a href="/windows-themes/anime/ecchi" class="btn btn-primary btn-sm">More Info ...</a>
+<a href="/windows-themes/anime/ecchi" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 
@@ -75,7 +75,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description">
 <b>Title</b>: Lewd Gamer Waifus<br />
 <b>Description</b>: A NSFW theme for Windows 10 and 11 featuring lewd anime gamer waifu artwork.<br /><br />
-<a href="/windows-themes/anime/lewd-gamer-waifus" class="btn btn-primary btn-sm">More Info ...</a>
+<a href="/windows-themes/anime/lewd-gamer-waifus" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 
@@ -84,7 +84,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description">
 <b>Title</b>: Ranma ½ Hentai<br />
 <b>Description</b>: A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork based on the popular anime and manga series Ranma ½.<br /><br />
-<a href="/windows-themes/anime/ranma-hentai" class="btn btn-primary btn-sm">More Info ...</a>
+<a href="/windows-themes/anime/ranma-hentai" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 
@@ -93,7 +93,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description">
 <b>Title</b>: Naruto Ninja Hotsprings<br />
 <b>Description</b>: A NSFW theme for Windows 10 and 11 inspired by the popular anime and manga series Naruto, featuring ninja characters in a hot springs setting.<br /><br />
-<a href="/windows-themes/anime/naruto-ninja-hotsprings" class="btn btn-primary btn-sm">More Info ...</a>
+<a href="/windows-themes/anime/naruto-ninja-hotsprings" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 
@@ -102,7 +102,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description">
 <b>Title</b>: Naruto Hentai<br />
 <b>Description</b>: A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork inspired by the popular anime and manga series Naruto.<br /><br />
-<a href="/windows-themes/anime/naruto-hentai" class="btn btn-primary btn-sm">More Info ...</a>
+<a href="/windows-themes/anime/naruto-hentai" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 
@@ -111,7 +111,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description">
 <b>Title</b>: Bleach Hentai<br />
 <b>Description</b>: A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork inspired by the popular anime and manga series Bleach.<br /><br />
-<a href="/windows-themes/anime/bleach-hentai" class="btn btn-primary btn-sm">More Info ...</a>
+<a href="/windows-themes/anime/bleach-hentai" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 
@@ -120,7 +120,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description">
 <b>Title</b>: Futanari Hentai<br />
 <b>Description</b>: A NSFW theme for Windows 10 and 11 featuring explicit futanari hentai artwork.<br /><br />
-<a href="/windows-themes/anime/futanari-hentai" class="btn btn-primary btn-sm">More Info ...</a>
+<a href="/windows-themes/anime/futanari-hentai" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 

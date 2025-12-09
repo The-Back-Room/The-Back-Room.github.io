@@ -37,7 +37,7 @@ permalink: /windows-themes/gaming/ffxiv-waifus
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/archive/main/final-fantasy-xiv-waifus-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/archive/main/final-fantasy-xiv-waifus-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

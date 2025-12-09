@@ -35,7 +35,7 @@ permalink: /windows-themes/horror/it
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/archive/main/it-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/archive/main/it-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

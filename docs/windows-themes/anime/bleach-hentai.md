@@ -37,7 +37,7 @@ permalink: /windows-themes/anime/bleach-hentai
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/-/archive/main/bleach-hentai-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/-/archive/main/bleach-hentai-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

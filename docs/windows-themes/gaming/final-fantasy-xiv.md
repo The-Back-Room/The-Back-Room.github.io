@@ -35,7 +35,7 @@ permalink: /windows-themes/gaming/final-fantasy-xiv
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/final-fantasy-xiv/-/archive/main/final-fantasy-xiv-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/final-fantasy-xiv/-/archive/main/final-fantasy-xiv-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

@@ -35,7 +35,7 @@ permalink: /windows-themes/gaming/ffxiv-endwalker
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-endwalker/-/archive/main/ffxiv-endwalker-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-endwalker/-/archive/main/ffxiv-endwalker-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

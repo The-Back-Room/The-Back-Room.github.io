@@ -35,7 +35,7 @@ permalink: /windows-themes/cartoon/courage-tcd
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/archive/main/courage-tcd-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/archive/main/courage-tcd-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

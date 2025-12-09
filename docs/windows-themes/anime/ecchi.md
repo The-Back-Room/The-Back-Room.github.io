@@ -37,7 +37,7 @@ permalink: /windows-themes/anime/ecchi
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/-/archive/main/ecchi-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/-/archive/main/ecchi-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

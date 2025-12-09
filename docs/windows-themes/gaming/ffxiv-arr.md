@@ -35,7 +35,7 @@ permalink: /windows-themes/gaming/ffxiv-arr
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/-/archive/main/ffxiv-arr-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/-/archive/main/ffxiv-arr-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

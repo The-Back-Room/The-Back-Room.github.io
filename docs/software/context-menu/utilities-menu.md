@@ -34,4 +34,4 @@ permalink: /software/context-menu/utilities-menu
 
 ---
 
-[Download](https://github.com/The-Back-Room/Utilities-Menu-for-Windows-11-Desktop-Context-Menu/archive/refs/heads/main.zip){: .btn .btn-primary .btn-md }
+[Download](https://github.com/The-Back-Room/Utilities-Menu-for-Windows-11-Desktop-Context-Menu/archive/refs/heads/main.zip){: .btn .btn-secondary .btn-md }

@@ -37,7 +37,7 @@ permalink: /windows-themes/anime/love-stage
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/archive/main/love-stage-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/archive/main/love-stage-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

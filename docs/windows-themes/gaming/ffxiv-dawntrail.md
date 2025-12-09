@@ -35,7 +35,7 @@ permalink: /windows-themes/gaming/ffxiv-dawntrail
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-dawntrail/-/archive/main/ffxiv-dawntrail-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-dawntrail/-/archive/main/ffxiv-dawntrail-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

@@ -35,7 +35,7 @@ permalink: /windows-themes/gaming/ffxiv-heavensward
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-heavensward/-/archive/main/ffxiv-heavensward-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-heavensward/-/archive/main/ffxiv-heavensward-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

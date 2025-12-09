@@ -37,7 +37,7 @@ permalink: /windows-themes/anime/naruto-ninja-hotsprings
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-ninja-hotsprings/-/archive/main/naruto-ninja-hotsprings-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-ninja-hotsprings/-/archive/main/naruto-ninja-hotsprings-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

@@ -34,7 +34,7 @@ permalink: /windows-themes/miscellaneous/macos-abstract
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos-abstract-themes/-/archive/main/macos-abstract-themes-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos-abstract-themes/-/archive/main/macos-abstract-themes-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

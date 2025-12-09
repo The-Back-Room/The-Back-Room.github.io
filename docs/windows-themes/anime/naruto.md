@@ -35,7 +35,7 @@ permalink: /windows-themes/anime/naruto
 
 ---
 
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/archive/main/naruto-main.zip){: .btn .btn-primary .btn-md }
+[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/archive/main/naruto-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 
