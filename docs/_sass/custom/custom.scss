@@ -28,9 +28,15 @@
   border-radius: 4px;
   padding: 10px;
   margin-bottom: 20px;
-  background-color: $sidebar-color
-}
+  background-color: $sidebar-color;
 
-.description {
-  padding: 10px;
+  .description {
+    padding: 10px;
+  }
+
+  img {
+    padding: 5px;
+    border: 1px solid $border-color;
+    border-radius: 4px;
+  }
 }
