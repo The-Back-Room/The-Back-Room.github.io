@@ -22,7 +22,7 @@ permalink: /software
 We offer a variety of open-source software projects built and maintained by members of The Back Room community. These projects are designed to enhance your digital experience through customization, optimization, and added functionality.
 
 Our software offerings include:
-- **System Utilities**: Tools to optimize and customize your operating system for better performance and user experience.
-- **Customization Tools**: Applications that allow you to personalize your user interface, themes, and overall look and feel.
-- **Productivity Enhancements**: Software designed to improve your workflow and efficiency.
+- **System Utilities</b>: Tools to optimize and customize your operating system for better performance and user experience.
+- **Customization Tools</b>: Applications that allow you to personalize your user interface, themes, and overall look and feel.
+- **Productivity Enhancements</b>: Software designed to improve your workflow and efficiency.
 All our software projects are open-source and available for contribution. We encourage developers and enthusiasts to get involved by contributing code, reporting issues, or suggesting new features.
