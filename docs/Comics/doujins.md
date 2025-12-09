@@ -28,7 +28,7 @@ The comics listed here may parody popular series or feature original content. Pl
 
 ---
 
-<img align="right" src="/assets/images/ranma-12.png" alt="Ranma 1/2 Doujinshi Collection" width="250" height="auto" />
+<img align="right" src="/assets/images/ranma-12.png" alt="Ranma 1/2 Doujinshi Collection" width="200"height="auto" />
 
 <div align="left" class="card">
 
