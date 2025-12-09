@@ -22,10 +22,10 @@ We focus on creating and curating tools that allow users to customize their oper
 
 We offer a variety of projects that cater to different needs and preferences:
 
-- **Windows Themes</b>: Explore our collection of Windows themes. Each theme is designed to provide a unique aesthetic while maintaining usability.
-- **Software Tweaks</b>: Discover tweaks and modifications that enhance the functionality of popular software applications.
-- **System Utilities</b>: Utilize our system utilities to optimize and customize your operating system for better performance and user experience.
-- **Comics and Doujins</b>: Enjoy our curated selection of comics and doujins, including parodies and original works.
+- **Windows Themes**: Explore our collection of Windows themes. Each theme is designed to provide a unique aesthetic while maintaining usability.
+- **Software Tweaks**: Discover tweaks and modifications that enhance the functionality of popular software applications.
+- **System Utilities**: Utilize our system utilities to optimize and customize your operating system for better performance and user experience.
+- **Comics and Doujins**: Enjoy our curated selection of comics and doujins, including parodies and original works.
 
 ---
 
