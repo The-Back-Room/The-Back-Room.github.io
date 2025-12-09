@@ -28,7 +28,7 @@ We have several social communities hosted by members of The Back Room community.
 <div class="card text-delta">
 <img src="../assets/images/discord-logo.png" alt="Discord" width="100px" height="auto" />
 <div class="description">
-<h3>Discord</h3>
+<h4>Discord</h4>
 Hang out, chat with friends, share projects, and get support related to any of our projects.<br /><br />
 <a href="https://dsc.gg/the-back-room" class="btn btn-secondary btn-sm">Discord</a>
 </div>
@@ -37,7 +37,7 @@ Hang out, chat with friends, share projects, and get support related to any of o
 <div class="card text-delta">
 <img src="../assets/images/gitlab-logo.png" alt="GitLab" width="100px" height="auto" />
 <div class="description">
-<h3>GitLab</h3>
+<h4>GitLab</h4>
 Explore our projects, contribute to development, and collaborate with other community members.<br /><br />
 <a href="https://gitlab.com/the-back-room" class="btn btn-secondary btn-sm">GitLab</a>
 </div>
@@ -46,7 +46,7 @@ Explore our projects, contribute to development, and collaborate with other comm
 <div class="card text-delta">
 <img src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" width="100px" height="auto" />
 <div class="description">
-<h3>r/NSFW_Hentai_AI</h3>
+<h4>r/NSFW_Hentai_AI</h4>
 NSFW subreddit dedicated to sharing and discussing AI-generated hentai artwork.<br /><br />
 <a href="https://www.reddit.com/r/NSFW_Hentai_AI/" class="btn btn-secondary btn-sm">NSFW Hentai AI</a>
 </div>
@@ -55,7 +55,7 @@ NSFW subreddit dedicated to sharing and discussing AI-generated hentai artwork.<
 <div class="card text-delta">
 <img src="https://styles.redditmedia.com/t5_dn30ob/styles/communityIcon_c9vt4n7ad44f1.png" alt="r/Ranma_Hentai" width="100px" height="auto" />
 <div class="description">
-<h3>r/Ranma_Hentai</h3>
+<h4>r/Ranma_Hentai</h4>
 NSFW subreddit for fans of Ranma ½ hentai content.<br /><br />
 <a href="https://www.reddit.com/r/Ranma_Hentai/" class="btn btn-secondary btn-sm">Ranma Hentai</a>
 </div>
