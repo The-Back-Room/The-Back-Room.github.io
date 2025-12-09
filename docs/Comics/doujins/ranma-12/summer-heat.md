@@ -114,6 +114,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
+<div class="card">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 <div class="description">
 <b>Chapter 8</b>: Nodoka Saotome<br />
