@@ -26,38 +26,50 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <img align="right" src="/assets/images/windows-themes/naruto.png" alt="Naruto Theme" width="250" height="auto" />
+<div align="left" class="card">
 
 <b>Title</b>: Naruto
 <b>Description</b>: A theme for Windows 10 and 11 inspired by the popular anime and manga series Naruto.
 
 [View Page](/windows-themes/anime/naruto){: .btn .btn-primary .btn-sm }
 
+</div>
+
 ---
 
 <img align="right" src="/assets/images/windows-themes/bleach.png" alt="Bleach Theme" width="250" height="auto" />
+<div align="left" class="card">
 
 <b>Title</b>: Bleach<br />
 <b>Description</b>: A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach.
 
 [View Page](/windows-themes/anime/bleach){: .btn .btn-primary .btn-sm }
 
+</div>
+
 ---
 
 <img align="right" src="/assets/images/windows-themes/bleach-tybw.png" alt="Bleach TYBW Theme" width="250" height="auto" />
+<div align="left" class="card">
 
 <b>Title</b>: Bleach: Thousand-Year Blood War<br />
 <b>Description</b>: A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach: Thousand-Year Blood War.
 
 [View Page](/windows-themes/anime/bleach-tybw){: .btn .btn-primary .btn-sm }
 
+</div>
+
 ---
 
 <img align="right" src="/assets/images/windows-themes/love-stage.png" alt="Love Stage!! Theme" width="250" height="auto" />
+<div align="left" class="card">
 
 <b>Title</b>: Love Stage!!<br />
 <b>Description</b>: A theme for Windows 10 and 11 inspired by the popular yaoi anime and manga series Love Stage!!.
 
 [View Page](/windows-themes/anime/love-stage){: .btn .btn-primary .btn-sm }
+
+</div>
 
 ---
 
