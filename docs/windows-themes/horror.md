@@ -26,9 +26,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div align="right" class="preview">
-<img src="/assets/images/windows-themes/it.png" alt="IT" width="200" height="auto" />
-</div>
+<img align="right" src="/assets/images/windows-themes/it.png" alt="IT" width="250" height="100" />
 <div align="left" class="description">
 <b>Title</b>: IT<br />
 <b>Description</b>: A horror theme for Windows 10 and 11 inspired by the popular horror novel and movie franchise IT.<br /><br />
@@ -39,9 +37,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="card">
-<div align="right" class="preview">
-<img src="/assets/images/windows-themes/a-nightmare-on-elm-street.png" alt="A Nightmare On Elm Street Theme" width="200" height="auto" />
-</div>
+<img align="right" src="/assets/images/windows-themes/a-nightmare-on-elm-street.png" alt="A Nightmare On Elm Street Theme" width="250" height="100" />
 <div align="left" class="description">
 <b>Title</b>: A Nightmare On Elm Street<br />
 <b>Description</b>: A horror theme for Windows 10 and 11 inspired by the popular horror movie franchise A Nightmare On Elm Street.<br /><br />
