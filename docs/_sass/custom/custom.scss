@@ -29,16 +29,28 @@
   padding: 10px;
   margin-bottom: 20px;
   background-color: $sidebar-color;
+  display: flex;
+  flex-wrap: wrap;
 
   .preview {
-    float: right;
-    margin: auto;
+    flex: 0 0 auto;
+    width: 200px;
+    height: auto;
   }
 
   .description {
-    font-size: 14px;
-    line-height: 1.5;
-    float: left;
-    margin: auto;
+    flex: 1;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  img {
+    justify-content: right;
+  }
+
+  text {
+    justify-content: left;
   }
 }
