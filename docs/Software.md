@@ -8,8 +8,8 @@ nav_order: 3.0
 permalink: /software
 ---
 
-{: .important 
-}> {: .opaque }
+{: .important }
+> {: .opaque }
 > {: .info }
 > ℹ️ The software projects featured here are open-source and built by members of The Back Room community. We encourage contributions and collaboration from developers and enthusiasts alike.
 
