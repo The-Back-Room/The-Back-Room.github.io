@@ -30,7 +30,7 @@ The following is a collection of miscellaneous themes for Windows 10 and 11. The
 <div class="description">
 <h3>MacOS Abstract</h3>
 MacOS abstract themes ported to Windows 10 and 11.<br /><br />
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos-abstract/-/archive/main/macos-abstract-main.zip" class="btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/miscellaneous/macos-abstract" class="btn btn-secondary btn-sm">Read More</a>
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos-abstract/-/archive/main/macos-abstract-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/miscellaneous/macos-abstract" class="text-delta btn btn-secondary btn-sm">Read More</a>
 </div>
 </div>
 
@@ -39,6 +39,6 @@ MacOS abstract themes ported to Windows 10 and 11.<br /><br />
 <div class="description">
 <h3>MacOS Themes for Windows</h3>
 MacOS themes ported to Windows 10 and 11.<br /><br />
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/archive/main/macos-main.zip" class="btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/miscellaneous/macos" class="btn btn-secondary btn-sm">Read More</a>
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/archive/main/macos-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/miscellaneous/macos" class="text-delta btn btn-secondary btn-sm">Read More</a>
 </div>
 </div>
