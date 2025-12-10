@@ -37,10 +37,6 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 
 ---
 
-[Download](https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/archive/main/summer-heat-main.zip){: .btn .btn-secondary .btn-md }
-
----
-
 <div class="card">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100px" height="auto" />
 <div class="description body">
