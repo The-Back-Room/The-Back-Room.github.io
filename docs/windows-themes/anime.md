@@ -48,7 +48,7 @@ A theme for Windows 10 and 11 inspired by the popular anime and manga series Ble
 <div class="description">
 <h3>Bleach: Thousand-Year Blood War</h3>
 A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach: Thousand-Year Blood War.<br /><br />
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-tybw/-/archive/main/bleach-tybw-main.zip" class="btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/bleach-tybw" class="btn btn-secondary btn-sm">More Info ...</a>
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/archive/main/bleach-thousand-year-blood-war-main.zip" class="btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/bleach-tybw" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 

@@ -84,7 +84,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 <div class="description">
 <h3>FFXIV Waifus</h3>
 A NSFW theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
-<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ffxiv-waifus/-/archive/main/ffxiv-waifus-main.zip" class="btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-waifus" class="btn btn-secondary btn-sm">More Info ...</a>
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/archive/main/final-fantasy-xiv-waifus-main.zip" class="btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-waifus" class="btn btn-secondary btn-sm">More Info ...</a>
 </div>
 </div>
 
