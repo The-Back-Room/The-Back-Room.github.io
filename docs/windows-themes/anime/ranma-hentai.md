@@ -30,14 +30,10 @@ permalink: /windows-themes/anime/ranma-hentai
 ---
 
 ## Installation
-* Download the ZIP file via the link below.
+* Download the ZIP file.
 * Extract the contents of the ZIP file.
 * Navigate to the `Themes` folder and double-click the `.deskthemepack` file.
 * Apply the theme from `Settings > Personalization > Themes` if it hasn't been applied automatically.
-
----
-
-[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/archive/main/ranma-hentai-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

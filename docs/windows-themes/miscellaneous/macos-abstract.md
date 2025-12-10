@@ -27,14 +27,11 @@ permalink: /windows-themes/miscellaneous/macos-abstract
 ---
 
 ## Installation
-* Download the repo via the link below.
-* Extract the contents of the ZIP file.
-* Navigate to the `Themes` folder and double-click the `.deskthemepack` file.
-* Apply the theme from `Settings > Personalization > Themes` if it hasn't been applied automatically.
+These themes are designed to be accessible by all users on the system they are installed on. Please follow the steps below to install the themes correctly.
 
----
-
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/macos-abstract-themes/-/archive/main/macos-abstract-themes-main.zip){: .btn .btn-secondary .btn-md }
+* **Wallpapers**: Follow the instructions provided in the `1 - Wallpapers` folder to install the macOS abstract wallpapers.
+* **Cursors**: Follow the instructions provided in the `2 - Cursors` folder to install the macOS cursor set.
+* **Themes**: Follow the instructions provided in the `3 - Themes` folder to install the macOS abstract themes.
 
 ---
 

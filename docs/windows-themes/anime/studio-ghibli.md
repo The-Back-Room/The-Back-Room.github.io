@@ -28,14 +28,10 @@ permalink: /windows-themes/anime/studio-ghibli
 ---
 
 ## Installation
-* Download the repo via the link below.
+* Download the ZIP file.
 * Extract the contents of the ZIP file.
 * Navigate to the `Themes` folder and double-click the `.deskthemepack` file.
 * Apply the theme from `Settings > Personalization > Themes` if it hasn't been applied automatically.
-
----
-
-[Download](https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/-/archive/main/studio-ghibli-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 

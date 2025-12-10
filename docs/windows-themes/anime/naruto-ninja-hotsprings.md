@@ -30,14 +30,10 @@ permalink: /windows-themes/anime/naruto-ninja-hotsprings
 ---
 
 ## Installation
-* Download the ZIP file via the link below.
+* Download the ZIP file.
 * Extract the contents of the ZIP file.
 * Navigate to the `Themes` folder and double-click the `.deskthemepack` file.
 * Apply the theme from `Settings > Personalization > Themes` if it hasn't been applied automatically.
-
----
-
-[Download](https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-ninja-hotsprings/-/archive/main/naruto-ninja-hotsprings-main.zip){: .btn .btn-secondary .btn-md }
 
 ---
 
