@@ -25,7 +25,7 @@ We have several social communities hosted by members of The Back Room community.
 
 ---
 
-<div class="card text-delta">
+<div class="card">
 <img src="../assets/images/discord-logo.png" alt="Discord" width="100px" height="auto" />
 <div class="description">
 <h3>Discord</h3>
@@ -34,7 +34,7 @@ Hang out, chat with friends, share projects, and get support related to any of o
 </div>
 </div>
 
-<div class="card text-delta">
+<div class="card">
 <img src="../assets/images/gitlab-logo.png" alt="GitLab" width="100px" height="auto" />
 <div class="description">
 <h3>GitLab</h3>
@@ -43,7 +43,7 @@ Explore our projects, contribute to development, and collaborate with other comm
 </div>
 </div>
 
-<div class="card text-delta">
+<div class="card">
 <img src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" width="100px" height="auto" />
 <div class="description">
 <h3>r/NSFW_Hentai_AI</h3>
@@ -52,7 +52,7 @@ NSFW subreddit dedicated to sharing and discussing AI-generated hentai artwork.<
 </div>
 </div>
 
-<div class="card text-delta">
+<div class="card">
 <img src="https://styles.redditmedia.com/t5_dn30ob/styles/communityIcon_c9vt4n7ad44f1.png" alt="r/Ranma_Hentai" width="100px" height="auto" />
 <div class="description">
 <h3>r/Ranma_Hentai</h3>
