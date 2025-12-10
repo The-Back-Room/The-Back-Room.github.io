@@ -29,9 +29,9 @@ permalink: /windows-themes/miscellaneous/macos-abstract
 ## Installation
 These themes are designed to be accessible by all users on the system they are installed on. Please follow the steps below to install the themes correctly.
 
-* **Wallpapers**: Follow the instructions provided in the `1 - Wallpapers` folder to install the macOS abstract wallpapers.
-* **Cursors**: Follow the instructions provided in the `2 - Cursors` folder to install the macOS cursor set.
-* **Themes**: Follow the instructions provided in the `3 - Themes` folder to install the macOS abstract themes.
+* **Wallpapers**: Navigate to the `1 - Wallpapers` folder and copy the `macOS` folder into `C:\Windows\Web\Wallpaper`.
+* **Cursors**: Navigate to the `2 - Cursors` folder and copy the `Concept` folder into `C:\Windows\Cursors`.
+* **Themes**: Navigate to the `3 - Themes` folder and copy the `.theme` files into `C:\Windows\Resources\Themes`.
 
 ---
 
