@@ -5,6 +5,8 @@ social_image: /assets/images/ranma-12.png
 summary: >
     A collection of doujinshi inspired by the popular anime and manga series Ranma 1/2.
 has_toc: false
+parent: Doujins
+grand_parent: Comics
 permalink: /comics/doujins/ranma-12
 ---
 
