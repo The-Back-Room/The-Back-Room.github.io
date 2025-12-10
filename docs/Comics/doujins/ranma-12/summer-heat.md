@@ -44,7 +44,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.
 <div class="card">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100px" height="auto" />
 <div class="description">
-<h3>Chapter 1: Ranma Saotome</h3>
+<h3 class="text-delta">Chapter 1: Ranma Saotome</h3>
 Ranma tries to find relief from the summer heat and has a steamy encounter.<br /><br />
 <b>Tags</b>: <code>Masturbation</code> <code>Gender Bender</code> <code>Vaginal Sex</code> <code>Kissing</code> <code>Sweating</code> 
 </div>
@@ -53,7 +53,7 @@ Ranma tries to find relief from the summer heat and has a steamy encounter.<br /
 <div class="card">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100px" height="auto" />
 <div class="description">
-<h3>Chapter 2: Akane Tendo</h3>
+<h3 class="text-delta">Chapter 2: Akane Tendo</h3>
 Akane navigates her feelings for Ranma while dealing with the oppressive heat.<br /><br />
 <b>Tags</b>: <code>Masturbation</code> <code>Dildo</code> <code>Vaginal Sex</code> <code>Kissing</code> <code>Sweating</code> <code>Creampie</code> 
 </div>
@@ -62,7 +62,7 @@ Akane navigates her feelings for Ranma while dealing with the oppressive heat.<b
 <div class="card">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100px" height="auto" />
 <div class="description">
-<h3>Chapter 3: Nabiki Tendo</h3>
+<h3 class="text-delta">Chapter 3: Nabiki Tendo</h3>
 Nabiki takes advantage of the summer heat and has a passionate encounter with Ryoga.<br /><br />
 <b>Tags</b>: <code>Masturbation</code> <code>Vaginal Sex</code> <code>Sweating</code> <code>Creampie</code> <code>Kissing</code>
 </div>
@@ -71,7 +71,7 @@ Nabiki takes advantage of the summer heat and has a passionate encounter with Ry
 <div class="card">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100px" height="auto" />
 <div class="description">
-<h3>Chapter 4: Kasumi Tendo</h3>
+<h3 class="text-delta">Chapter 4: Kasumi Tendo</h3>
 Kasumi enjoys some alone time in the bath while dealing with the summer heat.<br /><br />
 <b>Tags</b>: <code>Masturbation</code> <code>Solo</code> <code>Sweating</code> <code>Full-Package Futanari</code> <code>Milf</code> <code>Large Breasts</code> <code>Large Penis</code> 
 </div>
@@ -80,7 +80,7 @@ Kasumi enjoys some alone time in the bath while dealing with the summer heat.<br
 <div class="card">
 <img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100px" height="auto" />
 <div class="description">
-<h3>Chapter 5: Ukyo Kuonji</h3>
+<h3 class="text-delta">Chapter 5: Ukyo Kuonji</h3>
 Ukyo finds a unique way to cool down during the heatwave.<br /><br />
 <b>Tags</b>: <code>Masturbation</code> <code>Solo</code> <code>Sweating</code> <code>Squirting</code> 
 </div>
@@ -89,7 +89,7 @@ Ukyo finds a unique way to cool down during the heatwave.<br /><br />
 <div class="card">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100px" height="auto" />
 <div class="description">
-<h3>Chapter 6: Shampoo</h3>
+<h3 class="text-delta">Chapter 6: Shampoo</h3>
 Not yet available.<br /><br />
 <b>Tags</b>:
 </div>
@@ -98,7 +98,7 @@ Not yet available.<br /><br />
 <div class="card">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100px" height="auto" />
 <div class="description">
-<h3>Chapter 7: Kodachi Kuno</h3>
+<h3 class="text-delta">Chapter 7: Kodachi Kuno</h3>
 Not yet available.<br /><br />
 <b>Tags</b>:
 </div>
@@ -107,7 +107,7 @@ Not yet available.<br /><br />
 <div class="card">
 <img src="/assets/images/WIP.png" alt="Work in Progress" width="100px" height="auto" />
 <div class="description">
-<h3>Chapter 8: Nodoka Saotome</h3>
+<h3 class="text-delta">Chapter 8: Nodoka Saotome</h3>
 Not yet available.<br /><br />
 <b>Tags</b>:
 </div>
