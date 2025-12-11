@@ -5,7 +5,7 @@ summary: >
     Themes for Windows 10 and 11 inspired by popular cult classics from western animation.
 has_toc: false
 parent: Windows Themes
-permalink: /windows-themes/Cartoon
+permalink: /windows-themes/cartoon
 ---
 
 {: .important }
