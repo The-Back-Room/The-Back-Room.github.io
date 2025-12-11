@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous
-social_image: /assets/images/windows-themes.png
+social_image: /assets/images/miscellaneous-themes.png
 summary: >
   Themes for Windows 10 and 11 that don't fit into specific categories.
 has_toc: false
@@ -17,7 +17,7 @@ permalink: /windows-themes/miscellaneous
 
 ---
 
-<img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/miscellaneous-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 
