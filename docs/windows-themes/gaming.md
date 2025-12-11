@@ -17,7 +17,7 @@ permalink: /windows-themes/gaming
 
 ---
 
-<img src="/assets/images/social/facebook-cover-gaming-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/list-items/windows-themes/gaming-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 

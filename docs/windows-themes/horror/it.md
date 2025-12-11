@@ -1,7 +1,7 @@
 ---
 title: IT
 tags: [Windows Themes, Horror, Stephen King, IT]
-social_image: /assets/images/windows-themes/it.png
+social_image: /assets/images/preview-images/windows-themes/it.png
 summary: >
     A theme for Windows 10 and 11 based off of the horror movie IT.
 nav_exclude: true
@@ -15,7 +15,7 @@ permalink: /windows-themes/horror/it
 
 ---
 
-<img src="/assets/images/windows-themes/it.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/preview-images/windows-themes/it.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

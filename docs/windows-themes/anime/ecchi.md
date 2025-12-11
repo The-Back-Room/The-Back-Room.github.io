@@ -1,7 +1,7 @@
 ---
 title: Ecchi
 tags: [Windows Themes, NSFW, Anime]
-social_image: /assets/images/windows-themes/ecchi.png
+social_image: ecchi.png
 summary: >
     A NSFW theme for Windows 10 and 11 inspired by ecchi themed anime and manga.
 nav_exclude: true
@@ -17,7 +17,7 @@ permalink: /windows-themes/anime/ecchi
 
 ---
 
-<img src="/assets/images/windows-themes/ecchi.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/preview-images/windows-themes/ecchi.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

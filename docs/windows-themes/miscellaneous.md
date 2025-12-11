@@ -17,7 +17,7 @@ permalink: /windows-themes/miscellaneous
 
 ---
 
-<img src="/assets/images/social/facebook-cover-miscellaneous-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/list-items/windows-themes/miscellaneous-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 

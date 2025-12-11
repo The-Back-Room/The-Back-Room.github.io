@@ -17,7 +17,7 @@ permalink: /windows-themes/horror
 
 ---
 
-<img src="/assets/images/social/facebook-cover-horror-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/list-items/windows-themes/horror-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 

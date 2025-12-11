@@ -1,7 +1,7 @@
 ---
 title: Studio Ghibli
 tags: [Windows Themes, Anime]
-social_image: /assets/images/windows-themes/studio-ghibli.png
+social_image: studio-ghibli.png
 summary: >
     A theme for Windows 10 and 11 celebrating the magical worlds created by Studio Ghibli.
 nav_exclude: true
@@ -15,7 +15,7 @@ permalink: /windows-themes/anime/studio-ghibli
 
 ---
 
-<img src="/assets/images/windows-themes/studio-ghibli.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/preview-images/windows-themes/studio-ghibli.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

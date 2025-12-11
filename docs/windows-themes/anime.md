@@ -17,7 +17,7 @@ permalink: /windows-themes/anime
 
 ---
 
-<img src="/assets/images/social/facebook-cover-anime-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/list-items/windows-themes/anime-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: FFXIV A Realm Reborn
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
-social_image: /assets/images/windows-themes/ffxiv-arr.png
+social_image: ffxiv-arr.png
 summary: >
     A theme for Windows 10 and 11 based off of the Final Fantasy XIV: A Realm Reborn expansion.
 nav_exclude: true
@@ -15,7 +15,7 @@ permalink: /windows-themes/gaming/ffxiv-arr
 
 ---
 
-<img src="/assets/images/windows-themes/ffxiv-arr.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/preview-images/windows-themes/ffxiv-arr.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

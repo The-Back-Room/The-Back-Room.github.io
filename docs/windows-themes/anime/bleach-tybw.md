@@ -1,7 +1,7 @@
 ---
 title: BLEACH TYBW
 tags: [Windows Themes, Anime]
-social_image: /assets/images/windows-themes/bleach-tybw.png
+social_image: bleach-tybw.png
 summary: >
     A theme for Windows 10 and 11 based off of the BLEACH: Thousand Year Blood War arc
 nav_exclude: true
@@ -15,7 +15,7 @@ permalink: /windows-themes/anime/bleach-tybw
 
 ---
 
-<img src="/assets/images/windows-themes/bleach-tybw.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/preview-images/windows-themes/bleach-tybw.png" alt="Preview" width="100%" height="auto" />
 
 ---
 
