@@ -17,7 +17,7 @@ permalink: /windows-themes/miscellaneous
 
 ---
 
-<img src="/assets/images/list-items/windows-themes/miscellaneous-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/social-images/cover-miscellaneous-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 
@@ -26,7 +26,7 @@ The following is a collection of miscellaneous themes for Windows 10 and 11. The
 ---
 
 <div class="card">
-<img src="/assets/images/social-images/windows-themes/macos-abstract.png" alt="MacOS Abstract Theme" width="200" height="auto" />
+<img src="/assets/images/list-itmes/windows-themes/macos-abstract.png" alt="MacOS Abstract Theme" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">MacOS Abstract</h3>
 MacOS abstract themes ported to Windows 10 and 11.<br /><br />
@@ -35,7 +35,7 @@ MacOS abstract themes ported to Windows 10 and 11.<br /><br />
 </div>
 
 <div class="card">
-<img src="/assets/images/social-images/windows-themes/macos.png" alt="MacOS" width="200" height="auto" />
+<img src="/assets/images/list-itmes/windows-themes/macos.png" alt="MacOS" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">MacOS Themes for Windows</h3>
 MacOS themes ported to Windows 10 and 11.<br /><br />
