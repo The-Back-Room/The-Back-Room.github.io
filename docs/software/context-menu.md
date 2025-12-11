@@ -1,7 +1,7 @@
 ---
 title: Context Menu
 tags: [Software, Context Menu]
-social_image: /assets/images/software.png
+social_image: software.png
 summary: >
   Tools and tweaks to customize the Windows context menu for enhanced usability.
 has_toc: false
