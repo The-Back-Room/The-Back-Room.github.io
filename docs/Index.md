@@ -1,6 +1,6 @@
 ---
 title: Home
-social_image: /assets/images/social-image.png
+social_image: social-image.png
 summary: >
   A hub for open-source projects, custom themes, and software tweaks. Explore our resources to enhance your digital experience.
 has_toc: false
@@ -9,7 +9,7 @@ permalink: /
 ---
 
 <div align="center">
-<img src="/assets/images/social-image.png" alt="The Back Room" width="100%" height="auto" />
+<img src="/assets/images/social/facebook-cover-social-image.png" alt="The Back Room" width="100%" height="auto" />
 </div>
 
 ---

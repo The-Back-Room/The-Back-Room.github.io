@@ -1,6 +1,6 @@
 ---
 title: Windows Themes
-social_image: /assets/images/windows-themes.png
+social_image: windows-themes.png
 summary: >
   A variety of custom Windows Themes to enhance your desktop experience.
 nav_order: 2.0
@@ -16,7 +16,7 @@ permalink: /windows-themes
 
 ---
 
-<img src="/assets/images/windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/social/facebook-cover-windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 

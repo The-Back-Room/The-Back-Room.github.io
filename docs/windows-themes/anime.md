@@ -1,6 +1,6 @@
 ---
 title: Anime
-social_image: /assets/images/anime-themes.png
+social_image: anime-themes.png
 summary: >
     Themes for Windows 10 and 11 inspired by popular anime and manga series.
 has_toc: false
@@ -17,7 +17,7 @@ permalink: /windows-themes/anime
 
 ---
 
-<img src="/assets/images/anime-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/social/facebook-cover-anime-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 

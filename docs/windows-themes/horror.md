@@ -1,6 +1,6 @@
 ---
 title: Horror
-social_image: /assets/images/horror-themes.png
+social_image: horror-themes.png
 summary: >
     Themes for Windows 10 and 11 inspired by popular horror movies and franchises.
 has_toc: false
@@ -17,7 +17,7 @@ permalink: /windows-themes/horror
 
 ---
 
-<img src="/assets/images/horror-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/social/facebook-cover-horror-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 

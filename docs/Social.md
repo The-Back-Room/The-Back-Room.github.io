@@ -1,6 +1,6 @@
 ---
 title: Social
-social_image: /assets/images/social-communities.png
+social_image: social-communities.png
 summary: >
   Social communities hosted by members of The Back Room community.
 nav_order: 8.0
@@ -17,7 +17,7 @@ permalink: /social
 
 ---
 
-<img src="/assets/images/social-communities.png" alt="Social Communities" width="100%" height="auto" />
+<img src="/assets/images/social/facebook-cover-social-communities.png" alt="Social Communities" width="100%" height="auto" />
 
 ---
 

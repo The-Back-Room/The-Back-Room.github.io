@@ -1,6 +1,6 @@
 ﻿---
 title: Comics
-social_image: /assets/images/comics.png
+social_image: comics.png
 summary: >
   Manga, Comics, and Webtoons created by our community.
 nav_order: 5.0
@@ -16,7 +16,7 @@ permalink: /comics
 
 ---
 
-<img src="/assets/images/comics.png" alt="Comics" width="100%" height="auto" />
+<img src="/assets/images/social/facebook-cover-comics.png" alt="Comics" width="100%" height="auto" />
 
 ---
 

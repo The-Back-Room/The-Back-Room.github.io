@@ -1,8 +1,8 @@
 ---
 title: Cartoon
-social_image: /assets/images/cartoon-themes.png
+social_image: cartoon-themes.png
 summary: >
-    A collection of themes for Windows 10 and 11 inspired by popular cult classics from western animation.
+    Themes for Windows 10 and 11 inspired by popular cult classics from western animation.
 has_toc: false
 parent: Windows Themes
 permalink: /windows-themes/Cartoon
@@ -15,7 +15,7 @@ permalink: /windows-themes/Cartoon
 
 ---
 
-<img src="/assets/images/cartoon-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/social/facebook-cover-cartoon-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 
