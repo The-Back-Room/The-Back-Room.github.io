@@ -18,7 +18,7 @@ permalink: /comics/doujins/ranma-12
 
 ---
 
-<img src="/assets/images/social/facebook-cover-ranma-12.png" alt="Ranma 1/2 Doujinshi Collection" width="100%" height="auto" />
+<img src="/assets/images/social-images/cover-ranma-12.png" alt="Ranma 1/2 Doujinshi Collection" width="100%" height="auto" />
 
 ---
 

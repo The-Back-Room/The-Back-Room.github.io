@@ -18,7 +18,7 @@ permalink: /comics/doujins
 
 ---
 
-<img src="/assets/images/social/facebook-cover-comics.png" alt="Comics Image" width="100%" height="auto" />
+<img src="/assets/images/social-images/cover-comics.png" alt="Comics Image" width="100%" height="auto" />
 
 ---
 
@@ -29,7 +29,7 @@ The comics listed here may parody popular series or feature original content. Pl
 ---
 
 <div class="card">
-<img src="/assets/images/social/ranma-12.png" alt="Ranma 1/2 Doujinshi Collection" width="200" height="auto" />
+<img src="/assets/images/list-items/comics/ranma-12.png" alt="Ranma 1/2 Doujinshi Collection" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Ranma 1/2</h3>
 A collection of NSFW doujinshi inspired by the popular anime and manga series Ranma 1/2.<br /><br />

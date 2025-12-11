@@ -9,7 +9,7 @@ permalink: /
 ---
 
 <div align="center">
-<img src="/assets/images/social/facebook-cover-social-image.png" alt="The Back Room" width="100%" height="auto" />
+<img src="/assets/images/social-images/cover-social-image.png" alt="The Back Room" width="100%" height="auto" />
 </div>
 
 ---

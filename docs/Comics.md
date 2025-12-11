@@ -16,7 +16,7 @@ permalink: /comics
 
 ---
 
-<img src="/assets/images/social/facebook-cover-comics.png" alt="Comics" width="100%" height="auto" />
+<img src="/assets/images/social-images/cover-comics.png" alt="Comics" width="100%" height="auto" />
 
 ---
 

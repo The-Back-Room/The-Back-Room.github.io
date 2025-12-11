@@ -16,7 +16,7 @@ permalink: /windows-themes
 
 ---
 
-<img src="/assets/images/social/facebook-cover-windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/social-images/cover-windows-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 

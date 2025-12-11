@@ -15,7 +15,7 @@ permalink: /software
 
 ---
 
-<img src="/assets/images/social/facebook-cover-software.png" alt="Software" width="100%" height="auto" />
+<img src="/assets/images/social-images/cover-software.png" alt="Software" width="100%" height="auto" />
 
 ---
 

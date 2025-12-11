@@ -17,7 +17,7 @@ permalink: /social
 
 ---
 
-<img src="/assets/images/social/facebook-cover-social-communities.png" alt="Social Communities" width="100%" height="auto" />
+<img src="/assets/images/social-images/cover-social-communities.png" alt="Social Communities" width="100%" height="auto" />
 
 ---
 
