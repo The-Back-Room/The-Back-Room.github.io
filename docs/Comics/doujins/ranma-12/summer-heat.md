@@ -18,7 +18,7 @@ permalink: /comics/doujins/ranma-12/summer-heat
 
 ---
 
-<img src="/assets/images/doujins/ranma-12-summer-heat.png" alt="Cover Image" width="100%" height="auto" />
+<img src="/assets/images/list-items/doujins/ranma-12-summer-heat.png" alt="Cover Image" width="100%" height="auto" />
 
 ---
 
