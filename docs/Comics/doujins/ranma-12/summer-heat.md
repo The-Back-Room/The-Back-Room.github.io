@@ -29,7 +29,7 @@ This doujin is designed to be compatible with the local source extension in the 
 
 To read this doujin on Android, simply install a compatible application and copy the contents of the `src` directory into the local source folder on your device.  
 
-To read on PC or Laptop, simply open the doujin in a compatible image viewer.  
+To read on PC or Laptop, simply open the doujin in a compatible image viewer.  The default photo viewer for your PC should work fine.
 
 ---
 
