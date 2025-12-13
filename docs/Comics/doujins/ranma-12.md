@@ -27,7 +27,7 @@ The comics listed here are based off of the popular Ranma 1/2 series created by 
 ---
 
 <div class="card">
-<img src="/assets/images/list-items/doujins/ranma-12-summer-heat.png" alt="Ranma 1/2 Summer Heat" width="100px" height="auto" />
+<img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/images/preview-images/doujins/Ranma%201-2%20Summer%20Heat%20Cover.gif?raw=true" alt="Ranma 1/2 Summer Heat" width="100px" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Ranma 1/2 Summer Heat</h3>
 A fan-made doujinshi inspired by the popular anime and manga series Ranma 1/2.<br /><br />

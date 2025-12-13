@@ -18,7 +18,7 @@ permalink: /comics/doujins/ranma-12/summer-heat
 
 ---
 
-<img align="center" src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/images/preview-images/doujins/Ranma%201-2%20Summer%20Heat%20Cover.gif?raw=true" width="100%" height="auto">
+<img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/images/preview-images/doujins/Ranma%201-2%20Summer%20Heat%20Cover.gif?raw=true" width="100%" height="auto">
 
 ---
 
