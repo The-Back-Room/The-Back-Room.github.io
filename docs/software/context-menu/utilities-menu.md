@@ -12,8 +12,9 @@ permalink: /software/context-menu/utilities-menu
 
 ---
 
-<h2 style="text-align: center;">Features</h3>
+<h3 style="text-align: center;">Features</h3>
 
+- **Cleanup Memory**: Free up memory with by clearing the Working Sets, Standby List, and Modified Page List with the RAMMap Memory Cleanup Script.
 - **Kill Not Responding Tasks**: Finds and kills all non-responding tasks
 - **Kill Task Manager**: Forcibly closes the Task Manager process to resolve issues
 - **MKLINK Assistant**: Assists in creating symbolic/hard links, and directory junctions using the MKLINK command
@@ -24,7 +25,7 @@ permalink: /software/context-menu/utilities-menu
 
 ---
 
-<h2 style="text-align: center;">Installation Instructions</h3>
+<h3 style="text-align: center;">Installation Instructions</h3>
 
 1. Download the ZIP file.
 2. Extract the contents of the ZIP file to a folder of your choice.
