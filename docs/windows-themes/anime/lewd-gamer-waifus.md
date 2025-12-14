@@ -22,10 +22,8 @@ permalink: /windows-themes/anime/lewd-gamer-waifus
 ---
 
 ## Features
-* Multiple Backgrounds
-* Custom Sounds
-* Custom Cursors
-* Supports 4k Resolutions
+* Multiple NSFW Wallpapers
+* **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 
 ---
 

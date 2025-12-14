@@ -22,10 +22,9 @@ permalink: /windows-themes/anime/love-stage
 ---
 
 ## Features
-* Multiple Backgrounds
-* Custom Sounds
-* Custom Cursors
-* Supports 4k Resolutions
+* Multiple Wallpapers
+* **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
+* **Custom Change theme Sound**: Love Stage!! OST
 
 ---
 

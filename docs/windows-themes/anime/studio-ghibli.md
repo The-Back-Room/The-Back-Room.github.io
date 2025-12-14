@@ -21,9 +21,7 @@ permalink: /windows-themes/anime/studio-ghibli
 
 ## Features
 * Multiple Backgrounds
-* Custom Sounds
-* Custom Cursors
-* Supports 4k Resolutions
+* **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 
 ---
 

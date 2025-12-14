@@ -22,10 +22,9 @@ permalink: /windows-themes/anime/naruto-hentai
 ---
 
 ## Features
-* Multiple Backgrounds
-* Custom Sounds
-* Custom Cursors
-* Supports 4k Resolutions
+* Multiple NSFW Wallpapers
+* **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
+* **Custom Change Theme Sound**: Naruto OST 5
 
 ---
 
