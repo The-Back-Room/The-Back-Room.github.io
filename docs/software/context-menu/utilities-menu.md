@@ -14,7 +14,7 @@ permalink: /software/context-menu/utilities-menu
 
 <h3 style="text-align: center;">Features</h3>
 
-- **Cleanup Memory**: Free up memory with by clearing the Working Sets, Standby List, and Modified Page List with the RAMMap Memory Cleanup Script.
+- **Cleanup Memory**: Free up memory by clearing the Working Sets, Standby List, and Modified Page List with the RAMMap Memory Cleanup Script. *(Contains an option to automatically download and install the required SysInternals Suite via WinGet if the user does not already have it installed)*
 - **Kill Not Responding Tasks**: Finds and kills all non-responding tasks
 - **Kill Task Manager**: Forcibly closes the Task Manager process to resolve issues
 - **MKLINK Assistant**: Assists in creating symbolic/hard links, and directory junctions using the MKLINK command
