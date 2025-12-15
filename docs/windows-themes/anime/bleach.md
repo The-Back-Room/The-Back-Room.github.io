@@ -21,7 +21,7 @@ permalink: /windows-themes/anime/bleach
 
 <h3 align="center">Features</h3>
 
-* **Multiple Backgrounds**: Multiple 4k UHD wallpapers
+* **Multiple Wallpapers**: Multiple HD Wallpapers
 * **Custom Change Theme Sound**: Bleach OST 3
 * **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 * **Alternate Wallpapers**: 26 alternate wallpapers for those who want them
