@@ -21,7 +21,7 @@ permalink: /windows-themes/miscellaneous/macos
 
 <h3 align="center">Features</h3>
 
-* Multiple Themes
+* **Multiple Themes**: Multiple themes inspired by or ported from  various macOS versions
 * **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 
 ---
