@@ -21,8 +21,7 @@ permalink: /windows-themes/miscellaneous/macos-abstract
 
 ## Features
 * Multiple Themes
-* Custom Cursors
-* Supports 4k Resolutions
+* **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 
 ---
 

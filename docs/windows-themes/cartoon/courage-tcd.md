@@ -20,18 +20,9 @@ permalink: /windows-themes/cartoon/courage-tcd
 ---
 
 ## Features
-* Multiple Backgrounds
-* Custom Sounds
-* Custom Cursors
-* Supports 4k Resolutions
-
----
-
-## Installation
-* Download the ZIP file.
-* Extract the contents of the ZIP file.
-* Navigate to the `Themes` folder and double-click the `.deskthemepack` file.
-* Apply the theme from `Settings > Personalization > Themes` if it hasn't been applied automatically.
+* Multiple Wallpapers
+* **Custom Sounds**: Custom Courage TCD sound scheme
+* **Custom Cursors**: Custom Courage TCD cursors
 
 ---
 

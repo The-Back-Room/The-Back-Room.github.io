@@ -28,12 +28,4 @@ permalink: /windows-themes/anime/bleach-hentai
 
 ---
 
-## Installation
-* Download the ZIP file.
-* Extract the contents of the ZIP file.
-* Navigate to the `Themes` folder and double-click the `.deskthemepack` file.
-* Apply the theme from `Settings > Personalization > Themes` if it hasn't been applied automatically.
-
----
-
 [Back to Anime Themes](/windows-themes/anime){: .btn .btn-secondary .btn-md }

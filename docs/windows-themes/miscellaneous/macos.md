@@ -21,16 +21,7 @@ permalink: /windows-themes/miscellaneous/macos
 
 ## Features
 * Multiple Themes
-* Custom Cursors
-* Supports 4k Resolutions
-
----
-
-## Installation
-* Download the ZIP file.
-* Extract the contents of the ZIP file.
-* Navigate to the `Themes` folder and double-click the `.deskthemepack` file.
-* Apply the theme from `Settings > Personalization > Themes` if it hasn't been applied automatically.
+* **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 
 ---
 
