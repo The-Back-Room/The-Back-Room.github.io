@@ -26,7 +26,8 @@ permalink: /windows-themes/miscellaneous/macos-abstract
 
 ---
 
-## Installation
+<h3 align="center">Installation</h3>
+
 These themes are designed to be accessible by all users on the system they are installed on. Please follow the steps below to install the themes correctly.
 
 * **Wallpapers**: Navigate to the `1 - Wallpapers` folder and copy the `macOS` folder into `C:\Windows\Web\Wallpaper`.
