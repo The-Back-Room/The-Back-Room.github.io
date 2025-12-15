@@ -35,6 +35,24 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 </div>
 
 <div class="card">
+<img src="/assets/images/list-items/windows-themes/ffxiv-heavensward.png" alt="FFXIV Heavensward" width="200" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Final Fantasy XIV: Heavensward</h3>
+A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-heavensward/-/archive/main/ffxiv-heavensward-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-heavensward" class="text-delta btn btn-secondary btn-sm">Read More</a>
+</div>
+</div>
+
+<div class="card">
+<img src="/assets/images/list-items/windows-themes/ffxiv-stormblood.png" alt="FFXIV Stormblood" width="200" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Final Fantasy XIV: Stormblood</h3>
+A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-stormblood/-/archive/main/ffxiv-stormblood-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-stormblood" class="text-delta btn btn-secondary btn-sm">Read More</a>
+</div>
+</div>
+
+<div class="card">
 <img src="/assets/images/list-items/windows-themes/ffxiv-shadowbringers.png" alt="FFXIV Shadowbringers" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Final Fantasy XIV: Shadowbringers</h3>
@@ -53,20 +71,11 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 </div>
 
 <div class="card">
-<img src="/assets/images/list-items/windows-themes/ffxiv-heavensward.png" alt="FFXIV Heavensward" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/ffxiv-dawntrail.png" alt="FFXIV Endwalker" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Final Fantasy XIV: Heavensward</h3>
+<h3 class="text-gamma">Final Fantasy XIV: Dawntrail</h3>
 A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-heavensward/-/archive/main/ffxiv-heavensward-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-heavensward" class="text-delta btn btn-secondary btn-sm">Read More</a>
-</div>
-</div>
-
-<div class="card">
-<img src="/assets/images/list-items/windows-themes/ffxiv-stormblood.png" alt="FFXIV Stormblood" width="200" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Final Fantasy XIV: Stormblood</h3>
-A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-stormblood/-/archive/main/ffxiv-stormblood-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-stormblood" class="text-delta btn btn-secondary btn-sm">Read More</a>
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-dawntrail/-/archive/main/ffxiv-dawntrail-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-dawntrail" class="text-delta btn btn-secondary btn-sm">Read More</a>
 </div>
 </div>
 
