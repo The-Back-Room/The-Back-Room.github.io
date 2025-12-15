@@ -21,7 +21,8 @@ permalink: /windows-themes/anime/bleach-hentai
 
 ---
 
-## Features
+<h3 align="center">Features</h3>
+
 * Multiple NSFW Wallpapers
 * **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 * **Custom Change Theme Sound**: Bleach OST 10

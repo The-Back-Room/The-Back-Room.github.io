@@ -19,7 +19,8 @@ permalink: /windows-themes/miscellaneous/macos-abstract
 
 ---
 
-## Features
+<h3 align="center">Features</h3>
+
 * Multiple Themes
 * **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 

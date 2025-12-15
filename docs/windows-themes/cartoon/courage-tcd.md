@@ -19,7 +19,8 @@ permalink: /windows-themes/cartoon/courage-tcd
 
 ---
 
-## Features
+<h3 align="center">Features</h3>
+
 * Multiple Wallpapers
 * **Custom Sounds**: Custom Courage TCD sound scheme
 * **Custom Cursors**: Custom Courage TCD cursors

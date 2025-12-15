@@ -19,8 +19,9 @@ permalink: /windows-themes/anime/bleach-tybw
 
 ---
 
-## Features
-* Multiple Backgrounds
+<h3 align="center">Features</h3>
+
+* **Multiple Wallpapers**: Multiple HD Wallpapers
 * **Custom Change Theme Sound**: Bleach TYWB OST 1
 * **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 

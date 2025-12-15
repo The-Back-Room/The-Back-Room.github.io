@@ -19,8 +19,9 @@ permalink: /windows-themes/horror/a-nightmare-on-elm-street
 
 ---
 
-## Features
-* Multiple Backgrounds
+<h3 align="center">Features</h3>
+
+* **Multiple Wallpapers**: Multiple HD Wallpapers
 * **Custom Sounds**: Change theme sounds inspired by the horror franchise A Nightmare on Elm Street
 * **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 

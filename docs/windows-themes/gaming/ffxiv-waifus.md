@@ -21,8 +21,9 @@ permalink: /windows-themes/gaming/ffxiv-waifus
 
 ---
 
-## Features
-* Multiple Backgrounds
+<h3 align="center">Features</h3>
+
+* **Multiple Wallpapers**: Multiple HD Wallpapers
 * **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 
 ---

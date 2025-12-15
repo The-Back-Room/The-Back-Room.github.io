@@ -21,7 +21,8 @@ permalink: /windows-themes/anime/naruto-ninja-hotsprings
 
 ---
 
-## Features
+<h3 align="center">Features</h3>
+
 * Multiple NSFW Wallpapers by [sakimichan](https://deviantart.com/sakimichan)
 * **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 * **Custom Change Theme Sound**: Naruto OST 5
