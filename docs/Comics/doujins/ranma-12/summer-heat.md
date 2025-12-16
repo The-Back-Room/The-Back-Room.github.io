@@ -38,7 +38,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.  T
 ---
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100px" height="auto" />
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 1: Ranma Saotome</h3>
 Ranma tries to find relief from the summer heat and has a steamy encounter.<br /><br />
@@ -47,7 +47,7 @@ Ranma tries to find relief from the summer heat and has a steamy encounter.<br /
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100px" height="auto" />
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 2: Akane Tendo</h3>
 Akane navigates her feelings for Ranma while dealing with the oppressive heat.<br /><br />
@@ -56,7 +56,7 @@ Akane navigates her feelings for Ranma while dealing with the oppressive heat.<b
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100px" height="auto" />
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 3: Nabiki Tendo</h3>
 Nabiki takes advantage of the summer heat and has a passionate encounter with Ryoga.<br /><br />
@@ -65,7 +65,7 @@ Nabiki takes advantage of the summer heat and has a passionate encounter with Ry
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100px" height="auto" />
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 4: Kasumi Tendo</h3>
 Kasumi enjoys some alone time in the bath while dealing with the summer heat.<br /><br />
@@ -74,7 +74,7 @@ Kasumi enjoys some alone time in the bath while dealing with the summer heat.<br
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100px" height="auto" />
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 5: Ukyo Kuonji</h3>
 Ukyo finds a unique way to cool down during the heatwave.<br /><br />
@@ -83,7 +83,7 @@ Ukyo finds a unique way to cool down during the heatwave.<br /><br />
 </div>
 
 <div class="card">
-<img src="/assets/images/WIP.png" alt="Work in Progress" width="100px" height="auto" />
+<img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 6: Shampoo</h3>
 Not yet available.<br /><br />
@@ -92,7 +92,7 @@ Not yet available.<br /><br />
 </div>
 
 <div class="card">
-<img src="/assets/images/WIP.png" alt="Work in Progress" width="100px" height="auto" />
+<img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 7: Kodachi Kuno</h3>
 Not yet available.<br /><br />
@@ -101,7 +101,7 @@ Not yet available.<br /><br />
 </div>
 
 <div class="card">
-<img src="/assets/images/WIP.png" alt="Work in Progress" width="100px" height="auto" />
+<img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 8: Nodoka Saotome</h3>
 Not yet available.<br /><br />
