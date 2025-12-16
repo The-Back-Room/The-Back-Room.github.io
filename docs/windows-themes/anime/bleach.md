@@ -26,9 +26,11 @@ permalink: /windows-themes/anime/bleach
 * **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 * **Alternate Wallpapers**: 26 alternate wallpapers for those who want them
 
+---
+
 <h3 align="center">Alternate Wallpapers</h3>
 
-<div class="gallery">
+<div align="center" class="gallery">
 <div class="gallery-item">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Alternate%20Wallpapers/Byakuya%20Kuchiki.png" width="600" height="400" />
 <div class="description">Byakuya Kuchiki</div>
