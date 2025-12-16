@@ -111,11 +111,11 @@ permalink: /windows-themes/anime/bleach
 </div>
 <div class="gallery-item">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Alternate%20Wallpapers/Tier%20Halibel.png" width="600" height="400" />
-<div class="description"></div>
+<div class="description">Tier Halibel</div>
 </div>
 <div class="gallery-item">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Alternate%20Wallpapers/Toshiro%20Hitsugaya.png" width="600" height="400" />
-<div class="description">Tier Halibel</div>
+<div class="description">Toshiro Hitsugaya</div>
 </div>
 <div class="gallery-item">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Alternate%20Wallpapers/Ulquiorra%20Shifar.png" width="600" height="400" />
