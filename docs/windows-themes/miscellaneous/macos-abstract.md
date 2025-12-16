@@ -26,16 +26,4 @@ permalink: /windows-themes/miscellaneous/macos-abstract
 
 ---
 
-<h3 align="center">Installation</h3>
-
-These themes are designed to be accessible by all users on the system they are installed on. Please follow the steps below to install the themes correctly.
-
-* **Wallpapers**: Navigate to the `1 - Wallpapers` folder and copy the `macOS` folder into `C:\Windows\Web\Wallpaper`.
-* **Cursors**: Navigate to the `2 - Cursors` folder and copy the `Concept` folder into `C:\Windows\Cursors`.
-* **Themes**: Navigate to the `3 - Themes` folder and copy the `.theme` files into `C:\Windows\Resources\Themes`.
-
-**Note**: A SFX installer is planned to be released at a later date to simplify the installation. We have yet to build and upload it for the tme being.
-
----
-
 [Back to Miscellaneous Themes](/windows-themes/miscellaneous){: .btn .btn-secondary .btn-md }
