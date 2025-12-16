@@ -76,8 +76,8 @@ permalink: /windows-themes/anime/bleach
 <div class="description">Mayuri Kurotsuchi</div>
 </div>
 <div class="gallery-item">
-<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Alternate%20Wallpapers/Nelliel%20Tu%20Odenischwnanck.png" width="600" height="400" />
-<div class="description">Nelliel Tu Odenischwnanck</div>
+<img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Alternate%20Wallpapers/Nelliel%20Tu%20Odelschwanck.png" width="600" height="400" />
+<div class="description">Nelliel Tu Odelschwanck</div>
 </div>
 <div class="gallery-item">
 <img src="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/raw/main/Extras/Alternate%20Wallpapers/Nnoitora%20Gu%20Ga.png" width="600" height="400" />
