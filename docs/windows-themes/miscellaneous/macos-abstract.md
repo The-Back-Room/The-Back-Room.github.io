@@ -34,6 +34,8 @@ These themes are designed to be accessible by all users on the system they are i
 * **Cursors**: Navigate to the `2 - Cursors` folder and copy the `Concept` folder into `C:\Windows\Cursors`.
 * **Themes**: Navigate to the `3 - Themes` folder and copy the `.theme` files into `C:\Windows\Resources\Themes`.
 
+**Note**: A SFX installer is planned to be released at a later date to simplify the installation. We have yet to build and upload it for the tme being.
+
 ---
 
 [Back to Miscellaneous Themes](/windows-themes/miscellaneous){: .btn .btn-secondary .btn-md }
