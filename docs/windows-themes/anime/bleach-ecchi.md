@@ -1,7 +1,7 @@
 ---
-title: BLEACH Hentai
+title: BLEACH Ecchi
 tags: [Windows Themes, NSFW, Anime]
-social_image: bleach-hentai.png
+social_image: bleach-ecchi.png
 summary: >
     A NSFW theme for Windows 10 and 11 based off of the popular anime and manga series BLEACH.
 nav_exclude: true
