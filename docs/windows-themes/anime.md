@@ -116,11 +116,11 @@ A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork inspired by
 </div>
 
 <div class="card">
-<img src="/assets/images/list-items/windows-themes/bleach-hentai.png" alt="Bleach Hentai Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/bleach-ecchi.png" alt="Bleach Ecchi Theme" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Bleach Hentai</h3>
-A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork inspired by the popular anime and manga series Bleach.<br /><br />
-<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/-/archive/main/bleach-hentai-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/bleach-hentai" class="text-delta btn btn-secondary btn-sm">Overview</a>
+<h3 class="text-gamma">BLEACH Ecchi</h3>
+A NSFW theme for Windows 10 and 11 featuring lewd depictions of characters from the popular anime and manga series BLEACH.<br /><br />
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-ecchi/-/archive/main/bleach-ecchi-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/bleach-ecchi" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
 
