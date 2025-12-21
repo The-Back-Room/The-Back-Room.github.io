@@ -96,4 +96,4 @@ A theme for Windows 10 and 11 inspired by the popular video game Once Human.<br 
 
 ---
 
-[NSFW Themes](/windows-themes/gaming/nsfw){: .btn .btn-secondary .btn-md }
+[NSFW](/windows-themes/gaming/nsfw){: .btn .btn-secondary .btn-md }
