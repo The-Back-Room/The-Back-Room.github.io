@@ -42,4 +42,4 @@ Explore our projects, contribute to development, and collaborate with other comm
 
 ---
 
-[NSFW](/social/nsfwg){: .btn .btn-secondary .btn-md }
+[NSFW](/social/nsfw){: .btn .btn-secondary .btn-md }
