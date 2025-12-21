@@ -27,7 +27,7 @@ We have several social communities hosted by members of The Back Room community.
 <div class="description body">
 <h3 class="text-gamma">The Back Room</h3>
 Open-Source Development and Customization community.<br ><br />Hang out, chat with friends, and share projects for everyone to enjoy.<br /><br />
-<a href="https://dsc.gg/the-back-room" class="text-delta btn btn-secondary btn-sm">Discord</a> <a href="https://deviantart.com/the-back-room" class="text-delta btn btn-secondary btn-sm">DeviantArt</a> <a href="https://gitlab.com/the-back-room" class="text-delta btn btn-secondary btn-sm">GitLab</a> <a href="https://github.com/the-back-room" class="text-delta btn btn-secondary btn-sm">GitHub</a>
+<a target="_blank" href="https://dsc.gg/the-back-room" class="text-delta btn btn-secondary btn-sm">Discord</a> <a target="_blank" href="https://deviantart.com/the-back-room" class="text-delta btn btn-secondary btn-sm">DeviantArt</a> <a target="_blank" href="https://gitlab.com/the-back-room" class="text-delta btn btn-secondary btn-sm">GitLab</a> <a target="_blank" href="https://github.com/the-back-room" class="text-delta btn btn-secondary btn-sm">GitHub</a>
 </div>
 </div>
 
