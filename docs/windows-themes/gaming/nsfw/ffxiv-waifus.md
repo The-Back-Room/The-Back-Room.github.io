@@ -11,7 +11,7 @@ permalink: /windows-themes/gaming/nsfw/ffxiv-waifus
 {: .important }
 > {: .opaque }
 > {: .warning}
-> ⚠️ **Content Warning:** This theme contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed artwork. Please ensure you are in an appropriate environment before downloading or applying this theme.
+> ⚠️ **Content Warning:** This theme contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed artwork.
 > 
 > ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers, color schemes, and sounds inspired by the popular MMORPG Final Fantasy XIV. All content is sourced from various artists and is intended for personal use only.
 
