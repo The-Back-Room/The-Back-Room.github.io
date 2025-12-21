@@ -27,7 +27,7 @@ We have several social communities hosted by members of The Back Room community.
 <div class="description body">
 <h3 class="text-gamma">Discord</h3>
 Hang out, chat with friends, share projects, and get support related to any of our projects.<br /><br />
-<a href="https://dsc.gg/the-back-room" class="text-delta btn btn-secondary btn-sm">Discord</a>
+<a href="https://dsc.gg/the-back-room" class="text-delta btn btn-secondary btn-sm">Discord</a> <a href="https://gitlab.com/the-back-room" class="text-delta btn btn-secondary btn-sm">GitLab</a>
 </div>
 </div>
 
