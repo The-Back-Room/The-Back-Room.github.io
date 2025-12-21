@@ -29,4 +29,4 @@ permalink: /windows-themes/anime/nsfw/bleach-ecchi
 
 ---
 
-[Back to NSFW Anime Themes](/windows-themes/anime/nsfw){: .btn .btn-secondary .btn-md }
+[Back](/windows-themes/anime/nsfw){: .btn .btn-secondary .btn-md }

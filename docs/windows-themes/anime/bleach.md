@@ -139,4 +139,4 @@ permalink: /windows-themes/anime/bleach
 
 ---
 
-[Back to Anime Themes](/windows-themes/anime){: .btn .btn-secondary .btn-md }
+[Back](/windows-themes/anime){: .btn .btn-secondary .btn-md }

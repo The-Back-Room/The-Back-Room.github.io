@@ -26,4 +26,4 @@ permalink: /windows-themes/miscellaneous/macos
 
 ---
 
-[Back to Miscellaneous Themes](/windows-themes/miscellaneous){: .btn .btn-secondary .btn-md }
+[Back](/windows-themes/miscellaneous){: .btn .btn-secondary .btn-md }

@@ -17,4 +17,4 @@ published: false
 
 ---
 
-[Back to Cartoon Themes](/windows-themes/cartoon){: .btn .btn-secondary .btn-md }
+[Back](/windows-themes/cartoon){: .btn .btn-secondary .btn-md }

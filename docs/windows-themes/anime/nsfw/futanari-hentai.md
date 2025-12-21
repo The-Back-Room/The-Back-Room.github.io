@@ -28,4 +28,4 @@ permalink: /windows-themes/anime/nsfw/futanari-hentai
 
 ---
 
-[Back to NSFW Anime Themes](/windows-themes/anime/nsfw){: .btn .btn-secondary .btn-md }
+[Back](/windows-themes/anime/nsfw){: .btn .btn-secondary .btn-md }

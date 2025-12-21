@@ -27,4 +27,4 @@ A NSFW theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy 
 
 ---
 
-[Back to Gaming Themes](/windows-themes/gaming){: .btn .btn-secondary .btn-md }
+[Back](/windows-themes/gaming){: .btn .btn-secondary .btn-md }

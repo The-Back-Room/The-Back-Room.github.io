@@ -1,6 +1,6 @@
 ---
 title: NSW 
-social_image: anime-themes.png
+social_image: horror-themes.png
 summary: >
     Themes for Windows 10 and 11 featuring NSFW content inspired by popular horror franchises.
 nav_exclude: true
@@ -17,4 +17,4 @@ published: false
 
 ---
 
-[Back to Horror Themes](/windows-themes/horror){: .btn .btn-secondary .btn-md }
+[Back](/windows-themes/horror){: .btn .btn-secondary .btn-md }

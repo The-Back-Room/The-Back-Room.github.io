@@ -27,4 +27,4 @@ permalink: /windows-themes/horror/it
 
 ---
 
-[Back to Horror Themes](/windows-themes/horror){: .btn .btn-secondary .btn-md }
+[Back](/windows-themes/horror){: .btn .btn-secondary .btn-md }

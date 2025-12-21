@@ -26,4 +26,4 @@ permalink: /windows-themes/anime/studio-ghibli
 
 ---
 
-[Back to Anime Themes](/windows-themes/anime){: .btn .btn-secondary .btn-md }
+[Back](/windows-themes/anime){: .btn .btn-secondary .btn-md }

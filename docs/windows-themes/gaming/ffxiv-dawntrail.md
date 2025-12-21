@@ -26,4 +26,4 @@ permalink: /windows-themes/gaming/ffxiv-dawntrail
 
 ---
 
-[Back to Gaming Themes](/windows-themes/gaming){: .btn .btn-secondary .btn-md }
+[Back](/windows-themes/gaming){: .btn .btn-secondary .btn-md }
