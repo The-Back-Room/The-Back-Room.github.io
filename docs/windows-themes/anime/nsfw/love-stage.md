@@ -5,13 +5,13 @@ social_image: love-stage.png
 summary: >
     A theme for Windows 10 and 11 based off of the popular yaoi anime and manga series Love Stage!!.
 nav_exclude: true
-permalink: /windows-themes/anime/love-stage
+permalink: /windows-themes/anime/nsfw/love-stage
 ---
 
 {: .important }
 > {: .opaque }
 > {: .warning}
-> **Content Warning:** This theme contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed artwork. Please ensure you are in an appropriate environment before downloading or applying this theme.
+> ⚠️ **Content Warning:** This theme contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed artwork. Please ensure you are in an appropriate environment before downloading or applying this theme.
 > 
 > ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers, color schemes, and sounds inspired by the popular yaoi anime and manga series Love Stage!!. All content is sourced from various artists and is intended for personal use only.
 
@@ -29,4 +29,4 @@ permalink: /windows-themes/anime/love-stage
 
 ---
 
-[Back to Anime Themes](/windows-themes/anime){: .btn .btn-secondary .btn-md }
+[Back to NSFW Anime Themes](/windows-themes/anime/nsfw){: .btn .btn-secondary .btn-md }

@@ -5,13 +5,13 @@ social_image: ecchi.png
 summary: >
     A NSFW theme for Windows 10 and 11 inspired by ecchi themed anime and manga.
 nav_exclude: true
-permalink: /windows-themes/anime/ecchi
+permalink: /windows-themes/anime/nsfw/ecchi
 ---
 
 {: .important }
 > {: .opaque }
 > {: .warning}
-> **Content Warning:** This theme contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed artwork. Please ensure you are in an appropriate environment before downloading or applying this theme.
+> ⚠️ **Content Warning:** This theme contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed artwork. Please ensure you are in an appropriate environment before downloading or applying this theme.
 > 
 > ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers depicting ecchi themed artwork. It is intended for personal use only.
 
@@ -28,4 +28,4 @@ permalink: /windows-themes/anime/ecchi
 
 ---
 
-[Back to Anime Themes](/windows-themes/anime){: .btn .btn-secondary .btn-md }
+[Back to NSFW Anime Themes](/windows-themes/anime/nsfw){: .btn .btn-secondary .btn-md }
