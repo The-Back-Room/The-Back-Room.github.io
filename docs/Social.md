@@ -23,20 +23,11 @@ We have several social communities hosted by members of The Back Room community.
 ---
 
 <div class="card">
-<img src="../assets/images/discord-logo.png" alt="Discord" width="100" height="auto" />
+<img src="../assets/images/icon.png" alt="The Back Room" width="100" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Discord</h3>
-Hang out, chat with friends, share projects, and get support related to any of our projects.<br /><br />
-<a href="https://dsc.gg/the-back-room" class="text-delta btn btn-secondary btn-sm">Discord</a>
-</div>
-</div>
-
-<div class="card">
-<img src="../assets/images/gitlab-logo.png" alt="GitLab" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">GitLab</h3>
-Explore our projects, contribute to development, and collaborate with other community members.<br /><br />
-<a href="https://gitlab.com/the-back-room" class="text-delta btn btn-secondary btn-sm">GitLab</a>
+<h3 class="text-gamma">The Back Room</h3>
+Open-Source Development and Customization community.<br ><br />Hang out, chat with friends, and share projects for everyone to enjoy.<br /><br />
+<a href="https://dsc.gg/the-back-room" class="text-delta btn btn-secondary btn-sm">Discord</a> <a href="https://deviantart.com/the-back-room" class="text-delta btn btn-secondary btn-sm">DeviantArt</a> <a href="https://gitlab.com/the-back-room" class="text-delta btn btn-secondary btn-sm">GitLab</a> <a href="https://github.com/the-back-room" class="text-delta btn btn-secondary btn-sm">GitHub</a>
 </div>
 </div>
 
