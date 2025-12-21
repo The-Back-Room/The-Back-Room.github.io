@@ -21,7 +21,8 @@ permalink: /windows-themes/anime/studio-ghibli
 
 <h3 align="center">Features</h3>
 
-* **Multiple Wallpapers**: Multiple HD Wallpapers
+* **Multiple Wallpapers**: Multiple HD Wallpapers inspired by the films of Studio Ghibli
+* **Custom Sounds**: Piano based sound scheme featuring a small clip from `Merry-Go-Round of Life` as the change theme sound.
 * **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
 
 ---
