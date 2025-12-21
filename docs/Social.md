@@ -39,3 +39,7 @@ Explore our projects, contribute to development, and collaborate with other comm
 <a href="https://gitlab.com/the-back-room" class="text-delta btn btn-secondary btn-sm">GitLab</a>
 </div>
 </div>
+
+---
+
+[NSFW](/social/nsfwg){: .btn .btn-secondary .btn-md }
