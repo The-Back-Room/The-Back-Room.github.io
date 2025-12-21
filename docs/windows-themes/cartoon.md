@@ -8,7 +8,7 @@ parent: Windows Themes
 permalink: /windows-themes/cartoon
 ---
 
-{: .info }
+{: .important }
 > {: .opaque }
 > ℹ️ These themes are designed for Windows 10 and 11. They include wallpapers, color schemes, and sounds inspired by popular western animated series. All content is intended for personal use only.
 

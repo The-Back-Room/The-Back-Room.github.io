@@ -8,7 +8,7 @@ parent: Windows Themes
 permalink: /windows-themes/anime
 ---
 
-{: .info }
+{: .important }
 > {: .opaque }
 > ℹ️ The themes featured here are created by independent artists and designers. We do not claim any ownership of the characters or imagery depicted in these themes. All rights belong to their respective creators and copyright holders.
 
