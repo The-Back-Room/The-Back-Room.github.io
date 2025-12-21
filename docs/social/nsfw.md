@@ -36,6 +36,7 @@ NSFW subreddit for fans of Ranma ½ hentai content.<br /><br />
 <a href="https://www.reddit.com/r/Ranma_Hentai/" class="text-delta btn btn-secondary btn-sm">Ranma Hentai</a>
 </div>
 </div>
+
 ---
 
 [Back](/social){: .btn .btn-secondary .btn-md }
