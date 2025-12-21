@@ -10,7 +10,6 @@ permalink: /windows-themes/horror/a-nightmare-on-elm-street
 
 {: .important }
 > {: .opaque }
-> {: .info }
 > ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers, color schemes, and sounds inspired by the horror movie A Nightmare On Elm Street. All content is sourced from various artists and is intended for personal use only.
 
 ---

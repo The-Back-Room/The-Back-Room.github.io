@@ -10,7 +10,6 @@ permalink: /windows-themes/miscellaneous/macos
 
 {: .important }
 > {: .opaque }
-> {: .info }
 > ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers ported from various macOS versions. All content is sourced from the original creators and is intended for personal use only.
 
 ---

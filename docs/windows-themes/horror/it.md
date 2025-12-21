@@ -10,7 +10,6 @@ permalink: /windows-themes/horror/it
 
 {: .important }
 > {: .opaque }
-> {: .info }
 > ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers, color schemes, and sounds inspired by the horror movie IT. All content is sourced from various artists and is intended for personal use only.
 
 ---

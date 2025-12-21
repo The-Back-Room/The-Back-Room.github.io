@@ -10,7 +10,6 @@ permalink: /windows-themes/anime/naruto
 
 {: .important }
 > {: .opaque }
-> {: .info }
 > ℹ️ This theme is designed for Windows 10 and 11. It includes wallpapers, color schemes, and sounds inspired by the popular anime and manga series Naruto. All content is sourced from the series and is intended for personal use only.
 
 ---
