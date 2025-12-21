@@ -8,9 +8,8 @@ parent: Windows Themes
 permalink: /windows-themes/cartoon
 ---
 
-{: .important }
+{: .info }
 > {: .opaque }
-> {: .info }
 > ℹ️ These themes are designed for Windows 10 and 11. They include wallpapers, color schemes, and sounds inspired by popular western animated series. All content is intended for personal use only.
 
 ---
@@ -30,4 +29,3 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/archive/main/courage-tcd-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/cartoon/courage-tcd" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
-

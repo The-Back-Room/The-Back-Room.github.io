@@ -8,11 +8,8 @@ parent: Windows Themes
 permalink: /windows-themes/gaming
 ---
 
-{: .important }
+{: .info }
 > {: .opaque }
-> {: .warning }
-> ⚠️ Some themes listed here may contain mature content. Viewer discretion is advised.
-> 
 > ℹ️ The themes featured here are created by independent artists and designers. We do not claim any ownership of the characters or imagery depicted in these themes. All rights belong to their respective creators and copyright holders.
 
 ---
@@ -96,3 +93,7 @@ A theme for Windows 10 and 11 inspired by the popular video game Once Human.<br 
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/once-human" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
+
+---
+
+[NSFW Themes](/windows-themes/gaming/nsfw){: .btn .btn-secondary .btn-md }

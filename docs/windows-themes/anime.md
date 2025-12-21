@@ -8,11 +8,8 @@ parent: Windows Themes
 permalink: /windows-themes/anime
 ---
 
-{: .important }
+{: .info }
 > {: .opaque }
-> {: .warning }
-> ⚠️ Some themes listed here may contain mature content. Viewer discretion is advised.
->
 > ℹ️ The themes featured here are created by independent artists and designers. We do not claim any ownership of the characters or imagery depicted in these themes. All rights belong to their respective creators and copyright holders.
 
 ---
@@ -60,3 +57,7 @@ A theme for Windows 10 and 11 celebrating the magical worlds created by Studio G
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/-/archive/main/studio-ghibli-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/studio-ghibli" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
+
+---
+
+[NSFW Themes](/windows-themes/anime/nsfw){: .btn .btn-secondary .btn-md }
