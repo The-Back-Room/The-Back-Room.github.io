@@ -24,7 +24,7 @@ permalink: /social/nsfw
 <div class="description body">
 <h3 class="text-gamma">NSFW Hentai AI</h3>
 NSFW community hosted by The Back Room dedicated to sharing and discussing AI-generated hentai artwork.<br /><br />
-<a href="https://www.reddit.com/r/NSFW_Hentai_AI/" class="text-delta btn btn-secondary btn-sm">Reddit</a>
+<a target="_blank" href="https://www.reddit.com/r/NSFW_Hentai_AI/" class="text-delta btn btn-secondary btn-sm">Reddit</a>
 </div>
 </div>
 
@@ -33,7 +33,7 @@ NSFW community hosted by The Back Room dedicated to sharing and discussing AI-ge
 <div class="description body">
 <h3 class="text-gamma">Ranma Hentai</h3>
 NSFW community hosted by The Back Room for fans of Ranma ½ hentai content.<br /><br />
-<a href="https://www.reddit.com/r/Ranma_Hentai/" class="text-delta btn btn-secondary btn-sm">Reddit</a>
+<a target="_blank" href="https://www.reddit.com/r/Ranma_Hentai/" class="text-delta btn btn-secondary btn-sm">Reddit</a>
 </div>
 </div>
 
