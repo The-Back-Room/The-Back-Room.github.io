@@ -24,7 +24,7 @@ People need to start actually using their brains. If you see someone doing stupi
 
 Nowadays, if something depicts anything they don't personally like, all of a sudden it's too much and has to be pulled! I'm sorry but what the actual fuck is going on in your brain. How about you grow a spine and take ths stick out of your ass instead. That would do much more good than choosing to discriminate against something that isn't harming anyone.
 
-Some examples of content that is being targeted include *(but aren't limited to)*:
+Some examples of topics being targeted include *(but aren't limited to)*:
 
 - Comedic Violence
 - Classic Cartoons
