@@ -85,7 +85,7 @@ Ukyo finds a unique way to cool down during the heatwave.<br /><br />
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%206/Chapter%206%20Page%2001.webp" alt="Work in Progress" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%206/Chapter%206%20Page%2001.webp" alt="Shampoo" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 6: Shampoo</h3>
 Shampoo enjoys a passionate moment with Ranma during the summer heatwave.<br /><br />
@@ -94,7 +94,7 @@ Shampoo enjoys a passionate moment with Ranma during the summer heatwave.<br /><
 </div>
 
 <div class="card">
-<img src=https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%207/Chapter%207%20Page%2001.webp" alt="Work in Progress" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%207/Chapter%207%20Page%2001.webp" alt="Kodachi Kuno" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 7: Kodachi Kuno</h3>
 Kodachi gets thoroughly fucked by Ranma during the summer heatwave.<br /><br />
@@ -103,7 +103,7 @@ Kodachi gets thoroughly fucked by Ranma during the summer heatwave.<br /><br />
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%208/Chapter%208%20Page%2001.webp" alt="Work in Progress" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%208/Chapter%208%20Page%2001.webp" alt="Nodoka Saotome" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 8: Nodoka Saotome</h3>
 Nodoka enjoys an intense orgy during the summer heatwave. <br /><i>(Currently incomplete. Only has the first 3 pages.)</i><br /><br />
