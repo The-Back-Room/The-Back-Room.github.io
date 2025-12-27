@@ -94,19 +94,19 @@ Shampoo enjoys a passionate moment with Ranma during the summer heatwave.<br /><
 </div>
 
 <div class="card">
-<img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
+<img src=https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%207/Chapter%207%20Page%2001.webp" alt="Work in Progress" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 7: Kodachi Kuno</h3>
-Not yet available.<br /><br />
-<b>Tags</b>:
+Kodachi gets thoroughly fucked by Ranma during the summer heatwave.<br /><br />
+<b>Tags</b>: <code>Sweating</code> <code>Vaginal Penetration</code> <code>Blowjob</code> <code>Male on Female</code> <code>Creampie</code> <code>Throatpie</code> <code>Internal Cumshot</code> <code>Ahegao</code> <code>Impregnation</code> <code>Fucked Silly</code> <code>Cleaning Blowjob</code>
 </div>
 </div>
 
 <div class="card">
-<img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%208/Chapter%208%20Page%2001.webp" alt="Work in Progress" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 8: Nodoka Saotome</h3>
-Not yet available.<br /><br />
-<b>Tags</b>:
+Nodoka enjoys an intense orgy during the summer heatwave. <br /><i>(Currently incomplete. Only has the first 3 pages.)</i><br /><br />
+<b>Tags</b>: <code>Sweating</code> <code>Milf</code> <code>Mature</code> <code>Large Breasts</code> <code>Orgy</code> <code>Group Sex</code> <code>Deepthroat</code> <code>Vaginal Penetration</code> <code>Internal Cumshot</code>
 </div>
 </div>
