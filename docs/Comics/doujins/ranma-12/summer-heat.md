@@ -83,11 +83,11 @@ Ukyo finds a unique way to cool down during the heatwave.<br /><br />
 </div>
 
 <div class="card">
-<img src="/assets/images/WIP.png" alt="Work in Progress" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%206/Chapter%206%20Page%2001.webp" alt="Work in Progress" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 6: Shampoo</h3>
-Not yet available.<br /><br />
-<b>Tags</b>:
+Shampoo enjoys a passionate moment with Ranma during the summer heatwave.<br /><br />
+<b>Tags</b>: <code>Sweating</code> <code>Vaginal Penetration</code> <code>Blowjob</code> <code>Male on Female</code> <code>Creampie</code> <code>Throatpie</code> <code>Internal Cumshot</code> <code>Ahegao</code> <code>Impregnation</code>
 </div>
 </div>
 
