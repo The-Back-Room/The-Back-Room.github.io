@@ -108,3 +108,7 @@ Not yet available.<br /><br />
 <b>Tags</b>:
 </div>
 </div>
+
+---
+
+<a href="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/archive/main/summer-heat-main.zip" class="text-delta btn btn-secondary btn-md">Download</a>
