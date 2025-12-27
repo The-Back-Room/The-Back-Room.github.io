@@ -1,7 +1,7 @@
 ---
 title: Ranma Hentai
 tags: [Windows Themes, NSFW, Anime]
-social_image: ranma-hentai.png
+social_image: /assets/images/social-images/cover-ranma-hentai.png
 summary: >
     A NSFW theme for Windows 10 and 11 featuring explicit hentai artwork based on the popular anime and manga series Ranma ½.
 nav_exclude: true

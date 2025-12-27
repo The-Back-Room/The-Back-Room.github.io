@@ -1,6 +1,6 @@
 ---
 title: NSW 
-social_image: horror-themes.png
+social_image: /assets/images/social-images/cover-horror-themes.png
 summary: >
     Themes for Windows 10 and 11 featuring NSFW content inspired by popular horror franchises.
 nav_exclude: true

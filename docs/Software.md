@@ -1,7 +1,7 @@
 ---
 title: Software
 tags: [Software, Open-Source, Tools]
-social_image: software.png
+social_image: /assets/images/social-images/cover-software.png
 summary: >
   Open-source software built and maintained by members of The Back Room.
 nav_order: 3.0

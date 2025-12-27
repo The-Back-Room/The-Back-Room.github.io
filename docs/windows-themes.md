@@ -1,6 +1,6 @@
 ---
 title: Windows Themes
-social_image: windows-themes.png
+social_image: /assets/images/social-images/cover-windows-themes.png
 summary: >
   A variety of custom Windows Themes to enhance your desktop experience.
 nav_order: 2.0

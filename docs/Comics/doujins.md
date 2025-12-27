@@ -1,7 +1,7 @@
 ---
 title: Doujins
 tags: [NSFW, Comics, Doujinshi]
-social_image: comics.png
+social_image: /assets/images/social-images/cover-comics.png
 summary: >
   Manga and Comics containing adult content
 has_toc: false

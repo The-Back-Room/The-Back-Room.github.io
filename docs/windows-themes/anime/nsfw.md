@@ -1,6 +1,6 @@
 ---
 title: NSW Anime
-social_image: anime-themes.png
+social_image: /assets/images/social-images/cover-anime-themes.png
 summary: >
     Themes for Windows 10 and 11 featuring NSFW content inspired by popular anime and manga series.
 nav_exclude: true

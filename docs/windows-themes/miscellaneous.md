@@ -1,6 +1,6 @@
 ---
 title: Miscellaneous
-social_image: miscellaneous-themes.png
+social_image: /assets/images/social-images/cover-miscellaneous-themes.png
 summary: >
   Themes for Windows 10 and 11 that don't fit into specific categories.
 has_toc: false

@@ -1,6 +1,6 @@
 ---
 title: Social
-social_image: social-communities.png
+social_image: /assets/images/social-images/cover-social-communities.png
 summary: >
   Social communities hosted by members of The Back Room community.
 nav_order: 8.0

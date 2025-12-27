@@ -1,7 +1,7 @@
 ---
 title: MacOS Abstract
 tags: [Windows Themes, Miscellaneous, macOS]
-social_image: /assets/images/preview-images/windows-themes/macos-abstract.png
+social_image: /assets/images/social-images/cover-/assets/images/preview-images/windows-themes/macos-abstract.png
 summary: >
     MacOS abstract themes ported to Windows 10 and 11.
 nav_exclude: true

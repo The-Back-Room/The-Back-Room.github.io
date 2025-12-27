@@ -1,6 +1,6 @@
 ﻿---
 title: Comics
-social_image: comics.png
+social_image: /assets/images/social-images/cover-comics.png
 summary: >
   Manga, Comics, and Webtoons created by our community.
 nav_order: 5.0

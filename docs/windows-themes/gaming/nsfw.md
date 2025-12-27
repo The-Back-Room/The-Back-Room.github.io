@@ -1,6 +1,6 @@
 ---
 title: NSW Gaming
-social_image: gaming-themes.png
+social_image: /assets/images/social-images/cover-gaming-themes.png
 summary: >
     Themes for Windows 10 and 11 featuring NSFW content inspired by popular video game franchises.
 nav_exclude: true

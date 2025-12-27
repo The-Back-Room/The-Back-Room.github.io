@@ -1,7 +1,7 @@
 ---
 title: FFXIV Shadowbringers
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
-social_image: ffxiv-shadowbringers.png
+social_image: /assets/images/social-images/cover-ffxiv-shadowbringers.png
 summary: >
     A theme for Windows 10 and 11 based off of the Final Fantasy XIV: Shadowbringers expansion.
 nav_exclude: true
