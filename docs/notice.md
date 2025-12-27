@@ -24,12 +24,13 @@ People need to start actually using their brains. If you see someone doing stupi
 
 Nowadays, if something depicts anything they don't personally like, all of a sudden it's too much and has to be pulled! I'm sorry but what the actual fuck is going on in your brain. How about you grow a spine and take ths stick out of your ass instead. That would do much more good than choosing to discriminate against something that isn't harming anyone.
 
-**Examples**:
+Some examples of content that is being targeted include *(but aren't limited to)*:
 
-- **Comedic Violence**: Minor harm in comedicc view that is clearly meant as a joke and is often excessively over exxaggerated to unealistic proportions. This content isn't harmful in the slightest and more over it literally promotes a sense of what not to do in a way that was entertaining and joyful for both children and families.
-- **Anime**: Japanese animation designed for young adults and up entirely for entertainment purposes. For the most part this content depicts completely imaginary characters with no relation to real people unless the person involved gave direct permission. This includes adult only versions such as hentai variations.
-- **Classic Animated Cartoons**: Cartoons made before the rise of over sensitivity when people knew that the things depicted weren't real and to enjoy it for what it actually was.
-- **AI Generated Content**:
+- Comedic Violence
+- Classic Cartoons
+- Anime and/or Hentai
+- Adult Entertainment
+- AI Generated Content
 
 The media industry is recieveing the largest amount of bull shit right now due to millenial karens who never learned the difference between reality and fiction. There are too many people claiming that just because it depicts something that doesn't fit their opinion of what an adult looks like that all of a sudden the creators and viewers *must* be pedopiles. Again ... *WHAT THE ACTUAL FUCK* is wrong with your head? Pedophile's don't rely on animated characters who *DON'T  EXIST!* The whole reason they are pedophiles is because they target *REAL CHILDREN*. You need to get the fuck out of office and go back to school as you clearly didn't learn anything the last time you were there. Animated characters DO NOT exist. As such they cannot be tied to such bull shit. In order to do so there needs to be a phisycal birth date; which would require them to *ACTUALLY EXIST*. 
 
