@@ -1,36 +1,21 @@
 <!-- HTML Meta Tags -->
+<title>{{ page.title }}</title>
 <meta name="title" content="{{ site.title }}">
 <meta name="description" content="{{ page.summary }}">
 <meta name="url" content="{{ site.url }}">
-<meta name="image" content="{{ page.social_image }}">
-<meta name="keywords" content="{{ site.keywords | join: ', ' }}">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta charset="UTF-8">
-<meta name="language" content="en_US">
+<meta name="image" content="{{ page.social_image }}" />
 
-<!-- Open Graph Protocol Tags -->
-<meta property="og:type" content="website">
+<!-- Open Graph / Facebook -->
+<meta name="theme-color" content="#3973ac">
+<meta property="og:type" content="website" />
 <meta property="og:url" content="{{ site.url }}">
 <meta property="og:title" content="{{ site.title }}">
 <meta property="og:description" content="{{ page.summary }}">
-<meta property="og:image" content="{{ page.social_image }}">
-<meta property="og:locale" content="en_US">
+<meta property="og:image" content="{{ page.social_image }}" />
 
-<!-- Facebook Meta Tags -->
-<meta property="facebook:card" content="summary_large_image">
-<meta property="facebook:url" content="{{ site.url }}">
-<meta property="facebook:title" content="{{ site.title }}">
-<meta property="facebook:description" content="{{ page.summary }}">
-<meta property="facebook:image" content="{{ page.social_image }}">
-<meta property="facebook:locale" content="en_US">
-
-<!-- Twitter Meta Tags -->
+<!-- X (Twitter) -->
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:url" content="{{ site.url }}">
 <meta property="twitter:title" content="{{ site.title }}">
 <meta property="twitter:description" content="{{ page.summary }}">
-<meta property="twitter:image" content="{{ page.social_image }}">
-<meta property="twitter:locale" content="en_US">
-
-<!-- Optional: Theme Color for Discord Embeds -->
-<meta name="theme-color" content="#3973ac">
+<meta property="twitter:image" content="{{ page.social_image }}" />
