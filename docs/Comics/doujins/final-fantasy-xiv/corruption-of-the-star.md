@@ -1,10 +1,10 @@
 ---
-title: Corruption of the Stars
-social_image: /assets/images/social-images/cover-ffxiv-corruption-of-the-stars.png
+title: Corruption of the Star
+social_image: /assets/images/social-images/cover-ffxiv-corruption-of-the-star.png
 summary: >
     A fan-made doujinshi based in the Final Fantasy XIV universe.
 nav_exclude: true
-permalink: /comics/doujins/final-fantasy-xiv/corruption-of-the-stars
+permalink: /comics/doujins/final-fantasy-xiv/corruption-of-the-star
 ---
 
 {: .important }
@@ -17,7 +17,7 @@ permalink: /comics/doujins/final-fantasy-xiv/corruption-of-the-stars
 ---
 
 <div align="center">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/cover.webp" alt="Cover Image" width="400" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/cover.webp" alt="Cover Image" width="400" height="auto" />
 </div>
 
 ---
@@ -42,11 +42,11 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.  T
 ## Overview
 Several years have gone by, and the Scions have long since completed their adventures with the Warrior of Light. However, it would appear their over exposure to extreme aether during their adventures had an unexpected *effect* on them. This doujin explores a timeline in which the Scions have become corrupted by their exposure to extreme aether and the *desires* they have succumbed to in their corruption.
 
-<a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/archive/main/corruption-of-the-stars-main.zip" class="text-delta btn btn-secondary btn-md">Download</a>
+<a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/archive/main/corruption-of-the-star-main.zip" class="text-delta btn btn-secondary btn-md">Download</a>
 
 ---
 <div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%201%20-%20Alisaie%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%201%20-%20Alisaie%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 1: Alisaie Leveilleur</h3>
 Alisaie Leveilleur gets fucked deep and hard in the forest.<br /><br />
@@ -55,7 +55,7 @@ Alisaie Leveilleur gets fucked deep and hard in the forest.<br /><br />
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%202%20-%20Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%202%20-%20Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 2: Y'shtola Rhul</h3>
 Y'shtola Rhul enjoys a sensual encounter before bed.<br /><br />
@@ -64,7 +64,7 @@ Y'shtola Rhul enjoys a sensual encounter before bed.<br /><br />
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%203%20-%20Alphinaud%20Leveilleur/000.webp" alt="Alphinaud Leveilleur" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%203%20-%20Alphinaud%20Leveilleur/000.webp" alt="Alphinaud Leveilleur" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 3: Alphinaud Leveilleur</h3>
 Alphinaud Leveilleur gets thoroughly dominated by his master.<br /><br />

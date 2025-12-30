@@ -27,10 +27,10 @@ The comics listed here are based off of the popular MMORPG Final Fantasy XIV by 
 ---
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/cover.webp" alt="Corruption of the Stars" width="100" height="auto" />
+<img src="/assets/images/preview-images/doujins/FFXIV Corruption of the Star.png" alt="Corruption of the Stars" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Corruption of the Stars</h3>
 A fan-made doujinshi based in the Final Fantasy XIV universe.<br /><br />This doujin takes place in a seperate timeline after the Scions have completed their adventures. <br /><br />
-<a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/archive/main/corruption-of-the-stars-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/comics/doujins/final-fantasy-xiv/corruption-of-the-stars" class="text-delta btn btn-secondary btn-sm">Overview</a>
+<a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/archive/main/corruption-of-the-star-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/comics/doujins/final-fantasy-xiv/corruption-of-the-star" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
