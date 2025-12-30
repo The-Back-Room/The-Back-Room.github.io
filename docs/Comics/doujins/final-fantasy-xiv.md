@@ -27,7 +27,7 @@ The comics listed here are based off of the popular Final Fantasy XIV series cre
 ---
 
 <div class="card">
-<img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/images/preview-images/doujins/Ranma%201-2%20Summer%20Heat%20Cover.gif?raw=true" alt="Final Fantasy XIV Summer Heat" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/Corruption%20of%20the%20Stars/cover.webp" alt="Final Fantasy XIV Summer Heat" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Final Fantasy XIV Corruption of the Stars</h3>
 A fan-made doujinshi based in the Final Fantasy XIV universe.<br /><br />This doujin takes place in a seperate timeline after the Scions have completed their adventures. <br /><br />

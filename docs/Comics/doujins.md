@@ -36,3 +36,12 @@ A collection of NSFW doujinshi inspired by the popular anime and manga series Ra
 <a href="/comics/doujins/ranma-12" class="text-delta btn btn-secondary btn-sm">View Doujins</a>
 </div>
 </div>
+
+<div class="card">
+<img src="/assets/images/list-items/comics/final-fantasy-xiv.png" alt="Final Fantasy XIV Doujinshi Collection" width="200" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Final Fantasy XIV</h3>
+A collection of NSFW doujinshi inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
+<a href="/comics/doujins/final-fantasy-xiv" class="text-delta btn btn-secondary btn-sm">View Doujins</a>
+</div>
+</div>
