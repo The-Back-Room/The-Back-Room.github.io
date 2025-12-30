@@ -17,7 +17,7 @@ permalink: /comics/doujins/final-fantasy-xiv/corruption-of-the-star
 ---
 
 <div align="center">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/cover.webp" alt="Cover Image" width="400" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Star/cover.webp" alt="Cover Image" width="400" height="auto" />
 </div>
 
 ---
@@ -46,7 +46,7 @@ Several years have gone by, and the Scions have long since completed their adven
 
 ---
 <div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%201%20-%20Alisaie%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Star/Chapter%201%20-%20Alisaie%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 1: Alisaie Leveilleur</h3>
 Alisaie Leveilleur gets fucked deep and hard in the forest.<br />
@@ -56,7 +56,7 @@ Alisaie Leveilleur gets fucked deep and hard in the forest.<br />
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%202%20-%20Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Star/Chapter%202%20-%20Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 2: Y'shtola Rhul</h3>
 Y'shtola Rhul enjoys a sensual encounter before bed.<br />
@@ -66,7 +66,7 @@ Y'shtola Rhul enjoys a sensual encounter before bed.<br />
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%203%20-%20Alphinaud%20Leveilleur/000.webp" alt="Alphinaud Leveilleur" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Star/Chapter%203%20-%20Alphinaud%20Leveilleur/000.webp" alt="Alphinaud Leveilleur" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 3: Alphinaud Leveilleur</h3>
 Alphinaud Leveilleur gets thoroughly dominated by his master.<br />
@@ -76,7 +76,7 @@ Alphinaud Leveilleur gets thoroughly dominated by his master.<br />
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%204%20-%20Minfilia%20Warde/000.webp" alt="Cover Image" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Star/Chapter%204%20-%20Minfilia%20Warde/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 4: Minfilia Warde</h3>
 To be announced<br />
@@ -86,7 +86,7 @@ To be announced<br />
 </div>
 
 <div class="card">
-<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Star/Chapter%205%20-%20Lyse%20Hext/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 5: Lyse Hext</h3>
 To be announced<br />
@@ -96,42 +96,42 @@ To be announced<br />
 </div>
 
 <div class="card">
-<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Star/Chapter%206%20-%20Thancred%20Waters/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Chapter 6: Kan-E-Senna</h3>
-Not Yet Available<br />
-<b>Tags</b>:<br />
-<b>Status</b>: <code>Not Yet Started</code>
-</div>
-</div>
-
-<div class="card">
-<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Chapter 7: Merlwyb Bloefhiswyn</h3>
-Not Yet Available<br />
-<b>Tags</b>:<br />
-<b>Status</b>: <code>Not Yet Started</code>
-</div>
-</div>
-
-<div class="card">
-<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Chapter 8: Cid Garlond</h3>
-Not Yet Available<br />
-<b>Tags</b>:<br />
-<b>Status</b>: <code>Not Yet Started</code>
-</div>
-</div>
-
-<div class="card">
-<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Chapter 9: Thancred Waters</h3>
+<h3 class="text-gamma">Chapter 6: Thancred Waters</h3>
 To be announced<br />
 <b>Tags</b>: <code>Male on Male</code> <code>DILF</code> <code>Pet Play</code> <code>Blowjob</code> <code>Anal Sex</code> <code>Muscular</code> <code>Large Penis</code> <code>Thick Penis</code> <code>Domination</code> <code>Public Sex</code><br />
 <b>Status</b>: <code>In Progress</code>
+</div>
+</div>
+
+<div class="card">
+<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 7: Kan-E-Senna</h3>
+Not Yet Available<br />
+<b>Tags</b>:<br />
+<b>Status</b>: <code>Not Yet Started</code>
+</div>
+</div>
+
+<div class="card">
+<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 8: Merlwyb Bloefhiswyn</h3>
+Not Yet Available<br />
+<b>Tags</b>:<br />
+<b>Status</b>: <code>Not Yet Started</code>
+</div>
+</div>
+
+<div class="card">
+<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 9: Cid Garlond</h3>
+Not Yet Available<br />
+<b>Tags</b>:<br />
+<b>Status</b>: <code>Not Yet Started</code>
 </div>
 </div>
 
