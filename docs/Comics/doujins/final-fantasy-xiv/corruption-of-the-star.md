@@ -73,11 +73,11 @@ Alphinaud Leveilleur gets thoroughly dominated by his master.<br /><br />
 </div>
 
 <div class="card">
-<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%204%20-%20Minfilia%20Warde/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 4: Minfilia Warde</h3>
-Not Yet Available<br /><br />
-<b>Tags</b>:  
+To be announced<br /><br />
+<b>Tags</b>: <code>Futanari</code> <code>Public Sex</code> <code>Futanari on Femboy</code> <code>Onsen</code> <code>Dominant Futanari</code> <code>Ahegao</code> <code>Blowjob</code> <code>Anal Sex</code> <code>Internal Cumshot</code> <code>Mating Press</code> <code>Breast Sucking</code> <code>Cock Worship</code> <code>Rough Sex</code> <code>Orgy</code> <code>Group Sex</code>
 </div>
 </div>
 
@@ -85,8 +85,8 @@ Not Yet Available<br /><br />
 <img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 5: Lyse Hext</h3>
-Not Yet Available<br /><br />
-<b>Tags</b>:
+To be announced<br /><br />
+<b>Tags</b>: <code>Maid</code> <code>Pet Play</code> <code>Male on Female</code> <code>DILF</code> <code>Blowjob</code> <code>Vaginal Sex</code> <code>Anal Sex</code> <code>Orgy</code> <code>Ahegao</code> <code>Internal Cumshot</code> <code>Cock Worship</code> <code>Group Sex</code>
 </div>
 </div>
 
@@ -121,8 +121,8 @@ Not Yet Available<br /><br />
 <img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 9: Thancred Waters</h3>
-Not Yet Available<br /><br />
-<b>Tags</b>:  
+To be announced<br /><br />
+<b>Tags</b>: <code>Male on Male</code> <code>DILF</code> <code>Pet Play</code> <code>Blowjob</code> <code>Anal Sex</code> <code>Muscular</code> <code>Large Penis</code> <code>Thick Penis</code> <code>Domination</code> <code>Public Sex</code>  
 </div>
 </div>
 
