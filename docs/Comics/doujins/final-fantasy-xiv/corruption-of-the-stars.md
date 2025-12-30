@@ -23,7 +23,10 @@ permalink: /comics/doujins/final-fantasy-xiv/corruption-of-the-stars
 
 ## Notes
 - This doujin doesn't follow any specific order. Instead it contains a seperate story for each character. Each chapter can more or less be read in whichever order the reader desires.
-- This doujin takes place in a seperate timeline after the Scions have completed their adventures. ||Minfilia and Moenbryda are both still alive in this timeline.|| 
+- This doujin takes place in a seperate timeline after the Scions have completed their adventures. <details>
+    <summary>Extra Details</summary>
+    Minfilia and Moenbryda are both still alive in this timeline.
+    </details>
 
 ---
 
