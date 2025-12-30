@@ -45,117 +45,104 @@ Several years have gone by, and the Scions have long since completed their adven
 <a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/archive/main/corruption-of-the-stars-main.zip" class="text-delta btn btn-secondary btn-md">Download</a>
 
 ---
+<div class="card">
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%201%20-%20Alisaie%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 1: Alisaie Leveilleur</h3>
+Alisaie Leveilleur gets fucked deep and hard in the forest.<br /><br />
+<b>Tags</b>: <code>Masturbation</code> <code>Blowjob</code> <code>Vaginal Sex</code> <code>Seduction</code> <code>Male of Female</code> <code>Creampie</code> <code>Balls Deep</code> <code>Outdoors</code> 
+</div>
+</div>
 
-<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%201%20-%20Alisaie%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
+<div class="card">
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%202%20-%20Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 2: Y'shtola Rhul</h3>
+<br /><br />
+<b>Tags</b>: <code>Seduction</code> <code>Masturbation</code> <code>Vaginal Sex</code> <code>Creampie</code> <code>Internal Cumshot</code> <code>Ahegao</code>
+</div>
+</div>
 
-**Chapter 1**: Alisaie Leveilleur  
-**Summary**: Alisaie Leveilleur gets fucked deep and hard in the forest.  
-**Tags**: `Blowjob` `Seduction` `Finger Sucking` `Masterbation` `Vaginal Penetration` `Male on Female` `Creampie` `Balls Deep` `Outdoors`  
-**Status**: Complete  
+<div class="card">
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%203%20-%20Alphinaud%20Leveilleur/000.webp" alt="Alphinaud Leveilleur" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 3: Alphinaud Leveilleur</h3>
+<br /><br />
+<b>Tags</b>: <code>Femboy</code> <code>Collar</code> <code>Blowjob</code> <code>Male on Male</code> <code>Anal Sex</code> <code>Yaoi</code> <code>Anal Creampie</code> <code>Oral Creampie</code>
+</div>
+</div>
 
-<br /><br /><br />
+<div class="card">
+<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 4: Minfilia Warde</h3>
+Not Yet Available<br /><br />
+<b>Tags</b>:  
+</div>
+</div>
 
----
+<div class="card">
+<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 5: Lyse Hext</h3>
+Not Yet Available<br /><br />
+<b>Tags</b>:
+</div>
+</div>
 
-<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%202%20-%20Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
+<div class="card">
+<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 6: Kan-E-Senna</h3>
+Not Yet Available<br /><br />
+<b>Tags</b>:  
+</div>
+</div>
 
-**Chapter 2**: Y'shtola Rhul  
-**Summary**:  Y'shtola Rhul enjoys a sensual encounter before bed.  
-**Tags**:  `Seduction` `Masturbation` `Vaginal Penetration` `Male on Female` `Balls Deep` `Ahegao` `Creampie`  
-**Status**: In Progress
+<div class="card">
+<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 7: Merlwyb Bloefhiswyn</h3>
+Not Yet Available<br /><br />
+<b>Tags</b>:  
+</div>
+</div>
 
-<br /><br /><br />
+<div class="card">
+<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 8: Cid Garlond</h3>
+Not Yet Available<br /><br />
+<b>Tags</b>:  
+</div>
+</div>
 
----
+<div class="card">
+<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 9: Thancred Waters</h3>
+Not Yet Available<br /><br />
+<b>Tags</b>:  
+</div>
+</div>
 
-<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%203%20-%20Alphinaud%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
+<div class="card">
+<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 10: G'raha Tia</h3>
+Not Yet Available<br /><br />
+<b>Tags</b>:  
+</div>
+</div>
 
-**Chapter 3**: Alphinaud Leveilleur  
-**Summary**: Alphinaud Leveilleur gets thoroughly dominated by his master.  
-**Tags**: `Femboy` `Male on Male` `Anal Sex` `Roguh Sex` `Blowjob` `Ahegao` `Blowjob` `Balls Deep` `Collar` `Submissive`  
-**Status**: In Progress  
-
-<br /><br /><br />
-
----
-
-<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
-
-**Chapter 4**: Minfilia Warde  
-**Summary**: Not Yet Available  
-**Tages**: Not Yet Abailable  
-
-<br /><br /><br />
-
----
-
-<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
-
-**Chapter 5**: Lyse Hext  
-**Summary**: Not Yet Available  
-**Tages**: Not Yet Abailable  
-
-<br /><br /><br />
-
----
-
-<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
-
-**Chapter 6**: Kan-E-Senna  
-**Summary**: Not Yet Available  
-**Tages**: Not Yet Abailable  
-
-<br /><br /><br />
-
----
-
-<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
-
-**Chapter 7**: Merlwyb Bloefhiswyn  
-**Summary**: Not Yet Available  
-**Tages**: Not Yet Abailable  
-
-<br /><br /><br />
-
----
-
-<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
-
-**Chapter 8**: Cid Garlond  
-**Summary**: Not Yet Available  
-**Tages**: Not Yet Abailable  
-
-<br /><br /><br />
-
----
-
-<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
-
-**Chapter 9**: Thancred Waters  
-**Summary**: Not Yet Available  
-**Tages**: Not Yet Abailable  
-
-<br /><br /><br />
-
----
-
-<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
-
-**Chapter 10**: G1raha Tia  
-**Summary**: Not Yet Available  
-**Tages**: Not Yet Abailable  
-
-<br /><br /><br />
-
----
-
-<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
-
-**Chapter 11**: Moenbryda Wilfsunnwyn  
-**Summary**: Not Yet Available  
-**Tages**: Not Yet Abailable  
-
-<br /><br /><br />
+<div class="card">
+<img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 11: Moenbryda Wilfsunnwyn</h3>
+Not Yet Available<br /><br />
+<b>Tags</b>:  
+</div>
+</div>  
 
 ---
 
