@@ -35,12 +35,12 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.  T
 
 **Ranma 1/2 - Summer Heat** explores the adventures of Ranma Saotome and his friends during a summer heatwave. The doujin focuses on a different character in each chapter, delving into multiple fetishes.
 
-<a href="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/archive/main/summer-heat-main.zip" class="text-delta btn btn-secondary btn-md">Download</a>
+<a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/archive/main/summer-heat-main.zip?ref_type=heads" class="text-delta btn btn-secondary btn-md">Download</a>
 
 ---
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 1: Ranma Saotome</h3>
 Ranma tries to find relief from the summer heat and has a steamy encounter.<br /><br />
@@ -49,7 +49,7 @@ Ranma tries to find relief from the summer heat and has a steamy encounter.<br /
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 2: Akane Tendo</h3>
 Akane navigates her feelings for Ranma while dealing with the oppressive heat.<br /><br />
@@ -58,7 +58,7 @@ Akane navigates her feelings for Ranma while dealing with the oppressive heat.<b
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 3: Nabiki Tendo</h3>
 Nabiki takes advantage of the summer heat and has a passionate encounter with Ryoga.<br /><br />
@@ -67,7 +67,7 @@ Nabiki takes advantage of the summer heat and has a passionate encounter with Ry
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 4: Kasumi Tendo</h3>
 Kasumi enjoys some alone time in the bath while dealing with the summer heat.<br /><br />
@@ -76,7 +76,7 @@ Kasumi enjoys some alone time in the bath while dealing with the summer heat.<br
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 5: Ukyo Kuonji</h3>
 Ukyo finds a unique way to cool down during the heatwave.<br /><br />
@@ -85,7 +85,7 @@ Ukyo finds a unique way to cool down during the heatwave.<br /><br />
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%206/Chapter%206%20Page%2001.webp" alt="Shampoo" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%206/Chapter%206%20Page%2001.webp" alt="Shampoo" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 6: Shampoo</h3>
 Shampoo enjoys a passionate moment with Ranma during the summer heatwave.<br /><br />
@@ -94,7 +94,7 @@ Shampoo enjoys a passionate moment with Ranma during the summer heatwave.<br /><
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%207/Chapter%207%20Page%2001.webp" alt="Kodachi Kuno" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%207/Chapter%207%20Page%2001.webp" alt="Kodachi Kuno" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 7: Kodachi Kuno</h3>
 Kodachi gets thoroughly fucked by Ranma during the summer heatwave.<br /><br />
@@ -103,7 +103,7 @@ Kodachi gets thoroughly fucked by Ranma during the summer heatwave.<br /><br />
 </div>
 
 <div class="card">
-<img src="https://gitlab.com/the-back-room/doujins/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%208/Chapter%208%20Page%2001.webp" alt="Nodoka Saotome" width="100" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%208/Chapter%208%20Page%2001.webp" alt="Nodoka Saotome" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 8: Nodoka Saotome</h3>
 Nodoka enjoys an intense orgy during the summer heatwave. <br /><i>(Currently incomplete. Only has the first 3 pages.)</i><br /><br />
