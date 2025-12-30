@@ -17,7 +17,7 @@ permalink: /comics/doujins/final-fantasy-xiv/corruption-of-the-stars
 ---
 
 <div align="center">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/Corruption%20of%20the%20Stars/cover.webp" alt="Cover Image" width="400" height="auto" />
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/cover.webp" alt="Cover Image" width="400" height="auto" />
 </div>
 
 ---
@@ -46,7 +46,7 @@ Several years have gone by, and the Scions have long since completed their adven
 
 ---
 
-<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/Corruption%20of%20the%20Stars/Alisaie%20Leveilleur/000.webp?raw=true" alt="Cover Image" width="100" height="auto" />
+<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Alisaie%20Leveilleur/000.webp?raw=true" alt="Cover Image" width="100" height="auto" />
 
 **Chapter 1**: Alisaie Leveilleur  
 **Summary**: Alisaie Leveilleur gets fucked deep and hard in the forest.  
@@ -57,7 +57,7 @@ Several years have gone by, and the Scions have long since completed their adven
 
 ---
 
-<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/Corruption%20of%20the%20Stars/Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
+<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
 
 **Chapter 2**: Y'shtola Rhul  
 **Summary**:  Y'shtola Rhul enjoys a sensual encounter before bed.  
@@ -68,7 +68,7 @@ Several years have gone by, and the Scions have long since completed their adven
 
 ---
 
-<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/Corruption%20of%20the%20Stars/Alphinaud%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
+<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Alphinaud%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
 
 **Chapter 3**: Alphinaud Leveilleur  
 **Summary**: Alphinaud Leveilleur gets thoroughly dominated by his master.  
