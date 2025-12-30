@@ -55,11 +55,21 @@ Several years have gone by, and the Scions have long since completed their adven
 
 ---
 
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
+<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/Corruption%20of%20the%20Stars/Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
 
-**Alphinaud Leveilleur**: Alphinaud gets throroughly used by his futa mistress!  
-**Tags**: `Femboy` `Futa on Male` `Anal` `Blowjob` `Ahegao` `Internal Cumshot` `Blowjob` `Balls Deep` `Collar` `Pet Play` `Submissive`  
-**Status**: Not Started
+**Y'shtola Rhul**:  Y'shtola enjoys a treat while preparing for bed.  
+**Tags**:  `Seduction` `Masturbation` `Vaginal Penetration` `Male on Female` `Balls Deep` `Ahegao` `Creampie`  
+**Status**: In Progress
+
+<br /><br /><br />
+
+---
+
+<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/Corruption%20of%20the%20Stars/Alphinaud%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
+
+**Alphinaud Leveilleur**: Alphinaud gets throroughly used by his master.  
+**Tags**: `Femboy` `Male on Male` `Anal Sex` `Roguh Sex` `Blowjob` `Ahegao` `Blowjob` `Balls Deep` `Collar` `Submissive`  
+**Status**: In Progress  
 
 <br /><br /><br />
 
@@ -180,16 +190,6 @@ Several years have gone by, and the Scions have long since completed their adven
 **Urianger Augurelt**: Not Yet Available  
 **Tags**: Not Yet Available  
 **Status**: Not Started  
-
-<br /><br /><br />
-
----
-
-<img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/Corruption%20of%20the%20Stars/Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
-
-**Y'shtola Rhul**:  Y'shtola enjoys a treat while preparing for bed.  
-**Tags**:  `Seduction` `Masturbation` `Vaginal Penetration` `Male on Female` `Balls Deep` `Ahegao` `Creampie`  
-**Status**: In Progress
 
 <br /><br /><br />
 
