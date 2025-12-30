@@ -48,7 +48,8 @@ Several years have gone by, and the Scions have long since completed their adven
 
 <img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/Corruption%20of%20the%20Stars/Alisaie%20Leveilleur/000.webp?raw=true" alt="Cover Image" width="100" height="auto" />
 
-**Alisaie Leveilleur**: Alisaie enjoys a deep fuck outdoors.  
+**Chapter 1**: Alisaie Leveilleur  
+**Summary**: Alisaie Leveilleur gets fucked deep and hard in the forest.  
 **Tags**: `Blowjob` `Seduction` `Finger Sucking` `Masterbation` `Vaginal Penetration` `Male on Female` `Creampie` `Balls Deep` `Outdoors`  
 **Status**: Complete  
 
@@ -58,7 +59,8 @@ Several years have gone by, and the Scions have long since completed their adven
 
 <img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/Corruption%20of%20the%20Stars/Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
 
-**Y'shtola Rhul**:  Y'shtola enjoys a treat while preparing for bed.  
+**Chapter 2**: Y'shtola Rhul  
+**Summary**:  Y'shtola Rhul enjoys a sensual encounter before bed.  
 **Tags**:  `Seduction` `Masturbation` `Vaginal Penetration` `Male on Female` `Balls Deep` `Ahegao` `Creampie`  
 **Status**: In Progress
 
@@ -68,7 +70,8 @@ Several years have gone by, and the Scions have long since completed their adven
 
 <img align="right" src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/Corruption%20of%20the%20Stars/Alphinaud%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
 
-**Alphinaud Leveilleur**: Alphinaud gets throroughly used by his master.  
+**Chapter 3**: Alphinaud Leveilleur  
+**Summary**: Alphinaud Leveilleur gets thoroughly dominated by his master.  
 **Tags**: `Femboy` `Male on Male` `Anal Sex` `Roguh Sex` `Blowjob` `Ahegao` `Blowjob` `Balls Deep` `Collar` `Submissive`  
 **Status**: In Progress  
 
@@ -76,121 +79,81 @@ Several years have gone by, and the Scions have long since completed their adven
 
 ---
 
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
+<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 
-**Arenvald Lentinus**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
-
-<br /><br /><br />
-
----
-
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
-
-**Cid Garlond**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
+**Chapter 4**: Minfilia Warde  
+**Summary**: Not Yet Available  
+**Tages**: Not Yet Abailable  
 
 <br /><br /><br />
 
 ---
 
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
+<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 
-**Estinien Varlineau**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
-
-<br /><br /><br />
-
----
-
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
-
-**G'raha Tia**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
+**Chapter 5**: Lyse Hext  
+**Summary**: Not Yet Available  
+**Tages**: Not Yet Abailable  
 
 <br /><br /><br />
 
 ---
 
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
+<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 
-**Hoary Boulder**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
-
-<br /><br /><br />
-
----
-
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
-
-**Kan-E-Senna**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
+**Chapter 6**: Kan-E-Senna  
+**Summary**: Not Yet Available  
+**Tages**: Not Yet Abailable  
 
 <br /><br /><br />
 
 ---
 
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
+<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 
-**Lyse Hext**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
-
-<br /><br /><br />
-
----
-
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
-
-**Merlwyb Bloefhiswyn**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
+**Chapter 7**: Merlwyb Bloefhiswyn  
+**Summary**: Not Yet Available  
+**Tages**: Not Yet Abailable  
 
 <br /><br /><br />
 
 ---
 
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
+<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 
-**Minfilia Warde**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
-
-<br /><br /><br />
-
----
-
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
-
-**Moenbryda Wilfsunnwyn**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
+**Chapter 8**: Cid Garlond  
+**Summary**: Not Yet Available  
+**Tages**: Not Yet Abailable  
 
 <br /><br /><br />
 
 ---
 
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
+<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 
-**Thancred Waters**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
+**Chapter 9**: Thancred Waters  
+**Summary**: Not Yet Available  
+**Tages**: Not Yet Abailable  
 
 <br /><br /><br />
 
 ---
 
-<!-- <img align="right" src="" alt="Cover Image" width="100" height="auto" /> -->
+<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 
-**Urianger Augurelt**: Not Yet Available  
-**Tags**: Not Yet Available  
-**Status**: Not Started  
+**Chapter 10**: G1raha Tia  
+**Summary**: Not Yet Available  
+**Tages**: Not Yet Abailable  
+
+<br /><br /><br />
+
+---
+
+<img align="right" src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
+
+**Chapter 11**: Moenbryda Wilfsunnwyn  
+**Summary**: Not Yet Available  
+**Tages**: Not Yet Abailable  
 
 <br /><br /><br />
 
