@@ -22,7 +22,7 @@ permalink: /comics/doujins/final-fantasy-xiv
 
 ---
 
-The comics listed here are based off of the popular Final Fantasy XIV series created by Rumiko Takahashi. These doujinshi explore various adult themes and fetishes, and are created by independent artists and writers. Enjoy responsibly!
+The comics listed here are based off of the popular MMORPG Final Fantasy XIV by Square Enix. These doujinshi explore various adult themes and fetishes, and are created by independent artists and writers. Enjoy responsibly!
 
 ---
 
