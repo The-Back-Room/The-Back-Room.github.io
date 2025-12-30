@@ -58,7 +58,7 @@ Alisaie Leveilleur gets fucked deep and hard in the forest.<br /><br />
 <img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%202%20-%20Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 2: Y'shtola Rhul</h3>
-<br /><br />
+Y'shtola Rhul enjoys a sensual encounter before bed.<br /><br />
 <b>Tags</b>: <code>Seduction</code> <code>Masturbation</code> <code>Vaginal Sex</code> <code>Creampie</code> <code>Internal Cumshot</code> <code>Ahegao</code>
 </div>
 </div>
@@ -67,7 +67,7 @@ Alisaie Leveilleur gets fucked deep and hard in the forest.<br /><br />
 <img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-stars/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%203%20-%20Alphinaud%20Leveilleur/000.webp" alt="Alphinaud Leveilleur" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 3: Alphinaud Leveilleur</h3>
-<br /><br />
+Alphinaud Leveilleur gets thoroughly dominated by his master.<br /><br />
 <b>Tags</b>: <code>Femboy</code> <code>Collar</code> <code>Blowjob</code> <code>Male on Male</code> <code>Anal Sex</code> <code>Yaoi</code> <code>Anal Creampie</code> <code>Oral Creampie</code>
 </div>
 </div>
