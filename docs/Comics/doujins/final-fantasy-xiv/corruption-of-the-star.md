@@ -49,8 +49,9 @@ Several years have gone by, and the Scions have long since completed their adven
 <img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%201%20-%20Alisaie%20Leveilleur/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 1: Alisaie Leveilleur</h3>
-Alisaie Leveilleur gets fucked deep and hard in the forest.<br /><br />
-<b>Tags</b>: <code>Masturbation</code> <code>Blowjob</code> <code>Vaginal Sex</code> <code>Seduction</code> <code>Male of Female</code> <code>Creampie</code> <code>Balls Deep</code> <code>Outdoors</code> 
+Alisaie Leveilleur gets fucked deep and hard in the forest.<br />
+<b>Tags</b>: <code>Masturbation</code> <code>Blowjob</code> <code>Vaginal Sex</code> <code>Seduction</code> <code>Male of Female</code> <code>Creampie</code> <code>Balls Deep</code> <code>Outdoors</code> <br />
+<b>Status</b>: <code>Complete</code>
 </div>
 </div>
 
@@ -58,8 +59,9 @@ Alisaie Leveilleur gets fucked deep and hard in the forest.<br /><br />
 <img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%202%20-%20Y'shtola%20Rhul/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 2: Y'shtola Rhul</h3>
-Y'shtola Rhul enjoys a sensual encounter before bed.<br /><br />
-<b>Tags</b>: <code>Seduction</code> <code>Masturbation</code> <code>Vaginal Sex</code> <code>Creampie</code> <code>Internal Cumshot</code> <code>Ahegao</code>
+Y'shtola Rhul enjoys a sensual encounter before bed.<br />
+<b>Tags</b>: <code>Seduction</code> <code>Masturbation</code> <code>Vaginal Sex</code> <code>Creampie</code> <code>Internal Cumshot</code> <code>Ahegao</code><br />
+<b>Status</b>: <code>In Proegress</code>
 </div>
 </div>
 
@@ -67,8 +69,9 @@ Y'shtola Rhul enjoys a sensual encounter before bed.<br /><br />
 <img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%203%20-%20Alphinaud%20Leveilleur/000.webp" alt="Alphinaud Leveilleur" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 3: Alphinaud Leveilleur</h3>
-Alphinaud Leveilleur gets thoroughly dominated by his master.<br /><br />
-<b>Tags</b>: <code>Femboy</code> <code>Collar</code> <code>Blowjob</code> <code>Male on Male</code> <code>Anal Sex</code> <code>Yaoi</code> <code>Anal Creampie</code> <code>Oral Creampie</code>
+Alphinaud Leveilleur gets thoroughly dominated by his master.<br />
+<b>Tags</b>: <code>Femboy</code> <code>Collar</code> <code>Blowjob</code> <code>Male on Male</code> <code>Anal Sex</code> <code>Yaoi</code> <code>Anal Creampie</code> <code>Oral Creampie</code><br />
+<b>Status</b>: <code>Complete</code>
 </div>
 </div>
 
@@ -76,8 +79,9 @@ Alphinaud Leveilleur gets thoroughly dominated by his master.<br /><br />
 <img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Stars/Chapter%204%20-%20Minfilia%20Warde/000.webp" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 4: Minfilia Warde</h3>
-To be announced<br /><br />
-<b>Tags</b>: <code>Futanari</code> <code>Public Sex</code> <code>Futanari on Femboy</code> <code>Onsen</code> <code>Dominant Futanari</code> <code>Ahegao</code> <code>Blowjob</code> <code>Anal Sex</code> <code>Internal Cumshot</code> <code>Mating Press</code> <code>Breast Sucking</code> <code>Cock Worship</code> <code>Rough Sex</code> <code>Orgy</code> <code>Group Sex</code>
+To be announced<br />
+<b>Tags</b>: <code>Futanari</code> <code>Public Sex</code> <code>Futanari on Femboy</code> <code>Onsen</code> <code>Dominant Futanari</code> <code>Ahegao</code> <code>Blowjob</code> <code>Anal Sex</code> <code>Internal Cumshot</code> <code>Mating Press</code> <code>Breast Sucking</code> <code>Cock Worship</code> <code>Rough Sex</code> <code>Orgy</code> <code>Group Sex</code><br />
+<b>Status</b>: <code>In Progress</code>
 </div>
 </div>
 
@@ -85,8 +89,9 @@ To be announced<br /><br />
 <img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 5: Lyse Hext</h3>
-To be announced<br /><br />
-<b>Tags</b>: <code>Maid</code> <code>Pet Play</code> <code>Male on Female</code> <code>DILF</code> <code>Blowjob</code> <code>Vaginal Sex</code> <code>Anal Sex</code> <code>Orgy</code> <code>Ahegao</code> <code>Internal Cumshot</code> <code>Cock Worship</code> <code>Group Sex</code>
+To be announced<br />
+<b>Tags</b>: <code>Maid</code> <code>Pet Play</code> <code>Male on Female</code> <code>DILF</code> <code>Blowjob</code> <code>Vaginal Sex</code> <code>Anal Sex</code> <code>Orgy</code> <code>Ahegao</code> <code>Internal Cumshot</code> <code>Cock Worship</code> <code>Group Sex</code><br />
+<b>Status</b>: <code>In Progress</code>
 </div>
 </div>
 
@@ -94,8 +99,9 @@ To be announced<br /><br />
 <img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 6: Kan-E-Senna</h3>
-Not Yet Available<br /><br />
-<b>Tags</b>:  
+Not Yet Available<br />
+<b>Tags</b>:<br />
+<b>Status</b>: <code>Not Yet Started</code>
 </div>
 </div>
 
@@ -103,8 +109,9 @@ Not Yet Available<br /><br />
 <img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 7: Merlwyb Bloefhiswyn</h3>
-Not Yet Available<br /><br />
-<b>Tags</b>:  
+Not Yet Available<br />
+<b>Tags</b>:<br />
+<b>Status</b>: <code>Not Yet Started</code>
 </div>
 </div>
 
@@ -112,8 +119,9 @@ Not Yet Available<br /><br />
 <img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 8: Cid Garlond</h3>
-Not Yet Available<br /><br />
-<b>Tags</b>:  
+Not Yet Available<br />
+<b>Tags</b>:<br />
+<b>Status</b>: <code>Not Yet Started</code>
 </div>
 </div>
 
@@ -121,8 +129,9 @@ Not Yet Available<br /><br />
 <img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 9: Thancred Waters</h3>
-To be announced<br /><br />
-<b>Tags</b>: <code>Male on Male</code> <code>DILF</code> <code>Pet Play</code> <code>Blowjob</code> <code>Anal Sex</code> <code>Muscular</code> <code>Large Penis</code> <code>Thick Penis</code> <code>Domination</code> <code>Public Sex</code>  
+To be announced<br />
+<b>Tags</b>: <code>Male on Male</code> <code>DILF</code> <code>Pet Play</code> <code>Blowjob</code> <code>Anal Sex</code> <code>Muscular</code> <code>Large Penis</code> <code>Thick Penis</code> <code>Domination</code> <code>Public Sex</code><br />
+<b>Status</b>: <code>In Progress</code>
 </div>
 </div>
 
@@ -130,8 +139,9 @@ To be announced<br /><br />
 <img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 10: G'raha Tia</h3>
-Not Yet Available<br /><br />
-<b>Tags</b>:  
+Not Yet Available<br />
+<b>Tags</b>:<br />
+<b>Status</b>: <code>Not Yet Available</code>
 </div>
 </div>
 
@@ -139,8 +149,9 @@ Not Yet Available<br /><br />
 <img src="https://the-back-room.info/assets/images/WIP.png" alt="Cover Image" width="100" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Chapter 11: Moenbryda Wilfsunnwyn</h3>
-Not Yet Available<br /><br />
-<b>Tags</b>:  
+Not Yet Available<br />
+<b>Tags</b>:<br />
+<b>Status</b>: <code>Not Yet Started</code>
 </div>
 </div>  
 
