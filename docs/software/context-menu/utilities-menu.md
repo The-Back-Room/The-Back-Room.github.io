@@ -14,11 +14,8 @@ permalink: /software/context-menu/utilities-menu
 
 <h3 style="text-align: center;">Features</h3>
 
-- **Cleanup Memory**: Free up memory with by clearing the Working Sets, Standby List, and Modified Page List with the RAMMap Memory Cleanup Script. *(Requires RAMMap to be installed and added to PATH)*
 - **Kill Not Responding Tasks**: Finds and kills all non-responding tasks
 - **Kill Task Manager**: Forcibly closes the Task Manager process to resolve issues
-- **MKLINK Assistant**: Assists in creating symbolic/hard links, and directory junctions using the MKLINK command
-- **Refresh Icon Cache**: Refreshes the icon and thumbnail cache to fix icon display issues.
 - **Restart Explorer**: Restarts Windows Explorer to resolve various UI issues
 - **Restart Start Menu**: Restarts the Start Menu to resolve various UI issues
 - **Verify Windows Integrity**: Verify and repair system files using the System File Checker (SFC) tool and Deployment Imaging Service and Management Tool (DISM)
@@ -26,6 +23,9 @@ permalink: /software/context-menu/utilities-menu
 <h3 style="text-align: center;">Optional Addons</h3>
 
 - **Restart Explorer7**: Optional feature for explorer7 users to restart explorer 7 without needing the log off. *(Requires explorer7 to be installed into `C:\Utilities\explorer7`.)*
+- **MKLINK Assistant**: Assists in creating symbolic/hard links, and directory junctions using the MKLINK command
+- **Refresh Icon Cache**: Refreshes the icon and thumbnail cache to fix icon display issues.
+- **Cleanup Memory**: Free up memory with by clearing the Working Sets, Standby List, and Modified Page List with the RAMMap Memory Cleanup Script. *(Requires RAMMap to be installed and added to PATH)*
 
 <h3 style="text-align: center;">Instructions</h3>
 
