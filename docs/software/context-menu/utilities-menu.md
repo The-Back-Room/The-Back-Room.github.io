@@ -33,7 +33,8 @@ permalink: /software/context-menu/utilities-menu
 2. Extract the contents of the ZIP file to a folder of your choice.
 3. Copy the `Utilities` folder to the root of your `C:` drive `(C:\Utilities)`.
 4. Double-click the `Add Utilities Menu.reg` file to add the Utilities Menu to your desktop context menu.
-5. To remove the Utilities Menu from your desktop context menu, double-click the `Remove Utilities Menu.reg` file.
+
+To remove, simply double-click the `Remove Utilities Menu.reg` file.
 
 <h3 style="text-align: center;">Addon Instructions</h3>
 
@@ -76,16 +77,19 @@ If done correctly, the file structure should look like this:
 
 <h4 style="text-align: center;">Cleanup Memory</h4>
 
-- Download and install RAMMap from the Microsoft Store to ensure it is automatically added to PATH.
-- Double-click the `Add Cleanup Memory.reg` file located in the `extras\Addons` directory.
-- To remove, simply double-click the `Remove Cleanup Memory.reg` file located in the `extras\Addons` directory.
+1. Download and install RAMMap from the Microsoft Store to ensure it is automatically added to PATH.
+2. Double-click the `Add Cleanup Memory.reg` file located in the `extras\Addons` directory.
+
+To remove, simply double-click the `Remove Cleanup Memory.reg` file located in the `extras\Addons` directory.
 
 <h4 style="text-align: center;">Refresh Icon Cache</h4>
 
-- Double-click the `Add Refresh Icon Cache.reg` file located in the `extras\Addons` directory.
-- To remove, simply double-click the `Remove Refresh Icon Cache.reg` file located in the `extras\Addons` directory.
+1. Double-click the `Add Refresh Icon Cache.reg` file located in the `extras\Addons` directory.
+
+To remove, simply double-click the `Remove Refresh Icon Cache.reg` file located in the `extras\Addons` directory.
 
 <h4 style="text-align: center;">MKLINK Assistant</h4>
 
-- Double-click the `Add MKLINK Assistant.reg` file located in the `extras\Addons` directory.
-- To remove, simply double-click the `Remove MKLINK Assistant.reg` file located in the `extras\Addons` directory.
+1. Double-click the `Add MKLINK Assistant.reg` file located in the `extras\Addons` directory.
+
+To remove, simply double-click the `Remove MKLINK Assistant.reg` file located in the `extras\Addons` directory.
