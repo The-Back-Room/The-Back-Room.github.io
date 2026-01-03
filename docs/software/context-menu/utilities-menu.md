@@ -25,7 +25,7 @@ permalink: /software/context-menu/utilities-menu
 - **Restart Explorer7**: Optional feature for explorer7 users to restart explorer 7 without needing the log off. *(Requires explorer7 to be installed into `C:\Utilities\explorer7`.)*
 - **MKLINK Assistant**: Assists in creating symbolic/hard links, and directory junctions using the MKLINK command
 - **Refresh Icon Cache**: Refreshes the icon and thumbnail cache to fix icon display issues.
-- **Cleanup Memory**: Free up memory with by clearing the Working Sets, Standby List, and Modified Page List with the RAMMap Memory Cleanup Script. *(Requires RAMMap to be installed and added to PATH)*
+- **Cleanup Memory**: Free up memory with by clearing the Working Sets, Standby List, and Modified Page List with the RAMMap Memory Cleanup Script.
 
 <h3 style="text-align: center;">Instructions</h3>
 
@@ -77,7 +77,7 @@ If done correctly, the file structure should look like this:
 
 <h4 style="text-align: center;">Cleanup Memory</h4>
 
-1. Download and install RAMMap from the Microsoft Store to ensure it is automatically added to PATH.
+1. Download and install [SysInternals Suit](https://apps.microsoft.com/detail/9p7knl5rwt25) from the Microsoft Store.
 2. Double-click the `Add Cleanup Memory.reg` file located in the `extras\Addons` directory.
 
 To remove, simply double-click the `Remove Cleanup Memory.reg` file located in the `extras\Addons` directory.
