@@ -73,3 +73,19 @@ If done correctly, the file structure should look like this:
 - **AcrylicColorization**: Double-click the registry file for your desired setting in the `explorer7\extras\AcrylicColorixation` directory.
 - **ColorizationOptions**: Double-click the registry file for your desired setting in the `explorer7\extras\ColorizationOptions` directory.
 - **Themes**: Double-click the `aero.reg` file located in the `extras\Themes` directory to enable to aero theme. *(Alternatively, if you know how to work with registry files, you can use the `aero.reg` file as a template to make a registry file for your own themes)*
+
+<h4 style="text-align: center;">Cleanup Memory</h4>
+
+- Download and install RAMMap from the Microsoft Store to ensure it is automatically added to PATH.
+- Double-click the `Add Cleanup Memory.reg` file located in the `extras\Addons` directory.
+- To remove, simply double-click the `Remove Cleanup Memory.reg` file located in the `extras\Addons` directory.
+
+<h4 style="text-align: center;">Refresh Icon Cache</h4>
+
+- Double-click the `Add Refresh Icon Cache.reg` file located in the `extras\Addons` directory.
+- To remove, simply double-click the `Remove Refresh Icon Cache.reg` file located in the `extras\Addons` directory.
+
+<h4 style="text-align: center;">MKLINK Assistant</h4>
+
+- Double-click the `Add MKLINK Assistant.reg` file located in the `extras\Addons` directory.
+- To remove, simply double-click the `Remove MKLINK Assistant.reg` file located in the `extras\Addons` directory.
