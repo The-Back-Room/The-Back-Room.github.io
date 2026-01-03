@@ -43,7 +43,7 @@ permalink: /software/context-menu/utilities-menu
 
 If done correctly, the file structure should look like this:
 
-```
+```md
 - Utilites\
     - explorer7\
         - en-US\
