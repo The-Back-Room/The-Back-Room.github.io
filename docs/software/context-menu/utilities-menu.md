@@ -77,7 +77,7 @@ If done correctly, the file structure should look like this:
 
 <h4 style="text-align: center;">Cleanup Memory</h4>
 
-1. Download and install [SysInternals Suit](https://apps.microsoft.com/detail/9p7knl5rwt25) from the Microsoft Store.
+1. Download and install [Sysinternals Suite](https://apps.microsoft.com/detail/9p7knl5rwt25) from the Microsoft Store.
 2. Double-click the `Add Cleanup Memory.reg` file located in the `extras\Addons` directory.
 
 To remove, simply double-click the `Remove Cleanup Memory.reg` file located in the `extras\Addons` directory.
