@@ -12,7 +12,7 @@ permalink: /software/context-menu/utilities-menu
 
 ---
 
-<h3 style="text-align: center;">Features</h3>
+<h2 style="text-align: center;">Features</h2>
 
 - **Kill Not Responding Tasks**: Finds and kills all non-responding tasks
 - **Kill Task Manager**: Forcibly closes the Task Manager process to resolve issues
@@ -20,14 +20,14 @@ permalink: /software/context-menu/utilities-menu
 - **Restart Start Menu**: Restarts the Start Menu to resolve various UI issues
 - **Verify Windows Integrity**: Verify and repair system files using the System File Checker (SFC) tool and Deployment Imaging Service and Management Tool (DISM)
 
-<h3 style="text-align: center;">Optional Addons</h3>
+<h2 style="text-align: center;">Optional Addons</h2>
 
 - **Restart Explorer7**: Optional feature for explorer7 users to restart explorer 7 without needing the log off. *(Requires explorer7 to be installed into `C:\Utilities\explorer7`.)*
 - **MKLINK Assistant**: Assists in creating symbolic/hard links, and directory junctions using the MKLINK command
 - **Refresh Icon Cache**: Refreshes the icon and thumbnail cache to fix icon display issues.
 - **Cleanup Memory**: Free up memory with by clearing the Working Sets, Standby List, and Modified Page List with the RAMMap Memory Cleanup Script.
 
-<h3 style="text-align: center;">Instructions</h3>
+<h2 style="text-align: center;">Instructions</h2>
 
 1. Download the ZIP file from the link below.
 2. Extract the contents of the ZIP file to a folder of your choice.
@@ -36,9 +36,9 @@ permalink: /software/context-menu/utilities-menu
 
 To remove, simply double-click the `Remove Utilities Menu.reg` file.
 
-<h3 style="text-align: center;">Addon Instructions</h3>
+<h2 style="text-align: center;">Addon Instructions</h2>
 
-<h4 style="text-align: center;">Explorer7</h4>
+<h3 style="text-align: center;">Explorer7</h3>
 
 - Download explorer7 from the official [releases](https://github.com/world-windows-federation/explorer7/releases) page and extract the source files into `C:\Utilities\explorer7`. Then follow the instructions to set it up on your system. *(A windows 7 or xp iso file is required for explorer7. You can find one on [archive.org](https://archive.org/details/windows7ultimatex64_201912))*.
 
@@ -51,20 +51,20 @@ If done correctly, the file structure should look like this:
 - **ColorizationOptions**: Double-click the registry file for your desired setting in the `explorer7\extras\ColorizationOptions` directory.
 - **Themes**: Double-click the `aero.reg` file located in the `extras\Themes` directory to enable to aero theme. *(Alternatively, if you know how to work with registry files, you can use the `aero.reg` file as a template to make a registry file for your own themes)*
 
-<h4 style="text-align: center;">Cleanup Memory</h4>
+<h3 style="text-align: center;">Cleanup Memory</h3>
 
 1. Download and install [Sysinternals Suite](https://apps.microsoft.com/detail/9p7knl5rwt25) from the Microsoft Store.
 2. Double-click the `Add Cleanup Memory.reg` file located in the `extras\Addons` directory.
 
 To remove, simply double-click the `Remove Cleanup Memory.reg` file located in the `extras\Addons` directory.
 
-<h4 style="text-align: center;">Refresh Icon Cache</h4>
+<h3 style="text-align: center;">Refresh Icon Cache</h3>
 
 1. Double-click the `Add Refresh Icon Cache.reg` file located in the `extras\Addons` directory.
 
 To remove, simply double-click the `Remove Refresh Icon Cache.reg` file located in the `extras\Addons` directory.
 
-<h4 style="text-align: center;">MKLINK Assistant</h4>
+<h3 style="text-align: center;">MKLINK Assistant</h3>
 
 1. Double-click the `Add MKLINK Assistant.reg` file located in the `extras\Addons` directory.
 
