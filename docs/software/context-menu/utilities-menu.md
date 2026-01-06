@@ -44,7 +44,7 @@ To remove, simply double-click the `Remove Utilities Menu.reg` file.
 
 If done correctly, the file structure should look like this:
 
-<img width="50%" height="auto" alt="File Structure" src="https://github.com/The-Back-Room/Utilities-Menu-for-Windows-11-Desktop-Context-Menu/blob/aeed95421bf2594e55c632e2d13d8df6f81c96c9/Extras/explorer7-file-structure.bmp?raw=true" />
+<img width="50%" height="auto" alt="File Structure" src="https://raw.githubusercontent.com/The-Back-Room/Utilities-Menu-for-Windows-11-Desktop-Context-Menu/refs/heads/main/Extras/explorer7-file-structure.bmp" />
 
 - **Enable Modern Apps**: Double-click the `Enable Modern Apps.reg` file included in the `explorer7\extra` directory to enable support for modern apps in explorer7.
 - **AcrylicColorization**: Double-click the registry file for your desired setting in the `explorer7\extras\AcrylicColorixation` directory.
