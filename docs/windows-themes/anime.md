@@ -28,7 +28,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 </div>
 <div class="description body">
 <h3 class="text-gamma">Naruto</h3>
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/archive/main/naruto-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/naruto" class="text-delta btn btn-secondary btn-sm">Overview</a>
+<a href="/windows-themes/anime/naruto" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 
 <div class="gallery-item">
@@ -36,15 +36,15 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 </div>
 <div class="description body">
 <h3 class="text-gamma">Bleach</h3>
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/archive/main/bleach-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/bleach" class="text-delta btn btn-secondary btn-sm">Overview</a>
+<a href="/windows-themes/anime/bleach" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/bleach-tybw.png" alt="Bleach TYBW Theme" />
 </div>
 <div class="description body">
-<h3 class="text-gamma">Bleach: Thousand-Year Blood War</h3>
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/archive/main/bleach-thousand-year-blood-war-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/bleach-tybw" class="text-delta btn btn-secondary btn-sm">Overview</a>
+<h3 class="text-gamma">Bleach TYBW</h3>
+<a href="/windows-themes/anime/bleach-tybw" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 
 <div class="gallery-item">
@@ -52,7 +52,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 </div>
 <div class="description body">
 <h3 class="text-gamma">Studio Ghibli</h3>
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/-/archive/main/studio-ghibli-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/studio-ghibli" class="text-delta btn btn-secondary btn-sm">Overview</a>
+<a href="/windows-themes/anime/studio-ghibli" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
 
