@@ -1,7 +1,7 @@
 ---
 title: Utilities Menu
 tags: [Software, Context Menu, Utilities]
-social_image: /assets/images/preview-images/utilities-menu.png
+social_image: /assets/images/preview-images/context-menu/utilities-menu.png
 summary: >
   Utlities menu for Windows 11 desktop context menu.
 nav_exclude: true
