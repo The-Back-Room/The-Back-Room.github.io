@@ -23,7 +23,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="gallery">
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-it.png" alt="IT" width="200" height="auto" />
 <div class="description body">
@@ -34,7 +34,7 @@ A horror theme for Windows 10 and 11 inspired by the popular horror novel and mo
 </div>
 </div>
 
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-a-nightmare-on-elm-street.png" alt="A Nightmare On Elm Street Theme" width="200" height="auto" />
 <div class="description body">

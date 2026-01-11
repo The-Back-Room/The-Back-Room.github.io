@@ -23,7 +23,7 @@ The following is a collection of miscellaneous themes for Windows 10 and 11. The
 ---
 
 <div class="gallery">
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-macos-abstract.png" alt="MacOS Abstract Theme" width="200" height="auto" />
 <div class="description body">
@@ -34,7 +34,7 @@ MacOS abstract themes ported to Windows 10 and 11.<br /><br />
 </div>
 </div>
 
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-macos.png" alt="MacOS" width="200" height="auto" />
 <div class="description body">

@@ -23,7 +23,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="gallery">
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-ffxiv-arr.png" alt="FFXIV ARR" width="200" height="auto" />
 <div class="description body">
@@ -34,7 +34,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 </div>
 </div>
 
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-ffxiv-heavensward.png" alt="FFXIV Heavensward" width="200" height="auto" />
 <div class="description body">
@@ -45,7 +45,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 </div>
 </div>
 
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-ffxiv-stormblood.png" alt="FFXIV Stormblood" width="200" height="auto" />
 <div class="description body">
@@ -56,7 +56,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 </div>
 </div>
 
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-ffxiv-shadowbringers.png" alt="FFXIV Shadowbringers" width="200" height="auto" />
 <div class="description body">
@@ -67,7 +67,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 </div>
 </div>
 
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-ffxiv-endwalker.png" alt="FFXIV Endwalker" width="200" height="auto" />
 <div class="description body">
@@ -78,7 +78,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 </div>
 </div>
 
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-ffxiv-dawntrail.png" alt="FFXIV Endwalker" width="200" height="auto" />
 <div class="description body">
@@ -89,7 +89,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 </div>
 </div>
 
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-final-fantasy-xiv.png" alt="Final Fantasy XIV" width="200" height="auto" />
 <div class="description body">
@@ -100,7 +100,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 </div>
 </div>
 
-</div class="gallery-item">
+<div class="gallery-item">
 <div class="card">
 <img src="/assets/images/preview-images/windows-themes/cover-once-human.png" alt="Once Human Theme" width="200" height="auto" />
 <div class="description body">

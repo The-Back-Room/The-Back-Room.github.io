@@ -36,11 +36,6 @@
   box-shadow: 0 2px 4px darken($sidebar-color, 10%);
 }
 
-.card-item {
-  margin: 5px;
-  width: calc(25% - 20px);
-}
-
 .card .description {
   margin-top: 10px;
   width: 70%;
@@ -52,11 +47,6 @@
   border-radius: 4px;
   width: 30%;
   height: auto;
-}
-
-.card img:hover {
-  border: 1px solid darken($border-color, 10%);
-  box-shadow: 0 4px 8px darken($sidebar-color, 10%);
 }
 
 .gallery {
