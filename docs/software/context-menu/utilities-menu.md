@@ -1,7 +1,7 @@
 ---
 title: Utilities Menu
 tags: [Software, Context Menu, Utilities]
-social_image: /assets/images/social-images/cover-utilities-menu.png
+social_image: /assets/images/preview-images/utilities-menu.png
 summary: >
   Utlities menu for Windows 11 desktop context menu.
 nav_exclude: true
@@ -29,7 +29,7 @@ permalink: /software/context-menu/utilities-menu
 
 <h2 style="text-align: center;">Instructions</h2>
 
-1. Download the ZIP file from the link below.
+1. Download the ZIP file from the buttonk at the bottom of this page.
 2. Extract the contents of the ZIP file to a folder of your choice.
 3. Copy the `Utilities` folder to the root of your `C:` drive `(C:\Utilities)`.
 4. Double-click the `Add Utilities Menu.reg` file to add the Utilities Menu to your desktop context menu.
@@ -69,3 +69,7 @@ To remove, simply double-click the `Remove Refresh Icon Cache.reg` file located 
 1. Double-click the `Add MKLINK Assistant.reg` file located in the `extras\Addons` directory.
 
 To remove, simply double-click the `Remove MKLINK Assistant.reg` file located in the `extras\Addons` directory.
+
+---
+
+<a href="https://github.com/The-Back-Room/Utilities-Menu-for-Windows-11-Desktop-Context-Menu/archive/refs/heads/main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 

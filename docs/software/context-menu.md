@@ -19,6 +19,6 @@ The context menu in Windows provides quick access to various functions and featu
 <div class="description body">
 <h3 class="text-gamma">Utilities Menu</h3>
 A context menu extension that adds a "Utilities" submenu to the right-click context menu in Windows Explorer. This submenu provides quick access to various system utilities and tools.<br /><br />
-<a href="https://github.com/The-Back-Room/Utilities-Menu-for-Windows-11-Desktop-Context-Menu/archive/refs/heads/main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/software/context-menu/utilities-menu" class="text-delta btn btn-secondary btn-sm">Overview</a>
+<a href="/software/context-menu/utilities-menu" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
