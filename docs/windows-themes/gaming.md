@@ -26,54 +26,54 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-arr.png" alt="FFXIV ARR" />
 <div class="description text-delta">
-FFXIV A Realm Reborn
+FFXIV ARR
 <br />
-<a href="/windows-themes/gaming/ffxiv-arr" class="text-delta btn btn-secondary btn-sm">View Page</a>
+<a href="/windows-themes/gaming/ffxiv-arr" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-heavensward.png" alt="FFXIV Heavensward" />
 <div class="description text-delta">
-FFXIV Heavensward
+FFXIV HS
 <br />
-<a href="/windows-themes/gaming/ffxiv-heavensward" class="text-delta btn btn-secondary btn-sm">View Page</a>
+<a href="/windows-themes/gaming/ffxiv-heavensward" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-stormblood.png" alt="FFXIV Stormblood" />
 <div class="description text-delta">
-FFXIV Stormblood
+FFXIV SB
 <br />
-<a href="/windows-themes/gaming/ffxiv-stormblood" class="text-delta btn btn-secondary btn-sm">View Page</a>
+<a href="/windows-themes/gaming/ffxiv-stormblood" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-shadowbringers.png" alt="FFXIV Shadowbringers" />
 <div class="description text-delta">
-FFXIV Shadowbringer
+FFXIV ShB
 <br />
-<a href="/windows-themes/gaming/ffxiv-shadowbringers" class="text-delta btn btn-secondary btn-sm">View Page</a>
+<a href="/windows-themes/gaming/ffxiv-shadowbringers" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-endwalker.png" alt="FFXIV Endwalker" />
 <div class="description text-delta">
-FFXIV Endwalker
+FFXIV EW
 <br />
-<a href="/windows-themes/gaming/ffxiv-endwalker" class="text-delta btn btn-secondary btn-sm">View Page</a>
+<a href="/windows-themes/gaming/ffxiv-endwalker" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-dawntrail.png" alt="FFXIV Endwalker" />
 <div class="description text-delta">
-FFXIV Dawntrail
+FFXIV DT
 <br />
-<a href="/windows-themes/gaming/ffxiv-dawntrail" class="text-delta btn btn-secondary btn-sm">View Page</a>
+<a href="/windows-themes/gaming/ffxiv-dawntrail" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
@@ -82,7 +82,7 @@ FFXIV Dawntrail
 <div class="description text-delta">
 FFXIV
 <br />
-<a href="/windows-themes/gaming/ffxiv" class="text-delta btn btn-secondary btn-sm">View Page</a>
+<a href="/windows-themes/gaming/ffxiv" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
@@ -91,7 +91,7 @@ FFXIV
 <div class="description text-delta">
 Once Human
 <br />
-<a href="/windows-themes/gaming/once-human" class="text-delta btn btn-secondary btn-sm">View Page</a>
+<a href="/windows-themes/gaming/once-human" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 </div>

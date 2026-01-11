@@ -28,7 +28,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="description text-delta">
 Courage TCD
 <br />
-<a href="/windows-themes/cartoon/courage-tcd" class="text-delta btn btn-secondary btn-sm">View Page</a>
+<a href="/windows-themes/cartoon/courage-tcd" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 </div>
