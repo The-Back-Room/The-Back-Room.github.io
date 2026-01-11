@@ -24,24 +24,18 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="gallery">
 <div class="gallery-item">
-<div class="card">
 <img src="/assets/images/preview-images/windows-themes/it.png" alt="IT" />
 </div>
 <div class="description body">
 <h3 class="text-gamma">IT</h3>
-<!-- A horror theme for Windows 10 and 11 inspired by the popular horror novel and movie franchise IT.<br /><br /> -->
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/archive/main/it-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/horror/it" class="text-delta btn btn-secondary btn-sm">Overview</a>
-</div>
 </div>
 
 <div class="gallery-item">
-<div class="card">
 <img src="/assets/images/preview-images/windows-themes/a-nightmare-on-elm-street.png" alt="A Nightmare On Elm Street Theme" />
 </div>
 <div class="description body">
 <h3 class="text-gamma">A Nightmare On Elm Street</h3>
-<!-- A horror theme for Windows 10 and 11 inspired by the popular horror movie franchise A Nightmare On Elm Street.<br /><br /> -->
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/archive/main/a-nightmare-on-elm-street-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/horror/a-nightmare-on-elm-street" class="text-delta btn btn-secondary btn-sm">Overview</a>
-</div>
 </div>
 </div>

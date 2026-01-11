@@ -23,22 +23,12 @@
   }
 }
 
-
-.card {
-  border: 1px solid $border-color;
-  border-radius: 4px;
-  padding: 10px;
-  margin-bottom: 20px;
-  background-color: $sidebar-color;
-  box-shadow: 0 2px 4px darken($sidebar-color, 10%);
-}
-
 .gallery {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
 }
-  
+
 .gallery-item {
   margin: 5px;
   border: 1px solid $border-color;
