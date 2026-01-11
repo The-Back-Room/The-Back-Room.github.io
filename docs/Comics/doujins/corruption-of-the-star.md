@@ -1,10 +1,10 @@
 ---
 title: Corruption of the Star
-social_image: https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Star/cover.webp
+social_image: /assets/images/social-images/comics/cover-ffxiv-corruption-of-the-star.png
 summary: >
     A fan-made doujinshi based in the Final Fantasy XIV universe.
 nav_exclude: true
-permalink: /comics/doujins/final-fantasy-xiv/corruption-of-the-star
+permalink: /comics/doujins/corruption-of-the-star
 ---
 
 {: .important }

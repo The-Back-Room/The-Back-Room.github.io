@@ -28,20 +28,21 @@ The comics listed here may parody popular series or feature original content. Pl
 
 ---
 
-<div class="card">
-<img src="/assets/images/list-items/comics/ranma-12.png" alt="Ranma 1/2 Doujinshi Collection" width="200" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Ranma 1/2</h3>
-A collection of NSFW doujinshi inspired by the popular anime and manga series Ranma 1/2.<br /><br />
-<a href="/comics/doujins/ranma-12" class="text-delta btn btn-secondary btn-sm">View Doujins</a>
+<div class="gallery">
+<div class="gallery-item">
+<img src="/assets/images/preview-images/doujins/FFXIV Corruption of the Star.png" alt="Corruption of the Stars" width="100" height="auto" />
+<div class="description text-delta">
+<h3 class="text-gamma">Corruption of the Stars</h3>
+A fan-made doujinshi based in the Final Fantasy XIV universe.<br /><br />This doujin takes place in a seperate timeline after the Scions have completed their adventures. <br /><br />
+<a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/archive/main/corruption-of-the-star-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/comics/doujins/final-fantasy-xiv/corruption-of-the-star" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
 
-<div class="card">
-<img src="/assets/images/list-items/comics/final-fantasy-xiv.png" alt="Final Fantasy XIV Doujinshi Collection" width="200" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Final Fantasy XIV</h3>
-A collection of NSFW doujinshi inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
-<a href="/comics/doujins/final-fantasy-xiv" class="text-delta btn btn-secondary btn-sm">View Doujins</a>
+<div class="gallery-item">
+<img src="https://github.com/The-Back-Room/The-Back-Room.github.io/blob/main/docs/assets/images/preview-images/doujins/Ranma%201-2%20Summer%20Heat%20Cover.gif?raw=true" alt="Ranma 1/2 Summer Heat" width="100" height="auto" />
+<div class="description text-delta">
+<h3 class="text-gamma">Ranma 1/2 Summer Heat</h3>
+<a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/archive/main/summer-heat-main.zip?ref_type=heads" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/comics/doujins/ranma-12/summer-heat" class="text-delta btn btn-secondary btn-sm">Overview</a>
+</div>
 </div>
 </div>
