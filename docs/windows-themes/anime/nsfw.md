@@ -24,6 +24,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 
 ---
 
+<div class="gallery">
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/love-stage.png" alt="Love Stage!! Theme" />
 <div class="description text-delta">
@@ -50,7 +51,7 @@ Lewd Gamer Waifus
 <a href="/windows-themes/anime/nsfw/lewd-gamer-waifus" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
-<div class="gallery">
+
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/ranma-hentai.png" alt="Ranma ½ Hentai Theme" />
 <div class="description text-delta">
