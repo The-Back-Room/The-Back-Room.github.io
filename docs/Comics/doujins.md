@@ -30,7 +30,7 @@ The comics listed here may parody popular series or feature original content. Pl
 
 <div class="gallery">
 <div class="gallery-item">
-<img src="/assets/images/social-images/comics/cover-ffxiv-corruption-of-the-star.png" alt="Corruption of the Stars" />
+<img src="/assets/images/preview-images/doujins/FFXIV Corruption of the Star.png" alt="Corruption of the Stars" />
 <div class="description text-delta">
 Corruption of the Stars
 <br /><br />
@@ -39,7 +39,7 @@ Corruption of the Stars
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/social-images/comics/cover-ranma-12-summer-heat.png" alt="Ranma 1/2 Summer Heat" />
+<img src="/assets/images/preview-images/doujins/Ranma 1-2 Summer Heat Cover.gif?raw=true" alt="Ranma 1/2 Summer Heat" />
 <div class="description text-delta">
 Ranma 1/2 Summer Heat
 <br /><br />
