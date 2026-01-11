@@ -27,6 +27,7 @@ The following is a collection of miscellaneous themes for Windows 10 and 11. The
 <img src="/assets/images/preview-images/windows-themes/macos-abstract.png" alt="MacOS Abstract Theme" />
 <div class="description">
 MacOS Abstract
+<br />
 <a href="/windows-themes/miscellaneous/macos-abstract" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -35,6 +36,7 @@ MacOS Abstract
 <img src="/assets/images/preview-images/windows-themes/macos.png" alt="MacOS" />
 <div class="description">
 MacOS
+<br />
 <a href="/windows-themes/miscellaneous/macos" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>

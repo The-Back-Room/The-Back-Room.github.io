@@ -25,81 +25,91 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 ---
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/love-stage.png" alt="Love Stage!! Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/love-stage.png" alt="Love Stage!! Theme" />
 <div class="description body">
 Love Stage!!
+<br />
 <a href="/windows-themes/anime/nsfw/love-stage" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/ecchi.png" alt="Ecchi Anime Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/ecchi.png" alt="Ecchi Anime Theme" />
 <div class="description body">
 Ecchi
+<br />
 <a href="/windows-themes/anime/nsfw/ecchi" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/lewd-gamer-waifus.png" alt="Lewd Gamer Waifus Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/lewd-gamer-waifus.png" alt="Lewd Gamer Waifus Theme" />
 <div class="description body">
 Lewd Gamer Waifus
+<br />
 <a href="/windows-themes/anime/nsfw/lewd-gamer-waifus" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 <div class="gallery">
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/ranma-hentai.png" alt="Ranma ½ Hentai Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/ranma-hentai.png" alt="Ranma ½ Hentai Theme" />
 <div class="description body">
-Ranma ½ Hentai
+Ranma Hentai
+<br />
 <a href="/windows-themes/anime/nsfw/ranma-hentai" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/naruto-ninja-hotsprings.png" alt="Naruto Ninja Hotsprings Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/naruto-ninja-hotsprings.png" alt="Naruto Ninja Hotsprings Theme" />
 <div class="description body">
 Naruto Ninja Hotsprings
+<br />
 <a href="/windows-themes/anime/nsfw/naruto-ninja-hotsprings" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/naruto-hentai.png" alt="Naruto Hentai Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/naruto-hentai.png" alt="Naruto Hentai Theme" />
 <div class="description body">
 Naruto Hentai
+<br />
 <a href="/windows-themes/anime/nsfw/naruto-hentai" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/bleach-ecchi.png" alt="Bleach Ecchi Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/bleach-ecchi.png" alt="Bleach Ecchi Theme" />
 <div class="description body">
 BLEACH Ecchi
+<br />
 <a href="/windows-themes/anime/nsfw/bleach-ecchi" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/bleach-hentai.png" alt="Bleach Hentai Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/bleach-hentai.png" alt="Bleach Hentai Theme" />
 <div class="description body">
 BLEACH Hentai
+<br />
 <a href="/windows-themes/anime/nsfw/bleach-hentai" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/futanari-hentai.png" alt="Futanari Hentai Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/futanari-hentai.png" alt="Futanari Hentai Theme" />
 <div class="description body">
 Futanari Hentai
+<br />
 <a href="/windows-themes/anime/nsfw/futanari-hentai" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/hentai-senpai.png" alt="Hentai Senpai Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/hentai-senpai.png" alt="Hentai Senpai Theme" />
 <div class="description body">
 Hentai Senpai
+<br />
 <a href="/windows-themes/anime/nsfw/hentai-senpai" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
