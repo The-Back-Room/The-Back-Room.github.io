@@ -1,7 +1,7 @@
 ---
 title: Final Fantasy XIV
 tags: [NSFW, Comics, Doujinshi, Final Fantasy XIV]
-social_image: /assets/images/social-images/cover-ffxiv.png
+social_image: /assets/images/social-images/comics/cover-ffxiv.png
 summary: >
     A collection of doujinshi inspired by the popular MMORPG Final Fantasy XIV.
 nav_exclude: true

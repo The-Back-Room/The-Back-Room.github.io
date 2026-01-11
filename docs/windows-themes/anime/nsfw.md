@@ -1,6 +1,6 @@
 ---
 title: NSW Anime
-social_image: /assets/images/social-images/cover-anime-themes.png
+social_image: /assets/images/social-images/windows-themes/cover-anime-themes.png
 summary: >
     Themes for Windows 10 and 11 featuring NSFW content inspired by popular anime and manga series.
 nav_exclude: true
@@ -102,6 +102,15 @@ A NSFW theme for Windows 10 and 11 featuring lewd depictions of characters from 
 <h3 class="text-gamma">Futanari Hentai</h3>
 A NSFW theme for Windows 10 and 11 featuring explicit futanari hentai artwork.<br /><br />
 <a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/futanari-hentai/-/archive/main/futanari-hentai-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/nsfw/futanari-hentai" class="text-delta btn btn-secondary btn-sm">Overview</a>
+</div>
+</div>
+
+<div class="card">
+<img src="/assets/images/list-items/windows-themes/hentai-senpai.png" alt="Futanari Hentai Theme" width="200" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Hentai Senpai</h3>
+A NSFW theme for Windows 10 and 11.<br /><br />
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/hentai-senpai/-/archive/main/hentai-senpai-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/nsfw/hentai-senpai" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
 

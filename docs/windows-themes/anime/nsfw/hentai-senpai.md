@@ -1,11 +1,11 @@
 ---
-title: Lewd Gamer Waifus
+title: Hentai Senpai
 tags: [Windows Themes, NSFW, Anime]
-social_image: /assets/images/social-images/windows-themes/cover-lewd-gamer-waifus.png
+social_image: /assets/images/social-images/windows-themes/cover-hentai-senpai.png
 summary: >
-    A NSFW theme for Windows 10 and 11 depicting lewd gamer waifus.
+    A NSFW theme for Windows 10 and 11.
 nav_exclude: true
-permalink: /windows-themes/anime/nsfw/lewd-gamer-waifus
+permalink: /windows-themes/anime/nsfw/hentai-senpai
 ---
 
 {: .important }
@@ -17,14 +17,15 @@ permalink: /windows-themes/anime/nsfw/lewd-gamer-waifus
 
 ---
 
-<img src="/assets/images/preview-images/windows-themes/lewd-gamer-waifus.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/preview-images/windows-themes/hentai-senpai.png" alt="Preview" width="100%" height="auto" />
 
 ---
 
 <h3 align="center">Features</h3>
 
-* Multiple NSFW Wallpapers
-* **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
+- **Multiple Wallpapers**: Multiple minimalistic HD wallpapers.
+- **Custom Cursors**: Windows 11 Concept Tailless Version by [jepriCreations](https:/deviantart.com/jepriCreations)
+- **Custom Change Theme Sound**: Shoujo S
 
 ---
 

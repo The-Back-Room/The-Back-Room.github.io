@@ -1,6 +1,6 @@
 ---
 title: Gaming
-social_image: /assets/images/social-images/cover-gaming-themes.png
+social_image: /assets/images/social-images/windows-themes/cover-gaming-themes.png
 summary: >
     Themes for Windows 10 and 11 inspired by popular video games.
 has_toc: false
@@ -14,7 +14,7 @@ permalink: /windows-themes/gaming
 
 ---
 
-<img src="/assets/images/social-images/cover-gaming-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/social-images/windows-themes/cover-gaming-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 

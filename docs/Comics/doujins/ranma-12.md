@@ -1,7 +1,7 @@
 ---
 title: Ranma 1/2
 tags: [NSFW, Comics, Doujinshi, Ranma 1/2]
-social_image: /assets/images/social-images/cover-ranma-12.png
+social_image: /assets/images/social-images/comics/cover-ranma-12.png
 summary: >
     A collection of doujinshi inspired by the popular anime and manga series Ranma 1/2.
 nav_exclude: true

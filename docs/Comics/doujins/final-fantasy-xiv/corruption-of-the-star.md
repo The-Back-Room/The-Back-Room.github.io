@@ -1,6 +1,6 @@
 ---
 title: Corruption of the Star
-social_image: /assets/images/social-images/cover-ffxiv-corruption-of-the-star.png
+social_image: /assets/images/social-images/comics/cover-ffxiv-corruption-of-the-star.png
 summary: >
     A fan-made doujinshi based in the Final Fantasy XIV universe.
 nav_exclude: true
