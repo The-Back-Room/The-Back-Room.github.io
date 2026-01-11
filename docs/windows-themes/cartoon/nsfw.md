@@ -1,6 +1,6 @@
 ---
 title: NSW Cartoon
-social_image: /assets/images/social-images/cover-cartoon-themes.png
+social_image: /assets/images/social-images/windows-themes/cover-cartoon-themes.png
 summary: >
     Themes for Windows 10 and 11 featuring NSFW content inspired by classic western animated tv series.
 nav_exclude: true

@@ -1,6 +1,6 @@
 ---
 title: NSFW Miscellaneous
-social_image: /assets/images/social-images/cover-miscellaneous-themes.png
+social_image: /assets/images/social-images/windows-themes/cover-miscellaneous-themes.png
 summary: >
     Themes for windows 10 and 11 featurng NSFW content that don't fit into other categories.
 nav_exclude: true
