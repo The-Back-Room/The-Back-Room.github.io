@@ -26,7 +26,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 
 <div class="gallery">
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/love-stage.png" alt="Love Stage!! Theme" />
+<img src="/assets/images/preview-images/windows-themes/love-stage.png" alt="Love Stage!! Theme" />
 <div class="description text-delta">
 Love Stage!!
 <br /><br />
@@ -35,7 +35,7 @@ Love Stage!!
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/ecchi.png" alt="Ecchi Anime Theme" />
+<img src="/assets/images/preview-images/windows-themes/ecchi.png" alt="Ecchi Anime Theme" />
 <div class="description text-delta">
 Ecchi
 <br /><br />
@@ -44,7 +44,7 @@ Ecchi
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/lewd-gamer-waifus.png" alt="Lewd Gamer Waifus Theme" />
+<img src="/assets/images/preview-images/windows-themes/lewd-gamer-waifus.png" alt="Lewd Gamer Waifus Theme" />
 <div class="description text-delta">
 Lewd Gamer Waifus
 <br /><br />
@@ -53,7 +53,7 @@ Lewd Gamer Waifus
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/ranma-hentai.png" alt="Ranma ½ Hentai Theme" />
+<img src="/assets/images/preview-images/windows-themes/ranma-hentai.png" alt="Ranma ½ Hentai Theme" />
 <div class="description text-delta">
 Ranma Hentai
 <br /><br />
@@ -62,7 +62,7 @@ Ranma Hentai
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/naruto-ninja-hotsprings.png" alt="Naruto Ninja Hotsprings Theme" />
+<img src="/assets/images/preview-images/windows-themes/naruto-ninja-hotsprings.png" alt="Naruto Ninja Hotsprings Theme" />
 <div class="description text-delta">
 Naruto Ninja Hotsprings
 <br /><br />
@@ -71,7 +71,7 @@ Naruto Ninja Hotsprings
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/naruto-hentai.png" alt="Naruto Hentai Theme" />
+<img src="/assets/images/preview-images/windows-themes/naruto-hentai.png" alt="Naruto Hentai Theme" />
 <div class="description text-delta">
 Naruto Hentai
 <br /><br />
@@ -80,7 +80,7 @@ Naruto Hentai
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/bleach-ecchi.png" alt="Bleach Ecchi Theme" />
+<img src="/assets/images/preview-images/windows-themes/bleach-ecchi.png" alt="Bleach Ecchi Theme" />
 <div class="description text-delta">
 BLEACH Ecchi
 <br /><br />
@@ -89,7 +89,7 @@ BLEACH Ecchi
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/bleach-hentai.png" alt="Bleach Hentai Theme" />
+<img src="/assets/images/preview-images/windows-themes/bleach-hentai.png" alt="Bleach Hentai Theme" />
 <div class="description text-delta">
 BLEACH Hentai
 <br /><br />
@@ -98,7 +98,7 @@ BLEACH Hentai
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/futanari-hentai.png" alt="Futanari Hentai Theme" />
+<img src="/assets/images/preview-images/windows-themes/futanari-hentai.png" alt="Futanari Hentai Theme" />
 <div class="description text-delta">
 Futanari Hentai
 <br /><br />
@@ -107,7 +107,7 @@ Futanari Hentai
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/list-items/windows-themes/hentai-senpai.png" alt="Hentai Senpai Theme" />
+<img src="/assets/images/preview-images/windows-themes/hentai-senpai.png" alt="Hentai Senpai Theme" />
 <div class="description text-delta">
 Hentai Senpai
 <br /><br />
