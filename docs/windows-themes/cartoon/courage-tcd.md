@@ -20,7 +20,7 @@ permalink: /windows-themes/cartoon/courage-tcd
 
 <h3 align="center">Features</h3>
 
-* Multiple Wallpapers
+* **Multiple Wallpapers**: Multiple wallpapers inspired by the classic Cartoon Network series Courage the Cowardly Dog
 * **Custom Sounds**: Custom Courage TCD sound scheme
 * **Custom Cursors**: Custom Courage TCD cursors
 

@@ -1,7 +1,7 @@
 ---
 title: MacOS
 tags: [Windows Themes, Miscellaneous, macOS]
-social_image: /assets/images/social-images/windows-themes/cover-macos.png
+social_image: /assets/images/preview-images/windows-themes/macos.png
 summary: >
     MacOS themes ported to Windows 10 and 11.
 nav_exclude: true
