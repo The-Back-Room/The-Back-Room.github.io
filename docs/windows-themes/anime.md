@@ -23,7 +23,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 ---
 
 <div class="gallery">
-<div class="card">
+<div class="card card-item">
 <img src="/assets/images/list-items/windows-themes/naruto.png" alt="Naruto Theme" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Naruto</h3>
@@ -41,7 +41,7 @@ A theme for Windows 10 and 11 inspired by the popular anime and manga series Ble
 </div>
 </div>
 
-<div class="card">
+<div class="card card-item">
 <img src="/assets/images/list-items/windows-themes/bleach-tybw.png" alt="Bleach TYBW Theme" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Bleach: Thousand-Year Blood War</h3>
@@ -50,7 +50,7 @@ A theme for Windows 10 and 11 inspired by the popular anime and manga series Ble
 </div>
 </div>
 
-<div class="card">
+<div class="card card-item">
 <img src="/assets/images/list-items/windows-themes/studio-ghibli.png" alt="Futanari Hentai Theme" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Studio Ghibli</h3>

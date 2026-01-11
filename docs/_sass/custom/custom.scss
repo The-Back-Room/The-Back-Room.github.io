@@ -34,6 +34,10 @@
   margin-bottom: 20px;
   background-color: $sidebar-color;
   box-shadow: 0 2px 4px darken($sidebar-color, 10%);
+}
+
+.card-item {
+  margin: 5px;
   width: calc(25% - 20px);
 }
 
