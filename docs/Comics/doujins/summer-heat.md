@@ -3,7 +3,7 @@ title: Summer Heat
 tags: [NSFW, Comics, Doujinshi, Ranma 1/2]
 social_image: /assets/images/preview-images/doujins/Ranma 1-2 Summer Heat Cover.gif?raw=true
 summary: >
-  A fan-made doujinshi inspired by the popular anime and manga series Ranma 1/2.
+  Ranma and friends explore unique ways of dealing with the summer heat.
 nav_exclude: true
 has_toc: false
 permalink: /comics/doujins/summer-heat
