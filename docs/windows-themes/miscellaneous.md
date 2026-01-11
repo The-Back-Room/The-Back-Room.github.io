@@ -34,7 +34,7 @@ The following is a collection of miscellaneous themes for Windows 10 and 11. The
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/macos.png" alt="MacOS" />
 <div class="description body">
-<h3 class="text-gamma">MacOS Themes for Windows</h3>
+<h3 class="text-gamma">MacOS</h3>
 <a href="/windows-themes/miscellaneous/macos" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
