@@ -22,6 +22,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 ---
 
+<div class="gallery">
 <div class="card">
 <img src="/assets/images/list-items/windows-themes/ffxiv-arr.png" alt="FFXIV ARR" width="200" height="auto" />
 <div class="description body">
@@ -91,6 +92,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 <h3 class="text-gamma">Once Human</h3>
 A theme for Windows 10 and 11 inspired by the popular video game Once Human.<br /><br />
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/once-human" class="text-delta btn btn-secondary btn-sm">Overview</a>
+</div>
 </div>
 </div>
 

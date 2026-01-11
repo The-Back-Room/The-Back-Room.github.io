@@ -22,6 +22,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 ---
 
+<div class="gallery">
 <div class="card">
 <img src="/assets/images/list-items/windows-themes/naruto.png" alt="Naruto Theme" width="200" height="auto" />
 <div class="description body">
@@ -55,6 +56,7 @@ A theme for Windows 10 and 11 inspired by the popular anime and manga series Ble
 <h3 class="text-gamma">Studio Ghibli</h3>
 A theme for Windows 10 and 11 celebrating the magical worlds created by Studio Ghibli. <br /><br />
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/-/archive/main/studio-ghibli-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/studio-ghibli" class="text-delta btn btn-secondary btn-sm">Overview</a>
+</div>
 </div>
 </div>
 

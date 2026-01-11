@@ -22,6 +22,7 @@ The following is a collection of miscellaneous themes for Windows 10 and 11. The
 
 ---
 
+<div class="gallery">
 <div class="card">
 <img src="/assets/images/list-items/windows-themes/macos-abstract.png" alt="MacOS Abstract Theme" width="200" height="auto" />
 <div class="description body">
@@ -37,5 +38,6 @@ MacOS abstract themes ported to Windows 10 and 11.<br /><br />
 <h3 class="text-gamma">MacOS Themes for Windows</h3>
 MacOS themes ported to Windows 10 and 11.<br /><br />
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/archive/main/macos-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/miscellaneous/macos" class="text-delta btn btn-secondary btn-sm">Overview</a>
+</div>
 </div>
 </div>
