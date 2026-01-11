@@ -1,5 +1,5 @@
 ---
-title: FFXIV Endwalker
+title: Final Fantasi XIV - Endwalker
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
 social_image: /assets/images/social-images/windows-themes/cover-ffxiv-endwalker.png
 summary: >

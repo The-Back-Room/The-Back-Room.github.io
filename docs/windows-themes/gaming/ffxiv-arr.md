@@ -1,5 +1,5 @@
 ---
-title: FFXIV A Realm Reborn
+title: Final Fantasi XIV - A Realm Reborn
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
 social_image: /assets/images/social-images/windows-themes/cover-ffxiv-arr.png
 summary: >

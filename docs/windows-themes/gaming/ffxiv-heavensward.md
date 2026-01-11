@@ -1,5 +1,5 @@
 ---
-title: FFXIV Heavensward
+title: Final Fantasi XIV - Heavensward
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
 social_image: /assets/images/social-images/windows-themes/cover-ffxiv-heavensward.png
 summary: >

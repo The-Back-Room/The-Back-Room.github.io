@@ -1,5 +1,5 @@
 ---
-title: FFXIV Dawntrail
+title: Final Fantasi XIV - Dawntrail
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
 social_image: /assets/images/social-images/windows-themes/cover-ffxiv-dawntrail.png
 summary: >

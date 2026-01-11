@@ -1,5 +1,5 @@
 ---
-title: FFXIV Stormblood
+title: Final Fantasi XIV - Stormblood
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
 social_image: /assets/images/social-images/windows-themes/cover-ffxiv-stormblood.png
 summary: >
