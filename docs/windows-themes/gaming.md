@@ -26,7 +26,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-arr.png" alt="FFXIV ARR" />
 <div class="description">
-Final Fantasy XIV: A Realm Reborn
+FFXIV A Realm Reborn
 <a href="/windows-themes/gaming/ffxiv-arr" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -34,7 +34,7 @@ Final Fantasy XIV: A Realm Reborn
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-heavensward.png" alt="FFXIV Heavensward" />
 <div class="description">
-Final Fantasy XIV: Heavensward
+FFXIV Heavensward
 <a href="/windows-themes/gaming/ffxiv-heavensward" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -42,7 +42,7 @@ Final Fantasy XIV: Heavensward
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-stormblood.png" alt="FFXIV Stormblood" />
 <div class="description">
-Final Fantasy XIV: Stormblood
+FFXIV Stormblood
 <a href="/windows-themes/gaming/ffxiv-stormblood" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -50,7 +50,7 @@ Final Fantasy XIV: Stormblood
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-shadowbringers.png" alt="FFXIV Shadowbringers" />
 <div class="description">
-Final Fantasy XIV: Shadowbringers
+FFXIV Shadowbringers
 <a href="/windows-themes/gaming/ffxiv-shadowbringers" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -58,7 +58,7 @@ Final Fantasy XIV: Shadowbringers
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-endwalker.png" alt="FFXIV Endwalker" />
 <div class="description">
-Final Fantasy XIV: Endwalker
+FFXIV Endwalker
 <a href="/windows-themes/gaming/ffxiv-endwalker" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -66,15 +66,15 @@ Final Fantasy XIV: Endwalker
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-dawntrail.png" alt="FFXIV Endwalker" />
 <div class="description">
-Final Fantasy XIV: Dawntrail
+FFXIV Dawntrail
 <a href="/windows-themes/gaming/ffxiv-dawntrail" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/preview-images/windows-themes/final-fantasy-xiv.png" alt="Final Fantasy XIV" />
+<img src="/assets/images/preview-images/windows-themes/final-fantasy-xiv.png" alt="FFXIV" />
 <div class="description">
-Final Fantasy XIV
+FFXIV
 <a href="/windows-themes/gaming/final-fantasy-xiv" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
