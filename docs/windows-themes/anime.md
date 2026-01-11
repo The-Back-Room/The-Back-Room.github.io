@@ -25,32 +25,32 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="gallery">
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/naruto.png" alt="Naruto Theme" />
-<div class="description body">
-<h3 class="text-gamma">Naruto</h3>
+<div class="description">
+Naruto
 <a href="/windows-themes/anime/naruto" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/bleach.png" alt="Bleach Theme" />
-<div class="description body">
-<h3 class="text-gamma">Bleach</h3>
+<div class="description">
+Bleach
 <a href="/windows-themes/anime/bleach" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/bleach-tybw.png" alt="Bleach TYBW Theme" />
-<div class="description body">
-<h3 class="text-gamma">Bleach TYBW</h3>
+<div class="description">
+Bleach TYBW
 <a href="/windows-themes/anime/bleach-tybw" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/studio-ghibli.png" alt="Futanari Hentai Theme" />
-<div class="description body">
-<h3 class="text-gamma">Studio Ghibli</h3>
+<div class="description">
+Studio Ghibli
 <a href="/windows-themes/anime/studio-ghibli" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>

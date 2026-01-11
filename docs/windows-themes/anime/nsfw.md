@@ -27,7 +27,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/love-stage.png" alt="Love Stage!! Theme" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Love Stage!!</h3>
+Love Stage!!
 <a href="/windows-themes/anime/nsfw/love-stage" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -35,7 +35,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/ecchi.png" alt="Ecchi Anime Theme" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Ecchi</h3>
+Ecchi
 <a href="/windows-themes/anime/nsfw/ecchi" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -43,7 +43,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/lewd-gamer-waifus.png" alt="Lewd Gamer Waifus Theme" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Lewd Gamer Waifus</h3>
+Lewd Gamer Waifus
 <a href="/windows-themes/anime/nsfw/lewd-gamer-waifus" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -51,7 +51,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/ranma-hentai.png" alt="Ranma ½ Hentai Theme" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Ranma ½ Hentai</h3>
+Ranma ½ Hentai
 <a href="/windows-themes/anime/nsfw/ranma-hentai" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -59,7 +59,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/naruto-ninja-hotsprings.png" alt="Naruto Ninja Hotsprings Theme" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Naruto Ninja Hotsprings</h3>
+Naruto Ninja Hotsprings
 <a href="/windows-themes/anime/nsfw/naruto-ninja-hotsprings" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -67,7 +67,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/naruto-hentai.png" alt="Naruto Hentai Theme" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Naruto Hentai</h3>
+Naruto Hentai
 <a href="/windows-themes/anime/nsfw/naruto-hentai" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -75,7 +75,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/bleach-ecchi.png" alt="Bleach Ecchi Theme" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">BLEACH Ecchi</h3>
+BLEACH Ecchi
 <a href="/windows-themes/anime/nsfw/bleach-ecchi" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -83,7 +83,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/bleach-hentai.png" alt="Bleach Hentai Theme" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">BLEACH Hentai</h3>
+BLEACH Hentai
 <a href="/windows-themes/anime/nsfw/bleach-hentai" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -91,7 +91,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/futanari-hentai.png" alt="Futanari Hentai Theme" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Futanari Hentai</h3>
+Futanari Hentai
 <a href="/windows-themes/anime/nsfw/futanari-hentai" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -99,7 +99,7 @@ The following is a collection of NSFW themes for Windows 10 and 11 inspired by p
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/hentai-senpai.png" alt="Hentai Senpai Theme" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">Hentai Senpai</h3>
+Hentai Senpai
 <a href="/windows-themes/anime/nsfw/hentai-senpai" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>

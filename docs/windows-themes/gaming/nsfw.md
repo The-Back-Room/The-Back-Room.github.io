@@ -24,7 +24,7 @@ permalink: /windows-themes/gaming/nsfw
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/ffxiv-waifus.png" alt="FFXIV Waifus" width="200" height="auto" />
 <div class="description body">
-<h3 class="text-gamma">FFXIV Waifus</h3>
+FFXIV Waifus
 <a href="/windows-themes/gaming/nsfw/ffxiv-waifus" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
