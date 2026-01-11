@@ -25,7 +25,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <div class="gallery">
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/naruto.png" alt="Naruto Theme" />
-<div class="description">
+<div class="description text-delta">
 Naruto
 <br />
 <a href="/windows-themes/anime/naruto" class="text-delta btn btn-secondary btn-sm">View Page</a>
@@ -34,7 +34,7 @@ Naruto
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/bleach.png" alt="Bleach Theme" />
-<div class="description">
+<div class="description text-delta">
 Bleach
 <br />
 <a href="/windows-themes/anime/bleach" class="text-delta btn btn-secondary btn-sm">View Page</a>
@@ -43,7 +43,7 @@ Bleach
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/bleach-tybw.png" alt="Bleach TYBW Theme" />
-<div class="description">
+<div class="description text-delta">
 Bleach TYBW
 <br />
 <a href="/windows-themes/anime/bleach-tybw" class="text-delta btn btn-secondary btn-sm">View Page</a>
@@ -52,7 +52,7 @@ Bleach TYBW
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/studio-ghibli.png" alt="Futanari Hentai Theme" />
-<div class="description">
+<div class="description text-delta">
 Studio Ghibli
 <br />
 <a href="/windows-themes/anime/studio-ghibli" class="text-delta btn btn-secondary btn-sm">View Page</a>
