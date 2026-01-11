@@ -9,14 +9,14 @@ permalink: /windows-themes/anime/nsfw
 
 {: .important }
 > {: .opaque }
-> {: .warning }
-> ⚠️ **Content Warning:** The themes listed here contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed artwork.
->
-> ℹ️ The themes featured here are created by independent artists and designers. We do not claim any ownership of the characters or imagery depicted in these themes. All rights belong to their respective creators and copyright holders.
+> {: .warning}
+> ⚠️ **Content Warning:** This theme pack contains adult content and is intended for mature audiences only.
+> 
+> ℹ️ By downloading and using this theme, you confirm that you are of legal age in your jurisdiction to view adult content and that you understand the nature of the content provided. The creator of these themes is not responsible for any misuse or inappropriate distribution of the content provided. Please use these themes responsibly and respect the rights of others.
 
 ---
 
-<img src="/assets/images/social-images/cover-anime-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="/assets/images/social-images/windows-themes/cover-anime-themes.png" alt="Windows Themes" width="100%" height="auto" />
 
 ---
 

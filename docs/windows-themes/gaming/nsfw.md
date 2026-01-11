@@ -16,6 +16,10 @@ permalink: /windows-themes/gaming/nsfw
 
 ---
 
+<img src="/assets/images/social-images/windows-themes/cover-gaming-themes.png" alt="Windows Themes" width="100%" height="auto" />
+
+---
+
 <div class="card">
 <img src="/assets/images/list-items/windows-themes/ffxiv-waifus.png" alt="FFXIV Waifus" width="200" height="auto" />
 <div class="description body">
