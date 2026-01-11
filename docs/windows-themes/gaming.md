@@ -28,7 +28,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <img src="/assets/images/preview-images/windows-themes/ffxiv-arr.png" alt="FFXIV ARR" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Final Fantasy XIV: A Realm Reborn</h3>
-A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
+<!-- A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br /> -->
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/-/archive/main/ffxiv-arr-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-arr" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
@@ -39,7 +39,7 @@ A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<
 <img src="/assets/images/preview-images/windows-themes/ffxiv-heavensward.png" alt="FFXIV Heavensward" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Final Fantasy XIV: Heavensward</h3>
-A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
+<!-- A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br /> -->
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-heavensward/-/archive/main/ffxiv-heavensward-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-heavensward" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>

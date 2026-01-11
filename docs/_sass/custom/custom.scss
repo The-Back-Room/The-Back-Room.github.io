@@ -25,9 +25,6 @@
 
 
 .card {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-start;
   border: 1px solid $border-color;
   border-radius: 4px;
   padding: 10px;
@@ -36,25 +33,12 @@
   box-shadow: 0 2px 4px darken($sidebar-color, 10%);
 }
 
-.card .description {
-  margin-top: 10px;
-  width: 70%;
-  height: auto;
-}
-
-.card img {
-  margin: 10px;
-  border-radius: 4px;
-  width: 30%;
-  height: auto;
-}
-
 .gallery {
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
 }
-
+  
 .gallery-item {
   margin: 5px;
   border: 1px solid $border-color;
@@ -83,18 +67,10 @@
   .gallery-item {
     width: calc(50% - 20px);
   }
-
-  .card {
-    width: calc(100% - 20px);
-  }
 }
 
 @media only screen and (max-width: 480px) {
   .gallery-item {
-    width: calc(100% - 20px);
-  }
-
-  .card {
     width: calc(100% - 20px);
   }
 }

@@ -28,7 +28,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <img src="/assets/images/preview-images/windows-themes/naruto.png" alt="Naruto Theme" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Naruto</h3>
-A theme for Windows 10 and 11 inspired by the popular anime and manga series Naruto.<br /><br />
+<!-- A theme for Windows 10 and 11 inspired by the popular anime and manga series Naruto.<br /><br /> -->
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/archive/main/naruto-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/naruto" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
@@ -39,7 +39,7 @@ A theme for Windows 10 and 11 inspired by the popular anime and manga series Nar
 <img src="/assets/images/preview-images/windows-themes/bleach.png" alt="Bleach Theme" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Bleach</h3>
-A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach.<br /><br />
+<!-- A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach.<br /><br /> -->
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/archive/main/bleach-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/bleach" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
@@ -50,7 +50,7 @@ A theme for Windows 10 and 11 inspired by the popular anime and manga series Ble
 <img src="/assets/images/preview-images/windows-themes/bleach-tybw.png" alt="Bleach TYBW Theme" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Bleach: Thousand-Year Blood War</h3>
-A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach: Thousand-Year Blood War.<br /><br />
+<!-- A theme for Windows 10 and 11 inspired by the popular anime and manga series Bleach: Thousand-Year Blood War.<br /><br /> -->
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/archive/main/bleach-thousand-year-blood-war-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/bleach-tybw" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
@@ -61,7 +61,7 @@ A theme for Windows 10 and 11 inspired by the popular anime and manga series Ble
 <img src="/assets/images/preview-images/windows-themes/studio-ghibli.png" alt="Futanari Hentai Theme" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Studio Ghibli</h3>
-A theme for Windows 10 and 11 celebrating the magical worlds created by Studio Ghibli. <br /><br />
+<!-- A theme for Windows 10 and 11 celebrating the magical worlds created by Studio Ghibli. <br /><br /> -->
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/-/archive/main/studio-ghibli-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/anime/studio-ghibli" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
 </div>
