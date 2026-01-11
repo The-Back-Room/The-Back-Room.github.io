@@ -25,4 +25,4 @@ permalink: /windows-themes/miscellaneous/macos-abstract
 
 ---
 
-[Back](/windows-themes/miscellaneous){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/-/project/76844430/uploads/d62b7ce460beac27298d0124459ed37c/macOS_Abstract_Themes.exe" class="text-delta btn btn-secondary btn-sm">Download</a> 

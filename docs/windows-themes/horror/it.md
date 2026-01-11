@@ -26,4 +26,4 @@ permalink: /windows-themes/horror/it
 
 ---
 
-[Back](/windows-themes/horror){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/archive/main/it-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 

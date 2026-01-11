@@ -25,4 +25,4 @@ permalink: /windows-themes/miscellaneous/macos
 
 ---
 
-[Back](/windows-themes/miscellaneous){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/macos/-/archive/main/macos-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 

@@ -26,4 +26,4 @@ permalink: /windows-themes/horror/a-nightmare-on-elm-street
 
 ---
 
-[Back](/windows-themes/horror){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/a-nightmare-on-elm-street/-/archive/main/a-nightmare-on-elm-street-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
