@@ -30,9 +30,9 @@ The comics listed here may parody popular series or feature original content. Pl
 
 <div class="gallery">
 <div class="gallery-item">
-<img src="/assets/images/preview-images/doujins/FFXIV Corruption of the Star.png" alt="Corruption of the Stars" />
+<img src="/assets/images/preview-images/doujins/FFXIV Corruption of the Star.png" alt="FFXIV Corruption of the Star" />
 <div class="description text-delta">
-Corruption of the Stars
+FFXIV Corruption of the Star
 <br /><br />
 <a href="/comics/doujins/corruption-of-the-star" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
