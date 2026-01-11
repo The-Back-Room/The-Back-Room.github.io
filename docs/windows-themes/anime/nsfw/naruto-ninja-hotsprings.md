@@ -29,4 +29,4 @@ permalink: /windows-themes/anime/nsfw/naruto-ninja-hotsprings
 
 ---
 
-[Back](/windows-themes/anime/nsfw){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-ninja-hotsprings/-/archive/main/naruto-ninja-hotsprings-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 

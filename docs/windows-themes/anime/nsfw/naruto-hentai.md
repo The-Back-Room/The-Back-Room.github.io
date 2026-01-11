@@ -29,4 +29,4 @@ permalink: /windows-themes/anime/nsfw/naruto-hentai
 
 ---
 
-[Back](/windows-themes/anime/nsfw){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/naruto-hentai/-/archive/main/naruto-hentai-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 

@@ -25,4 +25,4 @@ permalink: /windows-themes/gaming/once-human
 
 ---
 
-[Back](/windows-themes/gaming){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 

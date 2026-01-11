@@ -28,4 +28,4 @@ permalink: /windows-themes/gaming/nsfw/ffxiv-waifus
 
 ---
 
-[Back](/windows-themes/gaming){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/archive/main/final-fantasy-xiv-waifus-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 

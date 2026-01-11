@@ -20,12 +20,13 @@ permalink: /windows-themes/gaming/nsfw
 
 ---
 
-<div class="card">
+<div class="gallery">
+<div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/ffxiv-waifus.png" alt="FFXIV Waifus" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">FFXIV Waifus</h3>
-A NSFW theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br />
-<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/final-fantasy-xiv-waifus/-/archive/main/final-fantasy-xiv-waifus-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/nsfw/ffxiv-waifus" class="text-delta btn btn-secondary btn-sm">Overview</a>
+<a href="/windows-themes/gaming/nsfw/ffxiv-waifus" class="text-delta btn btn-secondary btn-sm">View Page</a>
+</div>
 </div>
 </div>
 

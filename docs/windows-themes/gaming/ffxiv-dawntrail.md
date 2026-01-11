@@ -25,4 +25,4 @@ permalink: /windows-themes/gaming/ffxiv-dawntrail
 
 ---
 
-[Back](/windows-themes/gaming){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-dawntrail/-/archive/main/ffxiv-dawntrail-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 

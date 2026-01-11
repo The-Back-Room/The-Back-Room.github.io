@@ -26,4 +26,4 @@ permalink: /windows-themes/cartoon/courage-tcd
 
 ---
 
-[Back](/windows-themes/cartoon){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/courage-tcd/-/archive/main/courage-tcd-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a>

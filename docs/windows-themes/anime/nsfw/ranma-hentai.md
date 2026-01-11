@@ -28,4 +28,4 @@ permalink: /windows-themes/anime/nsfw/ranma-hentai
 
 ---
 
-[Back](/windows-themes/anime){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ranma-hentai/-/archive/main/ranma-hentai-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 

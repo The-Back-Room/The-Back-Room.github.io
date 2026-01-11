@@ -29,4 +29,4 @@ permalink: /windows-themes/anime/nsfw/bleach-hentai
 
 ---
 
-[Back](/windows-themes/anime/nsfw){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-hentai/-/archive/main/bleach-hentai-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 

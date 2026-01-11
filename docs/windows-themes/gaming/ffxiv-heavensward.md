@@ -25,4 +25,4 @@ permalink: /windows-themes/gaming/ffxiv-heavensward
 
 ---
 
-[Back](/windows-themes/gaming){: .btn .btn-secondary .btn-md }
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-heavensward/-/archive/main/ffxiv-heavensward-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
