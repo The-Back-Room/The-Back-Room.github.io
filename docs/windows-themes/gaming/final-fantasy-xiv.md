@@ -14,7 +14,7 @@ permalink: /windows-themes/gaming/ffxiv
 
 ---
 
-<img src="/assets/images/preview-images/windows-themes/final-fantasy-xiv.png" alt="Preview" width="100%" height="auto" />
+<img src="/assets/images/preview-images/windows-themes/ffxiv.png" alt="Preview" width="100%" height="auto" />
 
 ---
 

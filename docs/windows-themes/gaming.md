@@ -72,7 +72,7 @@ FFXIV Dawntrail
 </div>
 
 <div class="gallery-item">
-<img src="/assets/images/preview-images/windows-themes/final-fantasy-xiv.png" alt="FFXIV" />
+<img src="/assets/images/preview-images/windows-themes/ffxiv.png" alt="FFXIV" />
 <div class="description">
 FFXIV
 <a href="/windows-themes/gaming/ffxiv" class="text-delta btn btn-secondary btn-sm">View Page</a>
