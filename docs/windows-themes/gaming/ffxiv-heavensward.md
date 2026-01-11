@@ -1,7 +1,7 @@
 ---
 title: Final Fantasi XIV - Heavensward
 tags: [Windows Themes, Gaming, Final Fantasy XIV]
-social_image: /assets/images/social-images/windows-themes/cover-ffxiv-heavensward.png
+social_image: /assets/images/preview-images/windows-themes/ffxiv-heavensward.png
 summary: >
     A theme for Windows 10 and 11 based off of the Final Fantasy XIV: Heavensward expansion.
 nav_exclude: true

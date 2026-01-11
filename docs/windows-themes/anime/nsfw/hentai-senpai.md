@@ -1,7 +1,7 @@
 ---
 title: Hentai Senpai
 tags: [Windows Themes, NSFW, Anime]
-social_image: /assets/images/social-images/windows-themes/cover-hentai-senpai.png
+social_image: /assets/images/preview-images/windows-themes/hentai-senpai.png
 summary: >
     A NSFW theme for Windows 10 and 11.
 nav_exclude: true

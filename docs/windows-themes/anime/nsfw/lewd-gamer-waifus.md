@@ -1,7 +1,7 @@
 ---
 title: Lewd Gamer Waifus
 tags: [Windows Themes, NSFW, Anime]
-social_image: /assets/images/social-images/windows-themes/cover-lewd-gamer-waifus.png
+social_image: /assets/images/preview-images/windows-themes/lewd-gamer-waifus.png
 summary: >
     A NSFW theme for Windows 10 and 11 depicting lewd gamer waifus.
 nav_exclude: true

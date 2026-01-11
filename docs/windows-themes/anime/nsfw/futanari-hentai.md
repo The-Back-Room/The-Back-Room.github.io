@@ -1,7 +1,7 @@
 ---
 title: Futanari Hentai
 tags: [Windows Themes, NSFW, Anime]
-social_image: /assets/images/social-images/windows-themes/cover-futanari-hentai.png
+social_image: /assets/images/preview-images/windows-themes/futanari-hentai.png
 summary: >
     A theme for Windows 10 and 11 featuring hentai futanari-themed wallpapers.
 nav_exclude: true
