@@ -29,7 +29,7 @@ permalink: /software/context-menu/utilities-menu
 
 <h2 style="text-align: center;">Instructions</h2>
 
-1. Click the button at the bottom of this page to download the Utilities Menu archive.
+1. Click the button at the bottom of this page to download the Utilities Menu ZIP archive.
 2. Extract the contents of the ZIP file to a folder of your choice.
 3. Copy the `Utilities` folder to the root of your `C:` drive `(C:\Utilities)`.
 4. Double-click the `Add Utilities Menu.reg` file to add the Utilities Menu to your desktop context menu.
