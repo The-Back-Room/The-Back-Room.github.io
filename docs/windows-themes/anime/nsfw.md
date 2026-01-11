@@ -106,7 +106,7 @@ A NSFW theme for Windows 10 and 11 featuring explicit futanari hentai artwork.<b
 </div>
 
 <div class="card">
-<img src="/assets/images/list-items/windows-themes/hentai-senpai.png" alt="Futanari Hentai Theme" width="200" height="auto" />
+<img src="/assets/images/list-items/windows-themes/hentai-senpai.png" alt="Hentai Senpai Theme" width="200" height="auto" />
 <div class="description body">
 <h3 class="text-gamma">Hentai Senpai</h3>
 A NSFW theme for Windows 10 and 11.<br /><br />
