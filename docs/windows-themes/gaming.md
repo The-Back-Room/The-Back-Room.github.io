@@ -24,9 +24,8 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="gallery">
 <div class="gallery-item">
-<div class="card">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-arr.png" alt="FFXIV ARR" />
-</div><div class="description body">
+<div class="description body">
 <h3 class="text-gamma">Final Fantasy XIV: A Realm Reborn</h3>
 <!-- A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br /> -->
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/-/archive/main/ffxiv-arr-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-arr" class="text-delta btn btn-secondary btn-sm">Overview</a>
@@ -34,9 +33,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 </div>
 
 <div class="gallery-item">
-<div class="card">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-heavensward.png" alt="FFXIV Heavensward" />
-</div>
 <div class="description body">
 <h3 class="text-gamma">Final Fantasy XIV: Heavensward</h3>
 <!-- A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br /> -->
@@ -45,9 +42,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 </div>
 
 <div class="gallery-item">
-<div class="card">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-stormblood.png" alt="FFXIV Stormblood" />
-</div>
 <div class="description body">
 <h3 class="text-gamma">Final Fantasy XIV: Stormblood</h3>
 <!-- A theme for Windows 10 and 11 inspired by the popular MMORPG Final Fantasy XIV.<br /><br /> -->
@@ -56,9 +51,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 </div>
 
 <div class="gallery-item">
-<div class="card">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-shadowbringers.png" alt="FFXIV Shadowbringers" />
-</div>
 <div class="description body">
 <h3 class="text-gamma">Final Fantasy XIV: Shadowbringers</h3>
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-shadowbringers/-/archive/main/ffxiv-shadowbringers-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-shadowbringers" class="text-delta btn btn-secondary btn-sm">Overview</a>
@@ -66,9 +59,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 </div>
 
 <div class="gallery-item">
-<div class="card">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-endwalker.png" alt="FFXIV Endwalker" />
-</div>
 <div class="description body">
 <h3 class="text-gamma">Final Fantasy XIV: Endwalker</h3>
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-endwalker/-/archive/main/ffxiv-endwalker-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-endwalker" class="text-delta btn btn-secondary btn-sm">Overview</a>
@@ -76,9 +67,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 </div>
 
 <div class="gallery-item">
-<div class="card">
 <img src="/assets/images/preview-images/windows-themes/ffxiv-dawntrail.png" alt="FFXIV Endwalker" />
-</div>
 <div class="description body">
 <h3 class="text-gamma">Final Fantasy XIV: Dawntrail</h3>
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-dawntrail/-/archive/main/ffxiv-dawntrail-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/ffxiv-dawntrail" class="text-delta btn btn-secondary btn-sm">Overview</a>
@@ -87,18 +76,18 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/final-fantasy-xiv.png" alt="Final Fantasy XIV" />
-</div>
 <div class="description body">
 <h3 class="text-gamma">Final Fantasy XIV</h3>
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/final-fantasy-xiv/-/archive/main/final-fantasy-xiv-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/final-fantasy-xiv" class="text-delta btn btn-secondary btn-sm">Overview</a>
 </div>
+</div>
 
 <div class="gallery-item">
 <img src="/assets/images/preview-images/windows-themes/once-human.png" alt="Once Human Theme" />
-</div>
 <div class="description body">
 <h3 class="text-gamma">Once Human</h3>
 <a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/once-human/-/archive/main/once-human-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> <a href="/windows-themes/gaming/once-human" class="text-delta btn btn-secondary btn-sm">Overview</a>
+</div>
 </div>
 </div>
 
