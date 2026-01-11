@@ -27,7 +27,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <img src="/assets/images/preview-images/windows-themes/ffxiv-arr.png" alt="FFXIV ARR" />
 <div class="description text-delta">
 FFXIV ARR
-<br />
+<br /><br />
 <a href="/windows-themes/gaming/ffxiv-arr" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -36,7 +36,7 @@ FFXIV ARR
 <img src="/assets/images/preview-images/windows-themes/ffxiv-heavensward.png" alt="FFXIV Heavensward" />
 <div class="description text-delta">
 FFXIV HS
-<br />
+<br /><br />
 <a href="/windows-themes/gaming/ffxiv-heavensward" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -45,7 +45,7 @@ FFXIV HS
 <img src="/assets/images/preview-images/windows-themes/ffxiv-stormblood.png" alt="FFXIV Stormblood" />
 <div class="description text-delta">
 FFXIV SB
-<br />
+<br /><br />
 <a href="/windows-themes/gaming/ffxiv-stormblood" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -54,7 +54,7 @@ FFXIV SB
 <img src="/assets/images/preview-images/windows-themes/ffxiv-shadowbringers.png" alt="FFXIV Shadowbringers" />
 <div class="description text-delta">
 FFXIV ShB
-<br />
+<br /><br />
 <a href="/windows-themes/gaming/ffxiv-shadowbringers" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -63,7 +63,7 @@ FFXIV ShB
 <img src="/assets/images/preview-images/windows-themes/ffxiv-endwalker.png" alt="FFXIV Endwalker" />
 <div class="description text-delta">
 FFXIV EW
-<br />
+<br /><br />
 <a href="/windows-themes/gaming/ffxiv-endwalker" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -72,7 +72,7 @@ FFXIV EW
 <img src="/assets/images/preview-images/windows-themes/ffxiv-dawntrail.png" alt="FFXIV Endwalker" />
 <div class="description text-delta">
 FFXIV DT
-<br />
+<br /><br />
 <a href="/windows-themes/gaming/ffxiv-dawntrail" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -81,7 +81,7 @@ FFXIV DT
 <img src="/assets/images/preview-images/windows-themes/ffxiv.png" alt="FFXIV" />
 <div class="description text-delta">
 FFXIV
-<br />
+<br /><br />
 <a href="/windows-themes/gaming/ffxiv" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -90,7 +90,7 @@ FFXIV
 <img src="/assets/images/preview-images/windows-themes/once-human.png" alt="Once Human Theme" />
 <div class="description text-delta">
 Once Human
-<br />
+<br /><br />
 <a href="/windows-themes/gaming/once-human" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>

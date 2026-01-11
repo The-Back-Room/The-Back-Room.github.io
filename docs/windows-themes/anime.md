@@ -27,7 +27,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <img src="/assets/images/preview-images/windows-themes/naruto.png" alt="Naruto Theme" />
 <div class="description text-delta">
 Naruto
-<br />
+<br /><br />
 <a href="/windows-themes/anime/naruto" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -36,7 +36,7 @@ Naruto
 <img src="/assets/images/preview-images/windows-themes/bleach.png" alt="Bleach Theme" />
 <div class="description text-delta">
 Bleach
-<br />
+<br /><br />
 <a href="/windows-themes/anime/bleach" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -45,7 +45,7 @@ Bleach
 <img src="/assets/images/preview-images/windows-themes/bleach-tybw.png" alt="Bleach TYBW Theme" />
 <div class="description text-delta">
 Bleach TYBW
-<br />
+<br /><br />
 <a href="/windows-themes/anime/bleach-tybw" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -54,7 +54,7 @@ Bleach TYBW
 <img src="/assets/images/preview-images/windows-themes/studio-ghibli.png" alt="Futanari Hentai Theme" />
 <div class="description text-delta">
 Studio Ghibli
-<br />
+<br /><br />
 <a href="/windows-themes/anime/studio-ghibli" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>

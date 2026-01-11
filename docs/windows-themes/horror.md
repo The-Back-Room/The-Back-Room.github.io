@@ -27,7 +27,7 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 <img src="/assets/images/preview-images/windows-themes/it.png" alt="IT" />
 <div class="description text-delta">
 IT
-<br />
+<br /><br />
 <a href="/windows-themes/horror/it" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
@@ -36,7 +36,7 @@ IT
 <img src="/assets/images/preview-images/windows-themes/a-nightmare-on-elm-street.png" alt="A Nightmare On Elm Street Theme" />
 <div class="description text-delta">
 A Nightmare On Elm Street
-<br />
+<br /><br />
 <a href="/windows-themes/horror/a-nightmare-on-elm-street" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>

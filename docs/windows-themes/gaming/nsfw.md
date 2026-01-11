@@ -23,10 +23,10 @@ permalink: /windows-themes/gaming/nsfw
 <div class="gallery">
 <div class="gallery-item">
 <img src="/assets/images/list-items/windows-themes/ffxiv-waifus.png" alt="FFXIV Waifus" />
-<div class="description body">
+<div class="description text-delta">
 FFXIV Waifus
-<br />
-<a href="/windows-themes/gaming/nsfw/ffxiv-waifus" class="text-delta btn btn-secondary btn-sm">View Page</a>
+<br /><br />
+<a href="/windows-themes/gaming/nsfw/ffxiv-waifus" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 </div>
