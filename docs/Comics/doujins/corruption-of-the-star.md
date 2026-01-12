@@ -2,7 +2,7 @@
 title: FFXIV Corruption of the Star
 social_image: /assets/images/preview-images/doujins/FFXIV Corruption of the Star.png
 summary: >
-    Several years have gone by, and the Scions have long since completed their adventures with the Warrior of Light. However, it would appear their over exposure to extreme aether during their adventures had an unexpected *effect* on them.
+    A fan-made doujinshi inspired ny Final Fantasy XIV.
 nav_exclude: true
 permalink: /comics/doujins/corruption-of-the-star
 ---
