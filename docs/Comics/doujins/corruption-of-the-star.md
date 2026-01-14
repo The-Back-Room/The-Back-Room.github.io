@@ -1,8 +1,9 @@
 ---
 title: FFXIV Corruption of the Star
+tags: [NSFW, Comics, Doujinshi, Final Fantasy XIV]
 social_image: /assets/images/preview-images/doujins/FFXIV Corruption of the Star.png
 summary: >
-    A fan-made doujinshi inspired ny Final Fantasy XIV.
+    Fan-made doujin inspired by FFXIV.
 nav_exclude: true
 permalink: /comics/doujins/corruption-of-the-star
 ---
