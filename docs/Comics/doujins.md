@@ -30,20 +30,20 @@ The comics listed here may parody popular series or feature original content. Pl
 
 <div class="gallery">
 <div class="gallery-item">
+<a href="/comics/doujins/corruption-of-the-star">
 <img src="/assets/images/preview-images/doujins/FFXIV Corruption of the Star.png" alt="FFXIV Corruption of the Star" />
+</a>
 <div class="description text-delta">
 FFXIV Corruption of the Star
-<br /><br />
-<a href="/comics/doujins/corruption-of-the-star" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 
 <div class="gallery-item">
+<a href="/comics/doujins/summer-heat">
 <img src="/assets/images/preview-images/doujins/Ranma 1-2 Summer Heat Cover.gif?raw=true" alt="Ranma 1/2 Summer Heat" />
+</a>
 <div class="description text-delta">
 Ranma 1/2 Summer Heat
-<br /><br />
-<a href="/comics/doujins/summer-heat" class="text-delta btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 </div>
