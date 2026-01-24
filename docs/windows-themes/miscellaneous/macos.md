@@ -1,7 +1,7 @@
 ---
 title: MacOS
 tags: [Windows Themes, Miscellaneous, macOS]
-social_image: /assets/images/preview-images/windows-themes/macos.png
+social_image: https://gitlab.com/the-back-room/deskthemepacks/sfw/miscellaneous/macos-themes-for-windows/-/raw/main/Extras/Preview.bmp
 summary: >
     MacOS themes ported to Windows 10 and 11.
 nav_exclude: true
@@ -14,7 +14,7 @@ permalink: /windows-themes/miscellaneous/macos
 
 ---
 
-<img src="/assets/images/preview-images/windows-themes/macos.png" alt="Preview" width="100%" height="auto" />
+<img src="{{ page.social_image }}" alt="Preview" width="100%" height="auto" />
 
 ---
 
@@ -25,4 +25,4 @@ permalink: /windows-themes/miscellaneous/macos
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/miscellaneous/macos" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/miscellaneous/macos-themes-for-windows" class="text-delta btn btn-secondary btn-sm">Download</a> 

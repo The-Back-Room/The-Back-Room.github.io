@@ -1,7 +1,7 @@
 ---
 title: MacOS Abstract
 tags: [Windows Themes, Miscellaneous, macOS]
-social_image: /assets/images/preview-images/windows-themes/macos-abstract.png
+social_image: https://gitlab.com/the-back-room/deskthemepacks/sfw/miscellaneous/macos-abstract-themes-for-windows/-/raw/main/Extras/Preview.bmp
 summary: >
     MacOS abstract themes ported to Windows 10 and 11.
 nav_exclude: true
@@ -14,7 +14,7 @@ permalink: /windows-themes/miscellaneous/macos-abstract
 
 ---
 
-<img src="/assets/images/preview-images/windows-themes/macos-abstract.png" alt="Preview" width="100%" height="auto" />
+<img src="{{ page.social_image }}" alt="Preview" width="100%" height="auto" />
 
 ---
 
@@ -25,4 +25,4 @@ permalink: /windows-themes/miscellaneous/macos-abstract
 
 ---
 
-<a href="https://gitlab.com/-/project/76844430/uploads/d62b7ce460beac27298d0124459ed37c/macOS_Abstract_Themes.exe" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/miscellaneous/macos-abstract-themes-for-windows" class="text-delta btn btn-secondary btn-sm">Download</a> 
