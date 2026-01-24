@@ -19,21 +19,23 @@ permalink: /social/nsfw
 
 ---
 
-<div class="card">
-<img src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">NSFW Hentai AI</h3>
-NSFW community hosted by The Back Room dedicated to sharing and discussing AI-generated hentai artwork.<br /><br />
-<a target="_blank" href="https://www.reddit.com/r/NSFW_Hentai_AI/" class="text-delta btn btn-secondary btn-sm">Reddit</a>
+<div class="gallery">
+<div class="gallery-item">
+<a target="_blank" href="https://www.reddit.com/r/NSFW_Hentai_AI/">
+<img src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" />
+</a>
+<div class="description text-delta">
+r/NSFW Hentai AI
 </div>
 </div>
 
-<div class="card">
-<img src="https://styles.redditmedia.com/t5_dn30ob/styles/communityIcon_c9vt4n7ad44f1.png" alt="r/Ranma_Hentai" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Ranma Hentai</h3>
-NSFW community hosted by The Back Room for fans of Ranma ½ hentai content.<br /><br />
-<a target="_blank" href="https://www.reddit.com/r/Ranma_Hentai/" class="text-delta btn btn-secondary btn-sm">Reddit</a>
+<div class="gallery-item">
+<a target="_blank" href="https://www.reddit.com/r/Ranma_Hentai/">
+<img src="https://styles.redditmedia.com/t5_dn30ob/styles/communityIcon_c9vt4n7ad44f1.png" alt="r/Ranma_Hentai" />
+</a>
+<div class="description text-delta">
+r/Ranma Hentai
+</div>
 </div>
 </div>
 
