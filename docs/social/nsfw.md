@@ -25,7 +25,7 @@ permalink: /social/nsfw
 <img src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" />
 </a>
 <div class="description text-delta">
-r/NSFW Hentai AI
+r/NSFW_Hentai_AI
 </div>
 </div>
 
@@ -34,7 +34,7 @@ r/NSFW Hentai AI
 <img src="https://styles.redditmedia.com/t5_dn30ob/styles/communityIcon_c9vt4n7ad44f1.png" alt="r/Ranma_Hentai" />
 </a>
 <div class="description text-delta">
-r/Ranma Hentai
+r/Ranma_Hentai
 </div>
 </div>
 </div>

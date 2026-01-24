@@ -2,7 +2,7 @@
 title: Home
 social_image: /assets/images/social-images/cover-social-image.png
 summary: >
-  A hub for open-source projects, custom themes, and software tweaks. Explore our resources to enhance your digital experience.
+  Hub for open-source development, software tweaks, graphic design, Windows themes, customization, comics, and doujinshi.
 has_toc: false
 nav_order: 1.0
 permalink: /
@@ -14,7 +14,7 @@ permalink: /
 
 ---
 
-Welcome to [The Back Room](https://the-back-room.info), a hub for open-source projects, custom themes, and software tweaks. Our mission is to provide high-quality resources for users looking to enhance their digital experience.
+Welcome to {{ site.title }} - {{ site.summary }}. Our mission is to provide high-quality resources for users looking to enhance their digital experience.
 
 We focus on creating and curating tools that allow users to customize their operating systems, applications, and overall user interface.
 
@@ -29,11 +29,11 @@ We offer a variety of projects that cater to different needs and preferences:
 
 ---
 
-All our projects are released under the [Creative Commons Attribution 4.0 License](https://the-back-room.info/License), allowing you to use, share, and adapt our work with proper attribution.  
+All our projects are released under the <a target="_blank" href="https://the-back-room.info/License">Creative Commons Attribution 4.0 License</a>, allowing you to use, share, and adapt our work with proper attribution.  
 
-We encourage community involvement and welcome contributions from developers, designers, and enthusiasts. Feel free to explore our [GitLab group](https://gitlab.com/the-back-room) to get involved in our projects.
+We encourage community involvement and welcome contributions from developers, designers, and enthusiasts. Feel free to explore our <a target="_blank" href="https://gitlab.com/the-back-room">GitLab group</a> to get involved in our projects. Alternatively, we also have a <a target="_blank" href="https://deviantart.com/the-back-room">DeviantArt group</a> for anyone interested.
 
-Stay connected with us through our [Discord community](https://dsc.gg/the-back-room) for discussions, support, and collaboration opportunities.
+Stay connected with us through our <a target="_blank" href="https://dsc.gg/the-back-room">Discord community</a> for discussions, support, and collaboration opportunities.
 
 ---
 
