@@ -11,7 +11,7 @@ permalink: /social
 {: .important }
 > {: .opaque }
 > {: .warning }
-> ⚠️ **Content Warning:** The communities listed here may contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed artwork. Viewer discretion is advised.
+> ⚠️ **Content Warning:** The communities listed here may contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed media. Viewer discretion is advised.
 
 ---
 
