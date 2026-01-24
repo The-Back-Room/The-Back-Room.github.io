@@ -31,25 +31,23 @@
   margin: 15px;
   padding: 20px;
   transition: all 0.3s ease;
+}
 
-  &:hover {
+.card:hover {
     border: $border darken($border-color, 10%);
     box-shadow: 0 4px 8px darken($sidebar-color, 10%);
-  }
+}
 
-  .description {
-    padding: 15px;
-    text-align: center;
-    color: darken($text-color, 20%);
-  }
+.card .description {
+  padding: 15px;
+  text-align: center;
+}
 
-  img {
+.card img {
   width: 100%;
   height: auto;
   border-radius: 4px;
-  }
 }
-
 
 .gallery {
   display: flex;
@@ -64,26 +62,24 @@
   background-color: $sidebar-color;
   width: calc(35% - 20px);
   box-shadow: 0 2px 4px darken($sidebar-color, 10%);
-  transition: all 0.3s ease;
+  transition: all 0.3s ease
+}
 
-  &:hover {
+.gallery-item:hover {
     border: 1px solid darken($border-color, 10%);
     box-shadow: 0 4px 8px darken($sidebar-color, 10%);
-  }
+}
 
-  .description {
-  padding: 15px;
-  text-align: center;
-  }
-
-  img {
+.gallery-item img {
   width: 100%;
   height: auto;
   border-radius: 4px;
-  }
 }
 
-
+.gallery-item .description {
+  padding: 15px;
+  text-align: center;
+}
 
 @media only screen and (max-width: 768px) {
   .gallery-item {
