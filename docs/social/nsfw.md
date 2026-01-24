@@ -4,6 +4,7 @@ summary: >
     Social communties hosted by members of our community that containt NSFW (Not Safe for Work) content.
 nav_exclude: true
 permalink: /social/nsfw
+published: false
 ---
 
 {: .important }

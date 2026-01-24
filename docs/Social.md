@@ -10,6 +10,9 @@ permalink: /social
 
 {: .important }
 > {: .opaque }
+> {: .warning }
+> ⚠️ **Content Warning:** The communities listed here may contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed artwork. Viewer discretion is advised.
+> 
 > ℹ️ The social communities featured here are hosted by members of The Back Room community. We encourage respectful participation and engagement within these communities.
 
 ---
@@ -18,10 +21,22 @@ permalink: /social
 
 ---
 
-We have several social communities hosted by members of The Back Room community. Feel free to join and participate in discussions, share content, and connect with others who share your interests.
+<div class="gallery">
+<div class="gallery-item">
+<a target="_blank" href="https://www.reddit.com/r/NSFW_Hentai_AI/">
+<img src="https://styles.redditmedia.com/t5_ekyrut/styles/communityIcon_dinbv831744f1.png" alt="r/NSFW_Hentai_AI" />
+</a>
+<div class="description text-delta">
+r/NSFW_Hentai_AI
+</div>
+</div>
 
----
-
----
-
-[NSFW](/social/nsfw){: .btn .btn-secondary .btn-md }
+<div class="gallery-item">
+<a target="_blank" href="https://www.reddit.com/r/Ranma_Hentai/">
+<img src="https://styles.redditmedia.com/t5_dn30ob/styles/communityIcon_c9vt4n7ad44f1.png" alt="r/Ranma_Hentai" />
+</a>
+<div class="description text-delta">
+r/Ranma_Hentai
+</div>
+</div>
+</div>
