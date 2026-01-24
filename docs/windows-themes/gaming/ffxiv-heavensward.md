@@ -14,7 +14,7 @@ permalink: /windows-themes/gaming/ffxiv-heavensward
 
 ---
 
-<img src="/assets/images/preview-images/windows-themes/ffxiv-heavensward.png" alt="Preview" width="100%" height="auto" />
+<img src="{{ page.social_image }}" alt="Preview" width="100%" height="auto" />
 
 ---
 

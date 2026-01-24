@@ -16,7 +16,7 @@ permalink: /windows-themes/gaming/nsfw
 
 ---
 
-<img src="/assets/images/social-images/windows-themes/cover-gaming-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="{{ page.social_image }}" alt="Preview" width="100%" height="auto" />
 
 ---
 

@@ -14,7 +14,7 @@ permalink: /windows-themes/gaming/ffxiv-shadowbringers
 
 ---
 
-<img src="/assets/images/preview-images/windows-themes/ffxiv-shadowbringers.png" alt="Preview" width="100%" height="auto" />
+<img src="{{ page.social_image }}" alt="Preview" width="100%" height="auto" />
 
 ---
 

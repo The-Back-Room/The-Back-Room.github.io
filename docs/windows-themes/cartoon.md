@@ -24,11 +24,11 @@ The following is a collection of themes for Windows 10 and 11 inspired by popula
 
 <div class="gallery">
 <div class="gallery-item">
-<img src="/assets/images/preview-images/windows-themes/courage-tcd.png" alt="Courage the Cowardly Dog Theme" />
+<a href="/windows-themes/cartoon/courage-tcd">
+<img src="/assets/images/preview-images/windows-themes/courage-tcd.png" alt="Courage the Cowardly Dog" />
+</a>
 <div class="description text-delta">
 Courage TCD
-<br /><br />
-<a href="/windows-themes/cartoon/courage-tcd" class="btn btn-secondary btn-sm">View Page</a>
 </div>
 </div>
 </div>
