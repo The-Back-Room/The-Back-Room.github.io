@@ -1,7 +1,7 @@
 
 title: The Back Room
 summary: >
-  Hub for open-source development, software tweaks, graphic design, Windows themes, customization, comics, and doujinshi.
+  Hub for open-source development, software tweaks, graphic design, Windows themes, customization, comics, and doujins
 baseurl: ""
 url: "https://the-back-room.info"
 
@@ -18,7 +18,8 @@ keywords:
   - graphic design
   - windows themes
   - customization
-  - comics and doujinshi
+  - comics
+  - doujins
 
 permalink: pretty
 
