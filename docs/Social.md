@@ -12,8 +12,6 @@ permalink: /social
 > {: .opaque }
 > {: .warning }
 > ⚠️ **Content Warning:** The communities listed here may contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed artwork. Viewer discretion is advised.
-> 
-> ℹ️ The social communities featured here are hosted by members of The Back Room community. We encourage respectful participation and engagement within these communities.
 
 ---
 
