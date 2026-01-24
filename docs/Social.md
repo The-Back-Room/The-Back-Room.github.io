@@ -8,7 +8,7 @@ has_toc: false
 permalink: /social
 ---
 
-> {: .warning }
+{: .warning }
 > {: .opaque }
 > ⚠️ **Content Warning:** The communities listed here may contains NSFW (Not Safe For Work) content featuring suggestive and adult-themed media. Viewer discretion is advised.
 
