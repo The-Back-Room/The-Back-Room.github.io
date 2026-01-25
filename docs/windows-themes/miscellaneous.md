@@ -14,7 +14,7 @@ permalink: /windows-themes/miscellaneous
 
 ---
 
-<img src="/assets/images/social-images/windows-themes/cover-miscellaneous-themes.png" alt="Windows Themes" width="100%" height="auto" />
+<img src="{{ page.social_image }}" width="100%" height="auto" />
 
 ---
 

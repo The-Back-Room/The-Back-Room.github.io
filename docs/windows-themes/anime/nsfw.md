@@ -16,7 +16,7 @@ permalink: /windows-themes/anime/nsfw
 
 ---
 
-<img src="/assets/images/social-images/windows-themes/cover-anime-themes.png" alt="Windowss" width="100%" height="auto" />
+<img src="{{ page.social_image }}" width="100%" height="auto" />
 
 ---
 

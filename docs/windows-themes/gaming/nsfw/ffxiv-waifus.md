@@ -17,7 +17,7 @@ permalink: /windows-themes/gaming/nsfw/ffxiv-waifus
 
 ---
 
-<img src="{{ page.social_image }}" alt="Preview" width="100%" height="auto" />
+<img src="{{ page.social_image }}" width="100%" height="auto" />
 
 ---
 
