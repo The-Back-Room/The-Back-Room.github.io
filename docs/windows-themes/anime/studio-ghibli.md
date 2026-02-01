@@ -26,4 +26,4 @@ permalink: /windows-themes/anime/studio-ghibli
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/studio-ghibli/-/archive/main/studio-ghibli-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a>
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/anime/studio-ghibli" class="text-delta btn btn-secondary btn-sm">Download</a>

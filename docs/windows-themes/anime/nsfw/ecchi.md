@@ -28,4 +28,4 @@ permalink: /windows-themes/anime/nsfw/ecchi
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/ecchi/-/archive/main/ecchi-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/anime/ecchi" class="text-delta btn btn-secondary btn-sm">Download</a> 

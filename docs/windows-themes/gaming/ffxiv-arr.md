@@ -25,4 +25,4 @@ permalink: /windows-themes/gaming/ffxiv-arr
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-arr/-/archive/main/ffxiv-arr-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/gaming/ffxiv-arr" class="text-delta btn btn-secondary btn-sm">Download</a> 

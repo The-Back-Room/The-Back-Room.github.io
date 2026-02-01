@@ -26,4 +26,4 @@ permalink: /windows-themes/horror/it
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/it/-/archive/main/it-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/horror/it" class="text-delta btn btn-secondary btn-sm">Download</a> 

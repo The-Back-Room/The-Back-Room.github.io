@@ -138,4 +138,4 @@ permalink: /windows-themes/anime/bleach
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach/-/archive/main/bleach-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a>
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/anime/bleach" class="text-delta btn btn-secondary btn-sm">Download</a>

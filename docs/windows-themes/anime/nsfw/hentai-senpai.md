@@ -29,4 +29,4 @@ permalink: /windows-themes/anime/nsfw/hentai-senpai
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/hentai-senpai/-/archive/main/hentai-senpai-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/anime/hentai-senpai" class="text-delta btn btn-secondary btn-sm">Download</a> 

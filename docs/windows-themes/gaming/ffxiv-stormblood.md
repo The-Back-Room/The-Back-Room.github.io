@@ -25,4 +25,4 @@ permalink: /windows-themes/gaming/ffxiv-stormblood
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-stormblood/-/archive/main/ffxiv-stormblood-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/gaming/ffxiv-stormblood" class="text-delta btn btn-secondary btn-sm">Download</a> 

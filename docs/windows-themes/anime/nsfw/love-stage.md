@@ -29,4 +29,4 @@ permalink: /windows-themes/anime/nsfw/love-stage
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/love-stage/-/archive/main/love-stage-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/anime/love-stage" class="text-delta btn btn-secondary btn-sm">Download</a> 

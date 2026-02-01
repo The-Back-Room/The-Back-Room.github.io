@@ -25,4 +25,4 @@ permalink: /windows-themes/gaming/ffxiv-shadowbringers
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/ffxiv-shadowbringers/-/archive/main/ffxiv-shadowbringers-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/gaming/ffxiv-shadowbringers" class="text-delta btn btn-secondary btn-sm">Download</a> 

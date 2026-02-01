@@ -29,4 +29,4 @@ permalink: /windows-themes/anime/nsfw/bleach-ecchi
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/bleach-ecchi/-/archive/main/bleach-ecchi-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/anime/bleach-ecchi" class="text-delta btn btn-secondary btn-sm">Download</a> 

@@ -26,4 +26,4 @@ permalink: /windows-themes/anime/bleach-tybw
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/bleach-thousand-year-blood-war/-/archive/main/bleach-thousand-year-blood-war-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a>
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/anime/bleach-thousand-year-blood-war" class="text-delta btn btn-secondary btn-sm">Download</a>

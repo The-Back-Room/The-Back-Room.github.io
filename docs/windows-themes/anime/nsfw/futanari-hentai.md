@@ -28,4 +28,4 @@ permalink: /windows-themes/anime/nsfw/futanari-hentai
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/futanari-hentai/-/archive/main/futanari-hentai-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/anime/futanari-hentai" class="text-delta btn btn-secondary btn-sm">Download</a> 

@@ -26,4 +26,4 @@ permalink: /windows-themes/anime/naruto
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/naruto/-/archive/main/naruto-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/anime/naruto" class="text-delta btn btn-secondary btn-sm">Download</a> 

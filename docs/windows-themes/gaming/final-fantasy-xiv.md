@@ -25,4 +25,4 @@ permalink: /windows-themes/gaming/ffxiv
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/final-fantasy-xiv/-/archive/main/final-fantasy-xiv-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/sfw/gaming/final-fantasy-xiv" class="text-delta btn btn-secondary btn-sm">Download</a> 

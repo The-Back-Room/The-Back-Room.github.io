@@ -28,4 +28,4 @@ permalink: /windows-themes/anime/nsfw/lewd-gamer-waifus
 
 ---
 
-<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/lewd-gamer-waifus/-/archive/main/lewd-gamer-waifus-main.zip" class="text-delta btn btn-secondary btn-sm">Download</a> 
+<a href="https://gitlab.com/the-back-room/deskthemepacks/nsfw/anime/lewd-gamer-waifus" class="text-delta btn btn-secondary btn-sm">Download</a> 
