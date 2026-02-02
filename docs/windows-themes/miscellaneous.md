@@ -40,4 +40,13 @@ MacOS Abstract Themes for Windows
 MacOS Themes for Windows
 </div>
 </div>
+
+<div class="gallery-item">
+<a href="/windows-themes/miscellaneous/windows-glass">
+<img src="https://github.com/The-Back-Room/Improved-Windows-Glass-Theme/raw/main/Preview-1.png" alt="MacOS" />
+</a>
+<div class="description text-delta">
+Windows Glass
+</div>
+</div>
 </div>
