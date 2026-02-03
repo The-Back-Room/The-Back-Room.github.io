@@ -12,9 +12,12 @@ permalink: /windows-themes/miscellaneous/windows-glass
 
 ---
 
-{: .important }
+{: .note }
 > {: .opaque }
-> ℹ️ This theme uses Windhawk to customize various UI elements in Windows 11. It IS not compatibel with other versions of Windows or other operating systems. Instructions for installing and setting up this theme are provided on the Download page.
+> {: .important }
+> ℹ️ This theme uses Windhawk to customize various UI elements in Windows 11. It IS not compatible with other versions of Windows or other operating systems.
+>
+> Instructions for installing and setting up this theme are provided on the Download page.
 
 <h3 align="center">Features</h3>
 
