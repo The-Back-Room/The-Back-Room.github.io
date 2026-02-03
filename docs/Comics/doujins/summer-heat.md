@@ -101,12 +101,3 @@ Kodachi gets thoroughly fucked by Ranma during the summer heatwave.<br /><br />
 <b>Tags</b>: <code>Sweating</code> <code>Vaginal Penetration</code> <code>Blowjob</code> <code>Male on Female</code> <code>Creampie</code> <code>Throatpie</code> <code>Internal Cumshot</code> <code>Ahegao</code> <code>Impregnation</code> <code>Fucked Silly</code> <code>Cleaning Blowjob</code>
 </div>
 </div>
-
-<div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%208/Chapter%208%20Page%2001.webp" alt="Nodoka Saotome" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Chapter 8: Nodoka Saotome</h3>
-Nodoka enjoys an intense orgy during the summer heatwave. <br /><i>(Currently incomplete. Only has the first 3 pages.)</i><br /><br />
-<b>Tags</b>: <code>Sweating</code> <code>Milf</code> <code>Mature</code> <code>Large Breasts</code> <code>Orgy</code> <code>Group Sex</code> <code>Deepthroat</code> <code>Vaginal Penetration</code> <code>Internal Cumshot</code>
-</div>
-</div>
