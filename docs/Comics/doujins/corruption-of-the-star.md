@@ -76,7 +76,7 @@ Alphinaud Leveilleur gets thoroughly dominated by his master.<br />
 ---
 
 ## Disclaimer
-This is a fan-made work and is not officially affiliated with or endorsed by the original creators of Ranma 1/2. All characters and settings belong to their respective owners. This doujin is created for entertainment purposes only. It is made with the following AI image generation services:
+This is a fan-made work and is not officially affiliated with or endorsed by Square Enix. All characters and settings belong to their respective owners. This doujin is created for entertainment purposes only. It is made with the following AI image generation services:
 
 - [BetterWaifu](https://betterwaifu.com): Free ultra-high quality AI anime & hentai generation with advanced prompt recognition and top-tier AI models.
 - [Sinkin.AI](https://sinkin.ai): Comprehensive AI-driven platform designed to host and manage custom Stable Diffusion models on advanced GPUs.
