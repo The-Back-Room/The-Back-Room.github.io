@@ -73,6 +73,15 @@ Alphinaud Leveilleur gets thoroughly dominated by his master.<br />
 </div>
 </div>
 
+<div class="card">
+<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Star/Chapter%204%20-%20Minfilia%20Warde/000.webp" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 4: Minfilia Warde</h3>
+Minfilia gets fucked hard and deep by a massive cock.<br />
+<b>Tags</b>: <code>Male of Female</code> <code>Deepthroat</code> <code>Vaginal Penetration</code> <code>Creampie</code> <code>Domination</code> <code>Outdoors</code>
+</div>
+</div>
+
 ---
 
 ## Disclaimer
