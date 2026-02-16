@@ -18,7 +18,7 @@ permalink: /comics/doujins/corruption-of-the-star
 ---
 
 <div align="center">
-<img src="/assets/images/preview-images/doujins/FFXIV Corruption of the Star.png" alt="Cover Image" width="400" height="auto" />
+<img src="{{ page.social_image }}" width="400" height="auto" />
 </div>
 
 ---
