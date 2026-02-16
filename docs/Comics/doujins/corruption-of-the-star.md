@@ -25,7 +25,7 @@ permalink: /comics/doujins/corruption-of-the-star
 
 ## Notes
 - This doujin doesn't follow any specific order. Instead it contains a seperate story for each character. Each chapter can more or less be read in whichever order the reader desires.
-- This doujin takes place in a seperate timeline after the Scions have completed their adventures. <details>Minfilia and Moenbryda are both still alive in this timeline.</details>
+- This doujin takes place in a seperate timeline after the Scions have completed their adventures.
 
 ---
 
@@ -51,8 +51,7 @@ Several years have gone by, and the Scions have long since completed their adven
 <div class="description body">
 <h3 class="text-gamma">Chapter 1: Alisaie Leveilleur</h3>
 Alisaie Leveilleur gets fucked deep and hard in the forest.<br />
-<b>Tags</b>: <code>Masturbation</code> <code>Blowjob</code> <code>Vaginal Sex</code> <code>Seduction</code> <code>Male of Female</code> <code>Creampie</code> <code>Balls Deep</code> <code>Outdoors</code> <br />
-<b>Status</b>: <code>Complete</code>
+<b>Tags</b>: <code>Masturbation</code> <code>Blowjob</code> <code>Vaginal Sex</code> <code>Seduction</code> <code>Male of Female</code> <code>Creampie</code> <code>Balls Deep</code> <code>Outdoors</code>
 </div>
 </div>
 
@@ -61,8 +60,7 @@ Alisaie Leveilleur gets fucked deep and hard in the forest.<br />
 <div class="description body">
 <h3 class="text-gamma">Chapter 2: Y'shtola Rhul</h3>
 Y'shtola Rhul enjoys a sensual encounter before bed.<br />
-<b>Tags</b>: <code>Seduction</code> <code>Masturbation</code> <code>Vaginal Sex</code> <code>Creampie</code> <code>Internal Cumshot</code> <code>Ahegao</code><br />
-<b>Status</b>: <code>In Proegress</code>
+<b>Tags</b>: <code>Seduction</code> <code>Masturbation</code> <code>Vaginal Sex</code> <code>Creampie</code> <code>Internal Cumshot</code> <code>Ahegao</code>
 </div>
 </div>
 
@@ -71,8 +69,7 @@ Y'shtola Rhul enjoys a sensual encounter before bed.<br />
 <div class="description body">
 <h3 class="text-gamma">Chapter 3: Alphinaud Leveilleur</h3>
 Alphinaud Leveilleur gets thoroughly dominated by his master.<br />
-<b>Tags</b>: <code>Femboy</code> <code>Collar</code> <code>Blowjob</code> <code>Male on Male</code> <code>Anal Sex</code> <code>Yaoi</code> <code>Anal Creampie</code> <code>Oral Creampie</code><br />
-<b>Status</b>: <code>Complete</code>
+<b>Tags</b>: <code>Femboy</code> <code>Collar</code> <code>Blowjob</code> <code>Male on Male</code> <code>Anal Sex</code> <code>Yaoi</code> <code>Anal Creampie</code> <code>Oral Creampie</code>
 </div>
 </div>
 
