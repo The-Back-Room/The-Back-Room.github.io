@@ -17,9 +17,7 @@ permalink: /comics/doujins/corruption-of-the-star
 
 ---
 
-<div align="center">
-<img src="{{ page.social_image }}" width="400" height="auto" />
-</div>
+<img src="{{ page.social_image }}" width="100%" height="auto">
 
 ---
 
