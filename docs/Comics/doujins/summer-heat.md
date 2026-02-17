@@ -38,3 +38,17 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.  T
 <div align="center">
 <a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/" class="text-delta btn btn-secondary btn-md">Download</a>
 </div>
+
+---
+
+## Disclaimer
+This is a fan-made work and is not officially affiliated with or endorsed by the creators and/or owners of Ranma 1/2. All characters and settings belong to their respective owners. This doujin is created for entertainment purposes only. It is made with the following AI image generation services:
+
+- [BetterWaifu](https://betterwaifu.com): Free ultra-high quality AI anime & hentai generation with advanced prompt recognition and top-tier AI models.
+- [Sinkin.AI](https://sinkin.ai): Comprehensive AI-driven platform designed to host and manage custom Stable Diffusion models on advanced GPUs.
+
+## License
+This doujin is distributed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. You are free to share it, but you must give appropriate credit, may not use it for commercial purposes, and may not distribute modified versions of the work.
+
+For more information, visit [Creative Commons](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
