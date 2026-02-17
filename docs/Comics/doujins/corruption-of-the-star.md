@@ -44,7 +44,7 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.  T
 Several years have gone by, and the Scions have long since completed their adventures with the Warrior of Light. However, it would appear their over exposure to extreme aether during their adventures had an unexpected *effect* on them. This doujin explores a timeline in which the Scions have become corrupted by their exposure to extreme aether and the *desires* they have succumbed to in their corruption.
 
 <div align="center">
-<a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star/-/archive/main/corruption-of-the-star-main.zip" class="text-delta btn btn-secondary btn-md">Download</a>
+<a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/final-fantasy-xiv/corruption-of-the-star" class="text-delta btn btn-secondary btn-md">Download</a>
 </div>
 
 ---
