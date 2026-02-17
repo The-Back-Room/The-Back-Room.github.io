@@ -82,6 +82,14 @@ Minfilia gets fucked hard and deep by a massive cock.<br />
 </div>
 </div>
 
+star/-/raw/main/src/FFXIV%20Corruption%20of%20the%20Star/Chapter%205%20-%20Lyse%20Hext/000.webp" alt="Cover Image" width="100" height="auto" />
+<div class="description body">
+<h3 class="text-gamma">Chapter 5: Lyse Hext</h3>
+Lyse enjoys being throroughly dominated by multiple men.<br />
+<b>Tags</b>: <code>Male of Female</code> <code>Deepthroat</code> <code>Vaginal Penetration</code> <code>Gangbang</code> <code>Domination</code> <code>Group Sex</code>
+</div>
+</div>
+
 ---
 
 ## Disclaimer
