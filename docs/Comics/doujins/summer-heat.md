@@ -1,7 +1,7 @@
 ---
 title: Summer Heat
 tags: [NSFW, Comics, Doujinshi, Ranma ½]
-social_image: /assets/images/preview-images/doujins/Ranma 1-2 Summer Heat Cover.gif?raw=true
+social_image: https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/cover.gif
 summary: >
   Fan-made doujin inspired by Ranma ½
 nav_exclude: true
@@ -18,7 +18,7 @@ permalink: /comics/doujins/summer-heat
 
 ---
 
-<img src="/assets/images/preview-images/doujins/Ranma 1-2 Summer Heat Cover.gif?raw=true" width="100%" height="auto">
+<img src="{{ page.social_image }}" width="100%" height="auto">
 
 ---
 
@@ -35,69 +35,6 @@ To read on PC or Laptop, simply open the doujin in a compatible image viewer.  T
 
 **Ranma 1/2 - Summer Heat** explores the adventures of Ranma Saotome and his friends during a summer heatwave. The doujin focuses on a different character in each chapter, delving into multiple fetishes.
 
-<a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/archive/main/summer-heat-main.zip?ref_type=heads" class="text-delta btn btn-secondary btn-md">Download</a>
-
----
-
-<div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%201/Chapter%201%20Page%20%2001.webp" alt="Ranma Saotome" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Chapter 1: Ranma Saotome</h3>
-Ranma tries to find relief from the summer heat and has a steamy encounter.<br /><br />
-<b>Tags</b>: <code>Masturbation</code> <code>Gender Bender</code> <code>Vaginal Sex</code> <code>Kissing</code> <code>Sweating</code> 
-</div>
-</div>
-
-<div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%202/Chapter%202%20Page%2001.webp" alt="Akane Tendo" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Chapter 2: Akane Tendo</h3>
-Akane navigates her feelings for Ranma while dealing with the oppressive heat.<br /><br />
-<b>Tags</b>: <code>Masturbation</code> <code>Dildo</code> <code>Vaginal Sex</code> <code>Kissing</code> <code>Sweating</code> <code>Creampie</code> 
-</div>
-</div>
-
-<div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%203/Chapter%203%20Page%2001.webp" alt="Nabiki Tendo" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Chapter 3: Nabiki Tendo</h3>
-Nabiki takes advantage of the summer heat and has a passionate encounter with Ryoga.<br /><br />
-<b>Tags</b>: <code>Masturbation</code> <code>Vaginal Sex</code> <code>Sweating</code> <code>Creampie</code> <code>Kissing</code>
-</div>
-</div>
-
-<div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%204/Chapter%204%20Page%2001.webp" alt="Kasumi Tendo" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Chapter 4: Kasumi Tendo</h3>
-Kasumi enjoys some alone time in the bath while dealing with the summer heat.<br /><br />
-<b>Tags</b>: <code>Masturbation</code> <code>Solo</code> <code>Sweating</code> <code>Full-Package Futanari</code> <code>Milf</code> <code>Large Breasts</code> <code>Large Penis</code> 
-</div>
-</div>
-
-<div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%205/Chapter%205%20Page%2001.webp" alt="Ukyo Kuonji" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Chapter 5: Ukyo Kuonji</h3>
-Ukyo finds a unique way to cool down during the heatwave.<br /><br />
-<b>Tags</b>: <code>Masturbation</code> <code>Solo</code> <code>Sweating</code> <code>Squirting</code> 
-</div>
-</div>
-
-<div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%206/Chapter%206%20Page%2001.webp" alt="Shampoo" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Chapter 6: Shampoo</h3>
-Shampoo enjoys a passionate moment with Ranma during the summer heatwave.<br /><br />
-<b>Tags</b>: <code>Sweating</code> <code>Vaginal Penetration</code> <code>Blowjob</code> <code>Male on Female</code> <code>Creampie</code> <code>Throatpie</code> <code>Internal Cumshot</code> <code>Ahegao</code> <code>Impregnation</code>
-</div>
-</div>
-
-<div class="card">
-<img src="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/-/raw/main/src/Ranma%201-2%20Summer%20Heat/Chapter%207/Chapter%207%20Page%2001.webp" alt="Kodachi Kuno" width="100" height="auto" />
-<div class="description body">
-<h3 class="text-gamma">Chapter 7: Kodachi Kuno</h3>
-Kodachi gets thoroughly fucked by Ranma during the summer heatwave.<br /><br />
-<b>Tags</b>: <code>Sweating</code> <code>Vaginal Penetration</code> <code>Blowjob</code> <code>Male on Female</code> <code>Creampie</code> <code>Throatpie</code> <code>Internal Cumshot</code> <code>Ahegao</code> <code>Impregnation</code> <code>Fucked Silly</code> <code>Cleaning Blowjob</code>
-</div>
+<div align="center">
+<a href="https://gitlab.com/the-back-room/comics/nsfw/parodies/ranma-1-2/summer-heat/" class="text-delta btn btn-secondary btn-md">Download</a>
 </div>
